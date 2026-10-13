@@ -1,2 +1,11 @@
 time_utc,ip,port,kind,client_data
 2026-10-13T07:54:48Z,45.33.50.110,2222,no-data,
+2026-10-13T08:04:09Z,161.35.47.100,3389,rdp-request,B= Cookie: mstshash=CGrab/v8.24.1-dev-throughput
+2026-10-13T08:05:20Z,81.225.48.249,23,telnet-negotiation,
+2026-10-13T08:09:08Z,5.226.140.14,3389,rdp-request,
+2026-10-13T08:09:17Z,77.67.26.133,3389,rdp-request,50 Cookie: mstshash=administrator
+2026-10-13T08:09:18Z,77.67.26.142,3389,rdp-request,
+2026-10-13T08:09:18Z,77.67.26.179,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (compatible; Infrawatch/
+2026-10-13T08:09:19Z,86.38.187.168,3389,tls-handshake,"( M +1^ =P = E g  TF ; 2G aY 2 | y` U E T? F + / , 0 / 5 ' #"
+2026-10-13T08:09:20Z,200.138.46.248,3389,tls-handshake,"'= , | W f K ! r @8  ) 8 30 / XGH % 5 F + / , 0 / 5 ' #"
+2026-10-13T08:09:20Z,64.205.72.135,3389,tls-handshake,"# %& B - '3 ' L  o v{} pD <jX! F + / , 0 / 5 ' #"
