@@ -88,3 +88,9 @@ time_utc,ip,port,kind,client_data
 2026-10-13T11:25:38Z,61.76.97.173,23,telnet-negotiation,
 2026-10-13T11:27:28Z,78.128.112.74,23,no-data,
 2026-10-13T11:27:28Z,78.128.112.74,2222,no-data,
+2026-10-13T11:35:46Z,81.225.48.249,23,telnet-negotiation,
+2026-10-13T11:38:20Z,34.14.85.26,23,no-data,
+2026-10-13T11:38:20Z,34.14.85.26,23,telnet-negotiation,%   NTLMSSP
+2026-10-13T11:38:20Z,34.14.85.26,23,telnet-negotiation,& &
+2026-10-13T11:38:22Z,34.52.193.72,23,no-data,
+2026-10-13T11:40:43Z,113.254.77.18,23,telnet-negotiation,
