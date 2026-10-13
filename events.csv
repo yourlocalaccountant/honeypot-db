@@ -180,3 +180,7 @@ time_utc,ip,port,kind,client_data
 2026-10-13T14:05:59Z,81.225.48.249,23,telnet-negotiation,
 2026-10-13T14:07:42Z,45.90.81.2,23,telnet-negotiation,
 2026-10-13T14:12:16Z,85.217.149.6,3389,tls-handshake,"s[q![v =Q1B t& k/  . ,8.  ( Z( fR ""J _ < P : & / 0 + , / 5 {"
+2026-10-13T14:20:58Z,81.225.48.249,23,telnet-negotiation,
+2026-10-13T14:22:37Z,179.9.155.90,23,telnet-negotiation,
+2026-10-13T14:23:03Z,45.143.29.238,23,no-data,
+2026-10-13T14:24:10Z,45.143.29.238,23,no-data,
