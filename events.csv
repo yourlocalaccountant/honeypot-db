@@ -40,3 +40,4 @@ time_utc,ip,port,kind,client_data
 2026-10-13T10:10:49Z,31.40.204.121,23,telnet-negotiation,
 2026-10-13T10:10:54Z,177.250.59.3,23,no-data,
 2026-10-13T10:11:55Z,75.119.156.74,2222,ssh-client,SSH-2.0-libssh2_1.11.1
+2026-10-13T10:20:40Z,81.225.48.249,23,telnet-negotiation,
