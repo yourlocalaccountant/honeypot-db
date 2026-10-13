@@ -154,3 +154,5 @@ time_utc,ip,port,kind,client_data
 2026-10-13T12:50:54Z,153.117.41.193,23,telnet-negotiation,
 2026-10-13T12:51:07Z,153.117.41.193,23,telnet-negotiation,
 2026-10-13T12:52:34Z,85.74.218.24,23,telnet-negotiation,
+2026-10-13T13:05:51Z,81.225.48.249,23,telnet-negotiation,
+2026-10-13T13:09:00Z,85.217.149.3,3389,tls-handshake,"q d K: MXC s f7 tf, , &  P . X@ 9} p X ? ^o /& & / 0 + , / 5 {"
