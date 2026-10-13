@@ -130,3 +130,4 @@ time_utc,ip,port,kind,client_data
 2026-10-13T12:10:05Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
 2026-10-13T12:14:33Z,151.237.28.235,23,telnet-negotiation,
 2026-10-13T12:20:51Z,81.225.48.249,23,telnet-negotiation,
+2026-10-13T12:33:47Z,180.94.155.108,23,telnet-negotiation,
