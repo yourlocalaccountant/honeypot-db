@@ -9,3 +9,4 @@ time_utc,ip,port,kind,client_data
 2026-10-13T08:09:19Z,86.38.187.168,3389,tls-handshake,"( M +1^ =P = E g  TF ; 2G aY 2 | y` U E T? F + / , 0 / 5 ' #"
 2026-10-13T08:09:20Z,200.138.46.248,3389,tls-handshake,"'= , | W f K ! r @8  ) 8 30 / XGH % 5 F + / , 0 / 5 ' #"
 2026-10-13T08:09:20Z,64.205.72.135,3389,tls-handshake,"# %& B - '3 ' L  o v{} pD <jX! F + / , 0 / 5 ' #"
+2026-10-13T08:20:30Z,81.225.48.249,23,telnet-negotiation,
