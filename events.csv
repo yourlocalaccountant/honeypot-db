@@ -845,3 +845,9 @@ time_utc,ip,port,kind,client_data
 2026-10-13T19:56:23Z,91.231.89.146,2222,ssh-client,SSH-2.0-perlssh
 2026-10-13T19:57:05Z,85.217.149.9,3389,ssh-client,SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.14
 2026-10-13T19:59:24Z,91.231.89.97,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T20:01:20Z,91.196.152.104,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T20:02:35Z,218.154.78.93,23,telnet-negotiation,
+2026-10-13T20:03:00Z,198.235.24.208,2323,no-data,
+2026-10-13T20:04:21Z,91.196.152.21,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T20:07:15Z,91.196.152.15,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T20:09:29Z,91.231.89.246,2222,ssh-client,SSH-2.0-perlssh
