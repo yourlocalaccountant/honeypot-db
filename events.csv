@@ -170,3 +170,10 @@ time_utc,ip,port,kind,client_data
 2026-10-13T13:50:56Z,81.225.48.249,23,telnet-negotiation,
 2026-10-13T13:52:03Z,85.74.218.24,23,telnet-negotiation,
 2026-10-13T13:52:43Z,45.90.81.2,23,telnet-negotiation,
+2026-10-13T13:56:51Z,116.202.118.42,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-13T13:57:06Z,116.202.118.42,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-13T13:59:17Z,193.163.187.213,23,telnet-negotiation,
+2026-10-13T13:59:38Z,116.202.118.42,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-13T13:59:53Z,116.202.118.42,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-13T14:02:27Z,116.202.118.42,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-13T14:02:41Z,116.202.118.42,3389,rdp-request,'+& Cookie: mstshash=hello
