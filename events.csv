@@ -1185,3 +1185,10 @@ time_utc,ip,port,kind,client_data
 2026-10-13T23:28:14Z,85.217.149.4,2222,tls-handshake,"D5 y > 2 ) Ue qP R 1 t< ;   A0 q u ~ } L & / 0 + , / 5 {"
 2026-10-13T23:29:16Z,91.196.152.195,2222,ssh-client,SSH-2.0-perlssh
 2026-10-13T23:30:01Z,20.83.60.59,23,telnet-negotiation,
+2026-10-13T23:32:22Z,91.157.246.188,23,telnet-negotiation,
+2026-10-13T23:32:23Z,91.196.152.142,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T23:32:49Z,31.170.143.21,23,telnet-negotiation,
+2026-10-13T23:34:16Z,91.231.89.235,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T23:36:27Z,209.61.7.231,23,telnet-negotiation,
+2026-10-13T23:37:16Z,91.196.152.219,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T23:39:20Z,91.231.89.158,2222,ssh-client,SSH-2.0-perlssh
