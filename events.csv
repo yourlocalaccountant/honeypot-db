@@ -219,3 +219,8 @@ time_utc,ip,port,kind,client_data
 2026-10-13T14:52:24Z,91.231.89.1,2222,ssh-client,SSH-2.0-perlssh
 2026-10-13T14:52:51Z,20.127.210.178,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 zgrab/0.x Accept: */* Ac
 2026-10-13T14:54:22Z,91.231.89.34,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T14:57:18Z,91.231.89.3,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T14:59:16Z,91.231.89.113,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T15:02:32Z,91.196.152.80,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T15:05:25Z,91.196.152.65,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T15:06:07Z,81.225.48.249,23,telnet-negotiation,
