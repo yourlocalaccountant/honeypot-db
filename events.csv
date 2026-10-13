@@ -851,3 +851,8 @@ time_utc,ip,port,kind,client_data
 2026-10-13T20:04:21Z,91.196.152.21,2222,ssh-client,SSH-2.0-perlssh
 2026-10-13T20:07:15Z,91.196.152.15,2222,ssh-client,SSH-2.0-perlssh
 2026-10-13T20:09:29Z,91.231.89.246,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T20:12:29Z,91.196.152.231,2222,no-data,
+2026-10-13T20:12:36Z,61.76.97.173,2323,no-data,
+2026-10-13T20:14:23Z,91.231.89.150,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T20:17:20Z,91.231.89.138,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T20:20:35Z,91.196.152.58,2222,ssh-client,SSH-2.0-perlssh
