@@ -11,3 +11,6 @@ time_utc,ip,port,kind,client_data
 2026-10-13T08:09:20Z,64.205.72.135,3389,tls-handshake,"# %& B - '3 ' L  o v{} pD <jX! F + / , 0 / 5 ' #"
 2026-10-13T08:20:30Z,81.225.48.249,23,telnet-negotiation,
 2026-10-13T08:25:32Z,8.148.226.5,2222,ssh-client,SSH-2.0-libssh2_1.11.1
+2026-10-13T08:35:22Z,81.225.48.249,23,telnet-negotiation,
+2026-10-13T08:35:37Z,59.21.181.38,23,telnet-negotiation,
+2026-10-13T08:38:59Z,134.209.147.61,2222,no-data,
