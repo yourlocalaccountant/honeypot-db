@@ -33,3 +33,6 @@ time_utc,ip,port,kind,client_data
 2026-10-13T09:46:38Z,3.129.187.38,3389,rdp-request,'+& Cookie: mstshash=zgrab
 2026-10-13T09:50:38Z,81.225.48.249,23,telnet-negotiation,
 2026-10-13T09:52:11Z,85.74.218.24,23,telnet-negotiation,
+2026-10-13T09:57:57Z,112.103.207.238,23,telnet-negotiation,
+2026-10-13T10:05:40Z,81.225.48.249,23,telnet-negotiation,
+2026-10-13T10:05:56Z,107.150.123.48,23,telnet-negotiation,admin
