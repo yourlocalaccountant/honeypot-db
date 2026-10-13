@@ -26,3 +26,8 @@ time_utc,ip,port,kind,client_data
 2026-10-13T09:20:35Z,81.225.48.249,23,telnet-negotiation,
 2026-10-13T09:22:26Z,218.152.243.192,23,telnet-negotiation,
 2026-10-13T09:35:39Z,81.225.48.249,23,telnet-negotiation,
+2026-10-13T09:44:58Z,3.129.187.38,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: visionheight.com/scan Mozilla/5.0 (M
+2026-10-13T09:44:58Z,3.129.187.38,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: visionheight.com/scan Mozilla/5.0 (M
+2026-10-13T09:46:01Z,3.129.187.38,3389,tls-handshake,"9^xz| ` { q0@ >cbo =W  Ah >u>Q| Z - i `1 & / 0 + , / 5"
+2026-10-13T09:46:37Z,3.129.187.38,3389,tls-handshake,"l bY #i 2 _ s AN~   i b 2 f Io gNt V H & / 0 + , / 5 {"
+2026-10-13T09:46:38Z,3.129.187.38,3389,rdp-request,'+& Cookie: mstshash=zgrab
