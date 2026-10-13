@@ -360,3 +360,11 @@ time_utc,ip,port,kind,client_data
 2026-10-13T17:26:19Z,91.231.89.65,2222,ssh-client,SSH-2.0-perlssh
 2026-10-13T17:29:20Z,91.196.152.51,2222,no-data,
 2026-10-13T17:31:21Z,91.196.152.221,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T17:34:22Z,91.231.89.215,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T17:36:12Z,81.225.48.249,23,telnet-negotiation,
+2026-10-13T17:37:20Z,91.231.89.78,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T17:40:24Z,91.196.152.108,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T17:41:05Z,59.29.146.19,23,telnet-negotiation,
+2026-10-13T17:41:56Z,85.217.149.10,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (X11; Linux x86_64) Appl
+2026-10-13T17:41:56Z,85.217.149.10,3389,other,00000000
+2026-10-13T17:43:26Z,91.196.152.77,2222,no-data,
