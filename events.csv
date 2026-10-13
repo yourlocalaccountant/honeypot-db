@@ -257,3 +257,19 @@ time_utc,ip,port,kind,client_data
 2026-10-13T15:55:28Z,91.196.152.226,2222,ssh-client,SSH-2.0-perlssh
 2026-10-13T15:57:06Z,220.93.200.5,23,telnet-negotiation,
 2026-10-13T15:58:21Z,91.196.152.95,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T16:01:16Z,91.231.89.78,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T16:01:34Z,172.202.106.96,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 zgrab/0.x Accept: */* Ac
+2026-10-13T16:02:11Z,121.184.202.203,23,telnet-negotiation,
+2026-10-13T16:04:28Z,91.196.152.59,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T16:04:31Z,27.44.144.140,23,telnet-negotiation,
+2026-10-13T16:04:31Z,27.44.144.140,23,telnet-negotiation,
+2026-10-13T16:04:44Z,27.44.144.140,23,telnet-negotiation,
+2026-10-13T16:04:45Z,27.44.144.140,23,telnet-negotiation,
+2026-10-13T16:05:01Z,27.44.144.140,23,telnet-negotiation,
+2026-10-13T16:05:02Z,27.44.144.140,23,telnet-negotiation,
+2026-10-13T16:05:15Z,27.44.144.140,23,telnet-negotiation,
+2026-10-13T16:05:28Z,27.44.144.140,23,telnet-negotiation,
+2026-10-13T16:06:15Z,81.225.48.249,23,telnet-negotiation,
+2026-10-13T16:07:14Z,190.196.253.60,23,telnet-negotiation,
+2026-10-13T16:07:23Z,91.231.89.139,2222,ssh-client,SSH-2.0-perlssh
+2026-10-13T16:07:34Z,190.196.253.60,23,telnet-negotiation,
