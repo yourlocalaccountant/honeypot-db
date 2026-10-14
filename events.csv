@@ -1541,3 +1541,10 @@ time_utc,ip,port,kind,client_data
 2026-10-14T03:43:18Z,91.196.152.234,2222,ssh-client,SSH-2.0-perlssh
 2026-10-14T03:45:18Z,91.196.152.94,2222,ssh-client,SSH-2.0-perlssh
 2026-10-14T03:48:29Z,91.196.152.53,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T03:51:24Z,91.231.89.20,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T03:53:12Z,85.74.218.24,23,telnet-negotiation,
+2026-10-14T03:54:28Z,91.231.89.99,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T03:55:09Z,187.85.207.106,23,no-data,
+2026-10-14T03:55:56Z,187.85.207.106,23,no-data,
+2026-10-14T03:57:27Z,91.231.89.139,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T03:59:33Z,91.231.89.243,2222,ssh-client,SSH-2.0-perlssh
