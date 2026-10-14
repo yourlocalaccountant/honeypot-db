@@ -2370,3 +2370,9 @@ time_utc,ip,port,kind,client_data
 2026-10-14T20:21:15Z,91.231.89.8,2222,ssh-client,SSH-2.0-perlssh
 2026-10-14T20:23:24Z,91.196.152.173,2222,ssh-client,SSH-2.0-perlssh
 2026-10-14T20:25:16Z,91.196.152.15,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T20:28:24Z,91.231.89.17,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T20:30:26Z,91.231.89.242,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T20:31:55Z,178.219.178.226,23,no-data,
+2026-10-14T20:33:18Z,91.231.89.47,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T20:36:07Z,178.219.178.226,23,no-data,
+2026-10-14T20:36:24Z,91.196.152.176,2222,ssh-client,SSH-2.0-perlssh
