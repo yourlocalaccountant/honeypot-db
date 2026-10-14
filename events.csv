@@ -2513,3 +2513,9 @@ time_utc,ip,port,kind,client_data
 2026-10-14T22:59:17Z,91.196.152.14,2222,ssh-client,SSH-2.0-perlssh
 2026-10-14T23:02:20Z,91.196.152.178,2222,ssh-client,SSH-2.0-perlssh
 2026-10-14T23:04:25Z,91.196.152.229,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T23:07:20Z,91.196.152.207,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T23:09:32Z,91.196.152.180,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T23:12:18Z,91.196.152.5,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T23:12:46Z,94.231.206.32,2222,tls-handshake,"c _ | < <YB aa c& +2 a  ? I1 % :, a > `, 3 g 9 k E #"
+2026-10-14T23:12:49Z,94.231.206.106,2222,no-data,
+2026-10-14T23:14:20Z,91.196.152.61,2222,ssh-client,SSH-2.0-perlssh
