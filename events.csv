@@ -2274,3 +2274,9 @@ time_utc,ip,port,kind,client_data
 2026-10-14T17:14:15Z,91.196.152.99,2222,ssh-client,SSH-2.0-perlssh
 2026-10-14T17:16:28Z,91.231.89.124,2222,ssh-client,SSH-2.0-perlssh
 2026-10-14T17:16:51Z,27.18.80.105,23,telnet-negotiation,
+2026-10-14T17:19:25Z,91.196.152.67,2222,no-data,
+2026-10-14T17:20:14Z,16.5.0.224,2222,other,' admin ? k H UoU $ nn b 2/E$ &
+2026-10-14T17:22:17Z,91.196.152.203,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T17:25:24Z,91.231.89.170,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T17:26:59Z,40.76.121.240,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-10-14T17:28:25Z,91.196.152.157,2222,no-data,
