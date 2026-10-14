@@ -1746,3 +1746,8 @@ time_utc,ip,port,kind,client_data
 2026-10-14T06:56:39Z,45.156.87.243,23,other,usr
 2026-10-14T06:56:41Z,45.156.87.243,23,other,vstarcam2015
 2026-10-14T06:58:24Z,91.196.152.80,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T07:01:21Z,91.231.89.40,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T07:04:20Z,91.196.152.169,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T07:05:19Z,184.82.34.117,23,telnet-negotiation,
+2026-10-14T07:07:16Z,91.231.89.58,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T07:09:23Z,91.196.152.179,2222,ssh-client,SSH-2.0-perlssh
