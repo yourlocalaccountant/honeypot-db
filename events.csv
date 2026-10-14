@@ -1289,3 +1289,13 @@ time_utc,ip,port,kind,client_data
 2026-10-14T00:30:20Z,91.196.152.215,2222,ssh-client,SSH-2.0-perlssh
 2026-10-14T00:31:02Z,121.130.11.124,23,telnet-negotiation,
 2026-10-14T00:32:19Z,91.231.89.116,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T00:33:43Z,91.157.246.188,23,telnet-negotiation,
+2026-10-14T00:34:20Z,91.231.89.113,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T00:36:42Z,77.65.34.58,3389,rdp-request,
+2026-10-14T00:37:22Z,91.196.152.25,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T00:38:29Z,121.164.222.120,23,telnet-negotiation,
+2026-10-14T00:40:09Z,85.217.149.13,3389,other,8 7
+2026-10-14T00:40:27Z,91.231.89.99,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T00:41:02Z,85.217.149.17,2222,tls-handshake,"[Y RI R L"" B a O3  (e hpM1Z=E J i E z & /p(c {] & / 0 + , / 5 {"
+2026-10-14T00:41:06Z,203.228.66.208,23,telnet-negotiation,
+2026-10-14T00:43:20Z,91.196.152.186,2222,ssh-client,SSH-2.0-perlssh
