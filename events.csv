@@ -1921,3 +1921,13 @@ time_utc,ip,port,kind,client_data
 2026-10-14T10:45:16Z,91.231.89.237,2222,ssh-client,SSH-2.0-perlssh
 2026-10-14T10:48:19Z,37.193.156.57,23,telnet-negotiation,
 2026-10-14T10:48:30Z,91.231.89.37,2222,no-data,
+2026-10-14T10:51:25Z,91.196.152.181,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T10:52:45Z,3.129.187.38,3389,tls-handshake,"3 bg 6 b k Cf X6d XO   9IO p. q y x W & 'un h - & / 0 + , / 5"
+2026-10-14T10:52:48Z,3.129.187.38,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: visionheight.com/scan Mozilla/5.0 (M
+2026-10-14T10:52:48Z,3.129.187.38,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: visionheight.com/scan Mozilla/5.0 (M
+2026-10-14T10:54:28Z,91.196.152.76,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T10:54:49Z,3.129.187.38,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-10-14T10:55:01Z,3.129.187.38,3389,tls-handshake,"mx*I R & & S' S g   _sYDlz @ ~H ~S >8Vv f & / 0 + , / 5 {"
+2026-10-14T10:56:16Z,85.217.149.17,3389,other,: admin.$cmd isMaster
+2026-10-14T10:56:34Z,91.196.152.146,2222,no-data,
+2026-10-14T10:59:19Z,91.196.152.6,2222,ssh-client,SSH-2.0-perlssh
