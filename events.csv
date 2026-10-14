@@ -1299,3 +1299,11 @@ time_utc,ip,port,kind,client_data
 2026-10-14T00:41:02Z,85.217.149.17,2222,tls-handshake,"[Y RI R L"" B a O3  (e hpM1Z=E J i E z & /p(c {] & / 0 + , / 5 {"
 2026-10-14T00:41:06Z,203.228.66.208,23,telnet-negotiation,
 2026-10-14T00:43:20Z,91.196.152.186,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T00:45:55Z,121.130.11.124,23,telnet-negotiation,
+2026-10-14T00:46:19Z,91.196.152.234,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T00:49:01Z,46.255.35.146,23,telnet-negotiation,
+2026-10-14T00:49:09Z,91.157.246.188,23,telnet-negotiation,
+2026-10-14T00:49:17Z,91.196.152.16,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T00:51:37Z,85.74.218.24,23,telnet-negotiation,
+2026-10-14T00:52:27Z,91.196.152.78,2222,no-data,
+2026-10-14T00:53:11Z,121.164.222.120,23,telnet-negotiation,
