@@ -1678,3 +1678,16 @@ time_utc,ip,port,kind,client_data
 2026-10-14T06:23:20Z,59.91.47.230,23,telnet-negotiation,
 2026-10-14T06:24:20Z,91.196.152.63,2222,ssh-client,SSH-2.0-perlssh
 2026-10-14T06:26:22Z,91.231.89.240,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T06:28:01Z,85.217.149.32,23,telnet-negotiation,
+2026-10-14T06:29:20Z,91.196.152.240,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T06:30:06Z,85.217.149.30,3389,other,*1 $4 PING
+2026-10-14T06:30:47Z,185.180.141.43,23,telnet-negotiation,
+2026-10-14T06:30:48Z,185.180.141.42,23,other,. @ =R j y 8R ^
+2026-10-14T06:30:48Z,185.180.141.42,23,tls-handshake,GX sP8 n E W M >J / + / 5 S & $
+2026-10-14T06:30:48Z,185.180.141.42,23,tls-handshake,q- S 6 ~ F X A g /  B y O b% KpW]vA y 9 } #
+2026-10-14T06:31:12Z,59.180.134.79,23,telnet-negotiation,
+2026-10-14T06:31:17Z,91.231.89.107,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T06:31:54Z,124.234.158.198,23,telnet-negotiation,
+2026-10-14T06:33:20Z,91.231.89.30,2222,ssh-client,SSH-2.0-perlssh
+2026-10-14T06:35:29Z,91.196.152.144,2222,no-data,
+2026-10-14T06:36:36Z,80.94.95.83,3389,rdp-request,/* Cookie: mstshash=Administr
