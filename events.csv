@@ -5477,3 +5477,14 @@ time_utc,ip,port,kind,client_data
 2026-10-15T19:48:07Z,93.158.90.17,3389,tls-handshake,"' , C ! S Z&   E ^ =@ X {M + / , 0"
 2026-10-15T19:48:07Z,93.158.90.37,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Android 14; Mobile; rv:
 2026-10-15T19:52:16Z,79.112.79.82,23,telnet-negotiation,
+2026-10-15T20:06:54Z,79.112.79.82,23,telnet-negotiation,
+2026-10-15T20:15:03Z,139.135.59.180,23,telnet-negotiation,
+2026-10-15T20:15:15Z,139.135.59.180,23,telnet-negotiation,
+2026-10-15T20:15:28Z,139.135.59.180,23,telnet-negotiation,
+2026-10-15T20:15:41Z,139.135.59.180,23,telnet-negotiation,
+2026-10-15T20:15:54Z,139.135.59.180,23,telnet-negotiation,
+2026-10-15T20:16:07Z,139.135.59.180,23,telnet-negotiation,
+2026-10-15T20:16:11Z,181.26.212.196,23,no-data,
+2026-10-15T20:16:20Z,139.135.59.180,23,telnet-negotiation,
+2026-10-15T20:16:33Z,139.135.59.180,23,telnet-negotiation,
+2026-10-15T20:16:46Z,139.135.59.180,23,telnet-negotiation,
