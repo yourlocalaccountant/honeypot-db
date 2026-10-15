@@ -3084,3 +3084,4 @@ time_utc,ip,port,kind,client_data
 2026-10-15T06:48:21Z,152.32.159.79,2222,ssh-client,SSH-1.5-Server
 2026-10-15T06:48:21Z,152.32.159.79,2222,ssh-client,SSH-2.0-OpenSSH_7.4
 2026-10-15T06:50:36Z,79.112.79.82,23,telnet-negotiation,
+2026-10-15T07:03:08Z,92.247.125.147,23,no-data,
