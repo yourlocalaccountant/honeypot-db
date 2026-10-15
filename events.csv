@@ -5528,3 +5528,10 @@ time_utc,ip,port,kind,client_data
 2026-10-15T22:40:32Z,16.5.0.158,2222,other,: 8M2 ! list
 2026-10-15T22:40:57Z,85.217.149.30,2222,other,00000000
 2026-10-15T22:53:20Z,79.112.79.82,23,telnet-negotiation,
+2026-10-15T23:08:35Z,79.112.79.82,23,telnet-negotiation,
+2026-10-15T23:09:25Z,122.97.215.143,23,telnet-negotiation,
+2026-10-15T23:09:37Z,122.97.212.91,23,telnet-negotiation,
+2026-10-15T23:09:50Z,122.97.212.91,23,telnet-negotiation,
+2026-10-15T23:10:03Z,122.97.212.91,23,telnet-negotiation,
+2026-10-15T23:10:16Z,122.97.212.91,23,telnet-negotiation,
+2026-10-15T23:10:29Z,122.97.215.143,23,telnet-negotiation,
