@@ -3308,3 +3308,7 @@ time_utc,ip,port,kind,client_data
 2026-10-15T10:05:22Z,103.244.172.82,23,telnet-negotiation,
 2026-10-15T10:05:35Z,103.244.172.82,23,telnet-negotiation,
 2026-10-15T10:05:48Z,103.244.172.82,23,telnet-negotiation,
+2026-10-15T10:05:57Z,79.112.79.82,23,telnet-negotiation,
+2026-10-15T10:06:01Z,103.244.172.82,23,telnet-negotiation,
+2026-10-15T10:06:14Z,103.244.172.82,23,telnet-negotiation,
+2026-10-15T10:10:00Z,116.14.123.64,2222,other,hi
