@@ -2944,3 +2944,4 @@ time_utc,ip,port,kind,client_data
 2026-10-15T04:18:55Z,91.196.152.42,23,telnet-negotiation,
 2026-10-15T04:18:55Z,91.196.152.64,23,no-data,
 2026-10-15T04:35:12Z,216.165.246.75,23,telnet-negotiation,
+2026-10-15T04:48:18Z,20.83.176.60,2222,ssh-client,SSH-2.0-Go
