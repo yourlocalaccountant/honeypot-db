@@ -5517,3 +5517,5 @@ time_utc,ip,port,kind,client_data
 2026-10-15T21:23:12Z,79.112.79.82,23,telnet-negotiation,
 2026-10-15T21:33:54Z,83.198.17.187,23,telnet-negotiation,
 2026-10-15T21:37:45Z,79.112.79.82,23,telnet-negotiation,
+2026-10-15T21:52:53Z,79.112.79.82,23,telnet-negotiation,
+2026-10-15T21:53:06Z,20.118.203.78,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 zgrab/0.x Accept: */* Ac
