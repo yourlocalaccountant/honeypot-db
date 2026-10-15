@@ -3133,3 +3133,4 @@ time_utc,ip,port,kind,client_data
 2026-10-15T07:21:54Z,185.247.137.152,3389,tls-handshake,"\#>? N [ ! : N   j *a( o 4 h = ?3 ai) < + / , 0 / 5 $ ( # '"
 2026-10-15T07:35:23Z,79.112.79.82,23,telnet-negotiation,
 2026-10-15T07:44:05Z,177.200.165.185,23,no-data,
+2026-10-15T07:50:53Z,79.112.79.82,23,telnet-negotiation,
