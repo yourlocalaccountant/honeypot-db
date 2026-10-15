@@ -3150,3 +3150,5 @@ time_utc,ip,port,kind,client_data
 2026-10-15T08:35:27Z,79.112.79.82,23,telnet-negotiation,
 2026-10-15T08:42:15Z,177.138.23.32,23,telnet-negotiation,
 2026-10-15T08:50:41Z,79.112.79.82,23,telnet-negotiation,
+2026-10-15T09:02:07Z,211.224.129.22,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-15T09:02:37Z,3.129.187.38,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: visionheight.com/scan Mozilla/5.0 (M
