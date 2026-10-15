@@ -2908,3 +2908,6 @@ time_utc,ip,port,kind,client_data
 2026-10-15T03:35:14Z,94.231.206.105,2222,ssh-client,SSH-2.0-perlssh
 2026-10-15T03:35:26Z,91.196.152.54,2222,no-data,
 2026-10-15T03:38:16Z,91.196.152.112,2222,ssh-client,SSH-2.0-perlssh
+2026-10-15T03:39:11Z,94.231.206.37,2222,ssh-client,SSH-2.0-perlssh
+2026-10-15T03:41:20Z,91.231.89.188,2222,ssh-client,SSH-2.0-perlssh
+2026-10-15T03:42:16Z,178.236.132.185,23,telnet-negotiation,
