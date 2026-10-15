@@ -2784,3 +2784,15 @@ time_utc,ip,port,kind,client_data
 2026-10-15T01:41:15Z,94.231.206.6,2222,ssh-client,SSH-2.0-perlssh
 2026-10-15T01:41:49Z,49.216.126.108,23,telnet-negotiation,
 2026-10-15T01:42:19Z,91.196.152.34,2222,ssh-client,SSH-2.0-perlssh
+2026-10-15T01:43:57Z,201.32.187.243,23,telnet-negotiation,
+2026-10-15T01:44:08Z,94.231.206.34,2222,ssh-client,SSH-2.0-perlssh
+2026-10-15T01:44:20Z,45.133.173.246,3389,other,4Vx
+2026-10-15T01:44:20Z,5.252.83.121,3389,ssh-client,SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.8
+2026-10-15T01:44:21Z,154.16.44.80,3389,tls-handshake,"9m M $ % 7} Z  Mt ; 3{DJ_ N 3- [ J Hzz + / , 0 / 5 ' #"
+2026-10-15T01:44:21Z,2.57.17.71,3389,tls-handshake,"p ] /V7 7 ( 2| rb 9 Q4   t lI 9 %   ;)E HZZ + / , 0 / 5 ' #"
+2026-10-15T01:45:33Z,91.196.152.77,2222,no-data,
+2026-10-15T01:46:18Z,94.231.206.14,2222,ssh-client,SSH-2.0-perlssh
+2026-10-15T01:48:21Z,91.231.89.31,2222,ssh-client,SSH-2.0-perlssh
+2026-10-15T01:49:13Z,94.231.206.5,2222,ssh-client,SSH-2.0-perlssh
+2026-10-15T01:51:20Z,91.231.89.203,2222,ssh-client,SSH-2.0-perlssh
+2026-10-15T01:52:07Z,94.231.206.33,2222,ssh-client,SSH-2.0-perlssh
