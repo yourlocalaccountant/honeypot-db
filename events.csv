@@ -3752,3 +3752,9 @@ time_utc,ip,port,kind,client_data
 2026-10-15T13:12:32Z,160.153.187.122,23,telnet-negotiation,
 2026-10-15T13:15:18Z,27.147.143.141,3389,rdp-request,
 2026-10-15T13:21:30Z,79.112.79.82,23,telnet-negotiation,
+2026-10-15T13:34:10Z,27.147.143.141,3389,rdp-request,
+2026-10-15T13:34:13Z,38.248.130.58,23,no-data,
+2026-10-15T13:34:46Z,45.186.80.188,23,telnet-negotiation,
+2026-10-15T13:36:11Z,79.112.79.82,23,telnet-negotiation,
+2026-10-15T13:37:08Z,38.248.130.58,23,no-data,
+2026-10-15T13:37:57Z,40.119.45.138,3389,tls-handshake,"s f Yg p W k X? ;= D #XY  u q 6 6 \ t{ F p & / 0 + , / 5 {"
