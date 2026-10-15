@@ -3079,3 +3079,8 @@ time_utc,ip,port,kind,client_data
 2026-10-15T06:43:20Z,35.240.88.59,3389,other,"< , : (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-"
 2026-10-15T06:43:20Z,35.240.88.59,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
 2026-10-15T06:43:21Z,35.240.88.59,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 6733
+2026-10-15T06:48:14Z,152.32.159.79,2222,tls-handshake,"Z} / 4 a- kgl- ,   ""$ [ e d J 5 c 4 / 0 + , 3 = 9 /"
+2026-10-15T06:48:20Z,152.32.159.79,2222,no-data,
+2026-10-15T06:48:21Z,152.32.159.79,2222,ssh-client,SSH-1.5-Server
+2026-10-15T06:48:21Z,152.32.159.79,2222,ssh-client,SSH-2.0-OpenSSH_7.4
+2026-10-15T06:50:36Z,79.112.79.82,23,telnet-negotiation,
