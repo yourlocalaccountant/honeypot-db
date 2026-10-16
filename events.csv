@@ -5631,3 +5631,7 @@ time_utc,ip,port,kind,client_data
 2026-10-16T02:35:23Z,13.231.147.195,23,telnet-negotiation,
 2026-10-16T02:35:58Z,16.5.0.155,2222,other,' admin bY. dh l 1 ju   :
 2026-10-16T02:35:59Z,16.5.0.240,2222,other,: 8M2 ! list
+2026-10-16T02:39:19Z,79.112.79.82,23,telnet-negotiation,
+2026-10-16T02:41:02Z,190.188.104.118,23,telnet-negotiation,
+2026-10-16T02:42:00Z,78.180.184.46,23,no-data,
+2026-10-16T02:43:13Z,195.96.139.201,23,no-data,
