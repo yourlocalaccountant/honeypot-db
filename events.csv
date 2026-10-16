@@ -6994,3 +6994,6 @@ time_utc,ip,port,kind,client_data
 2026-10-16T23:32:52Z,16.5.0.240,2222,other,: 8M2 ! list
 2026-10-16T23:37:19Z,2.180.158.251,23,telnet-negotiation,
 2026-10-16T23:37:23Z,95.246.210.139,23,telnet-negotiation,
+2026-10-16T23:45:54Z,103.183.58.218,23,telnet-negotiation,
+2026-10-16T23:50:52Z,43.134.238.253,3389,no-data,
+2026-10-16T23:55:48Z,190.196.253.8,23,telnet-negotiation,
