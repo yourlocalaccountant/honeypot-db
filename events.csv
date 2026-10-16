@@ -5535,3 +5535,16 @@ time_utc,ip,port,kind,client_data
 2026-10-15T23:10:03Z,122.97.212.91,23,telnet-negotiation,
 2026-10-15T23:10:16Z,122.97.212.91,23,telnet-negotiation,
 2026-10-15T23:10:29Z,122.97.215.143,23,telnet-negotiation,
+2026-10-16T00:35:05Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T00:35:49Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T00:36:32Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T00:37:14Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T00:37:57Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T00:38:40Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T00:39:01Z,79.112.79.82,23,telnet-negotiation,
+2026-10-16T00:39:23Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T00:39:58Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T00:40:24Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T00:41:07Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T00:41:50Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T00:42:25Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
