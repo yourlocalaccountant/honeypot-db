@@ -5830,3 +5830,4 @@ time_utc,ip,port,kind,client_data
 2026-10-16T06:02:34Z,16.5.0.153,2222,other,: 8M2 ! list
 2026-10-16T06:02:49Z,102.212.40.227,2323,no-data,
 2026-10-16T06:04:16Z,134.209.41.191,2222,ssh-client,SSH-2.0-libssh2_1.11.1
+2026-10-16T06:23:16Z,107.150.123.48,23,telnet-negotiation,admin
