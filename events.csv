@@ -6143,3 +6143,9 @@ time_utc,ip,port,kind,client_data
 2026-10-16T15:08:18Z,195.19.125.188,23,telnet-negotiation,
 2026-10-16T15:14:13Z,114.7.123.38,23,telnet-negotiation,
 2026-10-16T15:14:45Z,109.224.242.111,23,no-data,
+2026-10-16T15:24:34Z,175.203.62.5,3389,no-data,
+2026-10-16T15:24:35Z,175.203.62.5,3389,rdp-request,*% Cookie: mstshash=Test
+2026-10-16T15:24:35Z,175.203.62.5,3389,rdp-request,*% Cookie: mstshash=Test
+2026-10-16T15:31:59Z,179.51.118.59,23,telnet-negotiation,
+2026-10-16T15:33:43Z,16.5.0.240,2222,other,' admin | :$Z p k d 1 -{k F f v
+2026-10-16T15:33:44Z,16.5.0.152,2222,other,: 8M2 ! list
