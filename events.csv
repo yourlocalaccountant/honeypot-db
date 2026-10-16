@@ -5933,3 +5933,15 @@ time_utc,ip,port,kind,client_data
 2026-10-16T10:37:09Z,146.120.241.125,23,no-data,
 2026-10-16T10:39:10Z,68.145.85.30,23,no-data,
 2026-10-16T10:42:26Z,68.145.85.30,23,no-data,
+2026-10-16T10:51:42Z,59.151.197.93,23,telnet-negotiation,
+2026-10-16T10:51:46Z,198.12.37.3,23,no-data,
+2026-10-16T10:51:47Z,59.151.197.93,23,telnet-negotiation,
+2026-10-16T10:51:52Z,59.151.197.93,23,telnet-negotiation,
+2026-10-16T10:52:00Z,59.151.197.93,23,telnet-negotiation,
+2026-10-16T10:52:06Z,59.151.197.93,23,telnet-negotiation,
+2026-10-16T10:52:09Z,198.12.37.3,23,no-data,
+2026-10-16T10:52:11Z,59.151.197.93,23,telnet-negotiation,
+2026-10-16T10:58:08Z,147.185.132.73,3389,rdp-request,"'"" Cookie: mstshash=gwZVvJNzn"
+2026-10-16T10:58:08Z,147.185.132.73,3389,rdp-request,",' Cookie: mstshash=ImaSrD"
+2026-10-16T10:58:09Z,147.185.132.73,3389,no-data,
+2026-10-16T10:58:09Z,147.185.132.73,3389,rdp-request,",' Cookie: mstshash=NcShqV"
