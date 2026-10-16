@@ -5897,3 +5897,5 @@ time_utc,ip,port,kind,client_data
 2026-10-16T09:32:47Z,20.65.217.174,2222,no-data,
 2026-10-16T09:35:28Z,16.5.0.152,2222,other,: 8M2 ! list
 2026-10-16T09:35:28Z,16.5.0.156,2222,other,"' admin U3 ]"" a V ) *(u 0 F y |"
+2026-10-16T09:42:20Z,18.116.101.220,3389,tls-handshake,"i w n KX~ > 90 N V  ZBFU %nP h k [ w 4M & / 0 + , / 5 {"
+2026-10-16T09:42:38Z,2.26.5.166,2222,ssh-client,SSH-2.0-libssh2_1.11.1
