@@ -5743,3 +5743,56 @@ time_utc,ip,port,kind,client_data
 2026-10-16T03:33:45Z,105.68.178.78,23,no-data,
 2026-10-16T03:39:13Z,79.112.79.82,23,telnet-negotiation,
 2026-10-16T03:48:17Z,31.43.45.202,23,no-data,
+2026-10-16T03:54:05Z,79.112.79.82,23,telnet-negotiation,
+2026-10-16T03:55:55Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:56:08Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:56:21Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:56:34Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:56:47Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:57:00Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:57:13Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:57:26Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:57:39Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:57:52Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:57:55Z,204.10.174.178,23,no-data,
+2026-10-16T03:58:05Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:58:18Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:58:31Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:58:32Z,35.205.22.182,3389,rdp-request,
+2026-10-16T03:58:32Z,35.205.22.182,3389,tls-handshake,"aOn "" 2 b = 85a8 j v""R  O Y EM 0 ]y2 2 + / , 0 / 5 # ' <"
+2026-10-16T03:58:33Z,35.205.22.182,3389,other,; admin.$cmd hello ?
+2026-10-16T03:58:34Z,35.205.22.182,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-10-16T03:58:35Z,35.205.22.182,3389,other,^)I 6 QI qy( _ ~ lH h m ) K {$  k @ sQ a
+2026-10-16T03:58:40Z,35.205.22.182,3389,no-data,
+2026-10-16T03:58:44Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:58:46Z,35.205.22.182,3389,no-data,
+2026-10-16T03:58:52Z,35.205.22.182,3389,no-data,
+2026-10-16T03:58:57Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:58:57Z,35.205.22.182,3389,no-data,
+2026-10-16T03:58:58Z,35.205.22.182,3389,other,version bind
+2026-10-16T03:59:04Z,35.205.22.182,3389,no-data,
+2026-10-16T03:59:04Z,35.205.22.182,3389,rdp-request,
+2026-10-16T03:59:10Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:59:10Z,35.205.22.182,3389,no-data,
+2026-10-16T03:59:16Z,35.205.22.182,3389,no-data,
+2026-10-16T03:59:16Z,35.205.22.182,3389,other,"X % & ' + , $ \ k < K { \2!$ 7 b9JF,"
+2026-10-16T03:59:17Z,35.205.22.182,3389,other,0: H`2 cn=lvfzxndquqkreypsavun lvfzxndquqkreypsavun
+2026-10-16T03:59:23Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:59:23Z,35.205.22.182,3389,no-data,
+2026-10-16T03:59:23Z,35.205.22.182,3389,other,C 3 consumer-Offset Explorer 2.2-18 apache-kafka-java 2.4.0
+2026-10-16T03:59:24Z,35.205.22.182,3389,other,# 3 adminclient-5 MB7bES
+2026-10-16T03:59:30Z,35.205.22.182,3389,no-data,
+2026-10-16T03:59:31Z,35.205.22.182,3389,other,(r |
+2026-10-16T03:59:31Z,35.205.22.182,3389,other,f SMB@ $ 333333333333337
+2026-10-16T03:59:32Z,35.205.22.182,3389,other,i
+2026-10-16T03:59:33Z,35.205.22.182,3389,other,*1 $4 PING
+2026-10-16T03:59:33Z,35.205.22.182,3389,other,MQTT < AAAAA
+2026-10-16T03:59:34Z,35.205.22.182,3389,other,JDWP-Handshake
+2026-10-16T03:59:35Z,35.205.22.182,3389,other,JRMI K
+2026-10-16T03:59:35Z,35.205.22.182,3389,other,MQTT < AAAAA
+2026-10-16T03:59:36Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T03:59:36Z,35.205.22.182,3389,other,'@RSYTCD: 29
+2026-10-16T03:59:37Z,35.205.22.182,3389,other,"< , : (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-"
+2026-10-16T03:59:37Z,35.205.22.182,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
+2026-10-16T03:59:38Z,35.205.22.182,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 421
+2026-10-16T03:59:49Z,101.53.225.19,23,telnet-negotiation,
