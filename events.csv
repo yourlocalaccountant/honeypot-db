@@ -6348,3 +6348,16 @@ time_utc,ip,port,kind,client_data
 2026-10-16T19:02:34Z,16.5.0.158,2222,other,: 8M2 ! list
 2026-10-16T19:04:54Z,40.124.187.7,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 zgrab/0.x Accept: */* Ac
 2026-10-16T19:22:06Z,87.106.218.222,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-16T19:31:17Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T19:31:37Z,16.5.0.159,2222,other,' admin W t/O@o < Q ) b } Z\ eb YoK
+2026-10-16T19:31:38Z,16.5.0.153,2222,other,: 8M2 ! list
+2026-10-16T19:31:41Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T19:32:03Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T19:32:25Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T19:32:47Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T19:33:09Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T19:33:31Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T19:33:54Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T19:34:16Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T19:34:38Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
+2026-10-16T19:35:00Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
