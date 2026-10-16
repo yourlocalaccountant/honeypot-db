@@ -1030,3 +1030,5 @@ ip,first_seen_utc,last_seen_utc,hits,ports,network,country,reverse_dns
 46.173.253.12,2026-10-16T21:10:01Z,2026-10-16T21:10:01Z,1,3389,Micron-Hosting-Portland,US,
 192.227.128.163,2026-10-16T21:19:39Z,2026-10-16T21:19:39Z,1,3389,CC-12,,coast-bless.moonjaws.com
 40.124.171.90,2026-10-16T21:34:58Z,2026-10-16T21:34:58Z,1,23,MSFT,,azpdssnoh2cv.stretchoid.com
+148.227.121.173,2026-10-16T21:52:48Z,2026-10-16T21:55:49Z,2,23,148.227.121.0 - 148.227.121.255,,customer.bnssarg1.isp.starlink.com
+179.238.41.114,2026-10-16T21:55:58Z,2026-10-16T21:55:58Z,1,23,179.238.41.0 - 179.238.41.255,,customer.bnssarg1.isp.starlink.com
