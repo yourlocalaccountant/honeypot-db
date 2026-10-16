@@ -1020,3 +1020,4 @@ ip,first_seen_utc,last_seen_utc,hits,ports,network,country,reverse_dns
 213.65.93.47,2026-10-16T17:42:15Z,2026-10-16T17:42:23Z,10,23,TELIANET,SE,213-65-93-47-no600.tbcn.telia.com
 40.124.82.68,2026-10-16T18:06:24Z,2026-10-16T18:06:24Z,1,3389,MSFT,,azpdsgdutl89.stretchoid.com
 40.124.187.7,2026-10-16T19:04:54Z,2026-10-16T19:04:54Z,1,2222,MSFT,,azpdsspdl4yv.stretchoid.com
+87.106.218.222,2026-10-16T19:22:06Z,2026-10-16T19:22:06Z,1,3389,de-ber-ionos-cloud-txl,DE,ip87-106-218-222.pbiaas.com
