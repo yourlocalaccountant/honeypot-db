@@ -5927,3 +5927,8 @@ time_utc,ip,port,kind,client_data
 2026-10-16T10:03:36Z,72.255.3.73,23,telnet-negotiation,
 2026-10-16T10:03:49Z,72.255.3.73,23,telnet-negotiation,
 2026-10-16T10:04:02Z,72.255.3.73,23,telnet-negotiation,
+2026-10-16T10:32:34Z,16.5.0.154,2222,other,"' admin N ^ k ] U O y ""v M[vCUA"
+2026-10-16T10:32:35Z,16.5.0.156,2222,other,: 8M2 ! list
+2026-10-16T10:36:33Z,45.172.42.97,23,telnet-negotiation,
+2026-10-16T10:37:09Z,146.120.241.125,23,no-data,
+2026-10-16T10:39:10Z,68.145.85.30,23,no-data,
