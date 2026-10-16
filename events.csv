@@ -5814,3 +5814,5 @@ time_utc,ip,port,kind,client_data
 2026-10-16T04:41:52Z,113.23.114.143,23,no-data,
 2026-10-16T04:44:08Z,103.235.122.13,23,telnet-negotiation,
 2026-10-16T04:49:08Z,64.62.197.113,3389,ssh-client,SSH-2.0-Go
+2026-10-16T04:57:21Z,79.112.79.82,23,telnet-negotiation,
+2026-10-16T05:00:32Z,73.80.210.177,23,no-data,
