@@ -5796,3 +5796,7 @@ time_utc,ip,port,kind,client_data
 2026-10-16T03:59:37Z,35.205.22.182,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
 2026-10-16T03:59:38Z,35.205.22.182,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 421
 2026-10-16T03:59:49Z,101.53.225.19,23,telnet-negotiation,
+2026-10-16T04:04:33Z,16.5.0.156,2222,other,: 8M2 ! list
+2026-10-16T04:04:33Z,16.5.0.159,2222,other,' admin M ^ F3< E& 8[ P U U-=
+2026-10-16T04:07:07Z,18.116.101.220,23,other,
+2026-10-16T04:09:38Z,79.112.79.82,23,telnet-negotiation,
