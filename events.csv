@@ -5576,3 +5576,10 @@ time_utc,ip,port,kind,client_data
 2026-10-16T00:53:43Z,112.72.226.212,23,telnet-negotiation,
 2026-10-16T00:53:43Z,112.72.226.212,23,telnet-negotiation,
 2026-10-16T00:53:44Z,112.72.226.212,23,telnet-negotiation,
+2026-10-16T01:05:32Z,157.230.209.175,3389,tls-handshake,"0 K'w` v T ?e*z )8  ^ wB a q v a x u# [I < , 0 + / $ ( k # ' g 9"
+2026-10-16T01:06:44Z,16.5.0.159,2222,other,' admin vJ v \ a i p V c}H#F5
+2026-10-16T01:06:45Z,16.5.0.154,2222,other,: 8M2 ! list
+2026-10-16T01:06:55Z,76.110.127.50,23,no-data,
+2026-10-16T01:08:06Z,79.112.79.82,23,telnet-negotiation,
+2026-10-16T01:09:05Z,76.110.127.50,23,no-data,
+2026-10-16T01:12:34Z,73.193.126.103,23,no-data,
