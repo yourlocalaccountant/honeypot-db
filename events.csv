@@ -7538,3 +7538,7 @@ time_utc,ip,port,kind,client_data
 2026-10-17T13:37:14Z,121.163.134.183,23,telnet-negotiation,
 2026-10-17T13:37:53Z,117.5.49.17,23,telnet-negotiation,
 2026-10-17T13:46:15Z,217.154.105.159,3389,rdp-request,
+2026-10-17T13:52:52Z,117.5.49.17,23,telnet-negotiation,
+2026-10-17T13:53:34Z,16.5.0.152,2222,other,: 8M2 ! list
+2026-10-17T13:53:34Z,16.5.0.158,2222,other,' admin $aN} > H 7O
+2026-10-17T13:56:43Z,47.96.114.87,2222,ssh-client,SSH-2.0-russh_0.51.1
