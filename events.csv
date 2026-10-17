@@ -7255,3 +7255,5 @@ time_utc,ip,port,kind,client_data
 2026-10-17T05:00:59Z,35.240.35.253,23,no-data,
 2026-10-17T05:01:42Z,35.240.35.253,23,telnet-negotiation,%   NTLMSSP
 2026-10-17T05:01:42Z,35.240.35.253,23,telnet-negotiation,& &
+2026-10-17T05:14:16Z,189.203.145.254,23,telnet-negotiation,
+2026-10-17T05:21:20Z,103.203.134.82,23,no-data,
