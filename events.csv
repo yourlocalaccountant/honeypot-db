@@ -7748,3 +7748,6 @@ time_utc,ip,port,kind,client_data
 2026-10-17T18:53:26Z,16.5.0.240,2222,other,"' admin = e q  "" E o |S"
 2026-10-17T18:53:27Z,16.5.0.153,2222,other,: 8M2 ! list
 2026-10-17T18:54:20Z,121.161.117.30,23,telnet-negotiation,
+2026-10-17T19:14:40Z,150.95.25.34,23,telnet-negotiation,
+2026-10-17T19:14:43Z,150.95.25.34,23,telnet-negotiation,
+2026-10-17T19:14:49Z,150.95.25.34,23,telnet-negotiation,
