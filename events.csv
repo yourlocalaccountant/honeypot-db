@@ -7465,3 +7465,4 @@ time_utc,ip,port,kind,client_data
 2026-10-17T11:21:17Z,16.5.0.158,2222,other,: 8M2 ! list
 2026-10-17T11:21:17Z,16.5.0.159,2222,other,' admin D J8\ D z b ? L >Y y!I 1 x
 2026-10-17T11:29:14Z,1.7.51.205,3389,rdp-request,
+2026-10-17T11:39:16Z,27.147.143.141,3389,rdp-request,
