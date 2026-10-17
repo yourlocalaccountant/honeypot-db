@@ -7253,3 +7253,5 @@ time_utc,ip,port,kind,client_data
 2026-10-17T04:56:17Z,104.155.22.218,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 6230
 2026-10-17T04:57:59Z,35.240.106.165,23,no-data,
 2026-10-17T05:00:59Z,35.240.35.253,23,no-data,
+2026-10-17T05:01:42Z,35.240.35.253,23,telnet-negotiation,%   NTLMSSP
+2026-10-17T05:01:42Z,35.240.35.253,23,telnet-negotiation,& &
