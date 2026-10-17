@@ -7424,3 +7424,4 @@ time_utc,ip,port,kind,client_data
 2026-10-17T08:49:23Z,175.11.191.69,23,telnet-negotiation,
 2026-10-17T08:51:44Z,16.5.0.155,2222,other,"' admin w o s h%g u2 4m, ,y hl"
 2026-10-17T08:51:45Z,16.5.0.158,2222,other,: 8M2 ! list
+2026-10-17T08:56:49Z,61.142.244.31,3389,rdp-request,Cookie: mstshash=a
