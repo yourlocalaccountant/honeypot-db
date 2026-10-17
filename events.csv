@@ -7430,3 +7430,7 @@ time_utc,ip,port,kind,client_data
 2026-10-17T09:38:27Z,201.178.240.70,23,no-data,
 2026-10-17T09:39:07Z,201.178.240.70,23,no-data,
 2026-10-17T09:45:25Z,18.116.101.220,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: visionheight.com/scan Mozilla/5.0 (M
+2026-10-17T09:49:15Z,130.12.180.174,23,no-data,
+2026-10-17T09:52:06Z,44.220.188.190,23,telnet-negotiation,
+2026-10-17T09:53:19Z,16.5.0.155,2222,other,: 8M2 ! list
+2026-10-17T09:53:19Z,16.5.0.159,2222,other,' admin ukU  5 D t&(In+ !a X y )
