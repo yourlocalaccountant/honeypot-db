@@ -7652,3 +7652,8 @@ time_utc,ip,port,kind,client_data
 2026-10-17T16:26:14Z,18.97.26.73,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS
 2026-10-17T16:26:14Z,18.97.26.73,3389,no-data,
 2026-10-17T16:26:15Z,18.97.26.73,3389,tls-handshake,"| N F 7 & Z ""   + =bl 'F 4 e #7 j N~ , 0 ] a W S + /"
+2026-10-17T16:28:45Z,14.54.51.226,23,telnet-negotiation,
+2026-10-17T16:30:34Z,85.217.149.40,2323,tls-handshake,";$ iA v 3?Fx 8 y "";  9 >X] n ) z  Go1 & / 0 + , / 5 {"
+2026-10-17T16:34:22Z,85.217.149.32,2323,tls-handshake,"}b@B r 7 1Y! 4 { 2 J  i $#4 (x!o , F2 v % & / 0 + , / 5 {"
+2026-10-17T16:35:28Z,190.101.108.15,23,no-data,
+2026-10-17T16:36:10Z,190.101.108.15,23,no-data,
