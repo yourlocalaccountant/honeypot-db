@@ -7122,3 +7122,6 @@ time_utc,ip,port,kind,client_data
 2026-10-17T02:39:25Z,195.184.76.152,2222,ssh-client,SSH-2.0-perlssh
 2026-10-17T02:42:21Z,195.184.76.115,2222,ssh-client,SSH-2.0-perlssh
 2026-10-17T02:45:20Z,91.230.168.79,2222,ssh-client,SSH-2.0-perlssh
+2026-10-17T02:48:15Z,195.184.76.55,2222,ssh-client,SSH-2.0-perlssh
+2026-10-17T02:51:22Z,195.184.76.96,2222,ssh-client,SSH-2.0-perlssh
+2026-10-17T02:54:28Z,91.230.168.247,2222,ssh-client,SSH-2.0-perlssh
