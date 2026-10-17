@@ -7601,3 +7601,26 @@ time_utc,ip,port,kind,client_data
 2026-10-17T15:13:46Z,152.53.95.66,3389,rdp-request,/* Cookie: mstshash=anonymous
 2026-10-17T15:14:11Z,47.236.165.237,23,telnet-negotiation,dm
 2026-10-17T15:14:13Z,47.236.165.237,23,telnet-negotiation,
+2026-10-17T15:14:15Z,47.236.165.237,23,telnet-negotiation,
+2026-10-17T15:14:15Z,47.236.165.237,23,telnet-negotiation,
+2026-10-17T15:14:17Z,47.236.165.237,23,telnet-negotiation,
+2026-10-17T15:14:18Z,47.236.165.237,23,telnet-negotiation,
+2026-10-17T15:14:19Z,47.236.165.237,23,telnet-negotiation,
+2026-10-17T15:14:21Z,47.236.165.237,23,telnet-negotiation,
+2026-10-17T15:14:22Z,47.236.165.237,23,telnet-negotiation,
+2026-10-17T15:14:27Z,47.236.165.237,23,telnet-negotiation,admin
+2026-10-17T15:14:29Z,47.236.165.237,23,telnet-negotiation,
+2026-10-17T15:14:32Z,47.236.165.237,23,telnet-negotiation,
+2026-10-17T15:14:32Z,47.236.165.237,23,telnet-negotiation,root
+2026-10-17T15:14:35Z,47.236.165.237,23,telnet-negotiation,
+2026-10-17T15:14:35Z,47.236.165.237,23,telnet-negotiation,root
+2026-10-17T15:14:38Z,47.236.165.237,23,telnet-negotiation,
+2026-10-17T15:14:40Z,47.236.165.237,23,telnet-negotiation,
+2026-10-17T15:14:43Z,47.236.165.237,23,telnet-negotiation,
+2026-10-17T15:14:45Z,47.236.165.237,23,telnet-negotiation,
+2026-10-17T15:14:52Z,47.236.165.237,23,telnet-negotiation,manager
+2026-10-17T15:14:56Z,47.236.165.237,23,telnet-negotiation,
+2026-10-17T15:19:45Z,16.5.0.154,2222,other,' admin Y j< A { b L wL ;
+2026-10-17T15:19:46Z,16.5.0.152,2222,other,: 8M2 ! list
+2026-10-17T15:21:50Z,89.109.46.132,23,no-data,
+2026-10-17T15:23:27Z,89.109.46.132,23,no-data,
