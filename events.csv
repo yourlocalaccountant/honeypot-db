@@ -7112,3 +7112,13 @@ time_utc,ip,port,kind,client_data
 2026-10-17T02:27:27Z,195.184.76.100,2222,ssh-client,SSH-2.0-perlssh
 2026-10-17T02:30:30Z,195.184.76.13,2222,ssh-client,SSH-2.0-perlssh
 2026-10-17T02:34:17Z,195.184.76.113,2222,ssh-client,SSH-2.0-perlssh
+2026-10-17T02:36:23Z,123.58.209.112,23,tls-handshake,"/<$   | t I(z N ' T auf   ^ $ h ?q ^ f U x] 4 / 0 + , 3 = 9 /"
+2026-10-17T02:36:28Z,123.58.209.112,23,no-data,
+2026-10-17T02:36:29Z,123.58.209.112,23,telnet-negotiation,
+2026-10-17T02:36:30Z,123.58.209.112,23,telnet-negotiation,%   NTLMSSP
+2026-10-17T02:36:30Z,91.230.168.226,2222,no-data,
+2026-10-17T02:37:12Z,111.127.235.114,23,telnet-negotiation,
+2026-10-17T02:37:14Z,130.12.180.174,23,no-data,
+2026-10-17T02:39:25Z,195.184.76.152,2222,ssh-client,SSH-2.0-perlssh
+2026-10-17T02:42:21Z,195.184.76.115,2222,ssh-client,SSH-2.0-perlssh
+2026-10-17T02:45:20Z,91.230.168.79,2222,ssh-client,SSH-2.0-perlssh
