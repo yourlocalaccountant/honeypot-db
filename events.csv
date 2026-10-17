@@ -7706,3 +7706,4 @@ time_utc,ip,port,kind,client_data
 2026-10-17T18:00:09Z,185.136.15.7,3389,rdp-request,'+& Cookie: mstshash=ident
 2026-10-17T18:00:10Z,185.136.15.7,3389,rdp-request,'+& Cookie: mstshash=ident
 2026-10-17T18:01:19Z,45.232.186.23,23,telnet-negotiation,
+2026-10-17T18:05:40Z,170.238.140.139,23,telnet-negotiation,
