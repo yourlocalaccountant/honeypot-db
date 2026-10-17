@@ -7421,3 +7421,6 @@ time_utc,ip,port,kind,client_data
 2026-10-17T08:30:46Z,162.216.150.49,3389,other,EHLO
 2026-10-17T08:30:47Z,162.216.150.49,3389,other,HELP
 2026-10-17T08:30:47Z,162.216.150.49,3389,other,qj n0 k ^0\ P NM 0 0 krbtgt NM 19700101000000Z 0
+2026-10-17T08:49:23Z,175.11.191.69,23,telnet-negotiation,
+2026-10-17T08:51:44Z,16.5.0.155,2222,other,"' admin w o s h%g u2 4m, ,y hl"
+2026-10-17T08:51:45Z,16.5.0.158,2222,other,: 8M2 ! list
