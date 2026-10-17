@@ -7848,3 +7848,6 @@ time_utc,ip,port,kind,client_data
 2026-10-17T22:48:09Z,16.5.0.152,2222,other,: 8M2 ! list
 2026-10-17T22:48:55Z,211.185.14.39,23,telnet-negotiation,
 2026-10-17T22:49:53Z,74.14.103.152,23,no-data,
+2026-10-17T23:10:03Z,178.18.13.160,23,telnet-negotiation,
+2026-10-17T23:15:02Z,16.5.0.155,2222,other,' admin ' 0$ kt 2 ? D% OL
+2026-10-17T23:15:03Z,16.5.0.157,2222,other,: 8M2 ! list
