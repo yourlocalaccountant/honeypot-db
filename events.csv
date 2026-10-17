@@ -7434,3 +7434,12 @@ time_utc,ip,port,kind,client_data
 2026-10-17T09:52:06Z,44.220.188.190,23,telnet-negotiation,
 2026-10-17T09:53:19Z,16.5.0.155,2222,other,: 8M2 ! list
 2026-10-17T09:53:19Z,16.5.0.159,2222,other,' admin ukU  5 D t&(In+ !a X y )
+2026-10-17T09:58:55Z,150.95.25.34,23,telnet-negotiation,
+2026-10-17T09:59:01Z,150.95.25.34,23,telnet-negotiation,
+2026-10-17T09:59:08Z,150.95.25.34,23,telnet-negotiation,
+2026-10-17T09:59:13Z,150.95.25.34,23,telnet-negotiation,
+2026-10-17T09:59:26Z,150.95.25.34,23,telnet-negotiation,
+2026-10-17T09:59:34Z,150.95.25.34,23,telnet-negotiation,
+2026-10-17T09:59:43Z,150.95.25.34,23,no-data,
+2026-10-17T09:59:51Z,150.95.25.34,23,no-data,
+2026-10-17T09:59:58Z,150.95.25.34,23,no-data,
