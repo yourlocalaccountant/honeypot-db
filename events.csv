@@ -7447,3 +7447,6 @@ time_utc,ip,port,kind,client_data
 2026-10-17T10:21:40Z,16.5.0.157,2222,other,"' admin  u "" B i Z L ( v `~ } w"
 2026-10-17T10:21:41Z,16.5.0.152,2222,other,: 8M2 ! list
 2026-10-17T10:33:31Z,1.7.51.205,3389,rdp-request,
+2026-10-17T10:47:35Z,27.147.143.141,3389,rdp-request,
+2026-10-17T10:49:03Z,16.5.0.156,2222,other,' admin z s a ba| 6 nr I p i;   3Q
+2026-10-17T10:49:04Z,16.5.0.152,2222,other,: 8M2 ! list
