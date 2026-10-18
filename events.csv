@@ -7904,3 +7904,8 @@ time_utc,ip,port,kind,client_data
 2026-10-18T00:06:56Z,175.107.233.79,23,telnet-negotiation,
 2026-10-18T00:07:09Z,175.107.233.79,23,telnet-negotiation,
 2026-10-18T00:07:22Z,175.107.233.79,23,telnet-negotiation,
+2026-10-18T00:17:04Z,16.5.0.240,2222,other,' admin l E X H r &A ! V v L
+2026-10-18T00:17:05Z,16.5.0.159,2222,other,: 8M2 ! list
+2026-10-18T00:17:58Z,213.174.21.235,23,telnet-negotiation,
+2026-10-18T00:21:09Z,187.189.114.99,23,telnet-negotiation,
+2026-10-18T00:21:47Z,157.18.179.217,23,telnet-negotiation,
