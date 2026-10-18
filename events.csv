@@ -8423,3 +8423,6 @@ time_utc,ip,port,kind,client_data
 2026-10-18T07:35:46Z,181.212.0.27,23,telnet-negotiation,
 2026-10-18T07:42:06Z,168.0.82.187,23,telnet-negotiation,
 2026-10-18T07:50:46Z,181.212.0.27,23,telnet-negotiation,
+2026-10-18T07:53:46Z,221.12.146.110,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-18T07:56:52Z,16.5.0.157,2222,other,' admin 2 lu J U u B 2
+2026-10-18T07:56:53Z,16.5.0.240,2222,other,: 8M2 ! list
