@@ -1277,3 +1277,4 @@ ip,first_seen_utc,last_seen_utc,hits,ports,network,country,reverse_dns
 201.183.55.159,2026-10-18T00:41:51Z,2026-10-18T00:43:57Z,2,23,201.183.0.0 - 201.183.255.255,,hfce-201-183-55-159.customer.claro.com.ec
 184.82.29.252,2026-10-18T00:43:50Z,2026-10-18T00:43:50Z,1,23,TH-AIS-Fibre,TH,184-82-29-0.24.public.cmbp-mser.myaisfibre.com
 3.95.57.61,2026-10-18T00:49:26Z,2026-10-18T00:49:26Z,1,3389,AMAZON-IAD,,ec2-3-95-57-61.compute-1.amazonaws.com
+185.180.28.234,2026-10-18T01:02:11Z,2026-10-18T01:02:11Z,1,23,TR-VFNET-20161201,TR,
