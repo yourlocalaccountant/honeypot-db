@@ -7938,3 +7938,6 @@ time_utc,ip,port,kind,client_data
 2026-10-18T00:28:41Z,150.95.25.34,23,no-data,
 2026-10-18T00:29:07Z,87.251.64.123,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
 2026-10-18T00:29:07Z,87.251.64.123,2222,tls-handshake,"' = W86 2 [8 n  gp \ Y X < G F QE9 j \ , 0 ] a + / \ ` $ ( s w"
+2026-10-18T00:33:53Z,91.225.162.61,23,telnet-negotiation,
+2026-10-18T00:36:27Z,157.18.179.217,23,telnet-negotiation,
+2026-10-18T00:41:51Z,201.183.55.159,23,no-data,
