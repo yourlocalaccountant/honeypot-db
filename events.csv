@@ -8055,3 +8055,5 @@ time_utc,ip,port,kind,client_data
 2026-10-18T01:50:19Z,150.95.25.34,23,telnet-negotiation,
 2026-10-18T01:50:21Z,150.95.25.34,23,telnet-negotiation,
 2026-10-18T01:55:02Z,125.129.1.253,23,telnet-negotiation,
+2026-10-18T01:59:04Z,130.0.62.11,2323,no-data,
+2026-10-18T02:04:03Z,39.61.53.87,3389,tls-handshake,"' ,]a.X S.A) ' H E 3S  _ S ] u Up i t m )j < , 0 + / $ ( k # ' g 9"
