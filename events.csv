@@ -10305,3 +10305,10 @@ time_utc,ip,port,kind,client_data
 2026-10-18T22:04:02Z,41.138.99.92,23,no-data,
 2026-10-18T22:04:08Z,41.138.99.92,23,no-data,
 2026-10-18T22:04:22Z,175.200.208.28,23,telnet-negotiation,
+2026-10-18T22:08:51Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-18T22:10:50Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-18T22:13:16Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-18T22:13:49Z,65.20.113.87,3389,rdp-request,
+2026-10-18T22:13:57Z,65.20.113.87,3389,rdp-request,
+2026-10-18T22:14:20Z,65.20.113.87,3389,rdp-request,
+2026-10-18T22:16:46Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
