@@ -10204,3 +10204,5 @@ time_utc,ip,port,kind,client_data
 2026-10-18T20:59:08Z,179.37.35.106,23,no-data,
 2026-10-18T20:59:13Z,179.37.35.106,23,no-data,
 2026-10-18T21:02:03Z,211.43.97.233,23,telnet-negotiation,
+2026-10-18T21:04:38Z,118.47.255.44,23,telnet-negotiation,
+2026-10-18T21:08:39Z,211.194.52.6,23,telnet-negotiation,
