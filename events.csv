@@ -8575,3 +8575,6 @@ time_utc,ip,port,kind,client_data
 2026-10-18T11:17:40Z,175.203.62.5,3389,rdp-request,*% Cookie: mstshash=Test
 2026-10-18T11:19:08Z,16.5.0.153,2222,other,' admin N uI Y K = K xU
 2026-10-18T11:19:09Z,16.5.0.152,2222,other,: 8M2 ! list
+2026-10-18T11:32:32Z,16.5.0.155,2222,other,: 8M2 ! list
+2026-10-18T11:32:32Z,16.5.0.157,2222,other,' admin & < ] d ; 0 Y
+2026-10-18T11:33:49Z,152.53.95.66,3389,rdp-request,/* Cookie: mstshash=anonymous
