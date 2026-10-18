@@ -8383,3 +8383,5 @@ time_utc,ip,port,kind,client_data
 2026-10-18T06:54:32Z,16.5.0.152,2222,other,"' admin %j ! - V 5 P"" .KXi m"
 2026-10-18T06:54:33Z,16.5.0.159,2222,other,: 8M2 ! list
 2026-10-18T07:00:40Z,183.101.128.201,23,telnet-negotiation,
+2026-10-18T07:05:41Z,181.212.0.27,23,telnet-negotiation,
+2026-10-18T07:10:31Z,20.83.36.27,3389,rdp-request,'+& Cookie: mstshash=zgrab
