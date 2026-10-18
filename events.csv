@@ -8316,3 +8316,63 @@ time_utc,ip,port,kind,client_data
 2026-10-18T06:05:06Z,202.47.49.7,23,telnet-negotiation,
 2026-10-18T06:05:19Z,202.47.49.7,23,telnet-negotiation,
 2026-10-18T06:05:32Z,202.47.49.7,23,telnet-negotiation,
+2026-10-18T06:20:22Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:20:35Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:20:35Z,181.212.0.27,23,telnet-negotiation,
+2026-10-18T06:20:48Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:21:01Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:21:14Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:21:28Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:21:41Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:21:54Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:22:07Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:22:20Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:22:33Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:22:46Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:22:50Z,16.5.0.159,2222,other,' admin aJ K / 9 It/ $
+2026-10-18T06:22:51Z,16.5.0.152,2222,other,: 8M2 ! list
+2026-10-18T06:22:59Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:23:12Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:23:25Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:23:38Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:23:53Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:24:04Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:24:17Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:24:30Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:24:44Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:24:56Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:25:10Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:25:24Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:25:37Z,124.29.224.57,23,telnet-negotiation,
+2026-10-18T06:26:11Z,207.175.102.159,3389,rdp-request,
+2026-10-18T06:26:11Z,207.175.102.159,3389,tls-handshake,"d "" d e$& ^ 7Y < S g@   $ D? ; G# K z q& ; ` 2 + / , 0 / 5 # ' <"
+2026-10-18T06:26:12Z,207.175.102.159,3389,other,; admin.$cmd hello ?
+2026-10-18T06:26:13Z,207.175.102.159,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-10-18T06:26:13Z,207.175.102.159,3389,other,"| qG m^ c$ , % N6@ 9 K 9# *H `# e Q { = F^"
+2026-10-18T06:26:19Z,207.175.102.159,3389,no-data,
+2026-10-18T06:26:25Z,207.175.102.159,3389,no-data,
+2026-10-18T06:26:30Z,207.175.102.159,3389,no-data,
+2026-10-18T06:26:36Z,207.175.102.159,3389,no-data,
+2026-10-18T06:26:37Z,207.175.102.159,3389,other,z version bind
+2026-10-18T06:26:42Z,207.175.102.159,3389,no-data,
+2026-10-18T06:26:43Z,207.175.102.159,3389,rdp-request,
+2026-10-18T06:26:49Z,207.175.102.159,3389,no-data,
+2026-10-18T06:26:54Z,207.175.102.159,3389,no-data,
+2026-10-18T06:26:55Z,207.175.102.159,3389,other,"X % & ' + , $ \ k < K { \2!$ 7 b9JF,"
+2026-10-18T06:26:56Z,207.175.102.159,3389,other,0: A{`2 cn=bxuqjpskdhjzbwkgssro bxuqjpskdhjzbwkgssro
+2026-10-18T06:27:02Z,207.175.102.159,3389,no-data,
+2026-10-18T06:27:02Z,207.175.102.159,3389,other,C 3 consumer-Offset Explorer 2.2-18 apache-kafka-java 2.4.0
+2026-10-18T06:27:03Z,207.175.102.159,3389,other,# 3 adminclient-5 7KOG0O
+2026-10-18T06:27:09Z,207.175.102.159,3389,no-data,
+2026-10-18T06:27:09Z,207.175.102.159,3389,other,(r |
+2026-10-18T06:27:10Z,207.175.102.159,3389,other,f SMB@ $ 333333333333337
+2026-10-18T06:27:11Z,207.175.102.159,3389,other,
+2026-10-18T06:27:11Z,207.175.102.159,3389,other,*1 $4 PING
+2026-10-18T06:27:12Z,207.175.102.159,3389,other,MQTT < AAAAA
+2026-10-18T06:27:13Z,207.175.102.159,3389,other,JDWP-Handshake
+2026-10-18T06:27:13Z,207.175.102.159,3389,other,JRMI K
+2026-10-18T06:27:14Z,207.175.102.159,3389,other,MQTT < AAAAA
+2026-10-18T06:27:15Z,207.175.102.159,3389,other,"< , : (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-"
+2026-10-18T06:27:15Z,207.175.102.159,3389,other,'@RSYTCD: 29
+2026-10-18T06:27:16Z,207.175.102.159,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
+2026-10-18T06:27:17Z,207.175.102.159,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 280
