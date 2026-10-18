@@ -10365,3 +10365,8 @@ time_utc,ip,port,kind,client_data
 2026-10-18T22:41:15Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-18T22:44:07Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-18T22:47:17Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-18T22:49:33Z,175.200.208.28,23,telnet-negotiation,
+2026-10-18T22:52:48Z,65.20.113.87,3389,rdp-request,
+2026-10-18T22:53:51Z,65.20.113.87,3389,rdp-request,
+2026-10-18T22:54:29Z,65.20.113.87,3389,rdp-request,
+2026-10-18T22:57:50Z,113.254.77.18,23,telnet-negotiation,
