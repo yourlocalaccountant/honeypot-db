@@ -10772,3 +10772,8 @@ time_utc,ip,port,kind,client_data
 2026-10-19T06:54:30Z,34.14.116.5,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
 2026-10-19T07:01:42Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-19T07:03:11Z,171.25.158.42,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-19T07:05:10Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T07:08:04Z,109.58.165.169,23,telnet-negotiation,
+2026-10-19T07:08:28Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T07:10:11Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-19T07:10:20Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
