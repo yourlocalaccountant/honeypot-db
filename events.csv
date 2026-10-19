@@ -10734,3 +10734,7 @@ time_utc,ip,port,kind,client_data
 2026-10-19T06:35:01Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-19T06:39:40Z,109.58.165.169,23,telnet-negotiation,
 2026-10-19T06:40:47Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T06:43:19Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T06:44:59Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T06:50:48Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T06:52:19Z,109.58.165.169,23,telnet-negotiation,
