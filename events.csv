@@ -11257,3 +11257,10 @@ time_utc,ip,port,kind,client_data
 2026-10-19T18:55:31Z,167.86.118.220,3389,rdp-request,'-( Cookie: mstshash=nlascan
 2026-10-19T18:55:32Z,167.86.118.220,3389,rdp-request,'-( Cookie: mstshash=nlascan
 2026-10-19T19:07:05Z,41.158.55.157,23,no-data,
+2026-10-19T19:09:27Z,103.211.76.8,2222,ssh-client,"SSH-2.0-Go Yh gE qcurve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nist"
+2026-10-19T19:12:43Z,49.235.179.53,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-19T19:14:10Z,103.69.96.141,3389,rdp-request,
+2026-10-19T19:14:37Z,103.211.76.8,2222,ssh-client,"SSH-2.0-Go }T V 5 + d qcurve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2"
+2026-10-19T19:15:38Z,103.211.76.8,2222,ssh-client,"SSH-2.0-Go #B& N X. qcurve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-n"
+2026-10-19T19:16:29Z,103.211.76.8,2222,ssh-client,"SSH-2.0-Go k-X "" zA Yo qcurve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha"
+2026-10-19T19:17:18Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
