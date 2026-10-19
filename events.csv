@@ -10938,3 +10938,4 @@ time_utc,ip,port,kind,client_data
 2026-10-19T11:01:06Z,3.130.168.2,3389,rdp-request,'+& Cookie: mstshash=zgrab
 2026-10-19T11:01:31Z,3.130.168.2,3389,tls-handshake,"p3 _0 B 8 _Y# nF ` 3 r   x1!i~ F O Vh- x h z & / 0 + , / 5 {"
 2026-10-19T11:01:38Z,40.124.185.218,3389,ssh-client,SSH-2.0-Go
+2026-10-19T11:09:42Z,119.237.87.54,23,telnet-negotiation,
