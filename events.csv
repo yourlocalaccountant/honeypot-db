@@ -10918,3 +10918,7 @@ time_utc,ip,port,kind,client_data
 2026-10-19T10:17:23Z,117.26.67.92,23,telnet-negotiation,
 2026-10-19T10:18:40Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-19T10:21:37Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T10:22:32Z,40.124.113.127,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 zgrab/0.x Accept: */* Ac
+2026-10-19T10:24:04Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T10:25:07Z,45.152.73.149,23,telnet-negotiation,
+2026-10-19T10:29:46Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
