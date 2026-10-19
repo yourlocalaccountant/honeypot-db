@@ -10442,3 +10442,12 @@ time_utc,ip,port,kind,client_data
 2026-10-19T01:31:52Z,82.47.133.229,3389,rdp-request,'+& Cookie: mstshash=hello
 2026-10-19T01:31:57Z,82.47.133.229,3389,rdp-request,'+& Cookie: mstshash=hello
 2026-10-19T01:33:15Z,180.165.48.251,2323,no-data,
+2026-10-19T01:37:36Z,210.223.251.2,23,telnet-negotiation,
+2026-10-19T01:43:10Z,81.19.219.251,3389,rdp-request,
+2026-10-19T01:43:19Z,64.205.72.211,3389,no-data,
+2026-10-19T01:43:20Z,77.67.26.206,3389,rdp-request,50 Cookie: mstshash=administrator
+2026-10-19T01:43:20Z,86.38.187.134,3389,rdp-request,
+2026-10-19T01:43:21Z,64.205.72.182,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (compatible; Infrawatch/
+2026-10-19T01:43:22Z,200.138.46.244,3389,tls-handshake,"$ D;M h $m&FNv 2 tm  eB s ! Rr ) E =W7D F + / , 0 / 5 ' #"
+2026-10-19T01:43:22Z,86.38.187.160,3389,tls-handshake,"M ]aU @Zh ^ '   [f S ) E i V S F + / , 0 / 5 ' #"
+2026-10-19T01:43:23Z,86.38.187.174,3389,tls-handshake,"> 5 - Ni a>N ; < s >   L   < > KP ~ 2 V o F + / , 0 / 5 ' #"
