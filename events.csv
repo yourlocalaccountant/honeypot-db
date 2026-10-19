@@ -10665,3 +10665,31 @@ time_utc,ip,port,kind,client_data
 2026-10-19T06:11:30Z,34.14.116.5,3389,no-data,
 2026-10-19T06:11:34Z,34.14.116.5,3389,no-data,
 2026-10-19T06:11:40Z,34.14.116.5,3389,no-data,
+2026-10-19T06:11:44Z,34.14.116.5,3389,no-data,
+2026-10-19T06:11:44Z,34.14.116.5,3389,other,version bind
+2026-10-19T06:11:50Z,34.14.116.5,3389,no-data,
+2026-10-19T06:11:50Z,34.14.116.5,3389,rdp-request,
+2026-10-19T06:11:56Z,34.14.116.5,3389,no-data,
+2026-10-19T06:12:00Z,34.14.116.5,3389,no-data,
+2026-10-19T06:12:00Z,34.14.116.5,3389,other,"X % & ' + , $ \ k < K { \2!$ 7 b9JF,"
+2026-10-19T06:12:01Z,34.14.116.5,3389,other,0: R `2 cn=kpjvcvzprvxicxljdmcl kpjvcvzprvxicxljdmcl
+2026-10-19T06:12:06Z,34.14.116.5,3389,other,C 3 consumer-Offset Explorer 2.2-18 apache-kafka-java 2.4.0
+2026-10-19T06:12:07Z,34.14.116.5,3389,no-data,
+2026-10-19T06:12:07Z,34.14.116.5,3389,other,# 3 adminclient-5 QoICyT
+2026-10-19T06:12:13Z,34.14.116.5,3389,no-data,
+2026-10-19T06:12:13Z,34.14.116.5,3389,other,(r |
+2026-10-19T06:12:13Z,34.14.116.5,3389,other,f SMB@ $ 333333333333337
+2026-10-19T06:12:14Z,34.14.116.5,3389,other,
+2026-10-19T06:12:15Z,34.14.116.5,3389,other,*1 $4 PING
+2026-10-19T06:12:15Z,34.14.116.5,3389,other,MQTT < AAAAA
+2026-10-19T06:12:16Z,34.14.116.5,3389,other,JDWP-Handshake
+2026-10-19T06:12:17Z,34.14.116.5,3389,other,JRMI K
+2026-10-19T06:12:18Z,34.14.116.5,3389,other,'@RSYTCD: 29
+2026-10-19T06:12:18Z,34.14.116.5,3389,other,MQTT < AAAAA
+2026-10-19T06:12:19Z,34.14.116.5,3389,other,"< , : (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-"
+2026-10-19T06:12:20Z,34.14.116.5,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 1746
+2026-10-19T06:12:20Z,34.14.116.5,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
+2026-10-19T06:13:38Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T06:15:23Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T06:18:51Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T06:20:18Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
