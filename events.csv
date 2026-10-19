@@ -11072,3 +11072,8 @@ time_utc,ip,port,kind,client_data
 2026-10-19T14:22:40Z,193.107.177.144,23,telnet-negotiation,
 2026-10-19T14:29:45Z,199.245.176.83,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-19T14:39:21Z,103.211.76.8,2222,rdp-request,
+2026-10-19T15:01:38Z,122.155.132.40,23,telnet-negotiation,
+2026-10-19T15:02:55Z,40.124.83.171,3389,tls-handshake,"O b. E a 5 [ I[ DH ]j@   v : DK  Bqlt \t A2 & / 0 + , / 5 {"
+2026-10-19T15:04:49Z,45.115.26.152,3389,rdp-request,",' Cookie: mstshash=Domain"
+2026-10-19T15:04:49Z,45.115.26.152,3389,rdp-request,",' Cookie: mstshash=Domain"
+2026-10-19T15:04:50Z,45.115.26.152,3389,rdp-request,",' Cookie: mstshash=Domain"
