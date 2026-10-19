@@ -10415,3 +10415,4 @@ time_utc,ip,port,kind,client_data
 2026-10-18T23:59:46Z,221.157.130.150,23,telnet-negotiation,
 2026-10-19T00:01:20Z,95.24.104.36,23,no-data,
 2026-10-19T00:01:30Z,95.24.104.36,23,no-data,
+2026-10-19T00:04:28Z,175.200.208.28,23,telnet-negotiation,
