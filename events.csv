@@ -11129,3 +11129,97 @@ time_utc,ip,port,kind,client_data
 2026-10-19T16:28:43Z,85.217.149.35,2222,other,00000000
 2026-10-19T16:31:36Z,89.191.247.68,23,telnet-negotiation,
 2026-10-19T16:36:46Z,153.174.88.193,23,telnet-negotiation,
+2026-10-19T16:39:45Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:39:58Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:40:00Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:40:11Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:40:12Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:40:24Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:40:25Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:40:37Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:40:38Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:40:50Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:40:51Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:41:03Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:41:05Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:41:13Z,185.247.137.181,3389,rdp-request,",' Cookie: mstshash=eltons"
+2026-10-19T16:41:16Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:41:17Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:41:29Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:41:29Z,185.247.137.155,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (compatible; InternetMea
+2026-10-19T16:41:31Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:41:42Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:41:44Z,87.236.176.162,3389,other,H ] + ] + H`
+2026-10-19T16:41:45Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:41:55Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:41:58Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:42:00Z,185.247.137.169,3389,other,
+2026-10-19T16:42:00Z,185.247.137.169,3389,other,yh
+2026-10-19T16:42:08Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:42:11Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:42:16Z,185.247.137.154,3389,other,( L
+2026-10-19T16:42:21Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:42:24Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:42:31Z,195.96.139.172,3389,http,OPTIONS * RTSP/1.0 CSeq: 1
+2026-10-19T16:42:34Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:42:38Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:42:47Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:42:47Z,195.96.139.172,3389,http,OPTIONS sip:x.x.x.x SIP/2.0 Via: SIP/2.0/TCP x.x.x.x:5060;rport;branch=z9hG4bKpz
+2026-10-19T16:42:51Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:43:00Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:43:04Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:43:08Z,87.236.176.172,3389,other,8 c
+2026-10-19T16:43:13Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:43:17Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:43:24Z,87.236.176.152,3389,other,'+<M
+2026-10-19T16:43:26Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:43:30Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:43:39Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:43:39Z,87.236.176.170,3389,other,
+2026-10-19T16:43:43Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:43:52Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:43:55Z,87.236.176.160,3389,other,1 SMBr NT LM 0.12
+2026-10-19T16:43:55Z,87.236.176.160,3389,other,n SMB@ $
+2026-10-19T16:43:56Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:44:05Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:44:10Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:44:11Z,185.247.137.147,3389,other,*1 $4 info
+2026-10-19T16:44:18Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:44:24Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:44:26Z,195.96.139.157,3389,other,MQTT <
+2026-10-19T16:44:27Z,195.96.139.157,3389,other,2 MQIsdp < $7cb8348e-5ca6-4907-9e7e-465452d31ecf
+2026-10-19T16:44:27Z,195.96.139.157,3389,other,MQTT <
+2026-10-19T16:44:31Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:44:38Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:44:43Z,185.247.137.147,3389,other,
+2026-10-19T16:44:44Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:44:51Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:44:57Z,139.135.40.203,23,telnet-negotiation,
+2026-10-19T16:44:57Z,220.89.125.32,23,telnet-negotiation,
+2026-10-19T16:44:58Z,87.236.176.172,3389,other,U
+2026-10-19T16:45:05Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:45:14Z,195.96.139.162,3389,other,"7 , . admin.$cmd hello"
+2026-10-19T16:45:18Z,182.190.213.189,23,telnet-negotiation,
+2026-10-19T16:45:22Z,31.41.64.133,23,no-data,
+2026-10-19T16:45:29Z,87.236.176.152,3389,other,
+2026-10-19T16:45:38Z,31.41.64.133,23,no-data,
+2026-10-19T16:45:45Z,195.96.139.154,3389,other,0 `
+2026-10-19T16:45:45Z,195.96.139.154,3389,other,0 w x.x.x.x.4.1.1466.20037
+2026-10-19T16:46:01Z,195.96.139.148,3389,other,<?xml version='1.0'?><stream:stream version='1.0' xml:lang='en' xmlns:stream='ht
+2026-10-19T16:46:16Z,87.236.176.173,3389,other,`_ +
+2026-10-19T16:46:32Z,185.247.137.152,3389,other,"x @ ,   . J     (DESCRIPTION=(CONNECT_DATA=(COMMAND=version)))"
+2026-10-19T16:46:39Z,89.191.247.68,23,telnet-negotiation,
+2026-10-19T16:46:47Z,87.236.176.155,3389,other,/multistream/1.0.0
+2026-10-19T16:47:03Z,195.96.139.173,3389,other,fox a 1 -1 fox hello { fox.version=s:1.0 id=i:1 };;
+2026-10-19T16:47:18Z,195.96.139.165,3389,other,!
+2026-10-19T16:47:34Z,87.236.176.173,3389,other,C = HeaderDigest=None DataDigest=None SessionType=Discovery MaxRecvDataSegme
+2026-10-19T16:47:49Z,87.236.176.163,3389,other,"2 , A ^ m Z $ $ @ t G"
+2026-10-19T16:48:05Z,185.247.137.151,3389,other,ANY-SCP         ECHOSCU          1.2.840.10008.x.x.x.x  . 0 x.x.x.x
+2026-10-19T16:48:20Z,87.236.176.166,3389,other,"CONNECT accept-version:1.0,1.1,2.0"
+2026-10-19T16:48:36Z,185.247.137.165,3389,other,stats
+2026-10-19T16:48:43Z,211.225.18.106,23,telnet-negotiation,
+2026-10-19T16:48:51Z,195.96.139.148,3389,other,l
+2026-10-19T16:49:07Z,195.96.139.171,3389,other,"A Y w3z[ c 3   e} 'i AU / E\H D r hp' N:J 7 ~y M3 ~ ) V T w kw , 3! ( wH b("
+2026-10-19T16:49:07Z,195.96.139.171,3389,other,version V O J j
+2026-10-19T16:49:23Z,195.96.139.173,3389,other,HELFD $ opc.tcp://localHost: [redacted]
+2026-10-19T16:49:38Z,87.236.176.155,3389,other,'@ Q 8 <
