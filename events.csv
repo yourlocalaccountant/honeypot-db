@@ -10847,3 +10847,10 @@ time_utc,ip,port,kind,client_data
 2026-10-19T08:18:30Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-19T08:24:23Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-19T08:26:13Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T08:28:06Z,221.156.173.44,23,telnet-negotiation,
+2026-10-19T08:28:36Z,148.222.199.17,23,no-data,
+2026-10-19T08:29:03Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-19T08:30:29Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T08:30:51Z,148.222.199.17,23,no-data,
+2026-10-19T08:36:05Z,196.77.9.175,23,no-data,
+2026-10-19T08:36:55Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
