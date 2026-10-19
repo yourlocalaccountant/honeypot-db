@@ -10525,3 +10525,7 @@ time_utc,ip,port,kind,client_data
 2026-10-19T03:06:26Z,42.225.230.166,23,telnet-negotiation,
 2026-10-19T03:06:39Z,42.225.230.166,23,telnet-negotiation,
 2026-10-19T03:10:21Z,151.0.21.130,23,no-data,
+2026-10-19T03:13:54Z,46.101.210.46,2222,http,"GET / HTTP/1.1 Host: [redacted] Connection: keep-alive sec-ch-ua: ""Chromium"";v="""
+2026-10-19T03:13:54Z,46.101.210.46,2222,http,"GET /favicon.ico HTTP/1.1 Host: [redacted] Connection: keep-alive sec-ch-ua: ""Ch"
+2026-10-19T03:15:34Z,81.28.253.201,23,telnet-negotiation,
+2026-10-19T03:21:54Z,164.163.98.34,23,telnet-negotiation,
