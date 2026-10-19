@@ -10649,3 +10649,19 @@ time_utc,ip,port,kind,client_data
 2026-10-19T05:54:43Z,83.251.102.189,23,telnet-negotiation,
 2026-10-19T05:57:25Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-19T05:58:15Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T06:01:17Z,130.12.180.174,23,no-data,
+2026-10-19T06:01:34Z,109.58.165.169,23,telnet-negotiation,
+2026-10-19T06:01:42Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T06:06:53Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T06:06:57Z,18.218.118.203,23,other,
+2026-10-19T06:07:39Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T06:08:38Z,18.218.118.203,23,telnet-negotiation,
+2026-10-19T06:09:57Z,65.20.113.87,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-19T06:11:21Z,34.14.116.5,3389,rdp-request,
+2026-10-19T06:11:22Z,34.14.116.5,3389,tls-handshake,"Z ! 0E s 7 q z < = <i     X   C < u [o IB T r c ] 2 + / , 0 / 5 # ' <"
+2026-10-19T06:11:23Z,34.14.116.5,3389,other,; admin.$cmd hello ?
+2026-10-19T06:11:24Z,34.14.116.5,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-10-19T06:11:24Z,34.14.116.5,3389,other,"J)t jJ G L .I L y Q ,6T $ q y v _ T x EQ"
+2026-10-19T06:11:30Z,34.14.116.5,3389,no-data,
+2026-10-19T06:11:34Z,34.14.116.5,3389,no-data,
+2026-10-19T06:11:40Z,34.14.116.5,3389,no-data,
