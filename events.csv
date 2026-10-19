@@ -10529,3 +10529,7 @@ time_utc,ip,port,kind,client_data
 2026-10-19T03:13:54Z,46.101.210.46,2222,http,"GET /favicon.ico HTTP/1.1 Host: [redacted] Connection: keep-alive sec-ch-ua: ""Ch"
 2026-10-19T03:15:34Z,81.28.253.201,23,telnet-negotiation,
 2026-10-19T03:21:54Z,164.163.98.34,23,telnet-negotiation,
+2026-10-19T03:38:27Z,46.191.187.4,23,telnet-negotiation,
+2026-10-19T03:40:42Z,14.58.29.216,23,telnet-negotiation,
+2026-10-19T03:42:12Z,65.20.113.87,3389,rdp-request,
+2026-10-19T03:42:49Z,65.20.113.87,3389,rdp-request,
