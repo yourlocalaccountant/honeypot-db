@@ -82984,3 +82984,16 @@ time_utc,ip,port,kind,client_data
 2026-10-20T16:41:33Z,123.8.165.65,23,telnet-negotiation,
 2026-10-20T16:41:45Z,123.8.165.65,23,telnet-negotiation,
 2026-10-20T16:42:20Z,91.231.89.66,2222,ssh-client,SSH-2.0-perlssh
+2026-10-20T16:43:24Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-20T16:44:26Z,91.196.152.7,2222,ssh-client,SSH-2.0-perlssh
+2026-10-20T16:45:25Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-20T16:46:21Z,91.231.89.77,2222,ssh-client,SSH-2.0-perlssh
+2026-10-20T16:46:27Z,61.84.135.248,23,telnet-negotiation,
+2026-10-20T16:46:38Z,125.212.192.147,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-20T16:47:24Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-20T16:49:21Z,91.231.89.245,2222,ssh-client,SSH-2.0-perlssh
+2026-10-20T16:49:23Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-20T16:51:24Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-20T16:51:44Z,195.238.116.231,23,telnet-negotiation,
+2026-10-20T16:52:19Z,91.196.152.221,2222,ssh-client,SSH-2.0-perlssh
+2026-10-20T16:53:25Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
