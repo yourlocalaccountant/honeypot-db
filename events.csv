@@ -11669,3 +11669,14 @@ time_utc,ip,port,kind,client_data
 2026-10-20T01:33:44Z,136.244.100.79,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-20T01:34:34Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
 2026-10-20T01:36:16Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-20T01:37:22Z,112.167.230.128,23,telnet-negotiation,
+2026-10-20T01:37:23Z,194.164.107.4,2323,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-10-20T01:37:55Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-20T01:39:35Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-20T01:41:16Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-20T01:42:40Z,121.164.222.120,23,telnet-negotiation,
+2026-10-20T01:42:57Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-20T01:44:36Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-20T01:44:50Z,136.244.100.79,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-20T01:44:59Z,183.96.175.150,23,telnet-negotiation,
+2026-10-20T01:46:17Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
