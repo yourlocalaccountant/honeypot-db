@@ -85342,3 +85342,10 @@ time_utc,ip,port,kind,client_data
 2026-10-21T16:22:44Z,208.109.242.255,23,telnet-negotiation,
 2026-10-21T16:22:46Z,121.190.45.140,23,telnet-negotiation,
 2026-10-21T16:22:50Z,208.109.242.255,23,telnet-negotiation,
+2026-10-21T16:22:54Z,208.109.242.255,23,telnet-negotiation,
+2026-10-21T16:22:58Z,208.109.242.255,23,telnet-negotiation,
+2026-10-21T16:24:32Z,103.127.166.126,23,telnet-negotiation,
+2026-10-21T16:24:53Z,103.86.198.162,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-21T16:25:41Z,77.239.124.249,23,http,GET / HTTP/1.1 Host: [redacted]
+2026-10-21T16:27:40Z,27.147.143.141,3389,rdp-request,
+2026-10-21T16:32:48Z,222.255.174.161,3389,rdp-request,
