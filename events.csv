@@ -83788,3 +83788,15 @@ time_utc,ip,port,kind,client_data
 2026-10-21T03:22:31Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
 2026-10-21T03:24:25Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
 2026-10-21T03:24:33Z,121.190.45.140,23,telnet-negotiation,
+2026-10-21T03:26:15Z,80.249.185.244,23,telnet-negotiation,
+2026-10-21T03:26:20Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-21T03:26:27Z,47.103.36.53,3389,rdp-request,
+2026-10-21T03:26:39Z,47.103.36.53,3389,tls-handshake,"I i Y e- Ud] b8 g 9dZ8f g i N g|p <Z T 8'O; & + / , 0 / 5 {"
+2026-10-21T03:26:49Z,47.103.36.53,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: curl/7.64.1 Accept: */*
+2026-10-21T03:27:00Z,47.103.36.53,3389,other,'@ w startrfc 1100 default_startrfc.*
+2026-10-21T03:27:10Z,47.103.36.53,3389,other,'@ @
+2026-10-21T03:27:21Z,47.103.36.53,3389,other,'@ B sapdp00 4103 sapnw-pasapdp00
+2026-10-21T03:28:17Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-21T03:30:12Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-21T03:32:11Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-21T03:34:11Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
