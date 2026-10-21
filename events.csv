@@ -88219,3 +88219,13 @@ time_utc,ip,port,kind,client_data
 2026-10-21T21:33:52Z,208.109.242.255,23,telnet-negotiation,
 2026-10-21T21:33:55Z,208.109.242.255,23,telnet-negotiation,
 2026-10-21T21:33:59Z,208.109.242.255,23,telnet-negotiation,
+2026-10-21T21:41:29Z,121.190.45.140,23,telnet-negotiation,
+2026-10-21T21:43:49Z,43.153.71.137,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-21T21:44:12Z,102.212.40.238,23,telnet-negotiation,
+2026-10-21T21:44:25Z,102.212.40.238,23,telnet-negotiation,
+2026-10-21T21:44:41Z,102.212.40.238,23,telnet-negotiation,
+2026-10-21T21:44:54Z,102.212.40.238,23,telnet-negotiation,
+2026-10-21T21:45:07Z,102.212.40.238,23,telnet-negotiation,
+2026-10-21T21:45:20Z,102.212.40.238,23,telnet-negotiation,
+2026-10-21T21:45:36Z,102.212.40.238,23,telnet-negotiation,
+2026-10-21T21:46:28Z,79.9.119.150,23,telnet-negotiation,
