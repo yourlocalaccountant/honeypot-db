@@ -84043,3 +84043,12 @@ time_utc,ip,port,kind,client_data
 2026-10-21T06:33:10Z,207.175.124.169,3389,other,'@RSYTCD: 29
 2026-10-21T06:33:11Z,207.175.124.169,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
 2026-10-21T06:33:12Z,207.175.124.169,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 8799
+2026-10-21T06:34:17Z,70.34.221.98,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-21T06:36:26Z,130.12.180.174,23,no-data,
+2026-10-21T06:37:47Z,188.240.59.48,3389,rdp-request,
+2026-10-21T06:38:53Z,77.67.26.152,3389,tls-handshake,"o : @ @ { ."" Ds  V _ * _} h N M H + / , 0 / 5 ' #"
+2026-10-21T06:38:53Z,77.67.26.184,3389,tls-handshake,"TD o <T o Yd q!qI d C)@ >   0 -I ,a G wI R y s ] H:: + / , 0 / 5 ' #"
+2026-10-21T06:38:54Z,64.205.72.222,3389,tls-handshake,"(`R p I f= 8y ] @5o  8 J u % P h [ L H** + / , 0 / 5 ' #"
+2026-10-21T06:38:54Z,77.67.26.249,3389,tls-handshake,"0 # X i !r` k T z`P ` \ 5 & s` I0y? N hN ) Hjj + / , 0 / 5 ' #"
+2026-10-21T06:39:36Z,121.190.45.140,23,telnet-negotiation,
+2026-10-21T06:43:30Z,70.34.221.98,3389,rdp-request,'+& Cookie: mstshash=probe
