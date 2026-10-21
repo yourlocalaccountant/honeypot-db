@@ -84708,3 +84708,9 @@ time_utc,ip,port,kind,client_data
 2026-10-21T14:38:40Z,178.253.252.48,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-21T14:40:08Z,71.183.227.9,23,telnet-negotiation,
 2026-10-21T14:40:10Z,190.151.5.26,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-21T14:52:43Z,121.190.45.140,23,telnet-negotiation,
+2026-10-21T14:57:16Z,98.80.4.4,2222,ssh-client,SSH-2.0-paramiko_2.9.2
+2026-10-21T14:57:17Z,98.80.4.4,2222,no-data,
+2026-10-21T14:59:20Z,94.26.88.29,3389,no-data,
+2026-10-21T14:59:20Z,94.26.88.29,3389,rdp-request,*% Cookie: mstshash=Test
+2026-10-21T14:59:21Z,94.26.88.29,3389,rdp-request,*% Cookie: mstshash=Test
