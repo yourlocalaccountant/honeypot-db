@@ -84121,3 +84121,7 @@ time_utc,ip,port,kind,client_data
 2026-10-21T08:00:01Z,117.245.142.185,23,telnet-negotiation,
 2026-10-21T08:02:31Z,70.34.221.98,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-21T08:06:30Z,70.34.221.98,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-21T08:09:01Z,121.190.45.140,23,telnet-negotiation,
+2026-10-21T08:11:02Z,177.8.222.26,23,telnet-negotiation,
+2026-10-21T08:11:27Z,45.225.212.184,23,telnet-negotiation,
+2026-10-21T08:16:59Z,70.34.221.98,3389,rdp-request,'+& Cookie: mstshash=probe
