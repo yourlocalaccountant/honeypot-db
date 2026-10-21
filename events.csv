@@ -84211,3 +84211,5 @@ time_utc,ip,port,kind,client_data
 2026-10-21T10:00:15Z,185.159.162.210,23,no-data,
 2026-10-21T10:07:24Z,121.190.45.140,23,telnet-negotiation,
 2026-10-21T10:12:52Z,70.34.221.98,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-21T10:22:25Z,121.190.45.140,23,telnet-negotiation,
+2026-10-21T10:25:03Z,85.217.149.16,2323,other,00000000
