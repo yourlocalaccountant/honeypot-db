@@ -84058,3 +84058,15 @@ time_utc,ip,port,kind,client_data
 2026-10-21T06:54:41Z,70.34.221.98,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-21T06:57:46Z,70.31.101.244,23,telnet-negotiation,
 2026-10-21T07:03:10Z,70.34.221.98,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-21T07:06:27Z,153.117.32.130,23,telnet-negotiation,
+2026-10-21T07:06:39Z,153.117.32.130,23,telnet-negotiation,
+2026-10-21T07:06:52Z,153.117.32.130,23,telnet-negotiation,
+2026-10-21T07:09:30Z,121.190.45.140,23,telnet-negotiation,
+2026-10-21T07:11:01Z,70.34.221.98,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-21T07:15:39Z,87.236.176.117,3389,rdp-request,",' Cookie: mstshash=eltons"
+2026-10-21T07:15:55Z,185.247.137.117,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (compatible; InternetMea
+2026-10-21T07:16:10Z,195.96.139.142,3389,other,H ] + ] + H`
+2026-10-21T07:16:26Z,87.236.176.131,3389,other,
+2026-10-21T07:16:26Z,87.236.176.131,3389,other,yhW
+2026-10-21T07:16:42Z,195.96.139.117,3389,other,( %
+2026-10-21T07:16:53Z,103.143.11.18,23,no-data,
