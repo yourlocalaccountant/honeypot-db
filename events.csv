@@ -83685,3 +83685,19 @@ time_utc,ip,port,kind,client_data
 2026-10-21T01:27:23Z,86.38.187.221,2222,ssh-client,SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.8
 2026-10-21T01:27:24Z,64.205.72.158,2222,other,c
 2026-10-21T01:28:35Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-21T01:29:51Z,150.95.25.34,23,telnet-negotiation,
+2026-10-21T01:29:52Z,150.95.25.34,23,telnet-negotiation,
+2026-10-21T01:29:53Z,150.95.25.34,23,telnet-negotiation,
+2026-10-21T01:29:53Z,150.95.25.34,23,telnet-negotiation,
+2026-10-21T01:29:54Z,150.95.25.34,23,telnet-negotiation,
+2026-10-21T01:30:33Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-21T01:32:33Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-21T01:34:33Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-21T01:36:28Z,150.95.25.34,23,telnet-negotiation,
+2026-10-21T01:36:29Z,150.95.25.34,23,telnet-negotiation,
+2026-10-21T01:36:30Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-21T01:36:30Z,150.95.25.34,23,telnet-negotiation,
+2026-10-21T01:36:31Z,150.95.25.34,23,telnet-negotiation,
+2026-10-21T01:36:32Z,150.95.25.34,23,telnet-negotiation,
+2026-10-21T01:38:28Z,103.211.76.8,2222,ssh-client,SSH-2.0-Go
+2026-10-21T01:39:33Z,121.190.45.140,23,telnet-negotiation,
