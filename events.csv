@@ -84290,3 +84290,7 @@ time_utc,ip,port,kind,client_data
 2026-10-21T11:41:19Z,121.142.204.4,23,telnet-negotiation,
 2026-10-21T11:50:11Z,103.132.98.160,3389,rdp-request,
 2026-10-21T11:50:55Z,5.232.139.168,23,telnet-negotiation,
+2026-10-21T12:04:59Z,124.72.181.145,23,telnet-negotiation,
+2026-10-21T12:05:02Z,138.0.59.192,23,no-data,
+2026-10-21T12:06:07Z,138.0.59.192,23,no-data,
+2026-10-21T12:07:27Z,121.190.45.140,23,telnet-negotiation,
