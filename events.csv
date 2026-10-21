@@ -84706,3 +84706,5 @@ time_utc,ip,port,kind,client_data
 2026-10-21T14:38:35Z,208.109.242.255,23,telnet-negotiation,
 2026-10-21T14:38:39Z,208.109.242.255,23,telnet-negotiation,
 2026-10-21T14:38:40Z,178.253.252.48,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-21T14:40:08Z,71.183.227.9,23,telnet-negotiation,
+2026-10-21T14:40:10Z,190.151.5.26,2222,ssh-client,SSH-2.0-libssh_0.9.6
