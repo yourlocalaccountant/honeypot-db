@@ -84294,3 +84294,10 @@ time_utc,ip,port,kind,client_data
 2026-10-21T12:05:02Z,138.0.59.192,23,no-data,
 2026-10-21T12:06:07Z,138.0.59.192,23,no-data,
 2026-10-21T12:07:27Z,121.190.45.140,23,telnet-negotiation,
+2026-10-21T12:22:26Z,121.190.45.140,23,telnet-negotiation,
+2026-10-21T12:25:19Z,189.172.179.188,23,telnet-negotiation,
+2026-10-21T12:25:42Z,172.236.228.208,2323,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS
+2026-10-21T12:25:43Z,172.236.228.208,2323,tls-handshake,"{ w c""t L 8@ R} WV & =7 @ / + / 5 4"
+2026-10-21T12:27:52Z,192.169.226.90,23,no-data,
+2026-10-21T12:29:58Z,77.90.185.14,2222,no-data,
+2026-10-21T12:31:44Z,45.183.184.74,23,telnet-negotiation,
