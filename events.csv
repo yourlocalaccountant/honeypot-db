@@ -89830,3 +89830,8 @@ time_utc,ip,port,kind,client_data
 2026-10-22T06:29:10Z,94.231.206.32,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T06:29:27Z,93.123.109.204,3389,rdp-request,
 2026-10-22T06:30:11Z,37.148.47.203,23,telnet-negotiation,
+2026-10-22T06:32:13Z,94.231.206.2,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T06:35:13Z,94.231.206.12,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T06:35:57Z,120.43.48.219,23,telnet-negotiation,
+2026-10-22T06:37:10Z,94.231.206.13,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T06:40:09Z,94.231.206.105,2222,ssh-client,SSH-2.0-perlssh
