@@ -90437,3 +90437,12 @@ time_utc,ip,port,kind,client_data
 2026-10-22T17:22:09Z,94.231.206.35,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T17:26:08Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T17:26:22Z,121.189.244.35,23,telnet-negotiation,
+2026-10-22T17:29:12Z,94.231.206.12,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T17:31:07Z,27.147.143.141,3389,rdp-request,
+2026-10-22T17:32:07Z,79.106.74.163,23,telnet-negotiation,
+2026-10-22T17:32:10Z,94.231.206.34,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T17:32:38Z,183.96.175.150,23,telnet-negotiation,
+2026-10-22T17:34:55Z,143.110.145.158,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-22T17:35:12Z,94.231.206.12,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T17:35:29Z,50.6.203.118,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-22T17:36:33Z,60.13.227.206,2222,ssh-client,SSH-2.0-libssh_0.9.6
