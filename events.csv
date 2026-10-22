@@ -89374,3 +89374,8 @@ time_utc,ip,port,kind,client_data
 2026-10-22T02:18:12Z,94.231.206.14,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T02:20:16Z,94.231.206.10,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T02:20:39Z,125.160.128.248,23,telnet-negotiation,
+2026-10-22T02:23:07Z,94.231.206.106,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T02:26:07Z,94.231.206.34,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T02:26:35Z,121.190.45.140,23,telnet-negotiation,
+2026-10-22T02:29:12Z,94.231.206.1,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T02:31:38Z,216.226.78.10,3389,tls-handshake,"GMg "" G I U r' c U x  ~ ij l * +^ U4 b& & / 0 + , / 5 {"
