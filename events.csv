@@ -89850,3 +89850,7 @@ time_utc,ip,port,kind,client_data
 2026-10-22T06:59:04Z,61.72.67.87,23,telnet-negotiation,
 2026-10-22T07:00:16Z,37.148.47.203,23,telnet-negotiation,
 2026-10-22T07:01:15Z,94.231.206.5,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T07:05:10Z,94.231.206.110,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T07:05:30Z,125.160.128.248,23,telnet-negotiation,
+2026-10-22T07:08:12Z,94.231.206.6,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T07:11:09Z,94.231.206.39,2222,ssh-client,SSH-2.0-perlssh
