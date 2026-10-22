@@ -90280,3 +90280,7 @@ time_utc,ip,port,kind,client_data
 2026-10-22T15:11:12Z,94.231.206.3,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T15:11:57Z,124.161.224.81,2222,no-data,
 2026-10-22T15:11:57Z,124.161.224.81,2222,ssh-client,SSH-2.0-Go
+2026-10-22T15:14:12Z,94.231.206.12,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T15:17:09Z,94.231.206.32,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T15:20:09Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T15:21:42Z,133.18.114.188,2222,ssh-client,SSH-2.0-libssh_0.9.6
