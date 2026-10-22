@@ -90509,3 +90509,9 @@ time_utc,ip,port,kind,client_data
 2026-10-22T18:15:14Z,103.20.122.54,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-22T18:15:16Z,94.231.206.8,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T18:17:19Z,79.106.74.163,23,telnet-negotiation,
+2026-10-22T18:18:17Z,129.121.142.84,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-22T18:19:09Z,94.231.206.14,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T18:21:01Z,27.147.143.141,3389,rdp-request,
+2026-10-22T18:21:08Z,94.231.206.32,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T18:22:37Z,120.48.132.230,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-22T18:25:13Z,94.231.206.5,2222,ssh-client,SSH-2.0-perlssh
