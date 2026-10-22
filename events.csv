@@ -89384,3 +89384,12 @@ time_utc,ip,port,kind,client_data
 2026-10-22T02:35:09Z,94.231.206.35,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T02:39:15Z,94.231.206.3,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T02:41:28Z,121.190.45.140,23,telnet-negotiation,
+2026-10-22T02:42:09Z,94.231.206.39,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T02:45:07Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T02:47:34Z,35.210.61.208,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-22T02:47:42Z,121.150.234.205,23,telnet-negotiation,
+2026-10-22T02:48:12Z,94.231.206.10,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T02:49:06Z,73.228.93.249,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-22T02:49:21Z,34.53.156.65,23,no-data,
+2026-10-22T02:51:10Z,94.231.206.108,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T02:51:33Z,91.207.245.201,23,telnet-negotiation,
