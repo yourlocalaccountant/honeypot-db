@@ -90007,3 +90007,8 @@ time_utc,ip,port,kind,client_data
 2026-10-22T09:24:14Z,94.231.206.3,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T09:26:09Z,94.231.206.104,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T09:30:15Z,94.231.206.13,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T09:31:26Z,27.147.143.141,3389,rdp-request,
+2026-10-22T09:33:11Z,94.231.206.13,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T09:33:47Z,167.94.146.52,2222,ssh-client,SSH-2.0-Go
+2026-10-22T09:36:12Z,94.231.206.7,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T09:40:15Z,94.231.206.14,2222,ssh-client,SSH-2.0-perlssh
