@@ -89721,3 +89721,21 @@ time_utc,ip,port,kind,client_data
 2026-10-22T04:45:17Z,45.229.38.98,23,telnet-negotiation,
 2026-10-22T04:45:35Z,66.240.223.208,3389,other,
 2026-10-22T04:46:11Z,94.231.206.1,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T04:47:42Z,103.203.57.12,3389,rdp-request,
+2026-10-22T04:47:45Z,103.203.57.12,3389,no-data,
+2026-10-22T04:47:45Z,103.203.57.12,3389,other,'+<M (
+2026-10-22T04:47:46Z,103.203.57.12,3389,http,GET http://clientapi.ipip.net/echo.php?info=20261022044746 HTTP/1.1 Host: [redac
+2026-10-22T04:47:46Z,103.203.57.12,3389,other,
+2026-10-22T04:47:47Z,103.203.57.12,3389,other,
+2026-10-22T04:47:52Z,103.203.57.12,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 Accept-Encoding: gzip Co
+2026-10-22T04:47:52Z,103.203.57.12,3389,no-data,
+2026-10-22T04:49:11Z,94.231.206.10,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T04:51:09Z,94.231.206.104,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T04:51:25Z,74.82.47.5,23,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-10-22T04:51:30Z,113.9.209.138,23,telnet-negotiation,
+2026-10-22T04:53:09Z,94.231.206.32,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T04:55:12Z,94.231.206.5,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T04:55:44Z,66.132.195.222,23,telnet-negotiation,
+2026-10-22T04:55:48Z,66.132.195.222,2323,no-data,
+2026-10-22T04:55:53Z,66.132.195.222,2222,ssh-client,SSH-2.0-Go
+2026-10-22T04:56:33Z,121.190.45.140,23,telnet-negotiation,
