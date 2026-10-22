@@ -90430,3 +90430,10 @@ time_utc,ip,port,kind,client_data
 2026-10-22T17:11:24Z,46.8.145.129,23,no-data,
 2026-10-22T17:12:08Z,94.231.206.33,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T17:13:41Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-22T17:16:09Z,94.231.206.106,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T17:17:37Z,183.96.175.150,23,telnet-negotiation,
+2026-10-22T17:19:07Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T17:21:50Z,119.155.30.33,23,telnet-negotiation,
+2026-10-22T17:22:09Z,94.231.206.35,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T17:26:08Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T17:26:22Z,121.189.244.35,23,telnet-negotiation,
