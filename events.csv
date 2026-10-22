@@ -90573,3 +90573,6 @@ time_utc,ip,port,kind,client_data
 2026-10-22T21:30:32Z,18.97.19.148,2222,ssh-client,SSH-2.0-paramiko_2.9.2
 2026-10-22T21:33:31Z,102.210.148.92,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-22T21:34:18Z,137.184.179.158,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-22T21:37:24Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-22T21:39:20Z,27.147.143.141,3389,rdp-request,
+2026-10-22T21:43:56Z,221.144.221.177,23,telnet-negotiation,
