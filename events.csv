@@ -90371,3 +90371,8 @@ time_utc,ip,port,kind,client_data
 2026-10-22T16:22:12Z,94.243.12.105,2323,no-data,
 2026-10-22T16:22:56Z,80.66.66.68,3389,rdp-request,/* Cookie: mstshash=Administr
 2026-10-22T16:22:59Z,14.192.215.115,23,no-data,
+2026-10-22T16:25:07Z,94.231.206.33,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T16:28:11Z,94.231.206.7,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T16:31:14Z,94.231.206.7,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T16:33:27Z,162.216.149.187,2323,http,"GET / HTTP/1.1 Host: [redacted] User-Agent: Hello from Palo Alto Networks, find "
+2026-10-22T16:34:11Z,94.231.206.9,2222,ssh-client,SSH-2.0-perlssh
