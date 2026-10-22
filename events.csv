@@ -90269,3 +90269,8 @@ time_utc,ip,port,kind,client_data
 2026-10-22T14:47:08Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T14:49:09Z,94.231.206.34,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T14:51:11Z,94.231.206.33,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T14:54:10Z,122.3.6.113,23,telnet-negotiation,
+2026-10-22T14:54:10Z,94.231.206.33,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T14:57:17Z,94.231.206.8,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T15:00:14Z,94.231.206.12,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T15:02:11Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
