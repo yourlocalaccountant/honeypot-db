@@ -90211,3 +90211,9 @@ time_utc,ip,port,kind,client_data
 2026-10-22T12:55:09Z,94.231.206.35,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T12:56:53Z,130.12.180.174,23,no-data,
 2026-10-22T12:58:15Z,94.231.206.5,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T13:00:57Z,160.119.76.27,3389,rdp-request,
+2026-10-22T13:01:10Z,94.231.206.111,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T13:04:07Z,94.231.206.109,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T13:05:17Z,93.152.221.43,2222,http,CONNECT x.x.x.x:80 HTTP/1.0 Host: [redacted]
+2026-10-22T13:07:09Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T13:10:11Z,94.231.206.104,2222,ssh-client,SSH-2.0-perlssh
