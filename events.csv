@@ -90452,3 +90452,13 @@ time_utc,ip,port,kind,client_data
 2026-10-22T17:40:08Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T17:42:10Z,94.231.206.39,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T17:45:10Z,94.231.206.33,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T17:47:43Z,183.96.175.150,23,telnet-negotiation,
+2026-10-22T17:48:11Z,94.231.206.109,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T17:48:14Z,103.68.40.239,3389,rdp-request,
+2026-10-22T17:51:08Z,94.231.206.37,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T17:53:56Z,159.89.234.224,3389,tls-handshake,"X Q p z W0p m >  + ; ZGfD J] ] 0 < , 0 + / $ ( k # ' g 9"
+2026-10-22T17:54:13Z,94.231.206.2,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T17:55:26Z,117.187.180.162,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-22T17:56:07Z,27.147.143.141,3389,rdp-request,
+2026-10-22T17:56:52Z,103.53.158.121,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-22T17:57:11Z,94.231.206.14,2222,ssh-client,SSH-2.0-perlssh
