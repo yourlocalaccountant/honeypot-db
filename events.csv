@@ -89393,3 +89393,64 @@ time_utc,ip,port,kind,client_data
 2026-10-22T02:49:21Z,34.53.156.65,23,no-data,
 2026-10-22T02:51:10Z,94.231.206.108,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T02:51:33Z,91.207.245.201,23,telnet-negotiation,
+2026-10-22T02:54:12Z,94.231.206.7,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T02:54:42Z,152.32.211.187,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-22T02:55:15Z,141.94.245.19,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-22T02:56:10Z,34.77.52.245,23,no-data,
+2026-10-22T02:56:34Z,121.190.45.140,23,telnet-negotiation,
+2026-10-22T02:56:53Z,34.77.52.245,23,telnet-negotiation,& &
+2026-10-22T02:56:54Z,34.77.52.245,23,telnet-negotiation,%   NTLMSSP
+2026-10-22T02:57:08Z,94.231.206.108,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T03:00:12Z,94.231.206.6,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T03:00:23Z,35.233.0.151,3389,rdp-request,
+2026-10-22T03:00:24Z,35.233.0.151,3389,other,; admin.$cmd hello ?
+2026-10-22T03:00:24Z,35.233.0.151,3389,tls-handshake,"Hc : $ #W Hw 6/ ""   3RZ X r Y 9 = 2 + / , 0 / 5 # ' <"
+2026-10-22T03:00:25Z,35.233.0.151,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-10-22T03:00:26Z,35.233.0.151,3389,other,.Ch @6 ) 8= vPjF f; 8 J%vt | U Ax?x % N D
+2026-10-22T03:00:31Z,35.233.0.151,3389,no-data,
+2026-10-22T03:00:36Z,35.233.0.151,3389,no-data,
+2026-10-22T03:00:41Z,35.233.0.151,3389,no-data,
+2026-10-22T03:00:46Z,35.233.0.151,3389,no-data,
+2026-10-22T03:00:46Z,35.233.0.151,3389,other,version bind
+2026-10-22T03:00:51Z,35.233.0.151,3389,no-data,
+2026-10-22T03:00:51Z,35.233.0.151,3389,rdp-request,
+2026-10-22T03:00:57Z,35.233.0.151,3389,no-data,
+2026-10-22T03:01:02Z,35.233.0.151,3389,no-data,
+2026-10-22T03:01:02Z,35.233.0.151,3389,other,0: 1S `2 cn=bwptcyvunbrbbcccoknf bwptcyvunbrbbcccoknf
+2026-10-22T03:01:02Z,35.233.0.151,3389,other,"X % & ' + , $ \ k < K { \2!$ 7 b9JF,"
+2026-10-22T03:01:08Z,35.233.0.151,3389,no-data,
+2026-10-22T03:01:08Z,35.233.0.151,3389,other,C 3 consumer-Offset Explorer 2.2-18 apache-kafka-java 2.4.0
+2026-10-22T03:01:09Z,35.233.0.151,3389,other,# 3 adminclient-5 9zbZgf
+2026-10-22T03:01:14Z,35.233.0.151,3389,no-data,
+2026-10-22T03:01:14Z,35.233.0.151,3389,other,(r |
+2026-10-22T03:01:15Z,35.233.0.151,3389,other,O
+2026-10-22T03:01:15Z,35.233.0.151,3389,other,f SMB@ $ 333333333333337
+2026-10-22T03:01:16Z,35.233.0.151,3389,other,*1 $4 PING
+2026-10-22T03:01:17Z,35.233.0.151,3389,other,MQTT < AAAAA
+2026-10-22T03:01:18Z,35.233.0.151,3389,other,JDWP-Handshake
+2026-10-22T03:01:18Z,35.233.0.151,3389,other,JRMI K
+2026-10-22T03:01:19Z,35.233.0.151,3389,other,MQTT < AAAAA
+2026-10-22T03:01:20Z,35.233.0.151,3389,other,"< , : (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-"
+2026-10-22T03:01:20Z,35.233.0.151,3389,other,'@RSYTCD: 29
+2026-10-22T03:01:21Z,35.233.0.151,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
+2026-10-22T03:01:22Z,35.233.0.151,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 512
+2026-10-22T03:02:09Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T03:02:42Z,121.150.234.205,23,telnet-negotiation,
+2026-10-22T03:02:42Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:02:47Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:02:52Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:02:58Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:03:03Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:03:08Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:03:13Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:03:16Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:03:18Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:03:21Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:03:24Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:03:26Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:03:29Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:03:32Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:03:37Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:03:41Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:03:47Z,208.109.242.255,23,telnet-negotiation,
+2026-10-22T03:03:51Z,208.109.242.255,23,telnet-negotiation,
