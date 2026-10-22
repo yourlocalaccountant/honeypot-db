@@ -90251,3 +90251,9 @@ time_utc,ip,port,kind,client_data
 2026-10-22T14:06:11Z,94.231.206.7,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T14:09:50Z,82.147.84.190,3389,rdp-request,
 2026-10-22T14:10:10Z,94.231.206.36,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T14:13:12Z,94.231.206.7,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T14:15:09Z,94.231.206.105,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T14:18:09Z,94.231.206.34,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T14:20:05Z,220.77.86.237,23,telnet-negotiation,
+2026-10-22T14:20:57Z,40.74.213.31,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-10-22T14:21:11Z,94.231.206.13,2222,ssh-client,SSH-2.0-perlssh
