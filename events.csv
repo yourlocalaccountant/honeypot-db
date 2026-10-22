@@ -89604,3 +89604,9 @@ time_utc,ip,port,kind,client_data
 2026-10-22T03:23:44Z,34.140.239.38,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
 2026-10-22T03:23:45Z,34.140.239.38,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 6233
 2026-10-22T03:24:08Z,94.231.206.32,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T03:25:10Z,18.97.26.41,23,telnet-negotiation,
+2026-10-22T03:26:27Z,121.190.45.140,23,telnet-negotiation,
+2026-10-22T03:27:13Z,94.231.206.3,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T03:30:07Z,94.231.206.105,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T03:32:44Z,121.150.234.205,23,telnet-negotiation,
+2026-10-22T03:34:08Z,94.231.206.110,2222,ssh-client,SSH-2.0-perlssh
