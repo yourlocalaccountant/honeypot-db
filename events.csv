@@ -89293,3 +89293,6 @@ time_utc,ip,port,kind,client_data
 2026-10-22T01:56:25Z,121.190.45.140,23,telnet-negotiation,
 2026-10-22T01:59:13Z,94.231.206.3,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T01:59:49Z,216.226.78.10,3389,tls-handshake,"&W 2y y Y N E 8 6   ( Z h Z4 . / #- & / 0 + , / 5"
+2026-10-22T02:02:09Z,94.231.206.107,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T02:05:12Z,94.231.206.14,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T02:08:11Z,94.231.206.2,2222,ssh-client,SSH-2.0-perlssh
