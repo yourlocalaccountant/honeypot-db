@@ -90217,3 +90217,11 @@ time_utc,ip,port,kind,client_data
 2026-10-22T13:05:17Z,93.152.221.43,2222,http,CONNECT x.x.x.x:80 HTTP/1.0 Host: [redacted]
 2026-10-22T13:07:09Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T13:10:11Z,94.231.206.104,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T13:11:15Z,121.188.17.252,23,telnet-negotiation,admin
+2026-10-22T13:12:21Z,160.119.76.27,3389,rdp-request,
+2026-10-22T13:13:13Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T13:15:38Z,93.152.221.43,3389,http,CONNECT x.x.x.x:80 HTTP/1.0 Host: [redacted]
+2026-10-22T13:15:45Z,76.183.139.137,23,no-data,
+2026-10-22T13:16:14Z,94.231.206.7,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T13:17:17Z,160.251.200.100,2222,no-data,
+2026-10-22T13:19:10Z,94.231.206.110,2222,ssh-client,SSH-2.0-perlssh
