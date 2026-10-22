@@ -90387,3 +90387,10 @@ time_utc,ip,port,kind,client_data
 2026-10-22T16:45:08Z,94.231.206.104,2222,ssh-client,SSH-2.0-perlssh
 2026-10-22T16:45:32Z,118.196.131.140,2222,no-data,
 2026-10-22T16:45:33Z,118.196.131.140,2222,ssh-client,SSH-2.0-Go
+2026-10-22T16:47:09Z,94.231.206.109,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T16:49:13Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-22T16:49:13Z,94.231.206.1,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T16:52:09Z,94.231.206.32,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T16:55:11Z,94.231.206.13,2222,ssh-client,SSH-2.0-perlssh
+2026-10-22T16:55:40Z,115.55.61.69,23,telnet-negotiation,
+2026-10-22T16:55:52Z,115.55.61.69,23,telnet-negotiation,
