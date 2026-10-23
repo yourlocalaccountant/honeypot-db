@@ -92701,3 +92701,7 @@ time_utc,ip,port,kind,client_data
 2026-10-23T14:18:11Z,50.6.207.40,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-23T14:19:38Z,121.204.171.142,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-23T14:21:44Z,79.135.225.50,23,telnet-negotiation,
+2026-10-23T14:23:00Z,194.165.16.123,3389,rdp-request,/* Cookie: mstshash=Administr
+2026-10-23T14:25:49Z,212.73.148.3,23,telnet-negotiation,
+2026-10-23T14:26:09Z,27.147.143.141,3389,rdp-request,
+2026-10-23T14:32:03Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
