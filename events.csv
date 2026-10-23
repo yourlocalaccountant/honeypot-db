@@ -90876,3 +90876,4 @@ time_utc,ip,port,kind,client_data
 2026-10-23T01:13:49Z,160.250.114.82,23,telnet-negotiation,
 2026-10-23T01:14:05Z,5.165.191.104,23,telnet-negotiation,
 2026-10-23T01:15:16Z,27.147.143.141,3389,rdp-request,
+2026-10-23T01:26:18Z,217.115.98.99,23,telnet-negotiation,
