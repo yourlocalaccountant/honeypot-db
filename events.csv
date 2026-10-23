@@ -91420,3 +91420,11 @@ time_utc,ip,port,kind,client_data
 2026-10-23T03:00:30Z,208.109.244.195,23,telnet-negotiation,
 2026-10-23T03:00:30Z,208.109.244.195,23,telnet-negotiation,
 2026-10-23T03:00:33Z,208.109.244.195,23,telnet-negotiation,
+2026-10-23T03:03:12Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-23T03:05:15Z,193.124.20.249,3389,rdp-request,
+2026-10-23T03:05:26Z,77.67.26.142,3389,tls-handshake,"&K G$v d "" Q[ [ '  ' Km D 1 9h l h = 2 H + / , 0 / 5 ' #"
+2026-10-23T03:05:26Z,86.38.187.253,3389,tls-handshake,"g } V= w Beh =R )^  uJj ?q E l * a L V Hzz + / , 0 / 5 ' #"
+2026-10-23T03:05:27Z,200.138.46.240,3389,tls-handshake,"u v O v , = ~I | <  E M "" U e= j H + / , 0 / 5 ' #"
+2026-10-23T03:05:27Z,77.67.26.191,3389,tls-handshake,"SA&6 J g L w t {   H0 [; m N 5 f G * Hjj + / , 0 / 5 ' #"
+2026-10-23T03:12:32Z,80.94.95.83,3389,rdp-request,/* Cookie: mstshash=Administr
+2026-10-23T03:12:36Z,62.108.202.22,23,telnet-negotiation,
