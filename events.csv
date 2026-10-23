@@ -92917,3 +92917,4 @@ time_utc,ip,port,kind,client_data
 2026-10-23T19:45:57Z,172.70.65.213,3389,no-data,
 2026-10-23T19:52:17Z,163.5.79.52,23,telnet-negotiation,admin
 2026-10-23T19:53:29Z,221.144.221.177,23,telnet-negotiation,
+2026-10-23T19:58:47Z,70.34.205.135,3389,rdp-request,'+& Cookie: mstshash=probe
