@@ -92455,3 +92455,6 @@ time_utc,ip,port,kind,client_data
 2026-10-23T07:40:00Z,175.203.62.5,3389,no-data,
 2026-10-23T07:40:00Z,175.203.62.5,3389,rdp-request,*% Cookie: mstshash=Test
 2026-10-23T07:40:01Z,175.203.62.5,3389,rdp-request,*% Cookie: mstshash=Test
+2026-10-23T08:03:46Z,89.37.63.38,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-23T08:03:57Z,82.130.129.89,23,telnet-negotiation,
+2026-10-23T08:04:33Z,175.6.141.237,2222,no-data,
