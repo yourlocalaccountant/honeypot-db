@@ -92433,3 +92433,6 @@ time_utc,ip,port,kind,client_data
 2026-10-23T06:48:17Z,118.47.255.44,23,telnet-negotiation,
 2026-10-23T06:49:40Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
 2026-10-23T06:49:59Z,194.8.158.55,23,telnet-negotiation,
+2026-10-23T06:55:52Z,182.92.195.40,2222,no-data,
+2026-10-23T06:55:54Z,182.92.195.40,2222,ssh-client,"SSH-2.0-Go < [ C)] J gM ] e curve25519-sha256,curve25519-sha256@libssh.org,ecdh-"
+2026-10-23T06:56:31Z,222.113.207.183,23,telnet-negotiation,
