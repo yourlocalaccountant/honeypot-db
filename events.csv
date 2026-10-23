@@ -92954,3 +92954,9 @@ time_utc,ip,port,kind,client_data
 2026-10-23T20:18:30Z,70.34.205.135,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-23T20:23:22Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
 2026-10-23T20:24:16Z,70.34.205.135,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-23T20:27:11Z,221.156.21.112,23,telnet-negotiation,
+2026-10-23T20:30:54Z,35.203.211.166,2222,tls-handshake,"] 0? U >@7= H   H_ &P St  3aH T .&? h2 + / , 0 _"
+2026-10-23T20:30:55Z,35.203.211.166,2222,tls-handshake,"k s R B ~ Ve h / + 0 , ' # ( $ g k 3 9 < = / 5"
+2026-10-23T20:32:22Z,112.166.31.254,3389,rdp-request,
+2026-10-23T20:33:03Z,70.34.205.135,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-23T20:33:47Z,190.55.112.35,23,telnet-negotiation,
