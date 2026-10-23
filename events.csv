@@ -92891,3 +92891,11 @@ time_utc,ip,port,kind,client_data
 2026-10-23T19:10:42Z,208.109.244.195,23,telnet-negotiation,
 2026-10-23T19:10:42Z,208.109.244.195,23,telnet-negotiation,
 2026-10-23T19:10:56Z,187.103.105.17,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-23T19:12:04Z,14.29.181.34,2222,ssh-client,SSH-2.0-libssh_0.11.1
+2026-10-23T19:14:44Z,37.60.254.118,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-23T19:14:56Z,213.230.127.104,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-23T19:15:08Z,43.172.91.126,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-23T19:15:53Z,70.34.205.135,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-23T19:16:52Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-23T19:19:38Z,147.90.234.15,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-23T19:19:55Z,5.167.126.229,23,telnet-negotiation,
