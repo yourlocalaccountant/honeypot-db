@@ -93013,3 +93013,6 @@ time_utc,ip,port,kind,client_data
 2026-10-23T22:39:20Z,58.42.204.29,2222,ssh-client,SSH-2.0-libssh_0.7.4
 2026-10-23T22:39:25Z,58.42.204.29,2222,ssh-client,SSH-2.0-libssh_0.7.4
 2026-10-23T22:39:30Z,58.42.204.29,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-23T22:49:42Z,170.84.134.172,23,telnet-negotiation,
+2026-10-23T22:50:47Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-23T22:52:37Z,5.29.200.0,23,telnet-negotiation,
