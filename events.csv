@@ -92683,3 +92683,10 @@ time_utc,ip,port,kind,client_data
 2026-10-23T13:54:41Z,115.190.219.169,2222,ssh-client,SSH-2.0-Go
 2026-10-23T13:56:43Z,118.145.242.127,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-23T13:59:12Z,190.172.7.61,23,no-data,
+2026-10-23T14:02:59Z,89.37.63.182,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-23T14:04:02Z,119.192.187.103,23,telnet-negotiation,
+2026-10-23T14:06:40Z,80.94.95.9,3389,rdp-request,
+2026-10-23T14:06:43Z,79.135.225.50,23,telnet-negotiation,
+2026-10-23T14:09:19Z,43.153.34.24,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-23T14:09:28Z,27.147.143.141,3389,rdp-request,
+2026-10-23T14:09:45Z,192.169.232.223,2222,ssh-client,SSH-2.0-libssh_0.9.6
