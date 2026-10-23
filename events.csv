@@ -92470,3 +92470,5 @@ time_utc,ip,port,kind,client_data
 2026-10-23T08:26:22Z,172.235.41.44,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS
 2026-10-23T08:26:22Z,172.235.41.44,2222,tls-handshake,"{ w XK ^   Lj ,'6 1 Ei pu / + / 5 4"
 2026-10-23T08:27:39Z,130.12.180.174,23,no-data,
+2026-10-23T08:32:55Z,66.132.186.163,23,no-data,
+2026-10-23T08:33:44Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
