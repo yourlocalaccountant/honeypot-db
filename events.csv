@@ -92709,3 +92709,8 @@ time_utc,ip,port,kind,client_data
 2026-10-23T14:41:02Z,80.94.95.9,3389,rdp-request,
 2026-10-23T14:41:56Z,89.37.63.182,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-23T14:42:50Z,27.147.143.141,3389,rdp-request,
+2026-10-23T14:46:43Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-23T14:47:38Z,130.12.180.174,23,no-data,
+2026-10-23T14:47:40Z,2.180.186.141,23,telnet-negotiation,
+2026-10-23T14:48:17Z,185.9.187.153,23,telnet-negotiation,
+2026-10-23T14:54:53Z,92.251.115.134,23,no-data,
