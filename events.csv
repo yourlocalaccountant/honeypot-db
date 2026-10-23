@@ -92424,3 +92424,12 @@ time_utc,ip,port,kind,client_data
 2026-10-23T06:42:52Z,34.156.55.4,3389,other,JDWP-Handshake
 2026-10-23T06:42:53Z,34.156.55.4,3389,other,JRMI K
 2026-10-23T06:42:53Z,34.156.55.4,3389,other,MQTT < AAAAA
+2026-10-23T06:42:54Z,34.156.55.4,3389,other,'@RSYTCD: 29
+2026-10-23T06:42:55Z,34.156.55.4,3389,other,"< , : (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-"
+2026-10-23T06:42:55Z,34.156.55.4,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
+2026-10-23T06:42:56Z,34.156.55.4,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 9853
+2026-10-23T06:44:03Z,37.52.213.13,23,no-data,
+2026-10-23T06:44:09Z,37.52.213.13,23,no-data,
+2026-10-23T06:48:17Z,118.47.255.44,23,telnet-negotiation,
+2026-10-23T06:49:40Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-23T06:49:59Z,194.8.158.55,23,telnet-negotiation,
