@@ -92464,3 +92464,9 @@ time_utc,ip,port,kind,client_data
 2026-10-23T08:16:13Z,43.172.117.23,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-23T08:16:33Z,148.113.181.204,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-23T08:16:38Z,190.149.6.54,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-23T08:20:44Z,93.123.109.204,3389,rdp-request,
+2026-10-23T08:22:04Z,36.73.68.223,23,other,admin
+2026-10-23T08:22:54Z,125.227.65.103,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-23T08:26:22Z,172.235.41.44,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS
+2026-10-23T08:26:22Z,172.235.41.44,2222,tls-handshake,"{ w XK ^   Lj ,'6 1 Ei pu / + / 5 4"
+2026-10-23T08:27:39Z,130.12.180.174,23,no-data,
