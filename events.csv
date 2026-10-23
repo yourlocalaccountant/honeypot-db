@@ -92608,3 +92608,5 @@ time_utc,ip,port,kind,client_data
 2026-10-23T11:38:26Z,16.5.0.179,3389,other,MQTT < flowiq
 2026-10-23T11:38:26Z,16.5.0.179,3389,telnet-negotiation,"% { ""Ret"" : 100, ""SessionID"" : ""0x0"" } . { ""Name"" : ""KeepAlive"", ""SessionID"" : """
 2026-10-23T11:51:27Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-23T11:58:28Z,130.12.180.174,23,no-data,
+2026-10-23T12:03:14Z,89.37.63.38,3389,rdp-request,'+& Cookie: mstshash=probe
