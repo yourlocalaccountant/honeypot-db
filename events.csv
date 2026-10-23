@@ -92529,3 +92529,9 @@ time_utc,ip,port,kind,client_data
 2026-10-23T10:19:22Z,190.160.151.110,23,no-data,
 2026-10-23T10:20:23Z,212.73.148.9,2222,other,00000000
 2026-10-23T10:21:49Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-23T10:21:55Z,65.49.1.66,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-10-23T10:22:13Z,122.155.132.40,23,telnet-negotiation,
+2026-10-23T10:26:53Z,80.94.95.83,3389,rdp-request,/* Cookie: mstshash=Administr
+2026-10-23T10:28:55Z,197.235.16.102,3389,no-data,
+2026-10-23T10:28:55Z,197.235.16.102,3389,rdp-request,&! Cookie: mstshash=
+2026-10-23T10:30:38Z,84.50.189.153,23,telnet-negotiation,
