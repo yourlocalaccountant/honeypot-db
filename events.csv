@@ -94037,3 +94037,16 @@ time_utc,ip,port,kind,client_data
 2026-10-24T07:36:26Z,167.94.146.50,3389,http,GET / HTTP/1.1 Host: [redacted] Connection: Upgrade Sec-WebSocket-Key: 845JnTuK4
 2026-10-24T07:36:29Z,168.100.11.94,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-24T07:36:31Z,167.94.146.50,3389,other,(
+2026-10-24T07:37:27Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-10-24T07:39:09Z,3.129.187.38,23,other,
+2026-10-24T07:39:18Z,91.230.168.80,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T07:39:25Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-10-24T07:41:24Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-10-24T07:42:16Z,91.230.168.215,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T07:42:21Z,168.100.11.94,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-24T07:42:34Z,3.129.187.38,23,telnet-negotiation,
+2026-10-24T07:43:34Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-10-24T07:44:02Z,94.26.68.55,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-24T07:45:15Z,86.111.67.185,23,telnet-negotiation,
+2026-10-24T07:45:20Z,195.184.76.224,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T07:45:55Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
