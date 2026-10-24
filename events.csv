@@ -93124,3 +93124,8 @@ time_utc,ip,port,kind,client_data
 2026-10-24T01:01:53Z,18.97.5.116,2222,no-data,
 2026-10-24T01:03:34Z,168.100.11.94,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-24T01:03:47Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-24T01:04:24Z,195.184.76.94,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T01:07:29Z,195.184.76.120,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T01:09:34Z,168.100.11.94,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-24T01:10:23Z,91.230.168.120,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T01:12:20Z,195.184.76.132,2222,ssh-client,SSH-2.0-perlssh
