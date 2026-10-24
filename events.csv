@@ -93226,3 +93226,10 @@ time_utc,ip,port,kind,client_data
 2026-10-24T02:16:36Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
 2026-10-24T02:17:26Z,195.184.76.104,2222,ssh-client,SSH-2.0-perlssh
 2026-10-24T02:18:30Z,168.100.11.94,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-24T02:20:21Z,91.230.168.106,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T02:23:33Z,195.184.76.226,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T02:23:57Z,160.119.66.206,23,other,root
+2026-10-24T02:24:53Z,64.62.197.151,3389,ssh-client,SSH-2.0-Go
+2026-10-24T02:25:44Z,168.100.11.94,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-24T02:26:21Z,91.230.168.234,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T02:28:22Z,91.230.168.209,2222,ssh-client,SSH-2.0-perlssh
