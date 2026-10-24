@@ -95606,3 +95606,15 @@ time_utc,ip,port,kind,client_data
 2026-10-24T23:00:13Z,195.184.76.205,2222,ssh-client,SSH-2.0-perlssh
 2026-10-24T23:02:15Z,195.184.76.48,2222,ssh-client,SSH-2.0-perlssh
 2026-10-24T23:04:19Z,195.184.76.226,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T23:06:07Z,102.210.245.209,23,telnet-negotiation,
+2026-10-24T23:07:13Z,195.184.76.172,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T23:07:34Z,8.138.155.88,3389,rdp-request,
+2026-10-24T23:07:44Z,8.138.155.88,3389,tls-handshake,"I i Y e- Ud] b8 g 9dZ8f g i N g|p <Z T 8'O; & + / , 0 / 5 {"
+2026-10-24T23:07:50Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-24T23:07:55Z,8.138.155.88,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: curl/7.64.1 Accept: */*
+2026-10-24T23:08:06Z,8.138.155.88,3389,other,'@ @
+2026-10-24T23:08:16Z,8.138.155.88,3389,other,'@ w startrfc 1100 default_startrfc.*
+2026-10-24T23:08:27Z,8.138.155.88,3389,other,'@ B sapdp00 4103 sapnw-pasapdp00
+2026-10-24T23:10:18Z,91.230.168.152,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T23:13:16Z,195.184.76.96,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T23:16:15Z,195.184.76.201,2222,ssh-client,SSH-2.0-perlssh
