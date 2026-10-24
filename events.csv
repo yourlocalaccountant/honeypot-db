@@ -93103,3 +93103,15 @@ time_utc,ip,port,kind,client_data
 2026-10-24T00:38:12Z,91.230.168.250,2222,ssh-client,SSH-2.0-perlssh
 2026-10-24T00:38:48Z,168.100.11.94,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-24T00:41:24Z,91.230.168.206,2222,no-data,
+2026-10-24T00:44:15Z,195.184.76.54,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T00:46:15Z,178.151.144.115,23,no-data,
+2026-10-24T00:46:21Z,91.230.168.230,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T00:46:54Z,178.151.144.115,23,no-data,
+2026-10-24T00:47:36Z,107.20.121.14,3389,tls-handshake,"4 [ @ * Z P @ /2 ;Q   8 "" u G , q Q ] b ) & / 0 + , / 5 {"
+2026-10-24T00:48:20Z,195.184.76.69,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T00:48:27Z,201.238.35.100,23,telnet-negotiation,
+2026-10-24T00:50:23Z,91.230.168.55,2222,no-data,
+2026-10-24T00:50:47Z,168.100.11.94,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-24T00:53:11Z,87.251.64.124,23,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-10-24T00:53:11Z,87.251.64.124,23,tls-handshake,"r= V ) h "" 0 3 i5 Y [W t {o] K 0   4n \ , 0 ] a + / \ ` $ ( s w"
+2026-10-24T00:53:17Z,195.184.76.164,2222,ssh-client,SSH-2.0-perlssh
