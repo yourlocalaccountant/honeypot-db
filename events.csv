@@ -95229,3 +95229,11 @@ time_utc,ip,port,kind,client_data
 2026-10-24T18:12:12Z,45.15.43.165,23,telnet-negotiation,
 2026-10-24T18:14:16Z,195.184.76.154,2222,ssh-client,SSH-2.0-perlssh
 2026-10-24T18:14:53Z,87.106.218.222,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-24T18:17:07Z,77.239.124.130,2222,ssh-client,SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3
+2026-10-24T18:17:14Z,91.230.168.149,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T18:19:13Z,91.230.168.161,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T18:22:23Z,195.184.76.101,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T18:23:12Z,61.224.177.129,23,telnet-negotiation,
+2026-10-24T18:23:35Z,79.106.231.174,23,telnet-negotiation,
+2026-10-24T18:24:16Z,52.248.42.207,2222,no-data,
+2026-10-24T18:25:12Z,195.184.76.146,2222,ssh-client,SSH-2.0-perlssh
