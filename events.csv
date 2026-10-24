@@ -94920,3 +94920,11 @@ time_utc,ip,port,kind,client_data
 2026-10-24T14:13:21Z,47.245.143.176,2222,other,
 2026-10-24T14:13:21Z,47.245.143.176,2222,ssh-client,SSH-2.0-Go
 2026-10-24T14:15:32Z,195.184.76.14,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T14:16:35Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-24T14:17:33Z,199.165.159.73,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-10-24T14:18:14Z,195.184.76.188,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T14:21:15Z,147.78.241.180,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-24T14:21:26Z,195.184.76.233,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T14:21:52Z,203.83.234.180,2222,ssh-client,SSH-2.0-libssh_0.11.1
+2026-10-24T14:23:51Z,58.152.45.167,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-24T14:24:18Z,91.230.168.102,2222,ssh-client,SSH-2.0-perlssh
