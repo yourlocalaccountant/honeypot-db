@@ -94932,3 +94932,11 @@ time_utc,ip,port,kind,client_data
 2026-10-24T14:29:22Z,91.230.168.60,2222,ssh-client,SSH-2.0-perlssh
 2026-10-24T14:32:16Z,91.230.168.52,2222,ssh-client,SSH-2.0-perlssh
 2026-10-24T14:35:15Z,195.184.76.16,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T14:37:17Z,195.184.76.155,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T14:37:31Z,129.121.143.150,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-24T14:38:15Z,192.162.238.238,23,telnet-negotiation,
+2026-10-24T14:40:20Z,195.184.76.27,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T14:42:50Z,66.116.199.234,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-24T14:43:25Z,195.184.76.27,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T14:45:20Z,91.230.168.244,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T14:46:14Z,106.40.231.177,23,telnet-negotiation,
