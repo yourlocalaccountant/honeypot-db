@@ -95367,3 +95367,12 @@ time_utc,ip,port,kind,client_data
 2026-10-24T20:41:24Z,91.230.168.203,2222,ssh-client,SSH-2.0-perlssh
 2026-10-24T20:44:00Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
 2026-10-24T20:44:15Z,91.230.168.146,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T20:47:14Z,195.184.76.87,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T20:49:15Z,91.230.168.104,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T20:51:01Z,86.38.187.145,23,telnet-negotiation,
+2026-10-24T20:52:07Z,147.78.241.180,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-24T20:52:12Z,195.184.76.196,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T20:54:03Z,211.194.52.6,23,telnet-negotiation,
+2026-10-24T20:55:14Z,91.230.168.176,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T20:56:17Z,94.20.62.126,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-24T20:56:23Z,80.97.45.140,2222,ssh-client,SSH-2.0-libssh_0.9.6
