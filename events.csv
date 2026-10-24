@@ -95044,3 +95044,9 @@ time_utc,ip,port,kind,client_data
 2026-10-24T15:45:24Z,195.184.76.31,2222,ssh-client,SSH-2.0-perlssh
 2026-10-24T15:48:12Z,195.184.76.91,2222,ssh-client,SSH-2.0-perlssh
 2026-10-24T15:50:15Z,91.230.168.50,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T15:52:05Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-24T15:53:13Z,195.184.76.71,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T15:53:29Z,125.24.11.33,23,telnet-negotiation,
+2026-10-24T15:55:16Z,91.230.168.168,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T15:57:15Z,91.230.168.89,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T15:59:15Z,195.184.76.125,2222,ssh-client,SSH-2.0-perlssh
