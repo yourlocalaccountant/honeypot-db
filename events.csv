@@ -93083,3 +93083,12 @@ time_utc,ip,port,kind,client_data
 2026-10-24T00:09:17Z,195.184.76.186,2222,ssh-client,SSH-2.0-perlssh
 2026-10-24T00:10:21Z,80.66.83.43,3389,rdp-request,/* Cookie: mstshash=Administr
 2026-10-24T00:10:22Z,168.100.11.94,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-24T00:11:17Z,195.184.76.53,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T00:13:03Z,147.78.241.180,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-24T00:14:16Z,91.230.168.94,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T00:15:18Z,156.227.233.77,23,telnet-negotiation,admin
+2026-10-24T00:17:26Z,190.19.215.216,23,no-data,
+2026-10-24T00:17:28Z,195.184.76.103,2222,ssh-client,SSH-2.0-perlssh
+2026-10-24T00:18:09Z,190.19.215.216,23,no-data,
+2026-10-24T00:18:53Z,168.100.11.94,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-24T00:20:19Z,91.230.168.144,2222,ssh-client,SSH-2.0-perlssh
