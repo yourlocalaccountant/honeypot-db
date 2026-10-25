@@ -97833,3 +97833,10 @@ time_utc,ip,port,kind,client_data
 2026-10-25T13:38:06Z,115.23.169.150,23,telnet-negotiation,
 2026-10-25T13:38:12Z,194.36.27.80,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-25T13:38:15Z,195.184.76.163,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T13:40:20Z,91.230.168.36,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T13:43:12Z,195.184.76.247,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T13:45:12Z,195.9.52.194,23,telnet-negotiation,
+2026-10-25T13:46:17Z,91.230.168.19,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T13:47:54Z,35.203.210.113,23,no-data,
+2026-10-25T13:49:12Z,195.184.76.81,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T13:50:20Z,98.80.4.93,23,telnet-negotiation,
