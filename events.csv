@@ -97981,3 +97981,11 @@ time_utc,ip,port,kind,client_data
 2026-10-25T15:33:55Z,148.153.56.170,2222,tls-handshake,"[W B f TjD o F('Z n Q  A = H W H 2 H / ' / ( 0 s ` r a , v w"
 2026-10-25T15:33:55Z,148.153.56.170,2222,tls-handshake,f B yE 9qz ) FJ^w n   ip 4O Q qA 0 J i 3 g 9 k E #
 2026-10-25T15:36:15Z,195.184.76.29,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T15:38:06Z,115.23.169.150,23,telnet-negotiation,
+2026-10-25T15:38:18Z,195.184.76.102,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T15:41:12Z,195.184.76.200,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T15:44:01Z,194.36.27.80,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-25T15:44:22Z,195.184.76.74,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T15:46:02Z,220.81.30.82,23,telnet-negotiation,
+2026-10-25T15:46:27Z,112.103.94.7,23,telnet-negotiation,
+2026-10-25T15:47:15Z,195.184.76.183,2222,ssh-client,SSH-2.0-perlssh
