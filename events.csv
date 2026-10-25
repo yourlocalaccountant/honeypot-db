@@ -97569,3 +97569,14 @@ time_utc,ip,port,kind,client_data
 2026-10-25T10:15:37Z,194.36.27.80,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-25T10:16:11Z,195.184.76.57,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T10:18:22Z,195.184.76.235,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T10:21:14Z,195.184.76.245,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T10:21:28Z,109.94.173.8,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-25T10:23:19Z,195.184.76.78,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T10:24:42Z,59.153.151.174,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-25T10:25:16Z,91.230.168.36,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T10:28:15Z,195.184.76.3,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T10:28:33Z,43.156.115.178,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-25T10:28:59Z,223.151.74.56,23,telnet-negotiation,
+2026-10-25T10:30:53Z,181.188.176.242,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-25T10:31:04Z,177.39.159.249,23,telnet-negotiation,
+2026-10-25T10:31:19Z,195.184.76.110,2222,ssh-client,SSH-2.0-perlssh
