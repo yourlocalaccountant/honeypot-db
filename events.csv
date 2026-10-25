@@ -98076,3 +98076,17 @@ time_utc,ip,port,kind,client_data
 2026-10-25T17:31:21Z,176.53.159.198,2222,ssh-client,"SSH-2.0-sshcustom_0.1 U} R] curve25519-sha256,curve25519-sha256@libssh.org,ecdh-"
 2026-10-25T17:31:22Z,176.53.159.198,2222,ssh-client,"SSH-2.0-sshcustom_0.1 ; ] curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sh"
 2026-10-25T17:31:22Z,176.53.159.198,2222,ssh-client,"SSH-2.0-sshcustom_0.1 ] curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2"
+2026-10-25T17:32:11Z,195.184.76.17,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T17:33:25Z,112.121.238.21,23,telnet-negotiation,
+2026-10-25T17:34:12Z,91.230.168.63,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T17:35:03Z,118.173.84.183,23,telnet-negotiation,
+2026-10-25T17:37:13Z,195.184.76.173,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T17:38:11Z,115.23.169.150,23,telnet-negotiation,
+2026-10-25T17:39:19Z,195.184.76.4,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T17:42:10Z,195.184.76.196,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T17:42:19Z,175.107.233.162,23,telnet-negotiation,
+2026-10-25T17:42:20Z,175.107.233.162,23,telnet-negotiation,
+2026-10-25T17:42:28Z,175.107.233.162,23,telnet-negotiation,
+2026-10-25T17:42:32Z,175.107.233.162,23,telnet-negotiation,
+2026-10-25T17:42:41Z,175.107.233.162,23,telnet-negotiation,
+2026-10-25T17:42:45Z,175.107.233.162,23,telnet-negotiation,
