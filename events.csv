@@ -98460,3 +98460,9 @@ time_utc,ip,port,kind,client_data
 2026-10-25T23:16:11Z,91.230.168.193,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T23:19:09Z,91.230.168.224,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T23:22:12Z,91.230.168.142,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T23:24:09Z,91.230.168.49,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T23:25:08Z,203.218.192.199,23,telnet-negotiation,
+2026-10-25T23:27:11Z,91.230.168.206,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T23:27:42Z,163.61.17.149,23,no-data,
+2026-10-25T23:29:10Z,195.184.76.34,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T23:31:09Z,91.230.168.158,2222,ssh-client,SSH-2.0-perlssh
