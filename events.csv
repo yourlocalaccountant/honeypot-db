@@ -95677,3 +95677,10 @@ time_utc,ip,port,kind,client_data
 2026-10-25T00:23:16Z,91.230.168.157,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T00:26:24Z,195.184.76.232,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T00:29:22Z,195.184.76.77,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T00:31:43Z,65.20.115.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-25T00:32:21Z,195.184.76.110,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T00:34:58Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-25T00:35:19Z,195.184.76.98,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T00:37:35Z,35.203.210.227,3389,http,"GET / HTTP/1.1 Host: [redacted] User-Agent: Hello from Palo Alto Networks, find "
+2026-10-25T00:37:43Z,80.66.83.43,3389,rdp-request,/* Cookie: mstshash=Administr
+2026-10-25T00:38:19Z,195.184.76.237,2222,ssh-client,SSH-2.0-perlssh
