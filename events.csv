@@ -98303,3 +98303,8 @@ time_utc,ip,port,kind,client_data
 2026-10-25T20:21:29Z,117.242.152.165,23,telnet-negotiation,
 2026-10-25T20:22:06Z,195.184.76.58,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T20:23:24Z,115.23.169.150,23,telnet-negotiation,
+2026-10-25T20:25:07Z,91.230.168.49,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T20:27:10Z,195.184.76.6,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T20:30:11Z,91.230.168.202,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T20:30:22Z,194.36.27.80,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-25T20:33:10Z,195.184.76.6,2222,ssh-client,SSH-2.0-perlssh
