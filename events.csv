@@ -98341,3 +98341,11 @@ time_utc,ip,port,kind,client_data
 2026-10-25T21:02:11Z,195.184.76.70,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T21:04:13Z,91.230.168.198,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T21:05:50Z,117.211.10.57,23,telnet-negotiation,
+2026-10-25T21:06:09Z,195.184.76.196,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T21:07:02Z,78.128.112.74,23,ssh-client,SSH-2.0-Go
+2026-10-25T21:07:02Z,78.128.112.74,2222,ssh-client,SSH-2.0-Go
+2026-10-25T21:08:27Z,115.23.169.150,23,telnet-negotiation,
+2026-10-25T21:09:13Z,195.184.76.96,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T21:11:09Z,195.184.76.152,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T21:13:07Z,91.230.168.210,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T21:15:11Z,91.230.168.47,2222,ssh-client,SSH-2.0-perlssh
