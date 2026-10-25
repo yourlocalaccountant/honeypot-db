@@ -97580,3 +97580,9 @@ time_utc,ip,port,kind,client_data
 2026-10-25T10:30:53Z,181.188.176.242,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-25T10:31:04Z,177.39.159.249,23,telnet-negotiation,
 2026-10-25T10:31:19Z,195.184.76.110,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T10:32:58Z,223.151.74.235,23,telnet-negotiation,
+2026-10-25T10:34:16Z,195.184.76.159,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T10:37:19Z,195.184.76.12,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T10:40:13Z,195.184.76.90,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T10:40:43Z,121.190.190.237,23,telnet-negotiation,
+2026-10-25T10:40:52Z,171.61.28.156,23,telnet-negotiation,
