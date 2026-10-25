@@ -98233,3 +98233,9 @@ time_utc,ip,port,kind,client_data
 2026-10-25T18:46:22Z,150.95.25.34,23,no-data,
 2026-10-25T18:46:30Z,150.95.25.34,23,no-data,
 2026-10-25T18:47:12Z,91.230.168.180,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T18:49:07Z,91.230.168.98,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T18:51:11Z,195.184.76.89,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T18:53:10Z,195.184.76.138,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T18:53:21Z,115.23.169.150,23,telnet-negotiation,
+2026-10-25T18:55:07Z,195.184.76.145,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T18:58:11Z,195.184.76.14,2222,ssh-client,SSH-2.0-perlssh
