@@ -97846,3 +97846,10 @@ time_utc,ip,port,kind,client_data
 2026-10-25T13:55:09Z,195.184.76.61,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T13:57:23Z,195.184.76.235,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T14:00:12Z,195.184.76.210,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T14:01:12Z,220.81.30.82,23,telnet-negotiation,
+2026-10-25T14:03:16Z,91.230.168.90,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T14:06:15Z,194.36.27.80,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-25T14:06:18Z,91.230.168.100,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T14:06:51Z,2.180.70.49,23,telnet-negotiation,
+2026-10-25T14:08:03Z,115.23.169.150,23,telnet-negotiation,
+2026-10-25T14:09:13Z,91.230.168.16,2222,ssh-client,SSH-2.0-perlssh
