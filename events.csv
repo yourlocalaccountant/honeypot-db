@@ -96540,3 +96540,14 @@ time_utc,ip,port,kind,client_data
 2026-10-25T04:33:04Z,185.247.137.186,3389,other,l e /00IDED
 2026-10-25T04:33:17Z,195.96.139.208,3389,tls-handshake,"kY I E<Com S 3 KE 1Q Q = zx 6D up$ Z> jE Wp N ) < + / , 0 / 5 $ ( # '"
 2026-10-25T04:33:24Z,195.184.76.97,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T04:34:03Z,65.20.115.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-25T04:34:22Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-10-25T04:36:17Z,91.230.168.157,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T04:36:36Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-10-25T04:38:03Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-25T04:38:57Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-10-25T04:39:14Z,91.230.168.233,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T04:40:58Z,65.20.115.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-25T04:41:20Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-10-25T04:42:13Z,195.184.76.85,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T04:43:47Z,65.20.115.127,3389,rdp-request,'+& Cookie: mstshash=probe
