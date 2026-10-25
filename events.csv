@@ -97739,3 +97739,10 @@ time_utc,ip,port,kind,client_data
 2026-10-25T12:01:02Z,213.230.92.164,23,no-data,
 2026-10-25T12:02:12Z,195.184.76.141,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T12:04:12Z,195.184.76.214,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T12:06:12Z,195.184.76.81,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T12:07:56Z,115.23.169.150,23,telnet-negotiation,
+2026-10-25T12:08:39Z,170.150.157.11,23,telnet-negotiation,
+2026-10-25T12:09:17Z,195.184.76.74,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T12:11:51Z,180.94.155.108,23,telnet-negotiation,
+2026-10-25T12:12:17Z,195.184.76.227,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T12:15:16Z,195.184.76.74,2222,ssh-client,SSH-2.0-perlssh
