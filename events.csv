@@ -97564,3 +97564,8 @@ time_utc,ip,port,kind,client_data
 2026-10-25T10:05:41Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
 2026-10-25T10:07:21Z,91.230.168.192,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T10:09:37Z,72.11.59.124,23,no-data,
+2026-10-25T10:11:19Z,195.184.76.98,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T10:14:14Z,91.230.168.186,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T10:15:37Z,194.36.27.80,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-25T10:16:11Z,195.184.76.57,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T10:18:22Z,195.184.76.235,2222,ssh-client,SSH-2.0-perlssh
