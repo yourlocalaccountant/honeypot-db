@@ -98144,3 +98144,11 @@ time_utc,ip,port,kind,client_data
 2026-10-25T17:52:14Z,91.230.168.174,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T17:53:12Z,115.23.169.150,23,telnet-negotiation,
 2026-10-25T17:53:34Z,61.171.64.190,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-25T17:55:13Z,91.230.168.147,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T17:55:50Z,116.207.114.19,23,telnet-negotiation,
+2026-10-25T17:57:20Z,151.234.36.13,23,telnet-negotiation,
+2026-10-25T17:58:12Z,91.230.168.24,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T17:58:18Z,31.129.77.59,23,telnet-negotiation,
+2026-10-25T17:58:23Z,183.252.199.17,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-25T17:59:03Z,152.32.171.213,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-25T18:01:18Z,91.230.168.243,2222,ssh-client,SSH-2.0-perlssh
