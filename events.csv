@@ -96715,3 +96715,10 @@ time_utc,ip,port,kind,client_data
 2026-10-25T05:45:11Z,65.20.115.127,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-25T05:46:22Z,91.230.168.111,2222,no-data,
 2026-10-25T05:46:49Z,81.10.46.91,23,telnet-negotiation,
+2026-10-25T05:49:14Z,195.184.76.190,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T05:51:17Z,91.230.168.40,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T05:51:39Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-10-25T05:53:17Z,91.230.168.42,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T05:55:15Z,91.230.168.0,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T05:57:11Z,195.184.76.92,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T05:57:31Z,101.126.69.201,2222,ssh-client,SSH-2.0-libssh_0.9.6
