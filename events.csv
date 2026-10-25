@@ -98393,3 +98393,21 @@ time_utc,ip,port,kind,client_data
 2026-10-25T22:05:07Z,195.184.76.179,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T22:08:03Z,14.55.148.34,23,telnet-negotiation,
 2026-10-25T22:08:11Z,195.184.76.103,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T22:09:46Z,171.113.169.135,23,telnet-negotiation,
+2026-10-25T22:10:09Z,91.230.168.42,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T22:12:11Z,195.184.76.105,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T22:12:14Z,130.12.180.174,23,no-data,
+2026-10-25T22:12:58Z,45.82.78.102,3389,no-data,
+2026-10-25T22:12:58Z,45.82.78.102,3389,tls-handshake,"s ? >C f wQ D t u @ fA 6  QZ: , dI d"" + / , 0 ["
+2026-10-25T22:13:04Z,45.82.78.102,3389,no-data,
+2026-10-25T22:13:04Z,45.82.78.102,3389,tls-handshake,"e d d :Y! :+t Z + s   ~ x ? 1#} )fj\F + / , 0 ["
+2026-10-25T22:13:04Z,45.82.78.102,3389,tls-handshake,"w :u( p _ z Y A@   E d Tw: ] sXY f ]z8 + / , 0 ["
+2026-10-25T22:13:05Z,45.82.78.102,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (X11; Linux x86_64) Appl
+2026-10-25T22:13:05Z,45.82.78.102,3389,rdp-request,
+2026-10-25T22:13:05Z,45.82.78.102,3389,tls-handshake,"I9 $F l =[ p > M ? 9 _&&  1 \ :Yi< 5 \ * + / , 0 m"
+2026-10-25T22:13:06Z,45.82.78.102,3389,other,0: < S`2 cn=mfsaidmxpwgmjbwdczkf mfsaidmxpwgmjbwdczkf
+2026-10-25T22:14:10Z,91.230.168.85,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T22:17:06Z,62.108.202.22,23,telnet-negotiation,
+2026-10-25T22:17:12Z,91.230.168.35,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T22:17:54Z,111.173.159.152,23,telnet-negotiation,
+2026-10-25T22:18:28Z,114.141.59.193,2222,ssh-client,SSH-2.0-libssh_0.9.6
