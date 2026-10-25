@@ -98466,3 +98466,12 @@ time_utc,ip,port,kind,client_data
 2026-10-25T23:27:42Z,163.61.17.149,23,no-data,
 2026-10-25T23:29:10Z,195.184.76.34,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T23:31:09Z,91.230.168.158,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T23:34:08Z,195.184.76.142,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T23:34:24Z,197.88.226.115,23,telnet-negotiation,
+2026-10-25T23:36:11Z,91.230.168.146,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T23:38:10Z,195.184.76.11,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T23:39:53Z,221.157.244.54,23,telnet-negotiation,
+2026-10-25T23:40:10Z,91.230.168.241,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T23:40:22Z,203.218.192.199,23,telnet-negotiation,
+2026-10-25T23:42:07Z,91.230.168.44,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T23:44:07Z,195.184.76.113,2222,ssh-client,SSH-2.0-perlssh
