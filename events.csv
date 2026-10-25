@@ -98377,3 +98377,10 @@ time_utc,ip,port,kind,client_data
 2026-10-25T21:43:29Z,186.22.253.82,23,no-data,
 2026-10-25T21:45:09Z,195.184.76.240,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T21:45:34Z,45.148.10.61,2222,no-data,
+2026-10-25T21:48:08Z,45.148.10.61,2222,ssh-client,SSH-2.0-Go
+2026-10-25T21:48:11Z,195.184.76.224,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T21:50:10Z,91.230.168.196,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T21:53:10Z,195.184.76.74,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T21:55:28Z,194.36.27.80,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-25T21:56:12Z,195.184.76.103,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T21:56:55Z,178.126.229.195,23,no-data,
