@@ -97746,3 +97746,12 @@ time_utc,ip,port,kind,client_data
 2026-10-25T12:11:51Z,180.94.155.108,23,telnet-negotiation,
 2026-10-25T12:12:17Z,195.184.76.227,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T12:15:16Z,195.184.76.74,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T12:16:40Z,14.55.148.34,23,telnet-negotiation,
+2026-10-25T12:17:11Z,91.230.168.158,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T12:18:19Z,171.83.122.252,23,telnet-negotiation,
+2026-10-25T12:19:17Z,91.230.168.228,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T12:21:19Z,91.230.168.34,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T12:22:57Z,115.23.169.150,23,telnet-negotiation,
+2026-10-25T12:23:01Z,59.30.132.165,23,telnet-negotiation,
+2026-10-25T12:24:12Z,195.184.76.34,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T12:24:32Z,213.231.51.150,23,telnet-negotiation,
