@@ -98269,3 +98269,13 @@ time_utc,ip,port,kind,client_data
 2026-10-25T19:25:48Z,176.53.159.198,2222,ssh-client,"SSH-2.0-sshcustom_0.1 i ; curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sh"
 2026-10-25T19:26:09Z,91.230.168.45,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T19:29:11Z,91.230.168.210,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T19:31:10Z,91.230.168.48,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T19:33:12Z,195.184.76.76,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T19:34:08Z,20.65.178.224,3389,ssh-client,SSH-2.0-Go
+2026-10-25T19:35:08Z,195.184.76.18,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T19:37:08Z,195.184.76.240,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T19:38:23Z,115.23.169.150,23,telnet-negotiation,
+2026-10-25T19:40:06Z,1.92.123.227,2222,no-data,
+2026-10-25T19:40:07Z,1.92.123.227,2222,ssh-client,SSH-2.0-Go
+2026-10-25T19:40:11Z,91.230.168.142,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T19:41:05Z,161.81.244.183,23,telnet-negotiation,
