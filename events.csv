@@ -98438,3 +98438,20 @@ time_utc,ip,port,kind,client_data
 2026-10-25T22:59:14Z,107.180.212.169,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-25T23:00:03Z,78.174.100.17,23,no-data,
 2026-10-25T23:00:07Z,195.184.76.151,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T23:02:07Z,195.184.76.98,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T23:02:20Z,101.47.20.56,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-25T23:05:10Z,91.230.168.250,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T23:08:07Z,195.184.76.39,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T23:10:05Z,221.152.56.13,23,telnet-negotiation,
+2026-10-25T23:10:11Z,91.230.168.240,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T23:10:15Z,203.218.192.199,23,telnet-negotiation,
+2026-10-25T23:10:56Z,176.53.159.197,2222,ssh-client,"SSH-2.0-sshcustom_0.1 Z ! K curve25519-sha256,curve25519-sha256@libssh.org,ecdh-"
+2026-10-25T23:10:56Z,176.53.159.197,2222,ssh-client,"SSH-2.0-sshcustom_0.1 z ! 3 ( curve25519-sha256,curve25519-sha256@libssh.org,ecd"
+2026-10-25T23:10:57Z,176.53.159.197,2222,ssh-client,"SSH-2.0-sshcustom_0.1 )! ` n curve25519-sha256,curve25519-sha256@libssh.org,ecdh"
+2026-10-25T23:10:57Z,176.53.159.197,2222,ssh-client,"SSH-2.0-sshcustom_0.1 7! C\ curve25519-sha256,curve25519-sha256@libssh.org,ecdh-"
+2026-10-25T23:11:39Z,112.103.130.141,23,telnet-negotiation,
+2026-10-25T23:11:51Z,176.53.159.198,2222,ssh-client,"SSH-2.0-sshcustom_0.1 "" curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2"
+2026-10-25T23:11:51Z,176.53.159.198,2222,ssh-client,"SSH-2.0-sshcustom_0.1 x E curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sh"
+2026-10-25T23:11:52Z,176.53.159.198,2222,ssh-client,"SSH-2.0-sshcustom_0.1 ag curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha"
+2026-10-25T23:11:53Z,176.53.159.198,2222,ssh-client,"SSH-2.0-sshcustom_0.1 curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-n"
+2026-10-25T23:12:07Z,195.184.76.202,2222,ssh-client,SSH-2.0-perlssh
