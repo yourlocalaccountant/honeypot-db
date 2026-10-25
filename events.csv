@@ -97874,3 +97874,10 @@ time_utc,ip,port,kind,client_data
 2026-10-25T14:38:41Z,37.55.106.194,23,telnet-negotiation,
 2026-10-25T14:41:13Z,91.230.168.164,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T14:43:16Z,91.230.168.192,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T14:44:01Z,199.165.159.113,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-10-25T14:44:53Z,120.53.143.164,2222,ssh-client,SSH-2.0-russh_0.51.1
+2026-10-25T14:46:18Z,220.81.30.82,23,telnet-negotiation,
+2026-10-25T14:46:18Z,91.230.168.242,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T14:49:17Z,91.230.168.196,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T14:52:17Z,91.230.168.85,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T14:53:06Z,115.23.169.150,23,telnet-negotiation,
