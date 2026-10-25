@@ -97619,3 +97619,7 @@ time_utc,ip,port,kind,client_data
 2026-10-25T11:17:16Z,91.230.168.93,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T11:20:16Z,91.230.168.201,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T11:22:15Z,91.230.168.180,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T11:25:06Z,94.154.43.53,23,other,root
+2026-10-25T11:25:14Z,91.230.168.55,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T11:28:11Z,91.230.168.153,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T11:31:17Z,91.230.168.206,2222,ssh-client,SSH-2.0-perlssh
