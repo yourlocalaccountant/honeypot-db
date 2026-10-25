@@ -98295,3 +98295,11 @@ time_utc,ip,port,kind,client_data
 2026-10-25T20:08:11Z,195.184.76.234,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T20:08:23Z,115.23.169.150,23,telnet-negotiation,
 2026-10-25T20:11:12Z,195.184.76.237,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T20:14:10Z,91.230.168.48,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T20:16:19Z,193.106.59.106,23,telnet-negotiation,
+2026-10-25T20:16:23Z,105.226.64.92,23,telnet-negotiation,
+2026-10-25T20:17:12Z,91.230.168.145,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T20:19:10Z,195.184.76.27,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T20:21:29Z,117.242.152.165,23,telnet-negotiation,
+2026-10-25T20:22:06Z,195.184.76.58,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T20:23:24Z,115.23.169.150,23,telnet-negotiation,
