@@ -97840,3 +97840,9 @@ time_utc,ip,port,kind,client_data
 2026-10-25T13:47:54Z,35.203.210.113,23,no-data,
 2026-10-25T13:49:12Z,195.184.76.81,2222,ssh-client,SSH-2.0-perlssh
 2026-10-25T13:50:20Z,98.80.4.93,23,telnet-negotiation,
+2026-10-25T13:52:12Z,195.184.76.139,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T13:53:01Z,115.23.169.150,23,telnet-negotiation,
+2026-10-25T13:55:01Z,217.76.255.106,23,telnet-negotiation,
+2026-10-25T13:55:09Z,195.184.76.61,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T13:57:23Z,195.184.76.235,2222,ssh-client,SSH-2.0-perlssh
+2026-10-25T14:00:12Z,195.184.76.210,2222,ssh-client,SSH-2.0-perlssh
