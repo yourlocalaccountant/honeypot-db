@@ -99100,3 +99100,7 @@ time_utc,ip,port,kind,client_data
 2026-10-26T05:40:10Z,45.83.220.211,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-26T05:41:06Z,203.203.93.21,23,telnet-negotiation,
 2026-10-26T05:43:06Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T05:45:31Z,66.240.223.208,3389,other,
+2026-10-26T05:47:48Z,44.220.188.27,2222,ssh-client,SSH-2.0-paramiko_2.9.2
+2026-10-26T05:47:49Z,44.220.188.27,2222,no-data,
+2026-10-26T05:51:48Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
