@@ -99733,3 +99733,6 @@ time_utc,ip,port,kind,client_data
 2026-10-26T19:12:16Z,85.173.114.58,23,telnet-negotiation,
 2026-10-26T19:12:23Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-26T19:19:35Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T19:21:33Z,118.42.236.23,23,telnet-negotiation,
+2026-10-26T19:25:48Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-26T19:26:55Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
