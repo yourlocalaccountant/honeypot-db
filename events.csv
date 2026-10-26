@@ -99187,3 +99187,9 @@ time_utc,ip,port,kind,client_data
 2026-10-26T07:49:15Z,59.103.106.234,23,telnet-negotiation,
 2026-10-26T07:49:28Z,59.103.106.234,23,telnet-negotiation,
 2026-10-26T07:49:41Z,59.103.106.234,23,telnet-negotiation,
+2026-10-26T07:53:14Z,109.219.145.103,23,no-data,
+2026-10-26T07:56:10Z,46.151.178.14,3389,rdp-request,"0, Cookie: mstshash=heinsenbug"
+2026-10-26T07:57:18Z,109.219.145.103,23,no-data,
+2026-10-26T07:57:55Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T07:59:09Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T08:01:01Z,88.187.76.59,23,no-data,
