@@ -99144,3 +99144,14 @@ time_utc,ip,port,kind,client_data
 2026-10-26T07:06:18Z,167.94.146.62,2222,ssh-client,SSH-2.0-Go
 2026-10-26T07:07:51Z,20.102.41.156,23,telnet-negotiation,
 2026-10-26T07:08:26Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T07:10:30Z,45.83.220.211,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T07:10:58Z,64.62.197.122,3389,no-data,
+2026-10-26T07:12:28Z,45.153.34.117,2222,ssh-client,SSH-2.0-libssh_0.12.0
+2026-10-26T07:12:41Z,35.190.204.29,23,no-data,
+2026-10-26T07:12:54Z,34.52.246.40,23,no-data,
+2026-10-26T07:13:35Z,34.52.246.40,23,telnet-negotiation,& &
+2026-10-26T07:13:36Z,34.52.246.40,23,telnet-negotiation,%   NTLMSSP
+2026-10-26T07:16:20Z,186.105.64.34,23,no-data,
+2026-10-26T07:17:05Z,186.105.64.34,23,no-data,
+2026-10-26T07:17:14Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T07:20:51Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
