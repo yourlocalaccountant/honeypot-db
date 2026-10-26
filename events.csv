@@ -98757,3 +98757,44 @@ time_utc,ip,port,kind,client_data
 2026-10-26T02:42:22Z,64.205.72.245,2222,ssh-client,SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.8
 2026-10-26T02:42:23Z,86.38.187.203,2222,other,c
 2026-10-26T02:52:29Z,170.81.144.173,23,telnet-negotiation,
+2026-10-26T02:56:58Z,104.155.79.200,3389,rdp-request,
+2026-10-26T02:56:59Z,104.155.79.200,3389,other,; admin.$cmd hello ?
+2026-10-26T02:56:59Z,104.155.79.200,3389,tls-handshake,"0W\k~ <& vA A z  qX ! ) Pv u ;8 8 ) < ?y 2 + / , 0 / 5 # ' <"
+2026-10-26T02:57:00Z,104.155.79.200,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-10-26T02:57:01Z,104.155.79.200,3389,other,$\ S P $ UY^2& {j LF N 7 ? u n e F; S
+2026-10-26T02:57:06Z,104.155.79.200,3389,no-data,
+2026-10-26T02:57:11Z,104.155.79.200,3389,no-data,
+2026-10-26T02:57:16Z,104.155.79.200,3389,no-data,
+2026-10-26T02:57:21Z,104.155.79.200,3389,no-data,
+2026-10-26T02:57:21Z,104.155.79.200,3389,other,MB version bind
+2026-10-26T02:57:26Z,104.155.79.200,3389,rdp-request,
+2026-10-26T02:57:27Z,104.155.79.200,3389,no-data,
+2026-10-26T02:57:32Z,104.155.79.200,3389,no-data,
+2026-10-26T02:57:37Z,104.155.79.200,3389,no-data,
+2026-10-26T02:57:37Z,104.155.79.200,3389,other,0: ( c `2 cn=sqkltmklfgdfcxfrwqni sqkltmklfgdfcxfrwqni
+2026-10-26T02:57:37Z,104.155.79.200,3389,other,"X % & ' + , $ \ k < K { \2!$ 7 b9JF,"
+2026-10-26T02:57:43Z,104.155.79.200,3389,no-data,
+2026-10-26T02:57:43Z,104.155.79.200,3389,other,C 3 consumer-Offset Explorer 2.2-18 apache-kafka-java 2.4.0
+2026-10-26T02:57:44Z,104.155.79.200,3389,other,# 3 adminclient-5 ldU0tP
+2026-10-26T02:57:49Z,104.155.79.200,3389,no-data,
+2026-10-26T02:57:49Z,104.155.79.200,3389,other,(r |
+2026-10-26T02:57:50Z,104.155.79.200,3389,other,
+2026-10-26T02:57:50Z,104.155.79.200,3389,other,f SMB@ $ 333333333333337
+2026-10-26T02:57:51Z,104.155.79.200,3389,other,*1 $4 PING
+2026-10-26T02:57:52Z,104.155.79.200,3389,other,MQTT < AAAAA
+2026-10-26T02:57:53Z,104.155.79.200,3389,other,JDWP-Handshake
+2026-10-26T02:57:53Z,104.155.79.200,3389,other,JRMI K
+2026-10-26T02:57:54Z,104.155.79.200,3389,other,MQTT < AAAAA
+2026-10-26T02:57:55Z,104.155.79.200,3389,other,"< , : (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-"
+2026-10-26T02:57:55Z,104.155.79.200,3389,other,'@RSYTCD: 29
+2026-10-26T02:57:56Z,104.155.79.200,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
+2026-10-26T02:57:57Z,104.155.79.200,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 5691
+2026-10-26T02:58:23Z,120.28.200.35,23,telnet-negotiation,
+2026-10-26T02:58:48Z,176.53.159.197,2222,ssh-client,SSH-2.0-sshcustom_0.1
+2026-10-26T02:58:49Z,176.53.159.197,2222,ssh-client,"SSH-2.0-sshcustom_0.1 e 'n G curve25519-sha256,curve25519-sha256@libssh.org,ecdh"
+2026-10-26T02:58:49Z,176.53.159.197,2222,ssh-client,"SSH-2.0-sshcustom_0.1 v e / G curve25519-sha256,curve25519-sha256@libssh.org,ecd"
+2026-10-26T02:58:50Z,176.53.159.197,2222,ssh-client,"SSH-2.0-sshcustom_0.1 e EQ H curve25519-sha256,curve25519-sha256@libssh.org,ecdh"
+2026-10-26T03:00:50Z,176.53.159.198,2222,ssh-client,"SSH-2.0-sshcustom_0.1 ` 21 q curve25519-sha256,curve25519-sha256@libssh.org,ecdh"
+2026-10-26T03:00:51Z,176.53.159.198,2222,ssh-client,"SSH-2.0-sshcustom_0.1 ` A3%q curve25519-sha256,curve25519-sha256@libssh.org,ecdh"
+2026-10-26T03:00:51Z,176.53.159.198,2222,ssh-client,"SSH-2.0-sshcustom_0.1 a Gq curve25519-sha256,curve25519-sha256@libssh.org,ecdh-s"
+2026-10-26T03:00:52Z,176.53.159.198,2222,ssh-client,"SSH-2.0-sshcustom_0.1 a 2jq curve25519-sha256,curve25519-sha256@libssh.org,ecdh-"
