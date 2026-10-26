@@ -99669,3 +99669,6 @@ time_utc,ip,port,kind,client_data
 2026-10-26T17:47:24Z,44.220.188.75,2222,ssh-client,SSH-2.0-paramiko_2.9.2
 2026-10-26T17:47:32Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-26T17:53:11Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T17:58:11Z,188.129.250.231,23,telnet-negotiation,
+2026-10-26T17:59:53Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T18:01:54Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
