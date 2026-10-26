@@ -98540,3 +98540,10 @@ time_utc,ip,port,kind,client_data
 2026-10-26T00:33:12Z,91.230.168.74,2222,ssh-client,SSH-2.0-perlssh
 2026-10-26T00:36:15Z,91.230.168.39,2222,ssh-client,SSH-2.0-perlssh
 2026-10-26T00:38:10Z,195.184.76.121,2222,ssh-client,SSH-2.0-perlssh
+2026-10-26T00:40:10Z,195.184.76.122,2222,ssh-client,SSH-2.0-perlssh
+2026-10-26T00:42:10Z,91.230.168.53,2222,ssh-client,SSH-2.0-perlssh
+2026-10-26T00:44:07Z,195.184.76.214,2222,ssh-client,SSH-2.0-perlssh
+2026-10-26T00:44:41Z,3.85.57.190,3389,tls-handshake,"h J ! d \ hb  ~ H ` f:q9 B 838s & / 0 + , / 5 {"
+2026-10-26T00:46:12Z,91.230.168.170,2222,ssh-client,SSH-2.0-perlssh
+2026-10-26T00:47:55Z,189.216.232.66,23,telnet-negotiation,
+2026-10-26T00:48:10Z,91.230.168.226,2222,ssh-client,SSH-2.0-perlssh
