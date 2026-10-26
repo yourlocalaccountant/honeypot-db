@@ -99395,3 +99395,8 @@ time_utc,ip,port,kind,client_data
 2026-10-26T12:25:05Z,45.188.121.27,23,no-data,
 2026-10-26T12:25:16Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-26T12:34:47Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T12:36:50Z,178.173.39.201,23,telnet-negotiation,
+2026-10-26T12:37:43Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T12:38:01Z,122.3.6.113,23,telnet-negotiation,
+2026-10-26T12:41:42Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-26T12:43:27Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
