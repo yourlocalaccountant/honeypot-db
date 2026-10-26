@@ -99460,3 +99460,18 @@ time_utc,ip,port,kind,client_data
 2026-10-26T14:16:29Z,27.25.69.197,23,telnet-negotiation,
 2026-10-26T14:17:48Z,24.125.104.205,23,no-data,
 2026-10-26T14:18:32Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T14:22:43Z,75.138.44.212,23,no-data,
+2026-10-26T14:22:56Z,75.138.44.212,23,no-data,
+2026-10-26T14:25:53Z,165.154.179.62,3389,tls-handshake,"Vy|M M g @ s S   J RC^ dg c Y .p l >|# H 4 / 0 + , 3 = 9 /"
+2026-10-26T14:25:59Z,165.154.179.62,3389,no-data,
+2026-10-26T14:26:00Z,165.154.179.62,3389,rdp-request,
+2026-10-26T14:26:00Z,165.154.179.62,3389,rdp-request,3. Cookie: mstshash=Administrator
+2026-10-26T14:26:01Z,165.154.179.62,3389,http,"GET / HTTP/1.1 Host: [redacted] Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q"
+2026-10-26T14:26:01Z,165.154.179.62,3389,other,
+2026-10-26T14:26:02Z,165.154.179.62,3389,other,github.com PGET / HTTP/1.0
+2026-10-26T14:26:03Z,165.154.179.62,3389,rdp-request,
+2026-10-26T14:27:17Z,211.194.52.6,23,telnet-negotiation,
+2026-10-26T14:27:19Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T14:29:31Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T14:30:11Z,43.173.68.211,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-26T14:31:51Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
