@@ -98572,3 +98572,4 @@ time_utc,ip,port,kind,client_data
 2026-10-26T01:16:27Z,128.1.131.74,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-26T01:17:30Z,27.150.188.148,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-26T01:19:51Z,120.46.24.167,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-26T01:31:44Z,27.47.27.148,23,telnet-negotiation,
