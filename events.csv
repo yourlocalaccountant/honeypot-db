@@ -98756,3 +98756,4 @@ time_utc,ip,port,kind,client_data
 2026-10-26T02:40:34Z,222.113.207.183,23,telnet-negotiation,
 2026-10-26T02:42:22Z,64.205.72.245,2222,ssh-client,SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.8
 2026-10-26T02:42:23Z,86.38.187.203,2222,other,c
+2026-10-26T02:52:29Z,170.81.144.173,23,telnet-negotiation,
