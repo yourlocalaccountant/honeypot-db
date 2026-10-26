@@ -98798,3 +98798,6 @@ time_utc,ip,port,kind,client_data
 2026-10-26T03:00:51Z,176.53.159.198,2222,ssh-client,"SSH-2.0-sshcustom_0.1 ` A3%q curve25519-sha256,curve25519-sha256@libssh.org,ecdh"
 2026-10-26T03:00:51Z,176.53.159.198,2222,ssh-client,"SSH-2.0-sshcustom_0.1 a Gq curve25519-sha256,curve25519-sha256@libssh.org,ecdh-s"
 2026-10-26T03:00:52Z,176.53.159.198,2222,ssh-client,"SSH-2.0-sshcustom_0.1 a 2jq curve25519-sha256,curve25519-sha256@libssh.org,ecdh-"
+2026-10-26T03:08:29Z,129.222.137.134,23,telnet-negotiation,
+2026-10-26T03:12:58Z,8.209.114.206,2222,other,
+2026-10-26T03:12:59Z,8.209.114.206,2222,ssh-client,SSH-2.0-Go
