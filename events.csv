@@ -99729,3 +99729,7 @@ time_utc,ip,port,kind,client_data
 2026-10-26T19:06:59Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-26T19:08:12Z,101.109.231.93,23,telnet-negotiation,
 2026-10-26T19:08:28Z,160.30.83.178,23,no-data,
+2026-10-26T19:11:06Z,119.100.208.37,23,telnet-negotiation,
+2026-10-26T19:12:16Z,85.173.114.58,23,telnet-negotiation,
+2026-10-26T19:12:23Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T19:19:35Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
