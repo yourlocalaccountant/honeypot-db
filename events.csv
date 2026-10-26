@@ -99641,3 +99641,10 @@ time_utc,ip,port,kind,client_data
 2026-10-26T17:03:48Z,71.6.134.229,3389,rdp-request,"'"" Cookie: mstshash=administr"
 2026-10-26T17:03:57Z,71.6.134.229,3389,rdp-request,"'"" Cookie: mstshash=administr"
 2026-10-26T17:11:57Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T17:16:47Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-26T17:16:49Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T17:19:23Z,71.6.134.229,3389,tls-handshake,") N ? S& ""ga  OH @z h b 6t + b O h "" & / 0 + , / 5 {"
+2026-10-26T17:20:22Z,190.106.236.132,23,telnet-negotiation,
+2026-10-26T17:21:55Z,95.55.218.32,23,telnet-negotiation,
+2026-10-26T17:22:37Z,47.79.239.125,2222,ssh-client,SSH-2.0-libssh2_1.11.1
+2026-10-26T17:22:43Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
