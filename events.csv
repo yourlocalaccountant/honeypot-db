@@ -99347,3 +99347,15 @@ time_utc,ip,port,kind,client_data
 2026-10-26T11:50:08Z,18.97.5.112,23,telnet-negotiation,
 2026-10-26T11:50:51Z,192.248.150.180,3389,rdp-request,
 2026-10-26T11:53:01Z,122.3.6.113,23,telnet-negotiation,
+2026-10-26T11:56:56Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T11:57:02Z,20.84.80.53,2323,no-data,
+2026-10-26T11:57:02Z,91.247.82.128,23,no-data,
+2026-10-26T11:58:36Z,213.209.159.175,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWe
+2026-10-26T11:58:36Z,213.209.159.175,2222,http,GET /site.zip HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 5.1)
+2026-10-26T11:58:37Z,213.209.159.175,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWe
+2026-10-26T12:00:14Z,213.209.159.175,2222,tls-handshake,"} # ?;z  q W & .e #k * | ""r ! + / , 0 u"
+2026-10-26T12:00:15Z,213.209.159.175,2222,tls-handshake,"M l xJ b &5   6$=# 4]fv - < h 0$y + / , 0 u"
+2026-10-26T12:00:16Z,213.209.159.175,2222,tls-handshake,"d W = U _ B sQ  Kb A D "" y jVM zJ c ~ + / , 0 u"
+2026-10-26T12:02:09Z,185.142.92.129,23,telnet-negotiation,
+2026-10-26T12:04:31Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T12:05:25Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
