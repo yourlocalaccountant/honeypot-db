@@ -99287,3 +99287,5 @@ time_utc,ip,port,kind,client_data
 2026-10-26T10:49:13Z,121.231.143.238,23,telnet-negotiation,
 2026-10-26T10:49:13Z,5.44.170.105,23,telnet-negotiation,
 2026-10-26T10:49:23Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T10:54:27Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-26T10:54:41Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
