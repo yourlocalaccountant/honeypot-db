@@ -99203,3 +99203,9 @@ time_utc,ip,port,kind,client_data
 2026-10-26T08:26:06Z,5.239.228.54,23,telnet-negotiation,
 2026-10-26T08:26:18Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-26T08:33:19Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T08:37:48Z,216.226.76.20,2222,ssh-client,SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u7
+2026-10-26T08:37:53Z,78.128.112.74,23,ssh-client,SSH-2.0-Go
+2026-10-26T08:37:53Z,78.128.112.74,2222,ssh-client,SSH-2.0-Go
+2026-10-26T08:40:45Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T08:43:00Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-26T08:44:17Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
