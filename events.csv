@@ -99063,3 +99063,19 @@ time_utc,ip,port,kind,client_data
 2026-10-26T04:58:47Z,172.236.228.198,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS
 2026-10-26T04:58:47Z,172.236.228.198,3389,tls-handshake,{ w Z % 2 f / T7 :+& % T / + / 5 4
 2026-10-26T04:59:50Z,45.83.220.211,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T05:15:10Z,77.90.185.20,2222,ssh-client,SSH-2.0-Go
+2026-10-26T05:16:20Z,14.225.206.187,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-26T05:18:57Z,83.168.105.153,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-26T05:19:00Z,102.88.137.80,2222,ssh-client,SSH-2.0-libssh_0.11.1
+2026-10-26T05:19:14Z,120.48.132.230,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-26T05:19:52Z,171.25.158.42,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-26T05:21:15Z,125.41.229.240,23,telnet-negotiation,
+2026-10-26T05:21:28Z,125.41.229.240,23,telnet-negotiation,
+2026-10-26T05:21:41Z,125.41.229.240,23,telnet-negotiation,
+2026-10-26T05:21:54Z,125.41.229.240,23,telnet-negotiation,
+2026-10-26T05:22:07Z,125.41.229.240,23,telnet-negotiation,
+2026-10-26T05:22:12Z,118.145.104.105,23,telnet-negotiation,admin
+2026-10-26T05:22:20Z,125.41.229.240,23,telnet-negotiation,
+2026-10-26T05:22:23Z,199.165.159.161,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-10-26T05:22:33Z,125.41.229.240,23,telnet-negotiation,
+2026-10-26T05:22:46Z,125.41.229.240,23,telnet-negotiation,
