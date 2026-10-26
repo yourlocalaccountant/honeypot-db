@@ -99572,3 +99572,9 @@ time_utc,ip,port,kind,client_data
 2026-10-26T15:22:22Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-26T15:23:44Z,119.199.176.30,23,telnet-negotiation,
 2026-10-26T15:25:26Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T15:27:53Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-26T15:30:10Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T15:31:22Z,220.71.232.148,23,telnet-negotiation,
+2026-10-26T15:31:33Z,49.116.160.20,2222,no-data,
+2026-10-26T15:31:33Z,49.116.160.20,2222,ssh-client,SSH-2.0-Go
+2026-10-26T15:34:31Z,89.36.148.80,23,telnet-negotiation,
