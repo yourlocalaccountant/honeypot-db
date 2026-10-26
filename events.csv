@@ -99712,3 +99712,6 @@ time_utc,ip,port,kind,client_data
 2026-10-26T18:35:52Z,91.92.40.65,23,other,ubuntu
 2026-10-26T18:35:54Z,91.92.40.65,23,other,root
 2026-10-26T18:35:59Z,91.92.40.65,23,other,postgres
+2026-10-26T18:37:51Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T18:46:10Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T18:47:09Z,120.28.169.104,23,telnet-negotiation,
