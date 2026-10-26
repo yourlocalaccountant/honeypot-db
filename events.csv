@@ -99032,3 +99032,8 @@ time_utc,ip,port,kind,client_data
 2026-10-26T04:08:00Z,218.78.135.132,2222,ssh-client,SSH-2.0-Go
 2026-10-26T04:13:47Z,162.216.149.118,2222,ssh-client,SSH-2.0-ZGrab ZGrab SSH Survey
 2026-10-26T04:17:13Z,160.250.246.219,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-26T04:26:25Z,176.112.105.77,23,no-data,
+2026-10-26T04:26:33Z,124.9.69.4,23,telnet-negotiation,
+2026-10-26T04:26:35Z,124.9.69.4,23,telnet-negotiation,
+2026-10-26T04:27:01Z,176.112.105.77,23,no-data,
+2026-10-26T04:29:33Z,2.179.178.170,23,telnet-negotiation,
