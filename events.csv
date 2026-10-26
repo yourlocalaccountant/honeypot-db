@@ -99216,3 +99216,8 @@ time_utc,ip,port,kind,client_data
 2026-10-26T08:51:39Z,45.77.61.56,3389,rdp-request,
 2026-10-26T08:53:29Z,216.226.76.20,2222,tls-handshake,"> ZJ * Z[DE!> =t '$=   o ""QU K F k. /y  =  zz + / , 0 / 5"
 2026-10-26T08:55:47Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T08:58:32Z,46.135.49.188,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-26T08:59:44Z,99.92.204.98,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-26T09:00:02Z,45.83.220.211,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-26T09:03:06Z,219.77.169.219,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-26T09:03:44Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
