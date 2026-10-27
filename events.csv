@@ -100411,3 +100411,22 @@ time_utc,ip,port,kind,client_data
 2026-10-27T01:24:26Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
 2026-10-27T01:24:32Z,3.130.168.2,23,other,
 2026-10-27T01:25:16Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T01:26:13Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T01:26:59Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T01:26:59Z,186.57.139.11,23,telnet-negotiation,
+2026-10-27T01:27:10Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T01:28:09Z,164.30.17.82,2222,ssh-client,"SSH-2.0-Go E X> S { qcurve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-n"
+2026-10-27T01:29:06Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T01:30:05Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T01:31:03Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T01:31:32Z,46.36.123.131,23,no-data,
+2026-10-27T01:32:01Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T01:32:11Z,46.36.123.131,23,no-data,
+2026-10-27T01:32:59Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T01:33:13Z,211.194.52.6,23,telnet-negotiation,
+2026-10-27T01:33:57Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T01:34:09Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T01:34:56Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T01:35:32Z,45.234.121.195,23,telnet-negotiation,
+2026-10-27T01:35:56Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T01:36:25Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
