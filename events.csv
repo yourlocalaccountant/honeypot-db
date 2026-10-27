@@ -101825,3 +101825,15 @@ time_utc,ip,port,kind,client_data
 2026-10-27T13:04:20Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
 2026-10-27T13:04:44Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
 2026-10-27T13:05:38Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T13:06:57Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T13:07:25Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T13:08:15Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T13:09:33Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T13:10:52Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T13:11:00Z,46.101.52.137,3389,rdp-request,B= Cookie: mstshash=CGrab/v8.24.1-dev-throughput
+2026-10-27T13:11:24Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T13:12:09Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T13:13:27Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T13:14:34Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T13:14:47Z,164.30.17.82,2222,ssh-client,"SSH-2.0-Go I ' W # qcurve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-ni"
+2026-10-27T13:16:07Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
