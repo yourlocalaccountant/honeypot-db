@@ -100720,3 +100720,50 @@ time_utc,ip,port,kind,client_data
 2026-10-27T03:30:07Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
 2026-10-27T03:31:13Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
 2026-10-27T03:32:20Z,164.30.17.82,2222,ssh-client,"SSH-2.0-Go q # M+ v qcurve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-n"
+2026-10-27T03:33:26Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T03:34:32Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T03:35:38Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T03:36:16Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-27T03:36:45Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T03:37:37Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T03:37:51Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T03:38:45Z,202.70.78.237,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-27T03:38:54Z,177.75.49.11,23,telnet-negotiation,
+2026-10-27T03:38:57Z,164.30.17.82,2222,ssh-client,"SSH-2.0-Go 2 $ N qcurve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nist"
+2026-10-27T03:40:02Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T03:40:25Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T03:41:04Z,104.199.104.99,3389,rdp-request,
+2026-10-27T03:41:05Z,104.199.104.99,3389,other,; admin.$cmd hello ?
+2026-10-27T03:41:05Z,104.199.104.99,3389,tls-handshake,"2h % = }BS w  @, /  1_. ;Q 7 z ^ ]z+ - 2 + / , 0 / 5 # ' <"
+2026-10-27T03:41:06Z,104.199.104.99,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-10-27T03:41:07Z,104.199.104.99,3389,other,U / Eu L vr Q '&t}R = T 0O Lm U G g `KN =
+2026-10-27T03:41:09Z,164.30.17.82,2222,ssh-client,"SSH-2.0-Go L L ] 2 Dw; qcurve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha"
+2026-10-27T03:41:12Z,104.199.104.99,3389,no-data,
+2026-10-27T03:41:18Z,104.199.104.99,3389,no-data,
+2026-10-27T03:41:24Z,104.199.104.99,3389,no-data,
+2026-10-27T03:41:30Z,104.199.104.99,3389,no-data,
+2026-10-27T03:41:30Z,104.199.104.99,3389,other,z version bind
+2026-10-27T03:41:36Z,104.199.104.99,3389,no-data,
+2026-10-27T03:41:37Z,104.199.104.99,3389,rdp-request,
+2026-10-27T03:41:42Z,104.199.104.99,3389,no-data,
+2026-10-27T03:41:48Z,104.199.104.99,3389,no-data,
+2026-10-27T03:41:49Z,104.199.104.99,3389,other,"X % & ' + , $ \ k < K { \2!$ 7 b9JF,"
+2026-10-27T03:41:50Z,104.199.104.99,3389,other,0: Q `2 cn=dwwcuvemxghrhzdrqfpj dwwcuvemxghrhzdrqfpj
+2026-10-27T03:41:55Z,104.199.104.99,3389,no-data,
+2026-10-27T03:41:56Z,104.199.104.99,3389,other,C 3 consumer-Offset Explorer 2.2-18 apache-kafka-java 2.4.0
+2026-10-27T03:41:57Z,104.199.104.99,3389,other,# 3 adminclient-5 si2j9P
+2026-10-27T03:42:02Z,104.199.104.99,3389,no-data,
+2026-10-27T03:42:03Z,104.199.104.99,3389,other,(r |
+2026-10-27T03:42:04Z,104.199.104.99,3389,other,d
+2026-10-27T03:42:04Z,104.199.104.99,3389,other,f SMB@ $ 333333333333337
+2026-10-27T03:42:05Z,104.199.104.99,3389,other,*1 $4 PING
+2026-10-27T03:42:06Z,104.199.104.99,3389,other,MQTT < AAAAA
+2026-10-27T03:42:07Z,104.199.104.99,3389,other,JDWP-Handshake
+2026-10-27T03:42:07Z,104.199.104.99,3389,other,JRMI K
+2026-10-27T03:42:08Z,104.199.104.99,3389,other,MQTT < AAAAA
+2026-10-27T03:42:09Z,104.199.104.99,3389,other,"< , : (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-"
+2026-10-27T03:42:09Z,104.199.104.99,3389,other,'@RSYTCD: 29
+2026-10-27T03:42:10Z,104.199.104.99,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
+2026-10-27T03:42:11Z,104.199.104.99,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 4968
+2026-10-27T03:42:15Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T03:43:22Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
