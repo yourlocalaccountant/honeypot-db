@@ -102658,3 +102658,13 @@ time_utc,ip,port,kind,client_data
 2026-10-27T22:33:44Z,211.226.39.4,23,telnet-negotiation,
 2026-10-27T22:33:49Z,154.125.120.7,2222,ssh-client,SSH-2.0-libssh_0.11.1
 2026-10-27T22:35:21Z,91.231.89.242,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T22:37:38Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T22:38:25Z,91.196.152.157,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T22:39:50Z,147.185.133.217,3389,rdp-request,"'"" Cookie: mstshash=uajHDXIOE"
+2026-10-27T22:39:50Z,147.185.133.217,3389,rdp-request,",' Cookie: mstshash=PosJlf"
+2026-10-27T22:39:51Z,147.185.133.217,3389,rdp-request,",' Cookie: mstshash=OmBuZT"
+2026-10-27T22:39:52Z,147.185.133.217,3389,no-data,
+2026-10-27T22:41:20Z,91.231.89.105,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T22:42:45Z,103.153.68.37,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-27T22:44:26Z,91.196.152.51,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T22:44:34Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
