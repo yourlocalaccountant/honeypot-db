@@ -102514,3 +102514,14 @@ time_utc,ip,port,kind,client_data
 2026-10-27T20:38:19Z,72.255.15.223,23,telnet-negotiation,
 2026-10-27T20:38:32Z,72.255.15.223,23,telnet-negotiation,
 2026-10-27T20:38:45Z,72.255.15.223,23,telnet-negotiation,
+2026-10-27T20:38:58Z,72.255.15.223,23,telnet-negotiation,
+2026-10-27T20:39:11Z,72.255.15.223,23,telnet-negotiation,
+2026-10-27T20:39:24Z,72.255.15.223,23,telnet-negotiation,
+2026-10-27T20:41:25Z,91.196.152.175,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T20:42:09Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-27T20:42:15Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T20:42:47Z,103.153.68.37,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-27T20:44:22Z,91.196.152.56,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T20:46:19Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T20:47:26Z,194.44.163.195,23,telnet-negotiation,
+2026-10-27T20:47:33Z,91.231.89.244,2222,ssh-client,SSH-2.0-perlssh
