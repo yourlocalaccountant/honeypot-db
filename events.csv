@@ -101344,3 +101344,31 @@ time_utc,ip,port,kind,client_data
 2026-10-27T08:25:35Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
 2026-10-27T08:26:50Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
 2026-10-27T08:28:04Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T08:29:09Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T08:29:21Z,164.30.17.82,2222,ssh-client,"SSH-2.0-Go } l w +` qcurve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-n"
+2026-10-27T08:30:37Z,164.30.17.82,2222,ssh-client,"SSH-2.0-Go %^ 7: ; qcurve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-ni"
+2026-10-27T08:31:52Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T08:32:28Z,150.95.25.34,23,telnet-negotiation,
+2026-10-27T08:32:51Z,150.95.25.34,23,telnet-negotiation,
+2026-10-27T08:32:59Z,150.95.25.34,23,telnet-negotiation,
+2026-10-27T08:33:07Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T08:33:10Z,150.95.25.34,23,no-data,
+2026-10-27T08:33:19Z,150.95.25.34,23,telnet-negotiation,
+2026-10-27T08:33:27Z,150.95.25.34,23,telnet-negotiation,
+2026-10-27T08:33:35Z,150.95.25.34,23,telnet-negotiation,
+2026-10-27T08:33:47Z,150.95.25.34,23,telnet-negotiation,
+2026-10-27T08:33:54Z,150.95.25.34,23,telnet-negotiation,
+2026-10-27T08:34:02Z,150.95.25.34,23,telnet-negotiation,
+2026-10-27T08:34:10Z,93.170.162.49,23,no-data,
+2026-10-27T08:34:11Z,150.95.25.34,23,telnet-negotiation,
+2026-10-27T08:34:23Z,150.95.25.34,23,no-data,
+2026-10-27T08:34:23Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T08:34:24Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-27T08:34:28Z,150.95.25.34,23,telnet-negotiation,
+2026-10-27T08:34:45Z,93.170.162.49,23,no-data,
+2026-10-27T08:35:39Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T08:36:55Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T08:38:10Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T08:38:15Z,93.123.109.204,3389,rdp-request,
+2026-10-27T08:39:08Z,119.199.157.66,23,telnet-negotiation,
+2026-10-27T08:39:26Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
