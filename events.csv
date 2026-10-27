@@ -102031,3 +102031,24 @@ time_utc,ip,port,kind,client_data
 2026-10-27T15:41:45Z,91.231.89.179,2222,tls-handshake,"c _ p 6 @=g L X % 9&  $ = zp 5 j""   3 g 9 k E #"
 2026-10-27T15:41:48Z,91.231.89.177,2222,no-data,
 2026-10-27T15:42:42Z,14.34.5.148,23,telnet-negotiation,
+2026-10-27T15:44:19Z,91.231.89.117,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T15:45:10Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T15:46:17Z,170.231.236.98,3389,no-data,
+2026-10-27T15:46:19Z,185.191.236.38,3389,rdp-request,&! Cookie: mstshash=
+2026-10-27T15:46:20Z,185.191.236.38,3389,http,GET / HTTP/1.1 Host: [redacted] Accept: */* Accept-Encoding: identity Accept-Lan
+2026-10-27T15:46:22Z,170.231.236.98,3389,tls-handshake,"s'$ (& } } - ' ' lD   t V{eM{ : $ Uh5b a x 2 + / , 0 / 5 # ' <"
+2026-10-27T15:46:23Z,170.231.236.98,3389,ssh-client,SSH-2.0-OpenSSH_8.9
+2026-10-27T15:46:25Z,3.232.81.89,3389,rdp-request,&! Cookie: mstshash=
+2026-10-27T15:46:27Z,3.151.181.143,3389,http,GET / HTTP/1.1 Host: [redacted] Accept: */* Accept-Encoding: identity Accept-Lan
+2026-10-27T15:46:29Z,52.14.197.136,3389,tls-handshake,"K a G & D&f Ll ]  j d` 3 a '= T d > ~ j 2 + / , 0 / 5 # ' <"
+2026-10-27T15:46:31Z,44.237.114.33,3389,ssh-client,SSH-2.0-OpenSSH_8.9
+2026-10-27T15:46:32Z,52.192.76.61,3389,rdp-request,&! Cookie: mstshash=
+2026-10-27T15:46:34Z,15.175.179.151,3389,http,GET / HTTP/1.1 Host: [redacted] Accept: */* Accept-Encoding: identity Accept-Lan
+2026-10-27T15:46:36Z,52.16.213.65,3389,tls-handshake,"I/{ 5 oM8u ?*l y X  i  ! O 2)C }2B8 : 29y 2 + / , 0 / 5 # ' <"
+2026-10-27T15:46:38Z,44.237.114.33,3389,ssh-client,SSH-2.0-OpenSSH_8.9
+2026-10-27T15:47:19Z,91.231.89.9,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T15:50:18Z,91.231.89.240,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T15:51:06Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T15:52:29Z,91.231.89.209,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T15:53:23Z,103.153.68.37,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-27T15:53:23Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
