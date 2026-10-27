@@ -101988,3 +101988,10 @@ time_utc,ip,port,kind,client_data
 2026-10-27T14:46:15Z,185.65.133.22,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-27T14:46:20Z,103.153.68.37,3389,rdp-request,'+& Cookie: mstshash=hello
 2026-10-27T14:46:55Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T14:51:08Z,159.223.157.40,2222,http,"GET / HTTP/1.1 Host: [redacted] Connection: keep-alive sec-ch-ua: ""Chromium"";v="""
+2026-10-27T14:51:08Z,159.223.157.40,2222,http,"GET /favicon.ico HTTP/1.1 Host: [redacted] Connection: keep-alive sec-ch-ua: ""Ch"
+2026-10-27T14:53:08Z,187.86.184.60,23,telnet-negotiation,
+2026-10-27T14:53:29Z,66.164.65.192,23,telnet-negotiation,
+2026-10-27T14:55:49Z,115.77.184.62,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-27T14:55:53Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T14:57:01Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
