@@ -102380,3 +102380,14 @@ time_utc,ip,port,kind,client_data
 2026-10-27T18:52:40Z,16.192.194.110,3389,http,GET / HTTP/1.1 Host: [redacted] Accept: */* Accept-Encoding: identity Accept-Lan
 2026-10-27T18:52:42Z,16.192.194.110,3389,tls-handshake,"H N "" ? p H  Q d J W ?G T [fj n m  |sM 2 + / , 0 / 5 # ' <"
 2026-10-27T18:52:44Z,18.135.221.73,3389,ssh-client,SSH-2.0-OpenSSH_8.9
+2026-10-27T18:54:11Z,61.171.94.96,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-27T18:54:24Z,91.196.152.87,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T18:55:25Z,210.79.142.203,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-27T18:55:33Z,121.148.158.137,23,telnet-negotiation,
+2026-10-27T18:57:24Z,91.231.89.239,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T18:59:20Z,91.196.152.220,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T18:59:39Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-27T19:00:15Z,103.153.68.37,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-27T19:01:10Z,115.77.184.62,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-27T19:01:35Z,91.196.152.71,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T19:03:23Z,91.231.89.35,2222,ssh-client,SSH-2.0-perlssh
