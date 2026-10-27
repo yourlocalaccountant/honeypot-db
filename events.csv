@@ -100941,3 +100941,14 @@ time_utc,ip,port,kind,client_data
 2026-10-27T05:27:23Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
 2026-10-27T05:28:32Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
 2026-10-27T05:29:41Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T05:30:46Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T05:30:50Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T05:32:01Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T05:33:09Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T05:34:20Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T05:35:28Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T05:35:55Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T05:36:38Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T05:37:48Z,164.30.17.82,2222,ssh-client,"SSH-2.0-Go > $3 DT dIG qcurve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha"
+2026-10-27T05:38:57Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T05:40:05Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
