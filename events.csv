@@ -102005,3 +102005,15 @@ time_utc,ip,port,kind,client_data
 2026-10-27T15:19:08Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-27T15:19:49Z,103.153.68.37,3389,rdp-request,'+& Cookie: mstshash=hello
 2026-10-27T15:21:49Z,211.226.39.4,23,telnet-negotiation,
+2026-10-27T15:25:13Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-27T15:25:38Z,76.198.150.157,23,telnet-negotiation,
+2026-10-27T15:30:11Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T15:32:35Z,211.225.18.106,23,telnet-negotiation,
+2026-10-27T15:33:15Z,79.170.53.30,2222,no-data,
+2026-10-27T15:33:22Z,79.170.53.30,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-27T15:33:25Z,79.170.53.30,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-27T15:33:29Z,79.170.53.30,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-27T15:33:32Z,79.170.53.30,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-27T15:33:35Z,79.170.53.30,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-27T15:33:38Z,79.170.53.30,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-27T15:33:42Z,79.170.53.30,2222,ssh-client,SSH-2.0-libssh_0.7.4
