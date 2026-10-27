@@ -102693,3 +102693,11 @@ time_utc,ip,port,kind,client_data
 2026-10-27T23:16:27Z,91.231.89.247,2222,ssh-client,SSH-2.0-perlssh
 2026-10-27T23:17:08Z,103.153.68.37,3389,rdp-request,'+& Cookie: mstshash=hello
 2026-10-27T23:18:19Z,170.81.144.173,23,telnet-negotiation,
+2026-10-27T23:19:32Z,91.196.152.57,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T23:20:35Z,115.77.184.62,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-27T23:21:17Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T23:22:25Z,91.196.152.54,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T23:24:21Z,91.196.152.159,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T23:25:16Z,185.65.133.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T23:26:25Z,91.196.152.37,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T23:29:20Z,91.231.89.209,2222,ssh-client,SSH-2.0-perlssh
