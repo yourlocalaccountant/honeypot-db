@@ -101488,3 +101488,17 @@ time_utc,ip,port,kind,client_data
 2026-10-27T09:20:31Z,20.80.92.87,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 zgrab/0.x Accept: */* Ac
 2026-10-27T09:21:31Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-27T09:21:33Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T09:22:49Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T09:23:17Z,185.209.199.135,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T09:23:35Z,52.248.43.11,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 zgrab/0.x Accept: */* Ac
+2026-10-27T09:24:06Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T09:25:22Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T09:26:39Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T09:27:35Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T09:27:55Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-27T09:27:55Z,164.30.17.82,2222,ssh-client,"SSH-2.0-Go 1$'. ` qcurve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nis"
+2026-10-27T09:28:18Z,219.78.63.156,23,telnet-negotiation,
+2026-10-27T09:29:10Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T09:30:25Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T09:31:41Z,164.30.17.82,2222,ssh-client,SSH-2.0-Go
+2026-10-27T09:32:52Z,144.202.31.39,3389,rdp-request,'+& Cookie: mstshash=probe
