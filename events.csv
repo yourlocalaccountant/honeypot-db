@@ -102712,3 +102712,22 @@ time_utc,ip,port,kind,client_data
 2026-10-27T23:34:18Z,91.231.89.53,2222,ssh-client,SSH-2.0-perlssh
 2026-10-27T23:37:39Z,91.196.152.43,2222,ssh-client,SSH-2.0-perlssh
 2026-10-27T23:37:40Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T23:40:18Z,91.196.152.116,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T23:40:26Z,123.165.80.36,23,telnet-negotiation,
+2026-10-27T23:40:28Z,66.132.172.136,3389,rdp-request,&! Cookie: mstshash=
+2026-10-27T23:40:38Z,66.132.172.136,3389,no-data,
+2026-10-27T23:40:42Z,66.132.172.136,3389,http,GET / HTTP/1.1 Host: [redacted]
+2026-10-27T23:40:42Z,66.132.172.136,3389,http,GET / HTTP/1.1 Host: [redacted] Connection: Upgrade Sec-WebSocket-Key: yOd2xzL6Y
+2026-10-27T23:40:48Z,66.132.172.136,3389,other,(
+2026-10-27T23:40:53Z,66.132.172.136,3389,other,f SMB@ $
+2026-10-27T23:40:54Z,66.132.172.136,3389,other,/ SMBr C NT LM 0.12
+2026-10-27T23:41:55Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-27T23:42:23Z,91.231.89.30,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T23:42:28Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T23:44:18Z,91.231.89.64,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T23:46:05Z,51.254.103.32,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-27T23:47:20Z,91.231.89.232,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T23:48:12Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-27T23:49:43Z,115.77.184.62,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-27T23:50:23Z,91.196.152.224,2222,ssh-client,SSH-2.0-perlssh
+2026-10-27T23:50:28Z,43.157.200.91,2222,ssh-client,SSH-2.0-libssh_0.9.6
