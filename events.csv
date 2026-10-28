@@ -104147,3 +104147,8 @@ time_utc,ip,port,kind,client_data
 2026-10-28T19:21:13Z,80.94.95.83,3389,rdp-request,/* Cookie: mstshash=Administr
 2026-10-28T19:21:16Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
 2026-10-28T19:21:30Z,91.231.89.38,2222,no-data,
+2026-10-28T19:23:31Z,45.226.133.211,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-28T19:24:23Z,91.231.89.36,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T19:26:24Z,91.231.89.124,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T19:29:17Z,91.196.152.180,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T19:32:25Z,91.196.152.178,2222,ssh-client,SSH-2.0-perlssh
