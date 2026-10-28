@@ -103525,3 +103525,12 @@ time_utc,ip,port,kind,client_data
 2026-10-28T09:22:19Z,151.158.44.120,3389,rdp-request,
 2026-10-28T09:24:22Z,91.196.152.138,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T09:25:56Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-28T09:27:20Z,91.231.89.43,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T09:30:17Z,91.231.89.199,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T09:31:39Z,115.77.184.62,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-28T09:32:08Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-28T09:33:26Z,91.231.89.147,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T09:35:21Z,91.231.89.58,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T09:36:27Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-28T09:36:28Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-28T09:37:15Z,91.231.89.174,2222,ssh-client,SSH-2.0-perlssh
