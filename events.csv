@@ -103342,3 +103342,14 @@ time_utc,ip,port,kind,client_data
 2026-10-28T06:35:38Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-28T06:35:38Z,91.231.89.241,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T06:37:19Z,91.231.89.241,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T06:39:23Z,91.231.89.30,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T06:39:24Z,66.212.187.214,23,telnet-negotiation,
+2026-10-28T06:39:41Z,74.74.132.123,23,no-data,
+2026-10-28T06:42:30Z,91.196.152.70,2222,no-data,
+2026-10-28T06:44:00Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-28T06:45:20Z,91.231.89.207,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T06:46:10Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-28T06:47:22Z,91.196.152.137,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T06:47:23Z,112.163.135.25,23,telnet-negotiation,
+2026-10-28T06:47:32Z,103.153.68.37,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-28T06:49:24Z,91.196.152.155,2222,ssh-client,SSH-2.0-perlssh
