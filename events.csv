@@ -104219,3 +104219,9 @@ time_utc,ip,port,kind,client_data
 2026-10-28T20:47:09Z,152.32.183.209,2323,rdp-request,
 2026-10-28T20:47:10Z,152.32.183.209,2323,rdp-request,3. Cookie: mstshash=Administrator
 2026-10-28T20:47:20Z,91.196.152.183,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T20:50:19Z,91.196.152.208,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T20:50:55Z,200.115.102.246,23,telnet-negotiation,
+2026-10-28T20:52:24Z,91.231.89.10,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T20:54:20Z,91.196.152.101,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T20:56:29Z,91.196.152.45,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T20:59:24Z,91.231.89.133,2222,ssh-client,SSH-2.0-perlssh
