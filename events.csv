@@ -104078,3 +104078,10 @@ time_utc,ip,port,kind,client_data
 2026-10-28T17:52:27Z,36.255.33.224,23,telnet-negotiation,
 2026-10-28T17:52:40Z,36.255.33.224,23,telnet-negotiation,
 2026-10-28T17:54:19Z,91.196.152.188,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T17:56:20Z,91.196.152.182,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T17:58:25Z,91.231.89.244,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T17:59:19Z,95.83.158.46,23,telnet-negotiation,
+2026-10-28T18:01:29Z,91.196.152.67,2222,no-data,
+2026-10-28T18:02:16Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-28T18:03:21Z,91.231.89.13,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T18:06:17Z,91.196.152.7,2222,ssh-client,SSH-2.0-perlssh
