@@ -103870,3 +103870,8 @@ time_utc,ip,port,kind,client_data
 2026-10-28T14:52:09Z,74.50.211.178,3389,rdp-request,
 2026-10-28T14:53:17Z,91.231.89.224,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T14:56:20Z,91.231.89.196,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T14:59:23Z,91.196.152.65,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T15:02:21Z,91.231.89.241,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T15:04:21Z,91.196.152.87,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T15:04:43Z,62.108.201.221,23,telnet-negotiation,
+2026-10-28T15:06:32Z,91.196.152.43,2222,no-data,
