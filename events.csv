@@ -104085,3 +104085,11 @@ time_utc,ip,port,kind,client_data
 2026-10-28T18:02:16Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
 2026-10-28T18:03:21Z,91.231.89.13,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T18:06:17Z,91.196.152.7,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T18:08:06Z,87.251.64.131,23,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-10-28T18:08:06Z,87.251.64.131,23,tls-handshake,"t? g @5K yw M Cx 5/ U^h X ~ !P "" Ld Z6 r N { X \ , 0 ] a + / \ ` $ ( s w"
+2026-10-28T18:09:25Z,91.196.152.54,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T18:10:17Z,195.9.52.194,23,telnet-negotiation,
+2026-10-28T18:12:28Z,91.231.89.33,2222,no-data,
+2026-10-28T18:13:13Z,120.48.44.127,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-28T18:15:28Z,91.231.89.241,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T18:17:07Z,129.121.138.193,2222,ssh-client,SSH-2.0-libssh_0.9.6
