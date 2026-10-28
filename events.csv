@@ -104093,3 +104093,11 @@ time_utc,ip,port,kind,client_data
 2026-10-28T18:13:13Z,120.48.44.127,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-28T18:15:28Z,91.231.89.241,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T18:17:07Z,129.121.138.193,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-28T18:18:24Z,91.231.89.172,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T18:19:36Z,14.103.86.48,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-28T18:20:58Z,121.139.211.160,23,telnet-negotiation,
+2026-10-28T18:21:02Z,78.89.154.59,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-28T18:21:23Z,91.196.152.22,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T18:23:32Z,8.163.69.40,23,telnet-negotiation,admin
+2026-10-28T18:24:16Z,91.231.89.53,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T18:26:23Z,91.196.152.209,2222,ssh-client,SSH-2.0-perlssh
