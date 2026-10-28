@@ -103875,3 +103875,18 @@ time_utc,ip,port,kind,client_data
 2026-10-28T15:04:21Z,91.196.152.87,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T15:04:43Z,62.108.201.221,23,telnet-negotiation,
 2026-10-28T15:06:32Z,91.196.152.43,2222,no-data,
+2026-10-28T15:09:22Z,156.225.1.101,3389,telnet-negotiation,NULL
+2026-10-28T15:09:22Z,91.231.89.9,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T15:09:24Z,156.225.1.101,3389,telnet-negotiation,NULL
+2026-10-28T15:09:27Z,156.225.1.101,3389,telnet-negotiation,NULL
+2026-10-28T15:09:33Z,156.225.1.101,3389,no-data,
+2026-10-28T15:09:33Z,156.225.1.101,3389,rdp-request,
+2026-10-28T15:09:34Z,156.225.1.101,3389,tls-handshake,""" \ L Mu U f ! A~   w6  z t( #_XDt7 l , + f Z f & + / , 0 / 5"
+2026-10-28T15:09:35Z,156.225.1.101,3389,http,GET / HTTP/1.1 Host: [redacted] Accept: */*
+2026-10-28T15:09:40Z,156.225.1.101,3389,no-data,
+2026-10-28T15:09:41Z,156.225.1.101,3389,other,USER anonymous
+2026-10-28T15:10:07Z,20.65.145.199,3389,tls-handshake,"w; > , T D U   q 6 E p sv G G & / 0 + , / 5 {"
+2026-10-28T15:12:29Z,91.231.89.20,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T15:14:17Z,91.196.152.110,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T15:14:33Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-28T15:17:29Z,91.196.152.120,2222,ssh-client,SSH-2.0-perlssh
