@@ -103861,3 +103861,12 @@ time_utc,ip,port,kind,client_data
 2026-10-28T14:42:31Z,91.196.152.228,2222,no-data,
 2026-10-28T14:45:19Z,91.196.152.114,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T14:45:48Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-28T14:47:27Z,194.44.23.15,23,telnet-negotiation,
+2026-10-28T14:47:27Z,91.196.152.174,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T14:48:34Z,14.55.148.34,23,telnet-negotiation,
+2026-10-28T14:50:05Z,115.220.2.156,2222,no-data,
+2026-10-28T14:50:06Z,115.220.2.156,2222,ssh-client,"SSH-2.0-Go < 1 ' $x ] n| curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha"
+2026-10-28T14:50:24Z,91.196.152.212,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T14:52:09Z,74.50.211.178,3389,rdp-request,
+2026-10-28T14:53:17Z,91.231.89.224,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T14:56:20Z,91.231.89.196,2222,ssh-client,SSH-2.0-perlssh
