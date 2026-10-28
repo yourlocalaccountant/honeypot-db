@@ -104169,3 +104169,10 @@ time_utc,ip,port,kind,client_data
 2026-10-28T19:59:19Z,91.231.89.159,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T20:01:23Z,91.196.152.18,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T20:04:20Z,91.231.89.4,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T20:06:00Z,200.115.102.246,23,telnet-negotiation,
+2026-10-28T20:07:21Z,91.196.152.216,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T20:08:06Z,220.123.202.223,23,telnet-negotiation,
+2026-10-28T20:09:24Z,91.196.152.227,2222,no-data,
+2026-10-28T20:12:19Z,91.231.89.24,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T20:13:22Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-28T20:14:28Z,91.231.89.243,2222,ssh-client,SSH-2.0-perlssh
