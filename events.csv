@@ -103487,3 +103487,12 @@ time_utc,ip,port,kind,client_data
 2026-10-28T08:53:08Z,44.220.185.76,2222,ssh-client,SSH-2.0-paramiko_2.9.2
 2026-10-28T08:53:50Z,185.65.133.133,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-28T08:54:28Z,91.196.152.40,2222,no-data,
+2026-10-28T08:55:26Z,194.44.90.122,23,telnet-negotiation,
+2026-10-28T08:55:39Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-28T08:57:14Z,91.231.89.40,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T08:57:37Z,46.55.162.29,23,other,admin
+2026-10-28T08:59:17Z,115.77.184.62,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-28T08:59:25Z,91.231.89.140,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T09:01:50Z,27.29.167.98,23,telnet-negotiation,
+2026-10-28T09:02:02Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-28T09:02:23Z,91.196.152.215,2222,ssh-client,SSH-2.0-perlssh
