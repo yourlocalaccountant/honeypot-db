@@ -103765,3 +103765,11 @@ time_utc,ip,port,kind,client_data
 2026-10-28T12:34:36Z,96.78.175.45,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-28T12:35:25Z,91.196.152.79,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T12:37:29Z,91.231.89.122,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T12:39:18Z,91.196.152.197,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T12:40:26Z,20.163.12.0,23,telnet-negotiation,
+2026-10-28T12:41:22Z,91.231.89.239,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T12:41:40Z,222.232.176.7,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-28T12:43:01Z,186.218.127.36,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-28T12:43:22Z,91.196.152.196,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T12:46:22Z,91.231.89.96,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T12:48:30Z,91.196.152.168,2222,no-data,
