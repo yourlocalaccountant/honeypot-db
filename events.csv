@@ -104119,3 +104119,10 @@ time_utc,ip,port,kind,client_data
 2026-10-28T18:45:32Z,195.34.206.148,23,telnet-negotiation,
 2026-10-28T18:47:19Z,91.231.89.117,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T18:49:30Z,94.26.68.55,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-10-28T18:50:25Z,91.231.89.145,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T18:51:07Z,200.115.102.246,23,telnet-negotiation,
+2026-10-28T18:53:26Z,91.231.89.35,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T18:55:07Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-28T18:55:26Z,91.196.152.69,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T18:55:41Z,45.130.200.136,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-28T18:58:16Z,91.196.152.16,2222,ssh-client,SSH-2.0-perlssh
