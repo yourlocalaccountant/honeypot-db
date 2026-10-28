@@ -104206,3 +104206,16 @@ time_utc,ip,port,kind,client_data
 2026-10-28T20:34:26Z,91.196.152.218,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T20:35:59Z,200.115.102.246,23,telnet-negotiation,
 2026-10-28T20:37:21Z,91.231.89.74,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T20:39:27Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-28T20:40:22Z,91.231.89.242,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T20:42:30Z,91.196.152.150,2222,no-data,
+2026-10-28T20:45:22Z,91.231.89.171,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T20:47:02Z,152.32.183.209,2323,tls-handshake,"9 k  v 7 y ;% y m t  Fde x!;JMwN -g 8 c 4 / 0 + , 3 = 9 /"
+2026-10-28T20:47:07Z,152.32.183.209,2323,no-data,
+2026-10-28T20:47:07Z,152.32.183.209,2323,telnet-negotiation,IBM-3279-4-E
+2026-10-28T20:47:08Z,152.32.183.209,2323,http,"GET / HTTP/1.1 Host: [redacted] Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q"
+2026-10-28T20:47:08Z,152.32.183.209,2323,other,
+2026-10-28T20:47:09Z,152.32.183.209,2323,other,github.com PGET / HTTP/1.0
+2026-10-28T20:47:09Z,152.32.183.209,2323,rdp-request,
+2026-10-28T20:47:10Z,152.32.183.209,2323,rdp-request,3. Cookie: mstshash=Administrator
+2026-10-28T20:47:20Z,91.196.152.183,2222,ssh-client,SSH-2.0-perlssh
