@@ -103459,3 +103459,16 @@ time_utc,ip,port,kind,client_data
 2026-10-28T08:30:32Z,91.231.89.121,2222,no-data,
 2026-10-28T08:33:20Z,91.231.89.245,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T08:33:42Z,66.132.186.200,23,telnet-negotiation,
+2026-10-28T08:34:10Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-28T08:36:24Z,91.231.89.218,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T08:36:48Z,18.116.101.220,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: visionheight.com/scan Mozilla/5.0 (M
+2026-10-28T08:36:59Z,18.116.101.220,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: visionheight.com/scan Mozilla/5.0 (M
+2026-10-28T08:37:09Z,18.116.101.220,3389,tls-handshake,"q - v F'M ) ;G1 'k D! _8  < \ j, z & + M no & / 0 + , / 5"
+2026-10-28T08:37:17Z,18.116.101.220,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-10-28T08:37:47Z,18.116.101.220,3389,tls-handshake,"* [ {; -Z$} 8 vb D~   ] + ) + v h^d 6 J & / 0 + , / 5 {"
+2026-10-28T08:38:31Z,91.231.89.108,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T08:41:17Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-28T08:41:24Z,91.196.152.76,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T08:42:26Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-28T08:43:15Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-28T08:43:19Z,91.231.89.41,2222,ssh-client,SSH-2.0-perlssh
