@@ -103822,3 +103822,11 @@ time_utc,ip,port,kind,client_data
 2026-10-28T13:59:04Z,80.94.95.83,3389,rdp-request,/* Cookie: mstshash=Administr
 2026-10-28T13:59:24Z,91.196.152.178,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T14:02:28Z,91.231.89.148,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T14:03:08Z,187.190.184.116,23,telnet-negotiation,
+2026-10-28T14:05:25Z,91.196.152.41,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T14:07:25Z,91.231.89.20,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T14:09:04Z,162.216.150.217,2222,ssh-client,SSH-2.0-ZGrab ZGrab SSH Survey
+2026-10-28T14:09:50Z,111.38.30.39,23,telnet-negotiation,
+2026-10-28T14:10:15Z,91.231.89.198,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T14:12:19Z,178.74.109.185,23,no-data,
+2026-10-28T14:13:17Z,91.231.89.195,2222,ssh-client,SSH-2.0-perlssh
