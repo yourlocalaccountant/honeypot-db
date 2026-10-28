@@ -103417,3 +103417,12 @@ time_utc,ip,port,kind,client_data
 2026-10-28T07:57:31Z,91.231.89.99,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T08:00:18Z,91.231.89.72,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T08:01:57Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-28T08:03:22Z,91.196.152.96,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T08:03:35Z,31.41.94.82,23,telnet-negotiation,
+2026-10-28T08:06:20Z,91.231.89.255,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T08:07:05Z,185.65.133.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-28T08:07:46Z,155.138.132.127,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-28T08:08:28Z,45.167.225.228,23,telnet-negotiation,
+2026-10-28T08:09:19Z,91.231.89.71,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T08:12:18Z,91.196.152.193,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T08:12:35Z,171.114.224.189,23,telnet-negotiation,
