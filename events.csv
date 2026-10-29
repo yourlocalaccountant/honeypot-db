@@ -105240,3 +105240,12 @@ time_utc,ip,port,kind,client_data
 2026-10-29T07:45:29Z,91.231.89.137,2222,ssh-client,SSH-2.0-perlssh
 2026-10-29T07:48:11Z,94.231.206.35,2222,ssh-client,SSH-2.0-perlssh
 2026-10-29T07:48:27Z,91.196.152.209,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:50:16Z,94.231.206.8,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:51:30Z,91.231.89.125,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:53:13Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:53:19Z,91.196.152.195,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:55:42Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-29T07:56:09Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:56:23Z,91.231.89.131,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:59:14Z,94.231.206.0,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:59:27Z,91.196.152.90,2222,ssh-client,SSH-2.0-perlssh
