@@ -104480,3 +104480,17 @@ time_utc,ip,port,kind,client_data
 2026-10-29T01:10:08Z,94.231.206.107,2222,ssh-client,SSH-2.0-perlssh
 2026-10-29T01:11:12Z,216.180.246.158,23,telnet-negotiation,
 2026-10-29T01:11:47Z,82.156.211.131,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-29T01:12:25Z,91.231.89.137,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T01:13:12Z,94.231.206.15,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T01:14:23Z,91.196.152.169,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T01:16:10Z,94.231.206.35,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T01:17:18Z,91.231.89.148,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T01:20:11Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T01:20:23Z,216.180.246.158,23,telnet-negotiation,
+2026-10-29T01:20:24Z,91.231.89.102,2222,no-data,
+2026-10-29T01:20:43Z,103.31.93.63,23,telnet-negotiation,
+2026-10-29T01:20:56Z,103.31.93.63,23,telnet-negotiation,
+2026-10-29T01:21:09Z,103.31.93.63,23,telnet-negotiation,
+2026-10-29T01:21:22Z,103.31.93.63,23,telnet-negotiation,
+2026-10-29T01:21:35Z,103.31.93.63,23,telnet-negotiation,
+2026-10-29T01:21:48Z,103.31.93.63,23,telnet-negotiation,
