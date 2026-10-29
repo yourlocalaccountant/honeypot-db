@@ -104990,3 +104990,12 @@ time_utc,ip,port,kind,client_data
 2026-10-29T05:30:31Z,14.50.43.4,23,telnet-negotiation,
 2026-10-29T05:31:12Z,94.231.206.36,2222,ssh-client,SSH-2.0-perlssh
 2026-10-29T05:31:24Z,91.231.89.133,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T05:34:09Z,94.231.206.109,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T05:34:21Z,91.231.89.243,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T05:35:00Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-29T05:36:16Z,91.231.89.158,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T05:37:11Z,94.231.206.110,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T05:39:02Z,80.94.95.83,3389,rdp-request,/* Cookie: mstshash=Administr
+2026-10-29T05:39:21Z,91.196.152.224,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T05:40:13Z,94.231.206.1,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T05:42:20Z,91.231.89.145,2222,ssh-client,SSH-2.0-perlssh
