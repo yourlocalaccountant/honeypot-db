@@ -105204,3 +105204,10 @@ time_utc,ip,port,kind,client_data
 2026-10-29T07:05:53Z,45.83.220.211,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-29T07:06:12Z,94.231.206.6,2222,ssh-client,SSH-2.0-perlssh
 2026-10-29T07:06:23Z,91.196.152.36,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:09:13Z,94.231.206.8,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:09:28Z,91.231.89.36,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:11:12Z,94.231.206.5,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:12:17Z,91.231.89.190,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:14:17Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:15:19Z,91.231.89.136,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:17:11Z,94.231.206.4,2222,ssh-client,SSH-2.0-perlssh
