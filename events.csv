@@ -107354,3 +107354,12 @@ time_utc,ip,port,kind,client_data
 2026-10-29T22:19:57Z,192.141.194.80,3389,rdp-request,'+& Cookie: mstshash=hello
 2026-10-29T22:20:09Z,45.77.120.97,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-29T22:20:37Z,112.29.248.170,2222,no-data,
+2026-10-29T22:22:19Z,91.231.89.107,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T22:23:28Z,44.220.185.185,2222,ssh-client,SSH-2.0-paramiko_2.9.2
+2026-10-29T22:23:29Z,44.220.185.185,2222,no-data,
+2026-10-29T22:25:23Z,91.196.152.72,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T22:26:44Z,198.235.24.99,2222,no-data,
+2026-10-29T22:27:31Z,91.196.152.166,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T22:29:08Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-29T22:29:24Z,91.231.89.207,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T22:30:27Z,45.77.120.97,3389,rdp-request,'+& Cookie: mstshash=probe
