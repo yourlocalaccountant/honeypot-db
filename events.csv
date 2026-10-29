@@ -105211,3 +105211,12 @@ time_utc,ip,port,kind,client_data
 2026-10-29T07:14:17Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
 2026-10-29T07:15:19Z,91.231.89.136,2222,ssh-client,SSH-2.0-perlssh
 2026-10-29T07:17:11Z,94.231.206.4,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:18:29Z,91.231.89.120,2222,no-data,
+2026-10-29T07:20:10Z,94.231.206.107,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:20:25Z,91.231.89.73,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:21:52Z,199.165.159.201,23,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-10-29T07:23:09Z,94.231.206.34,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:23:19Z,91.231.89.217,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:26:09Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:26:15Z,91.231.89.173,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T07:27:44Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
