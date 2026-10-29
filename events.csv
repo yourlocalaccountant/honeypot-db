@@ -105074,3 +105074,32 @@ time_utc,ip,port,kind,client_data
 2026-10-29T06:23:06Z,66.94.115.30,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-29T06:23:12Z,94.231.206.6,2222,ssh-client,SSH-2.0-perlssh
 2026-10-29T06:24:23Z,125.212.235.194,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-29T06:25:01Z,115.59.225.120,23,telnet-negotiation,
+2026-10-29T06:25:18Z,193.8.186.29,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-10-29T06:25:18Z,193.8.186.29,3389,tls-handshake,"f ^2K Uy Z !2) ) 7 V > ? g  . nv * p ! D |s k a \ , 0 ] a + / \ ` $ ( s w"
+2026-10-29T06:25:29Z,91.231.89.127,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T06:26:09Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T06:28:31Z,91.196.152.139,2222,no-data,
+2026-10-29T06:28:52Z,109.91.4.177,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-29T06:29:10Z,94.231.206.106,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T06:30:30Z,124.29.224.84,23,telnet-negotiation,
+2026-10-29T06:30:43Z,124.29.224.84,23,telnet-negotiation,
+2026-10-29T06:30:56Z,124.29.224.84,23,telnet-negotiation,
+2026-10-29T06:31:01Z,201.209.111.66,23,telnet-negotiation,
+2026-10-29T06:31:09Z,124.29.224.84,23,telnet-negotiation,
+2026-10-29T06:31:15Z,91.196.152.214,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T06:31:22Z,124.29.224.84,23,telnet-negotiation,
+2026-10-29T06:31:28Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-29T06:31:35Z,124.29.224.84,23,telnet-negotiation,
+2026-10-29T06:31:48Z,124.29.224.84,23,telnet-negotiation,
+2026-10-29T06:32:01Z,124.29.224.84,23,telnet-negotiation,
+2026-10-29T06:32:14Z,124.29.224.84,23,telnet-negotiation,
+2026-10-29T06:32:27Z,124.29.224.84,23,telnet-negotiation,
+2026-10-29T06:32:40Z,124.29.224.84,23,telnet-negotiation,
+2026-10-29T06:32:53Z,124.29.224.84,23,telnet-negotiation,
+2026-10-29T06:33:06Z,124.29.224.84,23,telnet-negotiation,
+2026-10-29T06:33:09Z,94.231.206.34,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T06:33:19Z,124.29.224.84,23,telnet-negotiation,
+2026-10-29T06:33:22Z,91.231.89.232,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T06:33:32Z,124.29.224.84,23,telnet-negotiation,
+2026-10-29T06:35:34Z,91.196.152.64,2222,ssh-client,SSH-2.0-perlssh
