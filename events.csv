@@ -104417,3 +104417,12 @@ time_utc,ip,port,kind,client_data
 2026-10-29T00:08:35Z,66.132.195.98,3389,tls-handshake,"%f k^ ; kG Ee eh *8 7  l \ R( ^ k ' t u,r # & / 0 + , / 5 G"
 2026-10-29T00:08:39Z,66.132.195.98,3389,http,GET / HTTP/1.1 Host: [redacted]
 2026-10-29T00:08:40Z,66.132.195.98,3389,http,GET / HTTP/1.1 Host: [redacted] Connection: Upgrade Sec-WebSocket-Key: zTlAxlEmU
+2026-10-29T00:08:48Z,66.132.195.98,3389,other,(
+2026-10-29T00:09:12Z,91.231.89.156,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:09:31Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-29T00:10:09Z,94.231.206.109,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:12:31Z,91.231.89.37,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:13:12Z,94.231.206.13,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:14:19Z,91.231.89.41,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:16:12Z,94.231.206.6,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:17:24Z,91.231.89.144,2222,ssh-client,SSH-2.0-perlssh
