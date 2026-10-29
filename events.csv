@@ -104700,3 +104700,14 @@ time_utc,ip,port,kind,client_data
 2026-10-29T03:48:31Z,59.11.42.221,23,other,mg3500
 2026-10-29T03:48:32Z,59.11.42.221,23,other,
 2026-10-29T03:48:33Z,59.11.42.221,23,other,root
+2026-10-29T03:48:55Z,45.191.64.106,23,telnet-negotiation,
+2026-10-29T03:49:09Z,94.231.206.106,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T03:49:30Z,91.196.152.171,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T03:51:11Z,206.189.203.100,2222,http,"GET / HTTP/1.1 Host: [redacted] Connection: keep-alive sec-ch-ua: ""Chromium"";v="""
+2026-10-29T03:51:11Z,206.189.203.100,2222,http,"GET /favicon.ico HTTP/1.1 Host: [redacted] Connection: keep-alive sec-ch-ua: ""Ch"
+2026-10-29T03:52:10Z,94.231.206.13,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T03:52:16Z,91.231.89.232,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T03:54:23Z,91.231.89.141,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T03:56:13Z,94.231.206.1,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T03:57:16Z,91.196.152.108,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T03:59:14Z,94.231.206.12,2222,ssh-client,SSH-2.0-perlssh
