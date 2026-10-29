@@ -107086,3 +107086,26 @@ time_utc,ip,port,kind,client_data
 2026-10-29T19:41:04Z,222.113.196.55,23,telnet-negotiation,
 2026-10-29T19:41:45Z,45.77.120.97,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-29T19:42:25Z,178.169.109.74,23,no-data,
+2026-10-29T19:43:21Z,91.231.89.19,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T19:45:09Z,178.169.109.74,23,no-data,
+2026-10-29T19:45:27Z,91.196.152.221,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T19:47:19Z,91.231.89.247,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T19:49:31Z,45.77.120.97,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-29T19:50:22Z,91.231.89.80,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T19:50:45Z,18.97.19.196,2222,ssh-client,SSH-2.0-paramiko_2.9.2
+2026-10-29T19:50:46Z,18.97.19.196,2222,no-data,
+2026-10-29T19:50:55Z,20.115.99.68,23,telnet-negotiation,
+2026-10-29T19:50:56Z,20.115.99.68,23,telnet-negotiation,
+2026-10-29T19:50:56Z,20.115.99.68,23,telnet-negotiation,
+2026-10-29T19:50:57Z,20.115.99.68,23,telnet-negotiation,
+2026-10-29T19:50:57Z,20.115.99.68,23,telnet-negotiation,
+2026-10-29T19:50:58Z,20.115.99.68,23,telnet-negotiation,
+2026-10-29T19:50:58Z,20.115.99.68,23,telnet-negotiation,
+2026-10-29T19:50:59Z,20.115.99.68,23,telnet-negotiation,
+2026-10-29T19:50:59Z,20.115.99.68,23,telnet-negotiation,
+2026-10-29T19:51:00Z,20.115.99.68,23,telnet-negotiation,
+2026-10-29T19:51:10Z,172.212.203.136,2222,ssh-client,SSH-2.0-Go
+2026-10-29T19:52:27Z,91.196.152.229,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T19:52:38Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-29T19:53:28Z,220.161.160.30,2222,no-data,
+2026-10-29T19:53:29Z,220.161.160.30,2222,ssh-client,SSH-2.0-Go
