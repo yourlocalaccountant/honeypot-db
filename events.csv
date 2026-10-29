@@ -105294,3 +105294,19 @@ time_utc,ip,port,kind,client_data
 2026-10-29T08:40:57Z,18.116.101.220,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: visionheight.com/scan Mozilla/5.0 (M
 2026-10-29T08:41:08Z,94.231.206.39,2222,ssh-client,SSH-2.0-perlssh
 2026-10-29T08:41:45Z,18.116.101.220,3389,tls-handshake,"8 4 O ^A g 1 o > M :T   < bGV % I k f W [A & / 0 + , / 5"
+2026-10-29T08:42:15Z,18.116.101.220,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-10-29T08:42:40Z,211.185.14.39,23,telnet-negotiation,
+2026-10-29T08:42:48Z,18.116.101.220,3389,tls-handshake,"] `U _ .B 9 s $p  b _ i> ^ $ e O ' _ & / 0 + , / 5 {"
+2026-10-29T08:43:17Z,91.231.89.180,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T08:44:11Z,94.231.206.12,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T08:45:11Z,101.227.49.193,2222,no-data,
+2026-10-29T08:45:12Z,101.227.49.193,2222,ssh-client,SSH-2.0-Go
+2026-10-29T08:46:06Z,121.150.234.205,23,telnet-negotiation,
+2026-10-29T08:46:22Z,91.196.152.180,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T08:46:37Z,211.105.71.4,23,telnet-negotiation,
+2026-10-29T08:47:09Z,94.231.206.106,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T08:48:06Z,154.61.65.41,23,telnet-negotiation,
+2026-10-29T08:48:16Z,91.196.152.37,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T08:50:10Z,94.231.206.110,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T08:50:22Z,91.231.89.18,2222,no-data,
+2026-10-29T08:51:21Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
