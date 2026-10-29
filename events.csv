@@ -104386,3 +104386,34 @@ time_utc,ip,port,kind,client_data
 2026-10-28T23:56:34Z,101.96.214.98,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-10-28T23:57:07Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
 2026-10-28T23:57:13Z,223.27.18.80,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-28T23:58:20Z,91.231.89.72,2222,ssh-client,SSH-2.0-perlssh
+2026-10-28T23:59:07Z,94.231.206.34,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:00:19Z,91.231.89.62,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:01:09Z,223.93.164.218,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-29T00:01:15Z,94.231.206.6,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:03:21Z,122.97.137.45,23,telnet-negotiation,
+2026-10-29T00:03:26Z,91.231.89.121,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:03:34Z,122.97.137.45,23,telnet-negotiation,
+2026-10-29T00:04:10Z,94.231.206.6,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:04:37Z,45.64.134.75,2222,other,hi
+2026-10-29T00:04:47Z,45.64.134.75,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-29T00:04:49Z,45.64.134.75,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-29T00:04:52Z,45.64.134.75,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-29T00:04:55Z,45.64.134.75,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-29T00:04:57Z,45.64.134.75,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-29T00:05:16Z,45.64.134.75,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-29T00:05:17Z,210.91.153.182,23,telnet-negotiation,
+2026-10-29T00:05:20Z,45.64.134.75,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-29T00:05:26Z,45.64.134.75,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-29T00:05:27Z,45.64.134.75,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-29T00:05:29Z,45.64.134.75,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-29T00:05:34Z,45.64.134.75,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-29T00:05:41Z,45.64.134.75,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-29T00:05:47Z,45.64.134.75,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-29T00:05:55Z,177.10.203.106,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-29T00:06:17Z,91.231.89.105,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:07:13Z,94.231.206.12,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:08:28Z,66.132.195.98,3389,rdp-request,&! Cookie: mstshash=
+2026-10-29T00:08:35Z,66.132.195.98,3389,tls-handshake,"%f k^ ; kG Ee eh *8 7  l \ R( ^ k ' t u,r # & / 0 + , / 5 G"
+2026-10-29T00:08:39Z,66.132.195.98,3389,http,GET / HTTP/1.1 Host: [redacted]
+2026-10-29T00:08:40Z,66.132.195.98,3389,http,GET / HTTP/1.1 Host: [redacted] Connection: Upgrade Sec-WebSocket-Key: zTlAxlEmU
