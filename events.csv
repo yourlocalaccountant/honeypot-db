@@ -107178,3 +107178,17 @@ time_utc,ip,port,kind,client_data
 2026-10-29T20:43:25Z,91.196.152.212,2222,ssh-client,SSH-2.0-perlssh
 2026-10-29T20:45:01Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
 2026-10-29T20:45:47Z,191.101.96.217,23,telnet-negotiation,
+2026-10-29T20:46:19Z,91.196.152.201,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T20:47:08Z,45.77.120.97,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-29T20:49:23Z,91.196.152.210,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T20:49:32Z,8.222.128.242,3389,rdp-request,
+2026-10-29T20:49:42Z,8.222.128.242,3389,tls-handshake,"I i Y e- Ud] b8 g 9dZ8f g i N g|p <Z T 8'O; & + / , 0 / 5 {"
+2026-10-29T20:49:53Z,8.222.128.242,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: curl/7.64.1 Accept: */*
+2026-10-29T20:50:03Z,8.222.128.242,3389,other,'@ @
+2026-10-29T20:50:13Z,8.222.128.242,3389,other,'@ w startrfc 1100 default_startrfc.*
+2026-10-29T20:50:24Z,8.222.128.242,3389,other,'@ B sapdp00 4103 sapnw-pasapdp00
+2026-10-29T20:50:31Z,181.49.207.198,3389,rdp-request,'+& Cookie: mstshash=Guest
+2026-10-29T20:50:38Z,45.83.220.211,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-29T20:52:23Z,91.231.89.235,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T20:52:57Z,45.77.120.97,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-29T20:54:35Z,91.196.152.46,2222,no-data,
