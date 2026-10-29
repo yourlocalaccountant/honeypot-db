@@ -107170,3 +107170,11 @@ time_utc,ip,port,kind,client_data
 2026-10-29T20:34:11Z,111.92.157.204,23,telnet-negotiation,
 2026-10-29T20:34:18Z,91.196.152.94,2222,ssh-client,SSH-2.0-perlssh
 2026-10-29T20:35:27Z,45.77.120.97,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-29T20:36:24Z,91.196.152.49,2222,no-data,
+2026-10-29T20:38:22Z,91.231.89.179,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T20:39:47Z,45.77.120.97,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-29T20:41:18Z,91.196.152.108,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T20:41:46Z,80.66.83.80,3389,rdp-request,/* Cookie: mstshash=Administr
+2026-10-29T20:43:25Z,91.196.152.212,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T20:45:01Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-29T20:45:47Z,191.101.96.217,23,telnet-negotiation,
