@@ -104449,3 +104449,14 @@ time_utc,ip,port,kind,client_data
 2026-10-29T00:38:11Z,94.231.206.6,2222,ssh-client,SSH-2.0-perlssh
 2026-10-29T00:38:51Z,52.91.195.196,3389,tls-handshake,"_ L Y6T 2%v VLq ?: H   w |S- MD< I@5 <j^ "" & / 0 + , / 5 {"
 2026-10-29T00:39:26Z,91.231.89.244,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:41:08Z,3.129.187.38,23,other,
+2026-10-29T00:41:09Z,94.231.206.107,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:42:16Z,91.231.89.8,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:44:12Z,94.231.206.105,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:44:53Z,113.161.79.218,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-29T00:45:15Z,91.196.152.121,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:46:08Z,94.231.206.33,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:48:22Z,91.231.89.66,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:48:50Z,193.160.227.232,23,telnet-negotiation,
+2026-10-29T00:49:15Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
+2026-10-29T00:49:17Z,123.165.152.112,23,telnet-negotiation,
