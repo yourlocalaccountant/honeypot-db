@@ -108866,3 +108866,15 @@ time_utc,ip,port,kind,client_data
 2026-10-30T08:27:37Z,172.236.119.165,2222,tls-handshake,{ w A i [ = * / + / 5 4
 2026-10-30T08:27:48Z,45.115.26.42,3389,no-data,
 2026-10-30T08:27:51Z,45.115.26.42,3389,http,GET /version HTTP/1.0 Host: [redacted] User-Agent: Mozilla/5.0 Connection: close
+2026-10-30T08:32:20Z,45.115.26.42,3389,no-data,
+2026-10-30T08:32:24Z,45.115.26.42,3389,rdp-request,
+2026-10-30T08:33:03Z,144.225.43.82,3389,rdp-request,'-( Cookie: mstshash=nlascan
+2026-10-30T08:33:04Z,144.225.43.82,3389,rdp-request,'-( Cookie: mstshash=nlascan
+2026-10-30T08:33:04Z,144.225.43.82,3389,rdp-request,'-( Cookie: mstshash=nlascan
+2026-10-30T08:33:13Z,8.152.99.77,2222,no-data,
+2026-10-30T08:34:45Z,8.152.99.77,2222,ssh-client,SSH-2.0-libssh_0.7.4
+2026-10-30T08:35:39Z,108.61.209.134,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-30T08:36:25Z,45.115.26.36,2222,no-data,
+2026-10-30T08:36:29Z,45.115.26.36,2222,no-data,
+2026-10-30T08:37:10Z,45.115.26.42,3389,no-data,
+2026-10-30T08:37:17Z,45.115.26.42,3389,no-data,
