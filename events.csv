@@ -109487,3 +109487,6 @@ time_utc,ip,port,kind,client_data
 2026-10-30T13:04:56Z,182.92.180.12,2222,no-data,
 2026-10-30T13:04:58Z,182.92.180.12,2222,ssh-client,SSH-2.0-Go
 2026-10-30T13:06:23Z,79.98.243.69,23,telnet-negotiation,
+2026-10-30T13:10:21Z,108.61.209.134,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-30T13:16:58Z,220.89.125.32,23,telnet-negotiation,
+2026-10-30T13:17:43Z,108.61.209.134,3389,rdp-request,'+& Cookie: mstshash=probe
