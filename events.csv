@@ -109881,3 +109881,5 @@ time_utc,ip,port,kind,client_data
 2026-10-30T21:50:36Z,195.96.139.94,3389,other,
 2026-10-30T21:50:52Z,195.96.139.77,3389,other,&re /00IDED
 2026-10-30T21:51:05Z,195.96.139.104,3389,tls-handshake,"kI Z g oIF@ Z   t =A E 7p P yT c\ 1 QT < + / , 0 / 5 $ ( # '"
+2026-10-30T21:59:39Z,147.185.133.104,2222,ssh-client,SSH-2.0-ZGrab ZGrab SSH Survey
+2026-10-30T22:02:50Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
