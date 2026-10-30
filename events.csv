@@ -109739,3 +109739,4 @@ time_utc,ip,port,kind,client_data
 2026-10-30T19:45:21Z,212.73.148.23,2222,other,00000000
 2026-10-30T19:50:09Z,104.22.241.42,3389,no-data,
 2026-10-30T19:51:40Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-30T20:01:28Z,80.66.83.80,3389,rdp-request,/* Cookie: mstshash=Administr
