@@ -109730,3 +109730,5 @@ time_utc,ip,port,kind,client_data
 2026-10-30T19:14:12Z,180.93.193.100,23,other,root
 2026-10-30T19:14:14Z,180.93.193.100,23,other,default
 2026-10-30T19:14:15Z,175.198.62.180,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-10-30T19:20:48Z,173.20.185.214,23,telnet-negotiation,
+2026-10-30T19:25:27Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
