@@ -108858,3 +108858,11 @@ time_utc,ip,port,kind,client_data
 2026-10-30T08:09:40Z,35.210.36.43,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 1782
 2026-10-30T08:14:12Z,103.104.48.133,23,telnet-negotiation,
 2026-10-30T08:15:56Z,108.61.209.134,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-30T08:20:25Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-30T08:20:52Z,39.126.174.31,23,telnet-negotiation,
+2026-10-30T08:24:25Z,108.61.209.134,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-30T08:27:34Z,108.61.209.134,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-30T08:27:36Z,172.236.119.165,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS
+2026-10-30T08:27:37Z,172.236.119.165,2222,tls-handshake,{ w A i [ = * / + / 5 4
+2026-10-30T08:27:48Z,45.115.26.42,3389,no-data,
+2026-10-30T08:27:51Z,45.115.26.42,3389,http,GET /version HTTP/1.0 Host: [redacted] User-Agent: Mozilla/5.0 Connection: close
