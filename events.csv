@@ -108141,3 +108141,5 @@ time_utc,ip,port,kind,client_data
 2026-10-30T02:56:21Z,91.231.89.105,2222,ssh-client,SSH-2.0-perlssh
 2026-10-30T02:57:01Z,108.61.209.134,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-30T03:00:44Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-10-30T03:07:24Z,108.61.209.134,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-30T03:11:07Z,179.96.190.45,23,telnet-negotiation,
