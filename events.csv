@@ -108197,3 +108197,6 @@ time_utc,ip,port,kind,client_data
 2026-10-30T05:08:09Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
 2026-10-30T05:15:03Z,108.61.209.134,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-30T05:18:18Z,108.61.209.134,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-30T05:23:36Z,64.205.72.204,2222,ssh-client,SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.8
+2026-10-30T05:23:37Z,64.205.72.136,2222,other,c
+2026-10-30T05:29:43Z,108.61.209.134,3389,rdp-request,'+& Cookie: mstshash=probe
