@@ -109629,3 +109629,5 @@ time_utc,ip,port,kind,client_data
 2026-10-30T17:26:04Z,108.61.209.134,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-30T17:27:15Z,190.106.121.149,23,no-data,
 2026-10-30T17:32:48Z,66.132.172.97,23,telnet-negotiation,
+2026-10-30T17:39:00Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-30T17:41:59Z,212.73.148.44,2323,other,00000000
