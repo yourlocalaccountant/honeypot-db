@@ -109681,3 +109681,23 @@ time_utc,ip,port,kind,client_data
 2026-10-30T18:29:27Z,167.94.146.49,3389,http,GET / HTTP/1.1 Host: [redacted] Connection: Upgrade Sec-WebSocket-Key: HmmYBvT5p
 2026-10-30T18:29:31Z,167.94.146.49,3389,other,(
 2026-10-30T18:32:39Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-30T18:47:32Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:47:44Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:47:57Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:48:10Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:48:23Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:48:36Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:48:49Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:49:02Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:49:15Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:49:28Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:49:41Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:49:54Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:50:07Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:50:20Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:50:33Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:50:46Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:50:59Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:51:12Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:51:25Z,153.117.34.1,23,telnet-negotiation,
+2026-10-30T18:51:38Z,153.117.34.1,23,telnet-negotiation,
