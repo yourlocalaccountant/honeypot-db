@@ -109626,3 +109626,6 @@ time_utc,ip,port,kind,client_data
 2026-10-30T17:21:50Z,151.245.151.248,3389,tls-handshake,") .Bm &x 7 8}, v9 Z O  @ \ c [ F+ EGf$   + / , 0 / 5 JJ"
 2026-10-30T17:21:51Z,151.245.151.248,3389,tls-handshake,"E #P Q t g = L } m   Pk ) aE & x : l < C + / , 0 c"
 2026-10-30T17:21:52Z,151.245.151.248,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (compatible; ForestEngin
+2026-10-30T17:26:04Z,108.61.209.134,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-30T17:27:15Z,190.106.121.149,23,no-data,
+2026-10-30T17:32:48Z,66.132.172.97,23,telnet-negotiation,
