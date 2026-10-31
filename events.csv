@@ -110380,3 +110380,15 @@ time_utc,ip,port,kind,client_data
 2026-10-31T05:53:49Z,220.70.234.114,23,telnet-negotiation,
 2026-10-31T05:54:34Z,108.61.209.134,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-10-31T05:55:24Z,91.230.168.227,2222,no-data,
+2026-10-31T05:58:13Z,195.184.76.55,2222,ssh-client,SSH-2.0-perlssh
+2026-10-31T05:58:54Z,69.245.146.55,23,telnet-negotiation,
+2026-10-31T05:59:29Z,14.50.139.187,23,telnet-negotiation,
+2026-10-31T06:01:02Z,108.61.209.134,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-31T06:01:23Z,195.184.76.168,2222,ssh-client,SSH-2.0-perlssh
+2026-10-31T06:02:40Z,193.34.212.196,3389,rdp-request,
+2026-10-31T06:03:22Z,195.184.76.155,2222,ssh-client,SSH-2.0-perlssh
+2026-10-31T06:04:12Z,66.69.101.172,23,no-data,
+2026-10-31T06:05:18Z,66.69.101.172,23,no-data,
+2026-10-31T06:05:22Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-31T06:06:24Z,195.184.76.69,2222,ssh-client,SSH-2.0-perlssh
+2026-10-31T06:06:27Z,77.239.124.130,2222,ssh-client,SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3
