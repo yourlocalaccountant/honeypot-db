@@ -110547,3 +110547,11 @@ time_utc,ip,port,kind,client_data
 2026-10-31T07:44:46Z,14.50.139.187,23,telnet-negotiation,
 2026-10-31T07:46:11Z,195.184.76.166,2222,ssh-client,SSH-2.0-perlssh
 2026-10-31T07:48:24Z,91.230.168.231,2222,ssh-client,SSH-2.0-perlssh
+2026-10-31T07:52:15Z,91.230.168.25,2222,ssh-client,SSH-2.0-perlssh
+2026-10-31T07:54:22Z,91.230.168.150,2222,ssh-client,SSH-2.0-perlssh
+2026-10-31T07:54:41Z,193.34.212.196,3389,rdp-request,
+2026-10-31T07:56:13Z,195.184.76.35,2222,ssh-client,SSH-2.0-perlssh
+2026-10-31T07:57:35Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-10-31T07:58:26Z,195.184.76.120,2222,ssh-client,SSH-2.0-perlssh
+2026-10-31T07:59:45Z,14.50.139.187,23,telnet-negotiation,
+2026-10-31T08:01:28Z,195.184.76.97,2222,ssh-client,SSH-2.0-perlssh
