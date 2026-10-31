@@ -109967,3 +109967,22 @@ time_utc,ip,port,kind,client_data
 2026-10-31T00:40:18Z,91.230.168.64,2222,ssh-client,SSH-2.0-perlssh
 2026-10-31T00:42:13Z,100.54.143.192,3389,tls-handshake,";H qj? z{ \ !n  {Q ) = j 4 UH & / 0 + , / 5 {"
 2026-10-31T00:42:17Z,91.230.168.179,2222,ssh-client,SSH-2.0-perlssh
+2026-10-31T00:43:36Z,108.61.209.134,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-10-31T00:45:28Z,91.230.168.230,2222,ssh-client,SSH-2.0-perlssh
+2026-10-31T00:45:56Z,18.116.101.220,23,other,
+2026-10-31T00:47:53Z,18.116.101.220,23,telnet-negotiation,
+2026-10-31T00:48:27Z,91.230.168.96,2222,no-data,
+2026-10-31T00:49:25Z,24.113.230.250,23,telnet-negotiation,
+2026-10-31T00:51:23Z,91.230.168.53,2222,no-data,
+2026-10-31T00:51:36Z,147.185.132.143,3389,rdp-request,"'"" Cookie: mstshash=yhDxyQONx"
+2026-10-31T00:52:34Z,147.185.132.143,3389,rdp-request,"'"" Cookie: mstshash=yhDxyQONx"
+2026-10-31T00:52:35Z,147.185.132.143,3389,rdp-request,*% Cookie: mstshash=naap
+2026-10-31T00:52:35Z,147.185.132.143,3389,rdp-request,*% Cookie: mstshash=nmap
+2026-10-31T00:52:37Z,147.185.132.143,3389,rdp-request,
+2026-10-31T00:52:37Z,147.185.132.143,3389,tls-handshake,"i e U random1random2random3random4 / 9 0 , *"
+2026-10-31T00:52:38Z,147.185.132.143,3389,tls-handshake,"i e U random1random2random3random4 / 9 0 , *"
+2026-10-31T00:52:39Z,147.185.132.143,3389,tls-handshake,"L J u* @MP%a ( v  ]g 1""N4u/6 CG F G U\I & + / , 0 / 5"
+2026-10-31T00:52:42Z,147.185.132.143,3389,other,u   f e d c b : 9 8 5 4 3 2 / @
+2026-10-31T00:52:46Z,147.185.132.143,3389,tls-handshake,"S O ?G , `~ { w <= o n ( f e d c b a `"
+2026-10-31T00:52:52Z,147.185.132.143,3389,no-data,
+2026-10-31T00:52:52Z,147.185.132.143,3389,other,
