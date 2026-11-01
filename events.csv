@@ -113709,3 +113709,12 @@ time_utc,ip,port,kind,client_data
 2026-11-01T12:39:40Z,175.203.62.5,3389,no-data,
 2026-11-01T12:39:40Z,175.203.62.5,3389,rdp-request,*% Cookie: mstshash=Test
 2026-11-01T12:39:42Z,175.203.62.5,3389,rdp-request,*% Cookie: mstshash=Test
+2026-11-01T12:40:05Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-11-01T12:40:15Z,195.184.76.78,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T12:43:12Z,195.184.76.114,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T12:43:46Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-01T12:45:44Z,117.245.143.157,23,telnet-negotiation,
+2026-11-01T12:46:15Z,91.230.168.229,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T12:46:25Z,66.42.54.206,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-01T12:47:24Z,210.223.251.2,23,telnet-negotiation,
+2026-11-01T12:49:16Z,195.184.76.70,2222,ssh-client,SSH-2.0-perlssh
