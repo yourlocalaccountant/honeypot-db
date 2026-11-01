@@ -113497,3 +113497,11 @@ time_utc,ip,port,kind,client_data
 2026-11-01T09:36:06Z,35.206.152.186,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
 2026-11-01T09:38:17Z,91.230.168.156,2222,ssh-client,SSH-2.0-perlssh
 2026-11-01T09:41:16Z,91.230.168.127,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T09:43:07Z,66.42.54.206,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-01T09:44:23Z,195.184.76.73,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T09:45:56Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-01T09:46:20Z,195.184.76.225,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T09:46:33Z,18.218.118.203,2222,ssh-client,SSH-2.0-Go
+2026-11-01T09:46:54Z,66.42.54.206,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-01T09:49:23Z,91.230.168.227,2222,no-data,
+2026-11-01T09:50:03Z,200.189.31.242,23,no-data,
