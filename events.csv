@@ -114195,3 +114195,11 @@ time_utc,ip,port,kind,client_data
 2026-11-01T18:35:24Z,94.26.68.54,3389,rdp-request,'+& Cookie: mstshash=hello
 2026-11-01T18:36:12Z,195.184.76.139,2222,ssh-client,SSH-2.0-perlssh
 2026-11-01T18:37:33Z,66.42.54.206,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-01T18:39:18Z,91.230.168.205,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T18:41:26Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-11-01T18:41:31Z,172.239.64.86,2323,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS
+2026-11-01T18:41:31Z,172.239.64.86,2323,tls-handshake,{ w P _ -z y r ~ N ` / + / 5 4
+2026-11-01T18:42:13Z,91.230.168.9,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T18:44:19Z,91.230.168.165,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T18:44:21Z,80.94.95.116,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-01T18:46:10Z,195.184.76.95,2222,ssh-client,SSH-2.0-perlssh
