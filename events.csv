@@ -113790,3 +113790,13 @@ time_utc,ip,port,kind,client_data
 2026-11-01T13:40:18Z,150.95.25.34,23,telnet-negotiation,
 2026-11-01T13:40:19Z,150.95.25.34,23,telnet-negotiation,
 2026-11-01T13:41:11Z,66.42.54.206,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-01T13:43:10Z,195.184.76.172,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T13:43:47Z,77.90.185.20,2222,ssh-client,SSH-2.0-Go
+2026-11-01T13:44:02Z,18.97.5.25,23,telnet-negotiation,
+2026-11-01T13:45:17Z,195.184.76.2,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T13:47:16Z,91.230.168.5,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T13:48:00Z,101.43.200.154,23,telnet-negotiation,
+2026-11-01T13:48:09Z,66.42.54.206,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-01T13:49:16Z,91.230.168.110,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T13:49:23Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-01T13:52:21Z,195.184.76.236,2222,ssh-client,SSH-2.0-perlssh
