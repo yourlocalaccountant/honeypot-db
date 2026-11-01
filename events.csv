@@ -114016,3 +114016,9 @@ time_utc,ip,port,kind,client_data
 2026-11-01T16:40:19Z,165.22.191.17,2222,http,"GET /favicon.ico HTTP/1.1 Host: [redacted] Connection: keep-alive sec-ch-ua: ""Ch"
 2026-11-01T16:41:00Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
 2026-11-01T16:41:11Z,195.184.76.180,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T16:44:15Z,91.230.168.62,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T16:47:13Z,195.184.76.134,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T16:47:23Z,5.59.170.253,23,telnet-negotiation,
+2026-11-01T16:47:41Z,117.203.79.48,23,telnet-negotiation,
+2026-11-01T16:48:20Z,85.153.232.79,23,no-data,
+2026-11-01T16:49:15Z,91.230.168.109,2222,ssh-client,SSH-2.0-perlssh
