@@ -113996,3 +113996,11 @@ time_utc,ip,port,kind,client_data
 2026-11-01T16:18:20Z,195.184.76.96,2222,ssh-client,SSH-2.0-perlssh
 2026-11-01T16:19:37Z,35.203.211.16,2222,ssh-client,SSH-2.0-ZGrab ZGrab SSH Survey
 2026-11-01T16:19:41Z,138.226.239.233,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-01T16:21:20Z,195.184.76.15,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T16:24:19Z,195.184.76.233,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T16:25:08Z,66.42.54.206,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-01T16:26:01Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-11-01T16:27:18Z,91.230.168.203,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T16:29:05Z,23.111.14.186,2222,other,00000000
+2026-11-01T16:30:16Z,91.230.168.101,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T16:30:44Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
