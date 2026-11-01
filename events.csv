@@ -113409,3 +113409,14 @@ time_utc,ip,port,kind,client_data
 2026-11-01T08:33:11Z,91.230.168.16,2222,ssh-client,SSH-2.0-perlssh
 2026-11-01T08:35:18Z,195.184.76.97,2222,ssh-client,SSH-2.0-perlssh
 2026-11-01T08:38:14Z,91.230.168.187,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T08:39:07Z,179.43.153.10,2222,ssh-client,SSH-2.0-Go
+2026-11-01T08:39:51Z,138.226.239.233,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-01T08:41:22Z,195.184.76.122,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T08:44:15Z,91.230.168.131,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T08:44:16Z,3.129.187.38,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: visionheight.com/scan Mozilla/5.0 (M
+2026-11-01T08:44:54Z,5.188.206.30,3389,no-data,
+2026-11-01T08:46:03Z,45.77.61.56,3389,rdp-request,
+2026-11-01T08:46:27Z,3.129.187.38,3389,tls-handshake,"2   3 y +   FI ^   u\ 9"" Z YZ * ` X & / 0 + , / 5"
+2026-11-01T08:46:48Z,66.42.54.206,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-01T08:46:49Z,3.129.187.38,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-11-01T08:47:13Z,195.184.76.216,2222,ssh-client,SSH-2.0-perlssh
