@@ -113443,3 +113443,11 @@ time_utc,ip,port,kind,client_data
 2026-11-01T09:08:14Z,51.158.205.203,2222,ssh-client,SSH-2.0-OpenSSH-keyscan
 2026-11-01T09:08:40Z,138.226.239.233,2222,ssh-client,SSH-2.0-libssh_0.10.5
 2026-11-01T09:09:15Z,195.184.76.61,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T09:11:15Z,91.230.168.77,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T09:12:43Z,179.43.153.10,2222,ssh-client,SSH-2.0-Go
+2026-11-01T09:13:17Z,91.230.168.247,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T09:13:47Z,66.42.54.206,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-01T09:16:16Z,91.230.168.46,2222,ssh-client,SSH-2.0-perlssh
+2026-11-01T09:17:54Z,66.42.54.206,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-01T09:18:36Z,192.253.248.251,3389,rdp-request,/* Cookie: mstshash=Administr
+2026-11-01T09:19:20Z,195.184.76.1,2222,ssh-client,SSH-2.0-perlssh
