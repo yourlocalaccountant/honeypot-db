@@ -116880,3 +116880,7 @@ time_utc,ip,port,kind,client_data
 2026-11-02T22:47:15Z,195.184.76.204,2222,ssh-client,SSH-2.0-perlssh
 2026-11-02T22:47:33Z,36.213.140.70,2222,no-data,
 2026-11-02T22:47:34Z,36.213.140.70,2222,ssh-client,SSH-2.0-Go
+2026-11-02T22:49:24Z,195.184.76.119,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T22:52:23Z,195.184.76.152,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T22:54:24Z,91.230.168.53,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T22:57:25Z,91.230.168.48,2222,ssh-client,SSH-2.0-perlssh
