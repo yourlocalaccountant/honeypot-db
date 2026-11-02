@@ -116658,3 +116658,10 @@ time_utc,ip,port,kind,client_data
 2026-11-02T20:16:25Z,91.230.168.246,2222,ssh-client,SSH-2.0-perlssh
 2026-11-02T20:19:20Z,195.184.76.234,2222,ssh-client,SSH-2.0-perlssh
 2026-11-02T20:21:19Z,91.230.168.43,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T20:23:25Z,91.230.168.254,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T20:23:45Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-11-02T20:26:12Z,195.184.76.34,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T20:28:29Z,195.184.76.97,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T20:29:54Z,176.65.132.216,23,other,root
+2026-11-02T20:31:04Z,71.6.232.27,23,telnet-negotiation,
+2026-11-02T20:31:21Z,91.230.168.164,2222,ssh-client,SSH-2.0-perlssh
