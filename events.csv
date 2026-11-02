@@ -116287,3 +116287,7 @@ time_utc,ip,port,kind,client_data
 2026-11-02T15:37:04Z,47.103.36.53,3389,other,'@ w startrfc 1100 default_startrfc.*
 2026-11-02T15:37:14Z,47.103.36.53,3389,other,'@ @
 2026-11-02T15:37:25Z,47.103.36.53,3389,other,'@ B sapdp00 4103 sapnw-pasapdp00
+2026-11-02T15:39:26Z,195.184.76.13,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T15:42:26Z,195.184.76.96,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T15:45:27Z,91.230.168.155,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T15:48:21Z,91.230.168.40,2222,ssh-client,SSH-2.0-perlssh
