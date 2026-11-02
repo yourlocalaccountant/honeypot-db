@@ -114689,3 +114689,24 @@ time_utc,ip,port,kind,client_data
 2026-11-02T01:32:32Z,66.132.195.109,2323,tls-handshake,"g ,i 4T< C ]nQg   ;. ] ' B ""w & / 0 + , / 5 G"
 2026-11-02T01:32:44Z,66.132.195.109,2323,no-data,
 2026-11-02T01:32:53Z,154.18.197.29,3389,rdp-request,
+2026-11-02T01:33:12Z,91.230.168.104,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T01:33:18Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-02T01:33:29Z,47.86.23.190,3389,rdp-request,&! Cookie: mstshash=
+2026-11-02T01:33:29Z,47.86.23.190,3389,rdp-request,&! Cookie: mstshash=
+2026-11-02T01:33:30Z,47.86.23.190,3389,rdp-request,&! Cookie: mstshash=
+2026-11-02T01:33:30Z,47.86.23.190,3389,rdp-request,&! Cookie: mstshash=
+2026-11-02T01:33:31Z,47.86.23.190,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) 
+2026-11-02T01:33:32Z,47.86.23.190,3389,tls-handshake,"' N8 Zl G w j_f E{tV  y ) Aa*= N 4r g w 0 , 0 + / $ ( # ' = <"
+2026-11-02T01:33:32Z,47.86.23.190,3389,tls-handshake,"r r  j& t w g GB  D XD W { Q J, =p 0 , 0 + / $ ( # ' = <"
+2026-11-02T01:33:33Z,47.86.23.190,3389,tls-handshake,"0+ cC ( nJ< *< @   M@ : . uT4 Q<(^| & + / , 0 / 5 w"
+2026-11-02T01:33:33Z,47.86.23.190,3389,tls-handshake,n j ; C p ZV o >)+ * y U * 5 / 3 3t http/1.1
+2026-11-02T01:33:39Z,47.86.23.190,3389,no-data,
+2026-11-02T01:34:31Z,47.86.23.130,2222,other,
+2026-11-02T01:34:31Z,47.86.23.130,2222,ssh-client,SSH-2.0-OpenSSH
+2026-11-02T01:35:11Z,91.230.168.69,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T01:37:11Z,91.230.168.61,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T01:39:07Z,64.62.197.182,23,telnet-negotiation,
+2026-11-02T01:39:16Z,91.230.168.197,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T01:41:45Z,71.6.142.213,3389,other,
+2026-11-02T01:42:10Z,91.230.168.200,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T01:42:20Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
