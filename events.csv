@@ -114731,3 +114731,21 @@ time_utc,ip,port,kind,client_data
 2026-11-02T02:11:09Z,91.230.168.93,2222,ssh-client,SSH-2.0-perlssh
 2026-11-02T02:11:56Z,216.238.70.247,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-02T02:12:55Z,199.165.159.209,23,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:1
+2026-11-02T02:14:07Z,195.184.76.4,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T02:14:19Z,71.6.202.219,23,telnet-negotiation,
+2026-11-02T02:14:58Z,51.158.205.203,2222,no-data,
+2026-11-02T02:15:39Z,80.94.95.116,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-02T02:16:10Z,91.230.168.9,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T02:18:11Z,195.184.76.29,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T02:19:16Z,51.158.205.203,2222,ssh-client,SSH-2.0-OpenSSH-keyscan
+2026-11-02T02:19:16Z,51.158.205.203,2222,ssh-client,SSH-2.0-OpenSSH-keyscan
+2026-11-02T02:19:17Z,51.158.205.203,2222,ssh-client,SSH-2.0-OpenSSH-keyscan
+2026-11-02T02:19:17Z,51.158.205.203,2222,ssh-client,SSH-2.0-OpenSSH-keyscan
+2026-11-02T02:19:17Z,51.158.205.203,2222,ssh-client,SSH-2.0-OpenSSH-keyscan
+2026-11-02T02:20:01Z,82.147.85.101,3389,rdp-request,
+2026-11-02T02:20:08Z,195.184.76.226,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T02:21:02Z,82.147.85.101,3389,other,"/   ! "" &"
+2026-11-02T02:22:07Z,91.230.168.236,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T02:22:25Z,216.238.70.247,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-02T02:23:36Z,154.18.197.29,3389,rdp-request,
+2026-11-02T02:24:06Z,195.184.76.218,2222,ssh-client,SSH-2.0-perlssh
