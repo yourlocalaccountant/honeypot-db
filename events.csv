@@ -115010,3 +115010,9 @@ time_utc,ip,port,kind,client_data
 2026-11-02T05:02:33Z,35.210.80.231,3389,other,"< , : (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-"
 2026-11-02T05:02:34Z,35.210.80.231,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 6399
 2026-11-02T05:02:34Z,35.210.80.231,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
+2026-11-02T05:04:11Z,195.184.76.4,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T05:06:12Z,195.184.76.159,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T05:06:20Z,216.238.70.247,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-02T05:09:10Z,195.184.76.96,2222,ssh-client,SSH-2.0-perlssh
+2026-11-02T05:10:42Z,216.238.70.247,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-02T05:11:13Z,91.230.168.108,2222,ssh-client,SSH-2.0-perlssh
