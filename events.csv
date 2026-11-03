@@ -118286,3 +118286,18 @@ time_utc,ip,port,kind,client_data
 2026-11-03T10:08:13Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-03T10:08:18Z,87.251.64.127,2323,tls-handshake,"w wy, ) JKI w '  ~ O5 _ 7 +F Wi h aY \ , 0 ] a + / \ ` $ ( s w"
 2026-11-03T10:08:19Z,87.251.64.127,2323,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-03T10:09:54Z,187.58.241.90,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 3kH < F Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
+2026-11-03T10:09:56Z,85.234.8.116,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 C!P NX U _  Kdiffie-hellman-group1-sha1,diffie-hellman-group"
+2026-11-03T10:10:14Z,195.184.76.145,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T10:10:33Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T10:12:24Z,46.59.88.232,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 k n H ( P w Kdiffie-hellman-group1-sha1,diffie-hellman-group"
+2026-11-03T10:12:27Z,103.225.15.98,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 y Pu h  Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
+2026-11-03T10:13:24Z,181.174.142.153,23,telnet-negotiation,
+2026-11-03T10:13:31Z,91.230.168.206,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T10:13:40Z,179.185.18.67,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 W 6m eI 3 j Kdiffie-hellman-group1-sha1,diffie-hellman-group"
+2026-11-03T10:13:42Z,116.97.185.7,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 "" (N @9\p 87 Kdiffie-hellman-group1-sha1,diffie-hellman-grou"
+2026-11-03T10:15:13Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T10:16:28Z,195.184.76.101,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T10:16:29Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T10:18:49Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T10:19:18Z,195.184.76.85,2222,ssh-client,SSH-2.0-perlssh
