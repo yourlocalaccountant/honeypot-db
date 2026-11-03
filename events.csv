@@ -118113,3 +118113,40 @@ time_utc,ip,port,kind,client_data
 2026-11-03T08:24:21Z,195.96.139.73,3389,other,0 w x.x.x.x.4.1.1466.20037
 2026-11-03T08:24:36Z,195.96.139.69,3389,other,<?xml version='1.0'?><stream:stream version='1.0' xml:lang='en' xmlns:stream='ht
 2026-11-03T08:24:52Z,185.247.137.73,3389,other,/  +
+2026-11-03T08:25:07Z,185.247.137.48,3389,other,"x @ ,   . J     (DESCRIPTION=(CONNECT_DATA=(COMMAND=version)))"
+2026-11-03T08:25:16Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T08:25:23Z,185.247.137.51,3389,other,/multistream/1.0.0
+2026-11-03T08:25:30Z,117.159.93.197,2222,no-data,
+2026-11-03T08:25:36Z,101.13.5.28,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 ^ ( 5 Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sha"
+2026-11-03T08:25:37Z,148.222.222.2,23,no-data,
+2026-11-03T08:25:38Z,195.96.139.72,3389,other,fox a 1 -1 fox hello { fox.version=s:1.0 id=i:1 };;
+2026-11-03T08:25:38Z,39.129.102.30,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 @ "") J2 Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
+2026-11-03T08:25:54Z,87.236.176.60,3389,other,!
+2026-11-03T08:26:10Z,87.236.176.61,3389,other,C = SessionType=Discovery MaxRecvDataSegmentLength=32768 InitiatorName=iqn.2
+2026-11-03T08:26:14Z,91.230.168.21,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T08:26:25Z,185.247.137.42,3389,other,"2 , A ^ m Z $ $ @ t G"
+2026-11-03T08:26:34Z,148.222.222.2,23,no-data,
+2026-11-03T08:26:40Z,191.210.133.134,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 .o : % 4J H Kdiffie-hellman-group1-sha1,diffie-hellman-group"
+2026-11-03T08:26:41Z,87.236.176.58,3389,other,ANY-SCP         ECHOSCU          1.2.840.10008.x.x.x.x  . 0 x.x.x.x
+2026-11-03T08:26:42Z,36.92.35.211,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 f c< QQ Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
+2026-11-03T08:26:56Z,185.247.137.51,3389,other,"CONNECT accept-version:1.0,1.1,2.0"
+2026-11-03T08:27:12Z,87.236.176.51,3389,other,stats
+2026-11-03T08:27:28Z,185.247.137.52,3389,other,l
+2026-11-03T08:27:43Z,87.236.176.43,3389,other,% ?&63 : wt# ) s8\N ?P 9 P ~ D P =ZQ+ e O . g W_U ` / k! e ' H _| E
+2026-11-03T08:27:44Z,87.236.176.43,3389,other,version V j
+2026-11-03T08:27:59Z,87.236.176.63,3389,other,HELFD $ opc.tcp://localHost: [redacted]
+2026-11-03T08:28:03Z,174.75.211.217,2222,no-data,
+2026-11-03T08:28:15Z,87.236.176.38,3389,other,'@ Q 8 <
+2026-11-03T08:28:31Z,87.236.176.71,3389,other,
+2026-11-03T08:28:34Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T08:28:46Z,185.247.137.71,3389,other,mre /00IDED
+2026-11-03T08:29:00Z,185.247.137.38,3389,tls-handshake,"t/ > R g h4,s jjx  )A N A & ( % B'   < + / , 0 / 5 $ ( # '"
+2026-11-03T08:29:21Z,91.230.168.79,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T08:30:52Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T08:31:14Z,195.184.76.59,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T08:32:55Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T08:33:24Z,91.230.168.192,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T08:33:54Z,71.6.146.130,23,telnet-negotiation,
+2026-11-03T08:34:15Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-11-03T08:35:01Z,62.220.104.155,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 b 4VZo0 Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
+2026-11-03T08:35:03Z,136.25.204.79,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 Na #Cf Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sh"
