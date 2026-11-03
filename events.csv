@@ -117684,3 +117684,12 @@ time_utc,ip,port,kind,client_data
 2026-11-03T04:42:21Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-03T04:43:16Z,91.230.168.30,2222,ssh-client,SSH-2.0-perlssh
 2026-11-03T04:43:40Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T04:46:25Z,195.184.76.155,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T04:46:32Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T04:49:16Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-11-03T04:49:22Z,91.230.168.236,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T04:49:28Z,64.62.197.98,3389,ssh-client,SSH-2.0-Go
+2026-11-03T04:49:39Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T04:52:30Z,195.184.76.74,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T04:52:46Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T04:54:22Z,91.230.168.50,2222,ssh-client,SSH-2.0-perlssh
