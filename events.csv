@@ -118583,3 +118583,27 @@ time_utc,ip,port,kind,client_data
 2026-11-03T13:17:40Z,210.71.208.175,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 u3{ ?Nk9 Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
 2026-11-03T13:17:45Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-03T13:17:47Z,81.237.155.113,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 | r! Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sha1"
+2026-11-03T13:19:58Z,180.193.181.195,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 ` _ v q .Y Kdiffie-hellman-group1-sha1,diffie-hellman-group1"
+2026-11-03T13:20:06Z,200.149.51.6,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 {wbR &+ Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
+2026-11-03T13:20:19Z,91.230.168.149,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T13:20:27Z,85.29.246.199,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 d z s;Q Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
+2026-11-03T13:20:29Z,116.97.185.7,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 w / II? Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
+2026-11-03T13:21:04Z,150.95.25.34,23,no-data,
+2026-11-03T13:21:18Z,150.95.25.34,23,no-data,
+2026-11-03T13:21:33Z,150.95.25.34,23,no-data,
+2026-11-03T13:21:46Z,150.95.25.34,23,no-data,
+2026-11-03T13:21:51Z,216.226.77.30,2323,no-data,
+2026-11-03T13:22:08Z,150.95.25.34,23,no-data,
+2026-11-03T13:22:24Z,150.95.25.34,23,no-data,
+2026-11-03T13:22:41Z,150.95.25.34,23,no-data,
+2026-11-03T13:22:56Z,150.95.25.34,23,no-data,
+2026-11-03T13:23:08Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T13:23:24Z,195.184.76.206,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T13:23:55Z,150.95.25.34,23,no-data,
+2026-11-03T13:25:21Z,91.230.168.24,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T13:25:55Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T13:26:35Z,103.14.48.254,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 5 ;G } Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sh"
+2026-11-03T13:26:42Z,125.23.41.58,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 [8 m 4l Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
+2026-11-03T13:26:42Z,218.92.251.198,2222,no-data,
+2026-11-03T13:28:00Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T13:28:18Z,91.230.168.150,2222,ssh-client,SSH-2.0-perlssh
