@@ -118548,3 +118548,19 @@ time_utc,ip,port,kind,client_data
 2026-11-03T12:54:26Z,91.230.168.104,2222,ssh-client,SSH-2.0-perlssh
 2026-11-03T12:54:27Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-03T12:57:31Z,91.230.168.132,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T12:58:15Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T12:59:43Z,213.136.90.193,3389,rdp-request,/* Cookie: mstshash=anonymous
+2026-11-03T13:00:26Z,91.230.168.27,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T13:00:49Z,43.99.25.8,2222,no-data,
+2026-11-03T13:00:50Z,43.99.25.8,2222,ssh-client,SSH-2.0-Go
+2026-11-03T13:01:39Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T13:02:28Z,91.230.168.193,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T13:04:27Z,151.158.44.120,3389,rdp-request,
+2026-11-03T13:05:06Z,82.147.85.101,3389,rdp-request,
+2026-11-03T13:06:20Z,195.184.76.8,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T13:06:25Z,82.147.85.101,3389,other,"/   ! "" &"
+2026-11-03T13:06:32Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T13:06:38Z,119.152.102.54,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 j * M? \ Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
+2026-11-03T13:06:40Z,58.23.77.163,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 e pi8 `J Sw Kdiffie-hellman-group1-sha1,diffie-hellman-group"
+2026-11-03T13:06:51Z,172.81.105.229,2222,ssh-client,SSH-2.0-OpenSSH_7.4
+2026-11-03T13:06:53Z,221.153.12.93,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 57 J47a Q Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
