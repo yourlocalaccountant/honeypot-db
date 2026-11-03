@@ -119182,3 +119182,13 @@ time_utc,ip,port,kind,client_data
 2026-11-03T21:19:37Z,41.128.181.196,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 / C* ^ Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sh"
 2026-11-03T21:20:53Z,31.173.7.233,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 %N T f Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sh"
 2026-11-03T21:20:56Z,112.168.255.132,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 b 7 ) H{ Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
+2026-11-03T21:22:40Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T21:26:02Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-11-03T21:26:33Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T21:27:29Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-03T21:28:38Z,91.196.152.182,2222,tls-handshake,c _ . 3 a{ < /8z a  0 + D ( M$O C *t _ 3 g 9 k E #
+2026-11-03T21:28:42Z,91.196.152.182,2222,no-data,
+2026-11-03T21:29:55Z,49.124.149.208,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 ' , t -` A Kdiffie-hellman-group1-sha1,diffie-hellman-group1"
+2026-11-03T21:29:59Z,203.253.76.236,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 W C ^ aP Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
+2026-11-03T21:31:17Z,91.231.89.50,2222,ssh-client,SSH-2.0-perlssh
+2026-11-03T21:31:44Z,216.128.134.133,3389,rdp-request,'+& Cookie: mstshash=probe
