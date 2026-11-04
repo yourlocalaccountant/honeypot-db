@@ -120110,3 +120110,29 @@ time_utc,ip,port,kind,client_data
 2026-11-04T02:36:21Z,91.231.89.57,2222,ssh-client,SSH-2.0-perlssh
 2026-11-04T02:36:39Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
 2026-11-04T02:36:53Z,72.46.87.211,23,other,admin
+2026-11-04T02:36:54Z,72.46.87.211,23,other,admin
+2026-11-04T02:36:55Z,72.46.87.211,23,other,root
+2026-11-04T02:37:43Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-11-04T02:38:21Z,91.231.89.156,2222,ssh-client,SSH-2.0-perlssh
+2026-11-04T02:38:47Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-11-04T02:39:50Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-11-04T02:40:23Z,91.231.89.248,2222,ssh-client,SSH-2.0-perlssh
+2026-11-04T02:40:38Z,176.103.15.195,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 y * 7OY "" Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
+2026-11-04T02:40:39Z,195.3.134.236,23,telnet-negotiation,
+2026-11-04T02:40:40Z,46.59.88.232,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 .g h bn ? Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
+2026-11-04T02:40:53Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-11-04T02:41:03Z,187.49.63.51,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 a Om  m5 Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
+2026-11-04T02:41:05Z,91.144.158.62,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 @ * f Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sha"
+2026-11-04T02:41:18Z,119.200.229.33,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 ;X $X ~ G Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
+2026-11-04T02:41:21Z,177.27.76.210,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 W l= f Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sh"
+2026-11-04T02:41:57Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-11-04T02:42:20Z,91.196.152.198,2222,ssh-client,SSH-2.0-perlssh
+2026-11-04T02:43:03Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-11-04T02:43:46Z,213.154.80.51,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 !r M=s@ op Kdiffie-hellman-group1-sha1,diffie-hellman-group1"
+2026-11-04T02:43:49Z,191.241.142.217,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 x 4 Ci N Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
+2026-11-04T02:44:13Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-11-04T02:44:28Z,91.196.152.44,2222,ssh-client,SSH-2.0-perlssh
+2026-11-04T02:45:22Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-11-04T02:46:33Z,195.178.110.218,2222,ssh-client,SSH-2.0-Go
+2026-11-04T02:46:36Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-11-04T02:47:29Z,91.196.152.87,2222,ssh-client,SSH-2.0-perlssh
