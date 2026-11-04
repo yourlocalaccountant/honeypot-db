@@ -127298,3 +127298,21 @@ time_utc,ip,port,kind,client_data
 2026-11-04T21:40:27Z,91.196.152.86,2222,ssh-client,SSH-2.0-perlssh
 2026-11-04T21:41:21Z,91.196.152.154,2222,ssh-client,SSH-2.0-perlssh
 2026-11-04T21:41:29Z,91.196.152.64,2222,no-data,
+2026-11-04T21:42:41Z,136.25.204.79,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 J0 % _ =L Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
+2026-11-04T21:43:17Z,91.231.89.68,2222,ssh-client,SSH-2.0-perlssh
+2026-11-04T21:43:22Z,91.196.152.161,2222,ssh-client,SSH-2.0-perlssh
+2026-11-04T21:43:25Z,91.196.152.229,2222,ssh-client,SSH-2.0-perlssh
+2026-11-04T21:45:21Z,91.231.89.252,2222,ssh-client,SSH-2.0-perlssh
+2026-11-04T21:45:38Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-11-04T21:45:39Z,192.81.229.181,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 s - < : , Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
+2026-11-04T21:45:42Z,186.238.242.194,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 7`/J  K_;h ; 3e Kdiffie-hellman-group1-sha1,diffie-hellman-g"
+2026-11-04T21:46:18Z,91.196.152.48,2222,ssh-client,SSH-2.0-perlssh
+2026-11-04T21:46:25Z,91.231.89.120,2222,ssh-client,SSH-2.0-perlssh
+2026-11-04T21:47:21Z,91.231.89.215,2222,ssh-client,SSH-2.0-perlssh
+2026-11-04T21:48:18Z,199.91.128.98,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 <{ u 60 o Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
+2026-11-04T21:48:24Z,91.196.152.55,2222,ssh-client,SSH-2.0-perlssh
+2026-11-04T21:48:25Z,125.130.102.172,2222,no-data,
+2026-11-04T21:48:46Z,20.38.35.133,2222,ssh-client,SSH-2.0-Go
+2026-11-04T21:49:17Z,91.231.89.47,2222,ssh-client,SSH-2.0-perlssh
+2026-11-04T21:49:21Z,91.196.152.202,2222,ssh-client,SSH-2.0-perlssh
+2026-11-04T21:50:27Z,91.196.152.161,2222,ssh-client,SSH-2.0-perlssh
