@@ -127843,3 +127843,26 @@ time_utc,ip,port,kind,client_data
 2026-11-05T01:21:34Z,87.251.64.23,23,rdp-request,/* Cookie: mstshash=Administr
 2026-11-05T01:21:34Z,87.251.64.23,2323,rdp-request,/* Cookie: mstshash=Administr
 2026-11-05T01:21:34Z,87.251.64.23,3389,rdp-request,/* Cookie: mstshash=Administr
+2026-11-05T01:22:11Z,94.231.206.5,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T01:22:15Z,91.196.152.247,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T01:22:53Z,2.179.194.21,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 zd K2Zn 2 Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
+2026-11-05T01:23:00Z,218.29.231.106,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 , k 9m 4 * Kdiffie-hellman-group1-sha1,diffie-hellman-group1"
+2026-11-05T01:23:19Z,91.231.89.20,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T01:23:21Z,91.196.152.87,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T01:23:22Z,216.180.246.29,23,telnet-negotiation,
+2026-11-05T01:24:12Z,124.123.68.73,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 &8 / L[@ Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
+2026-11-05T01:24:16Z,182.66.211.2,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 ' T Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sha1,"
+2026-11-05T01:25:11Z,94.231.206.110,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T01:25:18Z,91.196.152.224,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T01:26:20Z,91.196.152.158,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T01:26:20Z,91.231.89.108,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T01:28:09Z,94.231.206.111,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T01:28:13Z,91.196.152.202,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T01:28:21Z,91.196.152.214,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T01:29:25Z,91.231.89.148,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T01:31:10Z,94.231.206.32,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T01:31:16Z,91.196.152.16,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T01:31:26Z,91.196.152.3,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T01:32:20Z,91.231.89.33,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T01:32:25Z,112.80.33.98,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 ! D s0 Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sh"
+2026-11-05T01:32:29Z,177.174.109.143,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 ] 5 JW QR Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
