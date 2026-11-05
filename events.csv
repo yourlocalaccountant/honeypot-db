@@ -127723,3 +127723,25 @@ time_utc,ip,port,kind,client_data
 2026-11-05T00:27:17Z,91.231.89.217,2222,ssh-client,SSH-2.0-perlssh
 2026-11-05T00:28:10Z,94.231.206.2,2222,ssh-client,SSH-2.0-perlssh
 2026-11-05T00:28:24Z,91.196.152.71,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T00:29:22Z,91.196.152.71,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T00:29:34Z,91.196.152.182,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T00:30:20Z,91.231.89.32,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T00:30:21Z,89.160.102.76,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 x H cZO+E""XY aE Kdiffie-hellman-group1-sha1,diffie-hellman-g"
+2026-11-05T00:30:23Z,109.248.156.49,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 KW+ [ p Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
+2026-11-05T00:31:07Z,124.83.9.140,2222,no-data,
+2026-11-05T00:31:10Z,94.231.206.39,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T00:31:19Z,91.231.89.77,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T00:32:29Z,91.196.152.162,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T00:33:18Z,91.231.89.32,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T00:34:08Z,94.231.206.39,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T00:34:17Z,91.231.89.187,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T00:35:31Z,91.196.152.151,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T00:36:16Z,91.231.89.159,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T00:37:11Z,94.231.206.33,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T00:37:14Z,187.93.68.178,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 / 1 FSP4 F\ Kdiffie-hellman-group1-sha1,diffie-hellman-group"
+2026-11-05T00:37:22Z,91.231.89.232,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T00:38:18Z,91.231.89.45,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T00:39:00Z,201.28.237.90,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 , = y:K Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
+2026-11-05T00:39:07Z,65.20.189.52,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 S tz : !K Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
+2026-11-05T00:39:21Z,91.196.152.229,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T00:39:23Z,91.196.152.214,2222,ssh-client,SSH-2.0-perlssh
