@@ -131318,3 +131318,29 @@ time_utc,ip,port,kind,client_data
 2026-11-05T17:14:23Z,91.231.89.96,2222,ssh-client,SSH-2.0-perlssh
 2026-11-05T17:15:26Z,91.196.152.70,2222,ssh-client,SSH-2.0-perlssh
 2026-11-05T17:16:22Z,91.231.89.37,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:16:58Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-11-05T17:17:14Z,94.231.206.7,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:17:25Z,91.196.152.69,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:18:15Z,91.231.89.57,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:18:25Z,91.196.152.231,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:20:09Z,94.231.206.104,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:20:20Z,91.196.152.241,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:20:22Z,91.196.152.51,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:20:22Z,91.196.152.75,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:20:41Z,87.251.64.23,2222,rdp-request,/* Cookie: mstshash=Administr
+2026-11-05T17:20:44Z,87.251.64.23,23,rdp-request,/* Cookie: mstshash=Administr
+2026-11-05T17:20:44Z,87.251.64.23,3389,rdp-request,/* Cookie: mstshash=Administr
+2026-11-05T17:22:09Z,94.231.206.106,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:22:17Z,91.196.152.38,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:22:18Z,91.196.152.143,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:22:22Z,91.231.89.124,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:23:30Z,172.236.228.227,2323,tls-handshake,"( ? _ X l],C | !r =T 1s o s_ g Y i vO D < + / , 0 / 5 $ ( # '"
+2026-11-05T17:23:30Z,172.236.228.227,2323,tls-handshake,"5 -! Y  6 A 5i w k_  G , 3 S H% $ j | < + / , 0 / 5 $ ( # '"
+2026-11-05T17:24:09Z,94.231.206.104,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:24:24Z,91.196.152.55,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:24:26Z,91.196.152.166,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:24:32Z,91.231.89.114,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:25:15Z,50.6.206.244,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-05T17:26:11Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:26:19Z,91.231.89.24,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T17:26:20Z,190.112.138.242,23,no-data,
