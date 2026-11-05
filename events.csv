@@ -130531,3 +130531,97 @@ time_utc,ip,port,kind,client_data
 2026-11-05T13:24:08Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-05T13:24:20Z,91.196.152.54,2222,ssh-client,SSH-2.0-perlssh
 2026-11-05T13:24:30Z,91.196.152.228,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:25:09Z,94.231.206.111,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:25:37Z,111.42.183.124,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-05T13:25:41Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-11-05T13:26:04Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T13:26:16Z,91.196.152.0,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:26:18Z,91.231.89.77,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:26:47Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T13:27:13Z,170.231.236.98,3389,no-data,
+2026-11-05T13:27:14Z,170.231.236.98,3389,rdp-request,&! Cookie: mstshash=
+2026-11-05T13:27:16Z,185.191.236.38,3389,http,GET / HTTP/1.1 Host: [redacted] Accept: */* Accept-Encoding: identity Accept-Lan
+2026-11-05T13:27:18Z,185.191.236.38,3389,tls-handshake,"_eD 0W8 h v qs #l   2e ? dov n < # \ K 2 + / , 0 / 5 # ' <"
+2026-11-05T13:27:19Z,185.191.236.38,3389,ssh-client,SSH-2.0-OpenSSH_8.9
+2026-11-05T13:27:19Z,91.196.152.226,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:27:21Z,193.47.62.111,3389,rdp-request,&! Cookie: mstshash=
+2026-11-05T13:27:22Z,193.47.62.111,3389,http,GET / HTTP/1.1 Host: [redacted] Accept: */* Accept-Encoding: identity Accept-Lan
+2026-11-05T13:27:23Z,193.47.62.111,3389,tls-handshake,"}*} * S) C Xy R T D ? d   / )< 1O+ W #|xm i 3 5 2 + / , 0 / 5 # ' <"
+2026-11-05T13:27:25Z,193.47.62.111,3389,ssh-client,SSH-2.0-OpenSSH_8.9
+2026-11-05T13:28:02Z,192.248.150.180,3389,rdp-request,
+2026-11-05T13:28:06Z,54.212.169.44,3389,rdp-request,&! Cookie: mstshash=
+2026-11-05T13:28:10Z,94.231.206.110,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:28:18Z,13.125.155.228,3389,no-data,
+2026-11-05T13:28:19Z,91.196.152.214,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:28:20Z,3.151.181.143,3389,tls-handshake,"l U3 >g5 Y W j j ~ ( <6 I j1 1X W M 2 + / , 0 / 5 # ' <"
+2026-11-05T13:28:24Z,56.126.23.58,3389,ssh-client,SSH-2.0-OpenSSH_8.9
+2026-11-05T13:28:49Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T13:29:19Z,91.231.89.189,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:29:25Z,91.196.152.180,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:29:29Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T13:30:23Z,91.196.152.50,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:31:25Z,91.196.152.143,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:31:26Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T13:31:27Z,91.196.152.79,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:32:08Z,94.231.206.108,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:32:24Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T13:32:25Z,91.231.89.22,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:32:39Z,45.79.2.232,3389,rdp-request,
+2026-11-05T13:32:40Z,24.199.88.124,3389,tls-handshake,' v [ > y . 3V   F sB W {a < 0 T 7 g s M A = 5 < /
+2026-11-05T13:32:40Z,24.199.88.124,3389,tls-handshake,"g Q ' p t9 ~ c  u 7YT On ^9 b Qy , 4 3 g 9 k E #"
+2026-11-05T13:32:40Z,45.79.2.232,3389,rdp-request,
+2026-11-05T13:32:40Z,45.79.2.232,3389,rdp-request,
+2026-11-05T13:32:41Z,24.199.88.124,3389,tls-handshake,J F # iD ~ <L 0 ~ e { \n )  n ~h9 G m &NH a dI G{ D ' / ( 0 ` a v w / <
+2026-11-05T13:32:41Z,24.199.88.124,3389,tls-handshake,"X T k N HP-w G1X , Y @vn[ w 2 r; d 8 ] $[C S F s r , $ + #"
+2026-11-05T13:32:41Z,24.199.88.124,3389,tls-handshake,z'H } (C &u@ %z   u # Q Y co }(\ M H ' / ( 0 ` a v w / <
+2026-11-05T13:32:42Z,24.199.88.124,3389,tls-handshake,"B o n n K$, V \z9 DW 2 :  >W ~y]9b; {> 9 Z' 3 g 9 k E #"
+2026-11-05T13:32:42Z,24.199.88.124,3389,tls-handshake,R zW b M/m y / ~ :   LP { a _s{ . 8 Uz 7 G 3 g 9 k E #
+2026-11-05T13:32:42Z,24.199.88.124,3389,tls-handshake,w ) gT^Q] >+ B- l`D) y   d ]A P n } ` T ' A = 5 < /
+2026-11-05T13:32:43Z,24.199.88.124,3389,tls-handshake,'=nP $ ) ] ^ M  j! a sB } [ fY Y ' / ( 0 ` a v w / <
+2026-11-05T13:32:43Z,24.199.88.124,3389,tls-handshake,"au M v ] MDV I; [y[J d   M, rz ig WXRu:L a ' UF M 3 g 9 k E #"
+2026-11-05T13:33:25Z,91.196.152.52,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:33:30Z,39.120.34.60,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-05T13:33:31Z,39.120.34.60,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-05T13:33:48Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T13:34:08Z,143.198.185.57,3389,tls-handshake,"'= Z 5| l b X B ) \vP t% 0 u tDp5( wV# aN i s 2 # + , ' / 0 / < 5"
+2026-11-05T13:34:08Z,167.172.141.241,3389,no-data,
+2026-11-05T13:34:09Z,167.172.141.241,3389,rdp-request,
+2026-11-05T13:34:09Z,167.172.141.241,3389,rdp-request,*% Cookie: mstshash=beio
+2026-11-05T13:34:09Z,167.172.141.241,3389,tls-handshake,"i e U random1random2random3random4 / 9 0 , *"
+2026-11-05T13:34:10Z,167.172.141.241,3389,other,
+2026-11-05T13:34:10Z,167.172.141.241,3389,rdp-request,",' Cookie: mstshash=Administrator"
+2026-11-05T13:34:11Z,167.172.141.241,3389,http,GET / HTTP/1.0
+2026-11-05T13:34:11Z,167.172.141.241,3389,http,OPTIONS / HTTP/1.0
+2026-11-05T13:34:11Z,167.172.141.241,3389,http,OPTIONS / RTSP/1.0
+2026-11-05T13:34:12Z,167.172.141.241,3389,other,(r |
+2026-11-05T13:34:12Z,167.172.141.241,3389,other,version bind
+2026-11-05T13:34:13Z,167.172.141.241,3389,other,
+2026-11-05T13:34:13Z,167.172.141.241,3389,other,HELP
+2026-11-05T13:34:14Z,167.172.141.241,3389,other,SMBr @ @ PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 L
+2026-11-05T13:34:14Z,167.172.141.241,3389,other,qj n0 k ^0\ P NM 0 0 krbtgt NM 19700101000000Z 0
+2026-11-05T13:34:14Z,167.172.141.241,3389,tls-handshake,"S O ?G , `~ { w <= o n ( f e d c b a `"
+2026-11-05T13:34:15Z,167.172.141.241,3389,http,GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0
+2026-11-05T13:34:15Z,167.172.141.241,3389,other,l
+2026-11-05T13:34:15Z,91.231.89.142,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:34:16Z,167.172.141.241,3389,other,0 - c $ d objectClass0
+2026-11-05T13:34:16Z,167.172.141.241,3389,other,0 `
+2026-11-05T13:34:16Z,167.172.141.241,3389,other,default
+2026-11-05T13:34:17Z,167.172.141.241,3389,http,OPTIONS sip:nm SIP/2.0 Via: SIP/2.0/TCP nm;branch=foo From: <sip:nm@nm>;tag=root
+2026-11-05T13:34:17Z,167.172.141.241,3389,other,TNMP TNME
+2026-11-05T13:34:18Z,167.172.141.241,3389,other,: / @ = / @
+2026-11-05T13:34:18Z,167.172.141.241,3389,other,DmdT
+2026-11-05T13:34:18Z,167.172.141.241,3389,other,JRMI K
+2026-11-05T13:34:19Z,167.172.141.241,3389,other,MMS N S P l a y e r / 9 . . . 9 8 ;   { A A - A - a - A A
+2026-11-05T13:34:19Z,167.172.141.241,3389,other,"Z 6 ,   : (CONNECT_DATA=(COMMAND=version))"
+2026-11-05T13:34:19Z,91.231.89.226,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T13:34:20Z,167.172.141.241,3389,other,
+2026-11-05T13:34:20Z,167.172.141.241,3389,other,4 ( U MSSQLServer H
+2026-11-05T13:34:20Z,167.172.141.241,3389,other,GIOP $ abcdef get
+2026-11-05T13:34:21Z,167.172.141.241,3389,other,87 &
+2026-11-05T13:34:21Z,167.172.141.241,3389,other,LIORL c d   ` h t t p : / / 1 9 2 . 1 6 8 . 1 0 . 1 0 0 / m s m q /
+2026-11-05T13:34:22Z,167.172.141.241,3389,other,
+2026-11-05T13:34:22Z,167.172.141.241,3389,other,'+<M none beio
+2026-11-05T13:34:22Z,167.172.141.241,3389,other,_@ 7 InitiatorName=iqn.1991-05.com.microsoft:beio-iscsi-probe SessionType=Dis
+2026-11-05T13:34:23Z,167.172.141.241,3389,other,
+2026-11-05T13:34:23Z,167.172.141.241,3389,other,ANY-SCP FINDSCU 1.2.840.10008.x.x.x.x  . 0 x.x.x.x
+2026-11-05T13:34:24Z,167.172.141.241,3389,other,I20100
