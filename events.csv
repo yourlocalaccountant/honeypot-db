@@ -129095,3 +129095,70 @@ time_utc,ip,port,kind,client_data
 2026-11-05T07:16:23Z,91.231.89.143,2222,ssh-client,SSH-2.0-perlssh
 2026-11-05T07:16:54Z,65.49.1.38,23,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (X11; Linux x86_64) Geck
 2026-11-05T07:17:17Z,91.196.152.121,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:18:08Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T07:18:15Z,94.231.206.0,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:18:25Z,139.199.80.137,2222,ssh-client,SSH-2.0-libssh-0.2
+2026-11-05T07:18:50Z,105.247.89.210,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 D 6 ][a. + Kdiffie-hellman-group1-sha1,diffie-hellman-group1"
+2026-11-05T07:18:52Z,210.4.68.72,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 $S9 < o _ f Kdiffie-hellman-group1-sha1,diffie-hellman-group"
+2026-11-05T07:19:16Z,91.231.89.44,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:19:20Z,91.196.152.89,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:19:29Z,91.231.89.242,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:19:40Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T07:19:55Z,89.165.130.43,23,telnet-negotiation,
+2026-11-05T07:20:39Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T07:21:07Z,111.29.41.216,2222,no-data,
+2026-11-05T07:21:07Z,111.29.41.216,2222,ssh-client,SSH-2.0-Go
+2026-11-05T07:21:09Z,94.231.206.106,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:21:57Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-05T07:22:16Z,91.196.152.25,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:22:18Z,91.196.152.179,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:22:22Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T07:22:23Z,91.231.89.99,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:23:29Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T07:24:07Z,210.206.24.237,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 g ^ Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sha1,"
+2026-11-05T07:24:09Z,203.193.168.136,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 z Z  q Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sh"
+2026-11-05T07:24:09Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T07:24:23Z,91.231.89.9,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:25:09Z,94.231.206.107,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:25:13Z,91.196.152.94,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:25:19Z,91.196.152.97,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:25:26Z,35.210.210.121,3389,rdp-request,
+2026-11-05T07:25:26Z,35.210.210.121,3389,tls-handshake,"G g Iq P $ : l' 5 &"" Q eTZ }R d 94W : ! 2 + / , 0 / 5 # ' <"
+2026-11-05T07:25:27Z,35.210.210.121,3389,other,; admin.$cmd hello ?
+2026-11-05T07:25:28Z,35.210.210.121,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-05T07:25:28Z,35.210.210.121,3389,other,;   ; /v H J& m > KZ = 3 M1 Am wBFR U P vYb f
+2026-11-05T07:25:34Z,35.210.210.121,3389,no-data,
+2026-11-05T07:25:40Z,35.210.210.121,3389,no-data,
+2026-11-05T07:25:46Z,35.210.210.121,3389,no-data,
+2026-11-05T07:25:51Z,35.210.210.121,3389,no-data,
+2026-11-05T07:25:52Z,35.210.210.121,3389,other,z8 version bind
+2026-11-05T07:25:58Z,35.210.210.121,3389,no-data,
+2026-11-05T07:25:58Z,35.210.210.121,3389,rdp-request,
+2026-11-05T07:26:04Z,35.210.210.121,3389,no-data,
+2026-11-05T07:26:09Z,35.210.210.121,3389,no-data,
+2026-11-05T07:26:10Z,35.210.210.121,3389,other,0: GgX5`2 cn=igmuekafeowqlcdktepi igmuekafeowqlcdktepi
+2026-11-05T07:26:10Z,35.210.210.121,3389,other,"X % & ' + , $ \ k < K { \2!$ 7 b9JF,"
+2026-11-05T07:26:16Z,35.210.210.121,3389,no-data,
+2026-11-05T07:26:16Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T07:26:17Z,35.210.210.121,3389,other,# 3 adminclient-5 U4CRlb
+2026-11-05T07:26:17Z,35.210.210.121,3389,other,C 3 consumer-Offset Explorer 2.2-18 apache-kafka-java 2.4.0
+2026-11-05T07:26:23Z,35.210.210.121,3389,no-data,
+2026-11-05T07:26:23Z,35.210.210.121,3389,other,(r |
+2026-11-05T07:26:24Z,35.210.210.121,3389,other,f SMB@ $ 333333333333337
+2026-11-05T07:26:24Z,35.210.210.121,3389,other,g
+2026-11-05T07:26:25Z,35.210.210.121,3389,other,*1 $4 PING
+2026-11-05T07:26:25Z,35.210.210.121,3389,other,MQTT < AAAAA
+2026-11-05T07:26:26Z,35.210.210.121,3389,other,JDWP-Handshake
+2026-11-05T07:26:27Z,35.210.210.121,3389,other,JRMI K
+2026-11-05T07:26:27Z,35.210.210.121,3389,other,MQTT < AAAAA
+2026-11-05T07:26:28Z,35.210.210.121,3389,other,"< , : (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-"
+2026-11-05T07:26:28Z,35.210.210.121,3389,other,'@RSYTCD: 29
+2026-11-05T07:26:29Z,35.210.210.121,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 863
+2026-11-05T07:26:29Z,35.210.210.121,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
+2026-11-05T07:27:20Z,91.196.152.28,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:27:25Z,91.196.152.151,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:27:42Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T07:27:49Z,121.242.112.205,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 ( ~} D S5| q Kdiffie-hellman-group1-sha1,diffie-hellman-grou"
+2026-11-05T07:27:58Z,65.20.175.6,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 k^ I m""% q Kdiffie-hellman-group1-sha1,diffie-hellman-group1"
+2026-11-05T07:28:12Z,94.231.206.36,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:28:25Z,91.231.89.98,2222,ssh-client,SSH-2.0-perlssh
