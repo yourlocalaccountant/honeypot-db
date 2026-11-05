@@ -129068,3 +129068,30 @@ time_utc,ip,port,kind,client_data
 2026-11-05T07:06:59Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-05T07:07:19Z,91.196.152.191,2222,ssh-client,SSH-2.0-perlssh
 2026-11-05T07:07:27Z,91.196.152.85,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:07:54Z,187.142.197.36,23,no-data,
+2026-11-05T07:08:17Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T07:08:19Z,91.196.152.34,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:09:09Z,94.231.206.34,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:10:15Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T07:10:18Z,91.231.89.49,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:10:25Z,91.196.152.150,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:10:31Z,91.231.89.8,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:10:53Z,31.173.2.182,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 ! } Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sha1,"
+2026-11-05T07:11:07Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T07:11:27Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-05T07:12:14Z,94.231.206.15,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:12:18Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T07:13:17Z,91.196.152.54,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:13:22Z,91.231.89.31,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:13:23Z,91.231.89.220,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:14:14Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T07:14:45Z,62.231.20.54,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 B n~ w q Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
+2026-11-05T07:14:52Z,111.70.36.251,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 = P .6 U Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
+2026-11-05T07:14:59Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T07:15:08Z,94.231.206.34,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:15:24Z,91.196.152.40,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:16:10Z,64.176.68.39,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-05T07:16:22Z,91.231.89.127,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:16:23Z,91.231.89.143,2222,ssh-client,SSH-2.0-perlssh
+2026-11-05T07:16:54Z,65.49.1.38,23,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (X11; Linux x86_64) Geck
+2026-11-05T07:17:17Z,91.196.152.121,2222,ssh-client,SSH-2.0-perlssh
