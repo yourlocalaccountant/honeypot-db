@@ -137833,3 +137833,26 @@ time_utc,ip,port,kind,client_data
 2026-11-06T05:23:27Z,91.196.152.181,2222,ssh-client,SSH-2.0-perlssh
 2026-11-06T05:23:27Z,91.196.152.82,2222,ssh-client,SSH-2.0-perlssh
 2026-11-06T05:23:29Z,91.196.152.166,2222,no-data,
+2026-11-06T05:25:00Z,45.76.115.61,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T05:25:11Z,94.231.206.6,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T05:25:29Z,91.196.152.138,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T05:26:11Z,31.14.254.79,3389,rdp-request,
+2026-11-06T05:26:21Z,91.231.89.150,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T05:26:24Z,91.231.89.100,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T05:26:29Z,200.138.46.186,3389,tls-handshake,"6T p s([ $$ # m [j pu : :1 ] s q [ H + / , 0 / 5 ' #"
+2026-11-06T05:26:29Z,64.205.72.168,3389,tls-handshake,"WbV j 7u 6? .  h R  H** h9 N = X >  if . H + / , 0 / 5 ' #"
+2026-11-06T05:26:30Z,200.138.46.231,3389,tls-handshake,"! : J }V{ 3 \v,e  Dz j{ G .O @3 ; H + / , 0 / 5 ' #"
+2026-11-06T05:26:30Z,64.205.72.187,3389,tls-handshake,"? t3y  4 <x E   ~f u\P pB 9 k H + / , 0 / 5 ' #"
+2026-11-06T05:27:29Z,45.76.115.61,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T05:28:07Z,94.231.206.107,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T05:28:24Z,91.196.152.239,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T05:29:15Z,91.231.89.189,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T05:29:18Z,91.231.89.194,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T05:29:19Z,45.76.115.61,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T05:30:15Z,91.231.89.41,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T05:31:20Z,45.76.115.61,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T05:32:12Z,94.231.206.3,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T05:32:17Z,91.196.152.189,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T05:32:20Z,91.196.152.194,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T05:32:55Z,45.76.115.61,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T05:33:24Z,91.196.152.62,2222,no-data,
