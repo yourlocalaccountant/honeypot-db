@@ -138872,3 +138872,28 @@ time_utc,ip,port,kind,client_data
 2026-11-06T11:39:13Z,94.231.206.37,2222,ssh-client,SSH-2.0-perlssh
 2026-11-06T11:40:19Z,91.231.89.77,2222,ssh-client,SSH-2.0-perlssh
 2026-11-06T11:40:27Z,91.196.152.149,2222,no-data,
+2026-11-06T11:41:19Z,91.231.89.172,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T11:41:25Z,45.76.115.61,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T11:42:08Z,94.231.206.105,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T11:42:28Z,91.196.152.69,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T11:43:28Z,91.196.152.173,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T11:44:04Z,176.32.193.16,3389,http,GET / HTTP/1.0 User-Agent: Mozilla/5.0 (X11; Linux i686; rv:40.0) Gecko/20100101
+2026-11-06T11:44:14Z,45.76.115.61,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T11:44:25Z,91.196.152.78,2222,no-data,
+2026-11-06T11:45:09Z,94.231.206.104,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T11:45:14Z,45.76.115.61,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T11:45:17Z,91.196.152.186,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T11:45:19Z,91.196.152.229,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T11:45:59Z,27.147.143.141,3389,rdp-request,
+2026-11-06T11:46:25Z,91.231.89.124,2222,no-data,
+2026-11-06T11:47:19Z,91.196.152.116,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T11:48:08Z,94.231.206.110,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T11:48:09Z,45.76.115.61,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T11:48:20Z,91.231.89.65,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T11:49:20Z,91.196.152.83,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T11:49:24Z,91.231.89.200,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T11:50:00Z,45.76.115.61,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T11:50:19Z,91.231.89.191,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T11:51:04Z,70.34.202.156,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T11:51:07Z,94.231.206.37,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T11:51:19Z,91.231.89.209,2222,ssh-client,SSH-2.0-perlssh
