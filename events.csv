@@ -138583,3 +138583,28 @@ time_utc,ip,port,kind,client_data
 2026-11-06T09:45:27Z,91.231.89.0,2222,ssh-client,SSH-2.0-perlssh
 2026-11-06T09:45:28Z,91.196.152.172,2222,no-data,
 2026-11-06T09:45:41Z,45.76.115.61,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T09:46:09Z,27.147.143.141,3389,rdp-request,
+2026-11-06T09:46:09Z,94.231.206.107,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:47:21Z,91.196.152.113,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:47:28Z,91.196.152.76,2222,no-data,
+2026-11-06T09:47:36Z,45.76.115.61,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T09:48:22Z,91.231.89.3,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:49:11Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:49:18Z,91.196.152.187,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:49:28Z,91.231.89.16,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:50:11Z,45.76.115.61,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T09:50:28Z,91.196.152.137,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:50:52Z,65.49.1.52,23,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-06T09:51:11Z,94.231.206.14,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:51:18Z,91.231.89.173,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:52:25Z,91.196.152.229,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:53:11Z,94.231.206.15,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:53:17Z,91.231.89.15,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:53:42Z,45.76.115.61,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T09:54:16Z,91.196.152.245,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:54:19Z,91.231.89.244,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:54:32Z,45.76.115.61,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T09:55:09Z,94.231.206.104,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:55:32Z,91.196.152.164,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:56:25Z,91.196.152.40,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T09:56:25Z,91.196.152.80,2222,ssh-client,SSH-2.0-perlssh
