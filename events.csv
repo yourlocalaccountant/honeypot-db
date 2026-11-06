@@ -139808,3 +139808,35 @@ time_utc,ip,port,kind,client_data
 2026-11-06T17:47:10Z,94.231.206.37,2222,ssh-client,SSH-2.0-perlssh
 2026-11-06T17:47:22Z,91.231.89.22,2222,ssh-client,SSH-2.0-perlssh
 2026-11-06T17:47:28Z,91.196.152.74,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T17:49:12Z,94.231.206.2,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T17:49:16Z,91.231.89.255,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T17:49:28Z,91.231.89.127,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T17:49:41Z,70.34.202.156,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T17:50:31Z,91.196.152.149,2222,no-data,
+2026-11-06T17:51:26Z,91.231.89.37,2222,no-data,
+2026-11-06T17:52:12Z,70.34.202.156,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T17:52:21Z,91.196.152.92,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T17:52:22Z,91.196.152.85,2222,no-data,
+2026-11-06T17:53:10Z,94.231.206.33,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T17:54:15Z,91.231.89.7,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T17:54:20Z,91.231.89.148,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T17:54:27Z,70.34.202.156,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T17:55:12Z,112.74.242.167,23,telnet-negotiation,
+2026-11-06T17:55:15Z,112.74.242.167,23,telnet-negotiation,
+2026-11-06T17:55:18Z,112.74.242.167,23,telnet-negotiation,
+2026-11-06T17:55:18Z,70.34.202.156,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T17:55:19Z,91.231.89.72,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T17:55:21Z,112.74.242.167,23,telnet-negotiation,
+2026-11-06T17:55:24Z,112.74.242.167,23,telnet-negotiation,
+2026-11-06T17:55:27Z,112.74.242.167,23,telnet-negotiation,
+2026-11-06T17:55:30Z,112.74.242.167,23,telnet-negotiation,
+2026-11-06T17:55:33Z,112.74.242.167,23,telnet-negotiation,
+2026-11-06T17:55:36Z,112.74.242.167,23,telnet-negotiation,
+2026-11-06T17:55:39Z,112.74.242.167,23,telnet-negotiation,
+2026-11-06T17:56:09Z,94.231.206.109,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T17:56:15Z,91.231.89.105,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T17:57:20Z,91.231.89.233,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T17:58:17Z,91.196.152.187,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T17:58:32Z,70.34.202.156,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-06T17:59:10Z,94.231.206.104,2222,ssh-client,SSH-2.0-perlssh
+2026-11-06T17:59:23Z,91.231.89.106,2222,ssh-client,SSH-2.0-perlssh
