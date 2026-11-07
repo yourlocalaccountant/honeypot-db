@@ -141801,3 +141801,39 @@ time_utc,ip,port,kind,client_data
 2026-11-07T07:27:12Z,94.231.206.10,2222,ssh-client,SSH-2.0-perlssh
 2026-11-07T07:27:14Z,91.196.152.91,2222,ssh-client,SSH-2.0-perlssh
 2026-11-07T07:27:31Z,91.196.152.168,2222,no-data,
+2026-11-07T07:28:20Z,91.230.168.33,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:28:21Z,91.231.89.105,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:28:32Z,185.190.181.177,23,telnet-negotiation,
+2026-11-07T07:28:32Z,91.196.152.170,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:29:22Z,91.196.152.161,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:29:43Z,176.210.122.102,23,no-data,
+2026-11-07T07:30:11Z,94.231.206.110,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:30:16Z,195.184.76.116,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:30:20Z,91.231.89.99,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:30:56Z,217.199.230.247,23,telnet-negotiation,
+2026-11-07T07:31:12Z,176.210.122.102,23,no-data,
+2026-11-07T07:31:19Z,91.231.89.21,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:31:31Z,91.196.152.139,2222,no-data,
+2026-11-07T07:31:31Z,91.196.152.172,2222,no-data,
+2026-11-07T07:31:35Z,193.176.29.19,2323,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (compatible; Infrawatch/
+2026-11-07T07:32:00Z,200.138.46.242,2323,tls-handshake,"U' ii ^ WOV $ :N H d N i C h \P. E 6 F6 F + / , 0 / 5 ' #"
+2026-11-07T07:32:00Z,77.67.26.248,2323,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (compatible; Infrawatch/
+2026-11-07T07:32:01Z,200.138.46.199,2323,tls-handshake,"` sa }m E 2 yQJ :2 c   F_ < , D r U: 2 W F + / , 0 / 5 ' #"
+2026-11-07T07:32:01Z,64.205.72.129,2323,tls-handshake,"X < L / ^ kr Q n   - U l_ V K b F + / , 0 / 5 ' #"
+2026-11-07T07:32:07Z,64.205.72.219,2323,no-data,
+2026-11-07T07:32:22Z,195.184.76.79,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:33:08Z,94.231.206.33,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:33:25Z,91.196.152.137,2222,no-data,
+2026-11-07T07:34:24Z,91.196.152.33,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:34:25Z,91.231.89.243,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:34:27Z,91.196.152.216,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:35:20Z,91.230.168.206,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:36:11Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:36:18Z,120.85.112.105,23,telnet-negotiation,
+2026-11-07T07:36:20Z,91.231.89.209,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:36:23Z,91.231.89.29,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:37:20Z,91.196.152.221,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:37:32Z,91.196.152.138,2222,no-data,
+2026-11-07T07:38:02Z,94.26.88.52,3389,rdp-request,
+2026-11-07T07:38:16Z,91.230.168.191,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T07:38:19Z,91.231.89.255,2222,ssh-client,SSH-2.0-perlssh
