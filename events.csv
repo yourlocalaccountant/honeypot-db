@@ -140648,3 +140648,22 @@ time_utc,ip,port,kind,client_data
 2026-11-07T00:36:21Z,91.231.89.11,2222,ssh-client,SSH-2.0-perlssh
 2026-11-07T00:38:17Z,94.231.206.1,2222,ssh-client,SSH-2.0-perlssh
 2026-11-07T00:38:28Z,91.231.89.145,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:39:17Z,91.196.152.219,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:39:24Z,91.230.168.109,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:39:31Z,91.196.152.41,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:41:14Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:41:23Z,91.196.152.170,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:42:22Z,91.196.152.85,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:42:25Z,91.196.152.211,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:43:16Z,91.231.89.180,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:43:17Z,52.90.188.216,3389,tls-handshake,"B O- gjS ) [ ^vZO = | 1  3 zB F b ? 4 = A & / 0 + , / 5 {"
+2026-11-07T00:43:21Z,91.230.168.49,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:44:10Z,94.231.206.39,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:44:23Z,91.196.152.228,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:45:15Z,91.231.89.84,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:46:19Z,91.196.152.25,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:47:09Z,94.231.206.39,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:47:14Z,91.196.152.17,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:47:21Z,91.196.152.115,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:47:22Z,91.230.168.197,2222,ssh-client,SSH-2.0-perlssh
+2026-11-07T00:49:27Z,91.231.89.246,2222,ssh-client,SSH-2.0-perlssh
