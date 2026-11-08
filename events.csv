@@ -147278,3 +147278,4 @@ time_utc,ip,port,kind,client_data
 2026-11-08T12:55:15Z,195.184.76.126,2222,ssh-client,SSH-2.0-perlssh
 2026-11-08T12:55:18Z,91.196.152.178,2222,ssh-client,SSH-2.0-perlssh
 2026-11-08T13:03:24Z,201.188.252.126,23,no-data,
+2026-11-08T13:13:10Z,191.6.64.70,23,no-data,
