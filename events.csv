@@ -147788,3 +147788,4 @@ time_utc,ip,port,kind,client_data
 2026-11-08T20:57:01Z,180.93.193.100,23,other,root
 2026-11-08T20:57:03Z,180.93.193.100,23,other,default
 2026-11-08T21:03:18Z,157.230.208.221,23,no-data,
+2026-11-08T21:11:42Z,152.53.32.182,3389,rdp-request,/* Cookie: mstshash=anonymous
