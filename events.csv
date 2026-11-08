@@ -147279,3 +147279,145 @@ time_utc,ip,port,kind,client_data
 2026-11-08T12:55:18Z,91.196.152.178,2222,ssh-client,SSH-2.0-perlssh
 2026-11-08T13:03:24Z,201.188.252.126,23,no-data,
 2026-11-08T13:13:10Z,191.6.64.70,23,no-data,
+2026-11-08T13:17:51Z,191.6.64.70,23,no-data,
+2026-11-08T13:21:19Z,172.105.177.106,2222,no-data,
+2026-11-08T13:21:34Z,172.105.177.106,23,no-data,
+2026-11-08T13:21:34Z,172.105.177.106,2323,no-data,
+2026-11-08T13:21:41Z,172.105.177.106,3389,no-data,
+2026-11-08T13:22:20Z,172.105.177.106,23,no-data,
+2026-11-08T13:22:20Z,172.105.177.106,2222,no-data,
+2026-11-08T13:22:25Z,172.105.177.106,2323,http,GET / HTTP/1.0
+2026-11-08T13:22:25Z,172.105.177.106,2323,http,OPTIONS / HTTP/1.0
+2026-11-08T13:22:25Z,172.105.177.106,2323,http,OPTIONS / RTSP/1.0
+2026-11-08T13:22:25Z,172.105.177.106,2323,no-data,
+2026-11-08T13:22:25Z,172.105.177.106,2323,other,
+2026-11-08T13:22:25Z,172.105.177.106,2323,other,
+2026-11-08T13:22:25Z,172.105.177.106,2323,other,(r |
+2026-11-08T13:22:25Z,172.105.177.106,2323,other,HELP
+2026-11-08T13:22:25Z,172.105.177.106,2323,other,version bind
+2026-11-08T13:22:25Z,172.105.177.106,2323,telnet-negotiation,IBM-3279-4-E
+2026-11-08T13:22:25Z,172.105.177.106,3389,http,GET / HTTP/1.0
+2026-11-08T13:22:25Z,172.105.177.106,3389,http,OPTIONS / HTTP/1.0
+2026-11-08T13:22:25Z,172.105.177.106,3389,http,OPTIONS / RTSP/1.0
+2026-11-08T13:22:25Z,172.105.177.106,3389,no-data,
+2026-11-08T13:22:25Z,172.105.177.106,3389,other,
+2026-11-08T13:22:25Z,172.105.177.106,3389,other,(r |
+2026-11-08T13:22:25Z,172.105.177.106,3389,other,version bind
+2026-11-08T13:22:25Z,172.105.177.106,3389,rdp-request,
+2026-11-08T13:22:25Z,172.105.177.106,3389,rdp-request,*% Cookie: mstshash=nmap
+2026-11-08T13:22:25Z,172.105.177.106,3389,tls-handshake,"i e U random1random2random3random4 / 9 0 , *"
+2026-11-08T13:22:26Z,172.105.177.106,2323,http,GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0
+2026-11-08T13:22:26Z,172.105.177.106,2323,http,OPTIONS sip:nm SIP/2.0 Via: SIP/2.0/TCP nm;branch=foo From: <sip:nm@nm>;tag=root
+2026-11-08T13:22:26Z,172.105.177.106,2323,other,0 - c $ d objectClass0
+2026-11-08T13:22:26Z,172.105.177.106,2323,other,0 `
+2026-11-08T13:22:26Z,172.105.177.106,2323,other,: / @ = / @
+2026-11-08T13:22:26Z,172.105.177.106,2323,other,DmdT
+2026-11-08T13:22:26Z,172.105.177.106,2323,other,JRMI K
+2026-11-08T13:22:26Z,172.105.177.106,2323,other,SMBr @ @ PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 L
+2026-11-08T13:22:26Z,172.105.177.106,2323,other,TNMP TNME
+2026-11-08T13:22:26Z,172.105.177.106,2323,other,default
+2026-11-08T13:22:26Z,172.105.177.106,2323,other,l
+2026-11-08T13:22:26Z,172.105.177.106,2323,other,qj n0 k ^0\ P NM 0 0 krbtgt NM 19700101000000Z 0
+2026-11-08T13:22:26Z,172.105.177.106,2323,rdp-request,
+2026-11-08T13:22:26Z,172.105.177.106,2323,rdp-request,*% Cookie: mstshash=nmap
+2026-11-08T13:22:26Z,172.105.177.106,2323,tls-handshake,"S O ?G , `~ { w <= o n ( f e d c b a `"
+2026-11-08T13:22:26Z,172.105.177.106,2323,tls-handshake,"i e U random1random2random3random4 / 9 0 , *"
+2026-11-08T13:22:26Z,172.105.177.106,3389,http,GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0
+2026-11-08T13:22:26Z,172.105.177.106,3389,http,OPTIONS sip:nm SIP/2.0 Via: SIP/2.0/TCP nm;branch=foo From: <sip:nm@nm>;tag=root
+2026-11-08T13:22:26Z,172.105.177.106,3389,other,
+2026-11-08T13:22:26Z,172.105.177.106,3389,other,0 - c $ d objectClass0
+2026-11-08T13:22:26Z,172.105.177.106,3389,other,0 `
+2026-11-08T13:22:26Z,172.105.177.106,3389,other,: / @ = / @
+2026-11-08T13:22:26Z,172.105.177.106,3389,other,DmdT
+2026-11-08T13:22:26Z,172.105.177.106,3389,other,HELP
+2026-11-08T13:22:26Z,172.105.177.106,3389,other,JRMI K
+2026-11-08T13:22:26Z,172.105.177.106,3389,other,MMS N S P l a y e r / 9 . 0 . 0 . 2 9 8 0 ;   { 0 0 0 0 A A 0 0 - 0 A 0 0
+2026-11-08T13:22:26Z,172.105.177.106,3389,other,SMBr @ @ PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 L
+2026-11-08T13:22:26Z,172.105.177.106,3389,other,TNMP TNME
+2026-11-08T13:22:26Z,172.105.177.106,3389,other,default
+2026-11-08T13:22:26Z,172.105.177.106,3389,other,l
+2026-11-08T13:22:26Z,172.105.177.106,3389,other,qj n0 k ^0\ P NM 0 0 krbtgt NM 19700101000000Z 0
+2026-11-08T13:22:26Z,172.105.177.106,3389,tls-handshake,"S O ?G , `~ { w <= o n ( f e d c b a `"
+2026-11-08T13:22:27Z,172.105.177.106,2323,http,GET /devicedesc.xml HTTP/1.1
+2026-11-08T13:22:27Z,172.105.177.106,2323,other,
+2026-11-08T13:22:27Z,172.105.177.106,2323,other,
+2026-11-08T13:22:27Z,172.105.177.106,2323,other,
+2026-11-08T13:22:27Z,172.105.177.106,2323,other,4 ( U MSSQLServer H
+2026-11-08T13:22:27Z,172.105.177.106,2323,other,AMQP
+2026-11-08T13:22:27Z,172.105.177.106,2323,other,CONNECT accept-version:1.2
+2026-11-08T13:22:27Z,172.105.177.106,2323,other,GIOP $ abcdef get
+2026-11-08T13:22:27Z,172.105.177.106,2323,other,MMS N S P l a y e r / 9 . 0 . 0 . 2 9 8 0 ;   { 0 0 0 0 A A 0 0 - 0 A 0 0
+2026-11-08T13:22:27Z,172.105.177.106,2323,other,"Z 6 ,   : 4 (CONNECT_DATA=(COMMAND=version))"
+2026-11-08T13:22:27Z,172.105.177.106,2323,other,c
+2026-11-08T13:22:27Z,172.105.177.106,3389,http,GET /devicedesc.xml HTTP/1.1
+2026-11-08T13:22:27Z,172.105.177.106,3389,other,
+2026-11-08T13:22:27Z,172.105.177.106,3389,other,
+2026-11-08T13:22:27Z,172.105.177.106,3389,other,
+2026-11-08T13:22:27Z,172.105.177.106,3389,other,4 ( U MSSQLServer H
+2026-11-08T13:22:27Z,172.105.177.106,3389,other,AMQP
+2026-11-08T13:22:27Z,172.105.177.106,3389,other,CONNECT accept-version:1.2
+2026-11-08T13:22:27Z,172.105.177.106,3389,other,GIOP $ abcdef get
+2026-11-08T13:22:27Z,172.105.177.106,3389,other,"Z 6 ,   : 4 (CONNECT_DATA=(COMMAND=version))"
+2026-11-08T13:22:27Z,172.105.177.106,3389,other,c
+2026-11-08T13:22:30Z,172.105.177.106,23,no-data,
+2026-11-08T13:22:30Z,172.105.177.106,23,telnet-negotiation,
+2026-11-08T13:22:30Z,172.105.177.106,2222,no-data,
+2026-11-08T13:22:30Z,172.105.177.106,2222,ssh-client,SSH-1.5-Nmap-SSH1-Hostkey
+2026-11-08T13:22:30Z,172.105.177.106,2222,ssh-client,SSH-1.5-NmapNSE_1.0
+2026-11-08T13:22:30Z,172.105.177.106,2222,ssh-client,SSH-2.0-Nmap-SSH2-Hostkey
+2026-11-08T13:22:30Z,172.105.177.106,2222,ssh-client,SSH-2.0-Nmap_SSH2_Enum_Algos
+2026-11-08T13:22:30Z,172.105.177.106,2222,ssh-client,SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3
+2026-11-08T13:22:30Z,172.105.177.106,2222,ssh-client,SSH-2.0-libssh2_1.10.0
+2026-11-08T13:22:30Z,172.105.177.106,2323,tls-handshake,"i e U random1random2random3random4 / 9 0 , *"
+2026-11-08T13:22:30Z,172.105.177.106,3389,other,4 @  !V u _ <
+2026-11-08T13:22:30Z,172.105.177.106,3389,other,JDWP-Handshake
+2026-11-08T13:22:31Z,172.105.177.106,2222,ssh-client,SSH-2.0-Nmap-SSH2-Hostkey
+2026-11-08T13:22:31Z,172.105.177.106,2222,ssh-client,SSH-2.0-Nmap-SSH2-Hostkey
+2026-11-08T13:22:31Z,172.105.177.106,2222,ssh-client,SSH-2.0-Nmap-SSH2-Hostkey
+2026-11-08T13:22:31Z,172.105.177.106,2222,ssh-client,SSH-2.0-Nmap-SSH2-Hostkey
+2026-11-08T13:22:31Z,172.105.177.106,2323,no-data,
+2026-11-08T13:22:32Z,172.105.177.106,2222,ssh-client,SSH-2.0-Nmap-SSH2-Hostkey
+2026-11-08T13:22:35Z,172.105.177.106,2323,other,(# v
+2026-11-08T13:22:35Z,172.105.177.106,3389,no-data,
+2026-11-08T13:22:35Z,172.105.177.106,3389,no-data,
+2026-11-08T13:22:35Z,172.105.177.106,3389,tls-handshake,"'=V ' |/_ 4   D a O0   p* G oZ 5j' a ( 3 9 5 / , 0 ] a W"
+2026-11-08T13:22:35Z,172.105.177.106,3389,tls-handshake,"f !K &#H ( w@ MgMG h =? 8b   p S0 : ' 6 X ' &! S }[ 3 9 5 / , 0 ] a W"
+2026-11-08T13:22:35Z,172.105.177.106,3389,tls-handshake,j f j w z G ) e# ?(E gy _ Z d | 7 + 3
+2026-11-08T13:22:35Z,172.105.177.106,3389,tls-handshake,"|N , z^i >d 3 y /~ y Nqha  f} R !g = H.eP z ( R 7 3 9 5 / , 0 ] a W"
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,3 / j w Y %K j U; L] 3I \ !
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,"I3L?@ b = M d w ; 9 s  W K < K q VH r 4 u } 3 9 5 / , 0 ] a W"
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,K G j w 73 Un. zo ; E g8 LO B !
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,K G j w bJ Z SB od Y !
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,W S j w &E/ je # DF ^ wg { e u / 9
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,` \ j w # ) z{;- N ? v a } / 9 )
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,f b j w +7 P K @ 0c W F' C q 3 + 3
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,f b j w e&Xv %\ o T'a . H 3 + 3
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,f b j w h@dU elL u@ 6 d 3 + 3
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,"j w "" 0 ;| C D I/^Gg% Z,Y% W c e r s 2 @ t 8 j B V C W D f"
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,j w ' KM\Tp h  ( u o ' c e r s 2 @ t 8 j B V C W D f
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,j w )e b ]$ C( 6so0 i D R E S E | } 0 > 6 h > X ? Y B
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,"j w ,] op 2< Q @.v B $ b a ` d h n i o . | } / < ~ 5"
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,"j w - q t H , v?S D R E S E | } 0 > 6 h > X ? Y B"
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,j w ? 5B a 2 a XX E + )
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,"j w @GV3F= 2c 'z'<K f { % k f m F Z G [ F # + $ , H \ I ] r s"
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,"j w F e @ e Y X O R Q P S V U T ) & * ' + ( # "" % ! $"
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,"j w Gz S@ ` =E = sH m F Z G [ F # + $ , H \ I ] r s"
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,"j w LH(8/ q N Vi. ~7 U m F Z G [ F # + $ , H \ I ] r s"
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,j w M 27 SIQ   ? _DRM b a ` d h n i o . | } / < ~ 5
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,j w M _ rhS A E ~R1 b a ` d h n i o . | } / < ~ 5
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,j w P ( I L z t y - ( 0 L ` M a v w J K % - L & . J ^ K _ t u I G
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,"j w R U _ cx -Nb :K m F Z G [ F # + $ , H \ I ] r s"
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,j w Y pz ] F h k A ( 0 L ` M a v w J K % - L & . J ^ K _ t u I G
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,j w `v3 L y F  QP+v D R E S E | } 0 > 6 h > X ? Y B
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,j w j = Vsc .\8 >  vI e] ( 0 L ` M a v w J K % - L & . J ^ K _ t u I G
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,"j w p ~ h6x(   Y X O R Q P S V U T ) & * ' + ( # "" % ! $"
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,"j w rRX qd j$ A ! 9O ; Y X O R Q P S V U T ) & * ' + ( # "" % ! $"
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,j w u j T / F} ( 0 L ` M a v w J K % - L & . J ^ K _ t u I G
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,j w vS tA V p v G c e r s 2 @ t 8 j B V C W D f
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,"j w x z L ""&, , Ih Lw 9 D R E S E | } 0 > 6 h > X ? Y B"
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,"j w x? H x 0 ;T\ w c Rx $ Y X O R Q P S V U T ) & * ' + ( # "" % ! $"
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,j w y c :Q Gd 2% u n c e r s 2 @ t 8 j B V C W D f
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,j w z M+U hn C$ +D t b a ` d h n i o . | } / < ~ 5
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,k g j w n 9WR ~ 6 H 7 r !   6
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,p l j w 1 Jf 0A # = + 3
+2026-11-08T13:22:36Z,172.105.177.106,3389,tls-handshake,p l j w Z 0 { ' ~ ylt = + 3
