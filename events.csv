@@ -147440,3 +147440,6 @@ time_utc,ip,port,kind,client_data
 2026-11-08T13:43:32Z,103.163.118.244,23,telnet-negotiation,
 2026-11-08T13:48:45Z,131.241.15.70,23,no-data,
 2026-11-08T13:50:57Z,131.241.15.70,23,no-data,
+2026-11-08T13:57:42Z,86.38.187.199,2222,ssh-client,SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.8
+2026-11-08T13:57:42Z,86.38.187.216,2222,other,c
+2026-11-08T13:58:38Z,199.165.159.41,3389,rdp-request,'+& Cookie: mstshash=zgrab
