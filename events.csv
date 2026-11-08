@@ -148003,3 +148003,7 @@ time_utc,ip,port,kind,client_data
 2026-11-08T23:00:47Z,157.230.208.221,23,telnet-negotiation,
 2026-11-08T23:02:53Z,157.230.208.221,23,telnet-negotiation,
 2026-11-08T23:03:20Z,120.53.235.14,23,other,root
+2026-11-08T23:05:30Z,82.147.85.100,3389,rdp-request,
+2026-11-08T23:05:41Z,82.147.85.100,3389,other,"/   ! "" &"
+2026-11-08T23:07:42Z,157.230.208.221,23,no-data,
+2026-11-08T23:10:18Z,152.53.32.182,3389,rdp-request,/* Cookie: mstshash=anonymous
