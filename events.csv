@@ -147459,3 +147459,7 @@ time_utc,ip,port,kind,client_data
 2026-11-08T15:18:17Z,27.17.30.150,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-11-08T15:18:18Z,37.55.69.98,23,telnet-negotiation,
 2026-11-08T15:22:07Z,179.127.92.59,23,telnet-negotiation,
+2026-11-08T15:31:00Z,111.68.98.152,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-08T15:31:00Z,111.68.98.152,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-08T15:32:11Z,20.65.178.146,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 zgrab/0.x Accept: */* Ac
+2026-11-08T15:37:18Z,79.160.149.15,23,telnet-negotiation,
