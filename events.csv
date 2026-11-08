@@ -147473,3 +147473,5 @@ time_utc,ip,port,kind,client_data
 2026-11-08T15:54:18Z,138.97.242.246,23,telnet-negotiation,
 2026-11-08T16:00:42Z,212.32.208.64,23,telnet-negotiation,
 2026-11-08T16:01:47Z,45.141.233.71,3389,rdp-request,
+2026-11-08T16:04:14Z,190.108.210.98,23,no-data,
+2026-11-08T16:05:03Z,14.103.118.136,2222,ssh-client,SSH-2.0-libssh_0.12.0
