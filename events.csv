@@ -147498,3 +147498,15 @@ time_utc,ip,port,kind,client_data
 2026-11-08T17:35:13Z,188.16.77.95,23,no-data,
 2026-11-08T17:35:43Z,200.28.121.255,23,telnet-negotiation,
 2026-11-08T17:37:36Z,167.99.119.9,3389,tls-handshake,"1 T M #8 D ~u K[u 3A 3 ) 4 ` V < , 0 + / $ ( k # ' g 9"
+2026-11-08T17:52:14Z,80.94.95.83,3389,rdp-request,/* Cookie: mstshash=Administr
+2026-11-08T17:52:25Z,1.213.214.233,23,telnet-negotiation,
+2026-11-08T17:52:26Z,1.213.214.233,23,telnet-negotiation,
+2026-11-08T17:52:26Z,1.213.214.233,23,telnet-negotiation,
+2026-11-08T17:52:27Z,1.213.214.233,23,telnet-negotiation,
+2026-11-08T17:52:27Z,1.213.214.233,23,telnet-negotiation,
+2026-11-08T17:52:28Z,1.213.214.233,23,telnet-negotiation,
+2026-11-08T17:52:28Z,1.213.214.233,23,telnet-negotiation,
+2026-11-08T17:52:29Z,1.213.214.233,23,telnet-negotiation,
+2026-11-08T17:52:29Z,1.213.214.233,23,telnet-negotiation,
+2026-11-08T17:52:30Z,1.213.214.233,23,telnet-negotiation,
+2026-11-08T17:55:58Z,36.255.97.39,23,telnet-negotiation,'
