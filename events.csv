@@ -149765,3 +149765,17 @@ time_utc,ip,port,kind,client_data
 2026-11-09T19:54:57Z,42.226.79.169,23,telnet-negotiation,
 2026-11-09T19:55:10Z,42.226.79.169,23,telnet-negotiation,
 2026-11-09T19:55:23Z,42.226.79.169,23,telnet-negotiation,
+2026-11-09T19:55:36Z,42.226.79.169,23,telnet-negotiation,
+2026-11-09T19:55:49Z,42.226.79.169,23,telnet-negotiation,
+2026-11-09T19:56:02Z,42.226.79.169,23,telnet-negotiation,
+2026-11-09T19:56:15Z,42.226.79.169,23,telnet-negotiation,
+2026-11-09T19:56:28Z,42.226.79.169,23,telnet-negotiation,
+2026-11-09T19:56:41Z,42.226.79.169,23,telnet-negotiation,
+2026-11-09T19:56:54Z,42.226.79.169,23,telnet-negotiation,
+2026-11-09T19:57:07Z,42.226.79.169,23,telnet-negotiation,
+2026-11-09T19:57:10Z,119.96.160.123,23,telnet-negotiation,
+2026-11-09T19:59:57Z,58.51.47.25,23,telnet-negotiation,
+2026-11-09T20:04:17Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T20:04:53Z,138.226.239.7,2222,rdp-request,'+& Cookie: mstshash=ident
+2026-11-09T20:05:15Z,82.147.85.101,3389,rdp-request,
+2026-11-09T20:05:31Z,82.147.85.101,3389,other,"/   ! "" &"
