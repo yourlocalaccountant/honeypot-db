@@ -149318,3 +149318,39 @@ time_utc,ip,port,kind,client_data
 2026-11-09T14:18:29Z,35.210.94.212,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
 2026-11-09T14:18:29Z,35.210.94.212,3389,other,; admin.$cmd hello ?
 2026-11-09T14:18:30Z,35.210.94.212,3389,other,$d u N lx<Mcs0~U K{r {   1G& M 4 qz z
+2026-11-09T14:18:35Z,35.210.94.212,3389,no-data,
+2026-11-09T14:18:41Z,35.210.94.212,3389,no-data,
+2026-11-09T14:18:47Z,35.210.94.212,3389,no-data,
+2026-11-09T14:18:52Z,35.210.94.212,3389,no-data,
+2026-11-09T14:18:53Z,35.210.94.212,3389,other,r version bind
+2026-11-09T14:18:58Z,35.210.94.212,3389,no-data,
+2026-11-09T14:18:59Z,35.210.94.212,3389,rdp-request,
+2026-11-09T14:19:04Z,35.210.94.212,3389,no-data,
+2026-11-09T14:19:10Z,35.210.94.212,3389,no-data,
+2026-11-09T14:19:10Z,35.210.94.212,3389,other,"X % & ' + , $ \ k < K { \2!$ 7 b9JF,"
+2026-11-09T14:19:11Z,35.210.94.212,3389,other,0: qz@ `2 cn=ztayvsvdkofwqsvisdyt ztayvsvdkofwqsvisdyt
+2026-11-09T14:19:17Z,35.210.94.212,3389,no-data,
+2026-11-09T14:19:17Z,35.210.94.212,3389,other,C 3 consumer-Offset Explorer 2.2-18 apache-kafka-java 2.4.0
+2026-11-09T14:19:18Z,35.210.94.212,3389,other,# 3 adminclient-5 4bYZOs
+2026-11-09T14:19:19Z,160.177.44.226,23,no-data,
+2026-11-09T14:19:23Z,35.210.94.212,3389,no-data,
+2026-11-09T14:19:24Z,35.210.94.212,3389,other,(r |
+2026-11-09T14:19:24Z,35.210.94.212,3389,other,f SMB@ $ 333333333333337
+2026-11-09T14:19:25Z,35.210.94.212,3389,other,
+2026-11-09T14:19:26Z,35.210.94.212,3389,other,*1 $4 PING
+2026-11-09T14:19:26Z,35.210.94.212,3389,other,MQTT < AAAAA
+2026-11-09T14:19:27Z,35.210.94.212,3389,other,JDWP-Handshake
+2026-11-09T14:19:27Z,35.210.94.212,3389,other,JRMI K
+2026-11-09T14:19:28Z,35.210.94.212,3389,other,'@RSYTCD: 29
+2026-11-09T14:19:28Z,35.210.94.212,3389,other,MQTT < AAAAA
+2026-11-09T14:19:29Z,35.210.94.212,3389,other,"< , : (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-"
+2026-11-09T14:19:29Z,35.210.94.212,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
+2026-11-09T14:19:30Z,35.210.94.212,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 8728
+2026-11-09T14:19:45Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:19:55Z,160.177.44.226,23,no-data,
+2026-11-09T14:22:11Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:23:32Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:23:59Z,18.97.19.254,23,telnet-negotiation,
+2026-11-09T14:25:27Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:26:03Z,191.195.56.108,23,telnet-negotiation,
+2026-11-09T14:27:16Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
