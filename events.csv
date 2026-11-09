@@ -149937,3 +149937,19 @@ time_utc,ip,port,kind,client_data
 2026-11-09T22:51:16Z,103.163.118.244,23,telnet-negotiation,
 2026-11-09T22:51:56Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-09T22:53:53Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T22:55:00Z,170.231.236.98,3389,no-data,
+2026-11-09T22:55:01Z,170.231.236.98,3389,rdp-request,&! Cookie: mstshash=
+2026-11-09T22:55:01Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T22:55:03Z,185.191.236.38,3389,http,GET / HTTP/1.1 Host: [redacted] Accept: */* Accept-Encoding: identity Accept-Lan
+2026-11-09T22:55:05Z,170.231.236.98,3389,ssh-client,SSH-2.0-OpenSSH_8.9
+2026-11-09T22:55:06Z,193.47.62.111,3389,rdp-request,&! Cookie: mstshash=
+2026-11-09T22:55:08Z,193.47.62.111,3389,http,GET / HTTP/1.1 Host: [redacted] Accept: */* Accept-Encoding: identity Accept-Lan
+2026-11-09T22:55:10Z,193.47.62.111,3389,ssh-client,SSH-2.0-OpenSSH_8.9
+2026-11-09T22:55:11Z,54.77.111.234,3389,rdp-request,&! Cookie: mstshash=
+2026-11-09T22:55:13Z,3.115.120.212,3389,http,GET / HTTP/1.1 Host: [redacted] Accept: */* Accept-Encoding: identity Accept-Lan
+2026-11-09T22:55:15Z,3.151.181.143,3389,ssh-client,SSH-2.0-OpenSSH_8.9
+2026-11-09T22:56:51Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T22:59:07Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T23:01:24Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T23:03:02Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T23:04:37Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
