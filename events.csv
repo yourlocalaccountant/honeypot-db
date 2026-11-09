@@ -149860,3 +149860,6 @@ time_utc,ip,port,kind,client_data
 2026-11-09T21:01:58Z,202.163.102.193,23,telnet-negotiation,
 2026-11-09T21:02:11Z,202.163.102.193,23,telnet-negotiation,
 2026-11-09T21:06:56Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T21:10:28Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T21:10:46Z,68.50.65.62,23,telnet-negotiation,
+2026-11-09T21:18:27Z,187.110.233.116,23,telnet-negotiation,
