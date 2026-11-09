@@ -149299,3 +149299,22 @@ time_utc,ip,port,kind,client_data
 2026-11-09T14:05:10Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-09T14:06:23Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-09T14:06:37Z,112.135.109.121,23,telnet-negotiation,
+2026-11-09T14:08:39Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:09:32Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:10:04Z,66.132.172.215,3389,rdp-request,&! Cookie: mstshash=
+2026-11-09T14:10:11Z,66.132.172.215,3389,tls-handshake,"'=5 M6 2 ` W~ =D*m   ;$- o#'$ V> M B r Gj & / 0 + , / 5 G"
+2026-11-09T14:10:14Z,66.132.172.215,3389,http,GET / HTTP/1.1 Host: [redacted]
+2026-11-09T14:10:14Z,66.132.172.215,3389,http,GET / HTTP/1.1 Host: [redacted] Connection: Upgrade Sec-WebSocket-Key: 040zRJI/d
+2026-11-09T14:10:18Z,66.132.172.215,3389,other,(
+2026-11-09T14:10:22Z,66.132.172.215,3389,other,/ SMBr C NT LM 0.12
+2026-11-09T14:10:22Z,66.132.172.215,3389,other,f SMB@ $
+2026-11-09T14:11:50Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:13:32Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:14:48Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:16:56Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:18:13Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:18:28Z,35.210.94.212,3389,rdp-request,
+2026-11-09T14:18:28Z,35.210.94.212,3389,tls-handshake,"zr L? W \ P 2   A : 89* & ( &>| *3 T 2 + / , 0 / 5 # ' <"
+2026-11-09T14:18:29Z,35.210.94.212,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-09T14:18:29Z,35.210.94.212,3389,other,; admin.$cmd hello ?
+2026-11-09T14:18:30Z,35.210.94.212,3389,other,$d u N lx<Mcs0~U K{r {   1G& M 4 qz z
