@@ -149476,3 +149476,19 @@ time_utc,ip,port,kind,client_data
 2026-11-09T16:00:42Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-09T16:01:18Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-09T16:01:19Z,93.123.109.204,3389,rdp-request,
+2026-11-09T16:03:41Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T16:05:09Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T16:06:42Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T16:08:08Z,216.226.76.20,3389,rdp-request,",' Cookie: mstshash=eltons"
+2026-11-09T16:08:14Z,216.226.76.20,3389,rdp-request,",' Cookie: mstshash=eltons"
+2026-11-09T16:08:20Z,216.226.76.20,3389,rdp-request,",' Cookie: mstshash=eltons"
+2026-11-09T16:08:26Z,216.226.76.20,3389,rdp-request,",' Cookie: mstshash=eltons"
+2026-11-09T16:08:32Z,216.226.76.20,3389,rdp-request,",' Cookie: mstshash=eltons"
+2026-11-09T16:08:38Z,216.226.76.20,3389,rdp-request,"'"" Cookie: mstshash=administr"
+2026-11-09T16:08:44Z,216.226.76.20,3389,rdp-request,"'"" Cookie: mstshash=administr"
+2026-11-09T16:08:50Z,216.226.76.20,3389,rdp-request,"'"" Cookie: mstshash=administr"
+2026-11-09T16:08:56Z,216.226.76.20,3389,rdp-request,"'"" Cookie: mstshash=administr"
+2026-11-09T16:09:02Z,216.226.76.20,3389,rdp-request,"'"" Cookie: mstshash=administr"
+2026-11-09T16:09:24Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T16:10:24Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T16:10:28Z,167.172.141.6,23,telnet-negotiation,
