@@ -148604,3 +148604,41 @@ time_utc,ip,port,kind,client_data
 2026-11-09T05:18:31Z,157.230.208.221,23,telnet-negotiation,
 2026-11-09T05:19:05Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-09T05:20:42Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T05:21:35Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T05:22:02Z,157.230.208.221,23,telnet-negotiation,
+2026-11-09T05:23:37Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T05:25:02Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T05:25:38Z,87.236.176.68,3389,rdp-request,",' Cookie: mstshash=eltons"
+2026-11-09T05:25:53Z,195.96.139.43,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (compatible; InternetMea
+2026-11-09T05:26:07Z,157.230.208.221,23,no-data,
+2026-11-09T05:26:09Z,87.236.176.47,3389,other,H ] + ] + H`
+2026-11-09T05:26:25Z,185.247.137.44,3389,other,
+2026-11-09T05:26:26Z,185.247.137.44,3389,other,"yh ,"
+2026-11-09T05:26:36Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T05:26:41Z,195.96.139.65,3389,other,( +}
+2026-11-09T05:26:57Z,195.96.139.65,3389,http,OPTIONS * RTSP/1.0 CSeq: 1
+2026-11-09T05:27:12Z,185.247.137.60,3389,http,OPTIONS sip:x.x.x.x SIP/2.0 Via: SIP/2.0/TCP x.x.x.x:5060;rport;branch=z9hG4bKnz
+2026-11-09T05:27:18Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T05:27:34Z,195.96.139.54,3389,other,8 \ {2
+2026-11-09T05:27:49Z,185.247.137.38,3389,other,'+<M
+2026-11-09T05:28:05Z,195.96.139.69,3389,other,
+2026-11-09T05:28:20Z,195.96.139.51,3389,other,1 SMBr NT LM 0.12
+2026-11-09T05:28:21Z,195.96.139.51,3389,other,n SMB@ $
+2026-11-09T05:28:36Z,87.236.176.63,3389,other,*1 $4 info
+2026-11-09T05:28:52Z,195.96.139.70,3389,other,MQTT <
+2026-11-09T05:28:52Z,195.96.139.70,3389,other,MQTT <
+2026-11-09T05:28:53Z,195.96.139.70,3389,other,2 MQIsdp < $a823a8c0-40fa-4800-9f21-2104d5f98be6
+2026-11-09T05:29:08Z,87.236.176.52,3389,other,
+2026-11-09T05:29:21Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T05:29:24Z,185.247.137.43,3389,other,U
+2026-11-09T05:29:39Z,87.236.176.56,3389,other,7 | admin.$cmd hello
+2026-11-09T05:29:55Z,185.247.137.66,3389,other,
+2026-11-09T05:30:10Z,87.236.176.48,3389,other,0 `
+2026-11-09T05:30:11Z,87.236.176.48,3389,other,0 w x.x.x.x.4.1.1466.20037
+2026-11-09T05:30:26Z,87.236.176.44,3389,other,<?xml version='1.0'?><stream:stream version='1.0' xml:lang='en' xmlns:stream='ht
+2026-11-09T05:30:42Z,87.236.176.48,3389,other,'+
+2026-11-09T05:30:58Z,185.247.137.71,3389,other,"x @ ,   . J     (DESCRIPTION=(CONNECT_DATA=(COMMAND=version)))"
+2026-11-09T05:31:01Z,157.230.208.221,23,no-data,
+2026-11-09T05:31:10Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T05:31:13Z,87.236.176.57,3389,other,/multistream/1.0.0
+2026-11-09T05:31:29Z,195.96.139.57,3389,other,fox a 1 -1 fox hello { fox.version=s:1.0 id=i:1 };;
