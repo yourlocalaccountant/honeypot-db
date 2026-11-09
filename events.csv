@@ -149179,3 +149179,13 @@ time_utc,ip,port,kind,client_data
 2026-11-09T12:18:45Z,185.149.24.154,3389,rdp-request,'+& Cookie: mstshash=hello
 2026-11-09T12:19:56Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-09T12:21:29Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T12:22:34Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T12:24:11Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T12:24:25Z,79.124.40.126,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (ZZ; Linux i686) AppleWe
+2026-11-09T12:24:26Z,79.124.40.126,2222,tls-handshake,"/ a Ty _ P   I$+ { D S z; +- h Z` ; 2 + / , 0 / 5 # ' <"
+2026-11-09T12:24:43Z,45.165.44.200,23,no-data,
+2026-11-09T12:26:03Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T12:26:41Z,185.149.24.154,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-11-09T12:28:22Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T12:29:52Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T12:31:13Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
