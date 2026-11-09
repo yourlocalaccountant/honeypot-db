@@ -149004,3 +149004,19 @@ time_utc,ip,port,kind,client_data
 2026-11-09T10:12:10Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-09T10:13:32Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-09T10:15:18Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T10:17:05Z,202.65.238.101,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-09T10:18:18Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T10:18:37Z,44.220.185.132,2222,ssh-client,SSH-2.0-paramiko_2.9.2
+2026-11-09T10:18:38Z,44.220.185.132,2222,no-data,
+2026-11-09T10:18:59Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T10:20:32Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T10:22:10Z,185.149.24.154,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-11-09T10:23:06Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T10:23:41Z,45.168.232.34,3389,rdp-request,/
+2026-11-09T10:23:42Z,35.206.186.214,23,no-data,
+2026-11-09T10:24:11Z,31.184.195.248,3389,tls-handshake,"o k RH # :N / T y h =""   , n Y bhl (=': o ( 9 k 5 = # ' 3 g 2 / <"
+2026-11-09T10:24:37Z,35.206.135.14,23,no-data,
+2026-11-09T10:24:37Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T10:25:20Z,35.206.135.14,23,telnet-negotiation,%   NTLMSSP
+2026-11-09T10:25:20Z,35.206.135.14,23,telnet-negotiation,& &
+2026-11-09T10:26:49Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
