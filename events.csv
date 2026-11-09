@@ -148642,3 +148642,27 @@ time_utc,ip,port,kind,client_data
 2026-11-09T05:31:10Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-09T05:31:13Z,87.236.176.57,3389,other,/multistream/1.0.0
 2026-11-09T05:31:29Z,195.96.139.57,3389,other,fox a 1 -1 fox hello { fox.version=s:1.0 id=i:1 };;
+2026-11-09T05:31:45Z,195.96.139.60,3389,other,!
+2026-11-09T05:32:01Z,185.247.137.57,3389,other,C = SessionType=Discovery MaxRecvDataSegmentLength=32768 HeaderDigest=None D
+2026-11-09T05:32:09Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T05:32:16Z,87.236.176.62,3389,other,"2 , A ^ m Z $ $ @ t G"
+2026-11-09T05:32:32Z,195.96.139.57,3389,other,ANY-SCP         ECHOSCU          1.2.840.10008.x.x.x.x  . 0 x.x.x.x
+2026-11-09T05:32:47Z,185.247.137.41,3389,other,"CONNECT accept-version:1.0,1.1,2.0"
+2026-11-09T05:33:03Z,87.236.176.59,3389,other,stats
+2026-11-09T05:33:18Z,87.236.176.73,3389,other,l
+2026-11-09T05:33:34Z,195.96.139.67,3389,other,"'= n eq [ i l 3k ? O d u D ?$Y m j N{ "" FkL m =wb 5 !/ H' }> , o * e ; B 4"
+2026-11-09T05:33:34Z,195.96.139.67,3389,other,version V ! 9 W[ j
+2026-11-09T05:33:50Z,87.236.176.38,3389,other,HELFD $ opc.tcp://localHost: [redacted]
+2026-11-09T05:33:53Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T05:34:05Z,185.247.137.54,3389,other,'@ Q 8 <
+2026-11-09T05:34:17Z,172.178.16.179,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-09T05:34:18Z,172.178.16.179,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-09T05:34:21Z,87.236.176.65,3389,other,
+2026-11-09T05:34:36Z,195.96.139.44,3389,other,e /00IDED
+2026-11-09T05:34:50Z,87.236.176.61,3389,tls-handshake,"Z + z : U &4 o F U 6% 7tM t [ o V AD3 z_ < + / , 0 / 5 $ ( # '"
+2026-11-09T05:36:02Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T05:36:32Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T05:37:04Z,157.230.208.221,23,no-data,
+2026-11-09T05:38:38Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T05:39:58Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T05:41:04Z,64.62.197.212,23,telnet-negotiation,
