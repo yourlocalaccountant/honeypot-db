@@ -148804,3 +148804,16 @@ time_utc,ip,port,kind,client_data
 2026-11-09T07:13:10Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-09T07:13:46Z,157.230.208.221,23,no-data,
 2026-11-09T07:15:21Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T07:17:37Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T07:17:54Z,144.225.43.82,3389,rdp-request,'-( Cookie: mstshash=nlascan
+2026-11-09T07:17:55Z,144.225.43.82,3389,rdp-request,'-( Cookie: mstshash=nlascan
+2026-11-09T07:17:55Z,144.225.43.82,3389,rdp-request,'-( Cookie: mstshash=nlascan
+2026-11-09T07:18:51Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T07:19:52Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T07:21:13Z,198.235.24.89,23,telnet-negotiation,
+2026-11-09T07:21:32Z,157.230.208.221,23,no-data,
+2026-11-09T07:22:13Z,65.49.1.152,23,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS
+2026-11-09T07:22:44Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T07:23:23Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T07:26:13Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T07:26:54Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
