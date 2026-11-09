@@ -148997,3 +148997,10 @@ time_utc,ip,port,kind,client_data
 2026-11-09T10:01:26Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-09T10:03:37Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-09T10:04:43Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T10:07:31Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T10:08:46Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T10:08:56Z,59.27.7.157,23,telnet-negotiation,
+2026-11-09T10:10:33Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T10:12:10Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T10:13:32Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T10:15:18Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
