@@ -149354,3 +149354,13 @@ time_utc,ip,port,kind,client_data
 2026-11-09T14:25:27Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-09T14:26:03Z,191.195.56.108,23,telnet-negotiation,
 2026-11-09T14:27:16Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:28:56Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:29:33Z,65.49.20.68,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-11-09T14:30:25Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:30:30Z,120.26.229.104,2222,no-data,
+2026-11-09T14:30:30Z,120.26.229.104,2222,ssh-client,SSH-2.0-Go
+2026-11-09T14:31:45Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:34:41Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:36:21Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:36:52Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-09T14:38:48Z,65.20.102.109,3389,rdp-request,'+& Cookie: mstshash=probe
