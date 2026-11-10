@@ -154633,3 +154633,8 @@ time_utc,ip,port,kind,client_data
 2026-11-10T23:08:03Z,178.132.144.161,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 m 8 8 &V "" "" Kdiffie-hellman-group1-sha1,diffie-hellman-grou"
 2026-11-10T23:08:05Z,78.66.44.61,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 ^ h (i| x Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
 2026-11-10T23:08:35Z,91.231.89.46,2222,ssh-client,SSH-2.0-perlssh
+2026-11-10T23:11:41Z,91.196.152.144,2222,ssh-client,SSH-2.0-perlssh
+2026-11-10T23:14:41Z,91.196.152.212,2222,ssh-client,SSH-2.0-perlssh
+2026-11-10T23:16:44Z,91.196.152.182,2222,ssh-client,SSH-2.0-perlssh
+2026-11-10T23:16:53Z,60.172.1.210,2222,no-data,
+2026-11-10T23:16:54Z,78.70.41.148,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 u. w x Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sh"
