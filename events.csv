@@ -150168,3 +150168,11 @@ time_utc,ip,port,kind,client_data
 2026-11-10T10:31:12Z,217.69.12.91,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-10T10:31:51Z,217.69.12.91,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-10T10:33:29Z,217.69.12.91,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-10T10:35:45Z,217.69.12.91,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-10T10:37:16Z,217.69.12.91,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-10T10:37:29Z,167.99.194.253,3389,rdp-request,B= Cookie: mstshash=CGrab/v8.24.1-dev-throughput
+2026-11-10T10:38:43Z,217.69.12.91,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-10T10:40:21Z,217.69.12.91,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-10T10:42:00Z,217.69.12.91,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-10T10:44:41Z,217.69.12.91,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-10T10:45:08Z,147.185.133.239,2222,ssh-client,SSH-2.0-ZGrab ZGrab SSH Survey
