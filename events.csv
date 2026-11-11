@@ -154755,3 +154755,6 @@ time_utc,ip,port,kind,client_data
 2026-11-11T00:39:35Z,91.196.152.219,2222,ssh-client,SSH-2.0-perlssh
 2026-11-11T00:40:15Z,203.129.217.70,2222,ssh-client,SSH-2.0-OpenSSH_7.4
 2026-11-11T00:40:19Z,178.178.222.50,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 u p> \Aw Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
+2026-11-11T00:42:36Z,91.231.89.14,2222,ssh-client,SSH-2.0-perlssh
+2026-11-11T00:43:18Z,38.65.75.223,23,telnet-negotiation,
+2026-11-11T00:44:39Z,91.231.89.150,2222,ssh-client,SSH-2.0-perlssh
