@@ -154773,3 +154773,4 @@ time_utc,ip,port,kind,client_data
 2026-11-11T01:43:12Z,52.176.211.73,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-11-11T01:43:12Z,52.176.211.73,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-11-11T01:46:54Z,64.62.197.137,3389,no-data,
+2026-11-11T01:56:05Z,190.200.56.171,23,telnet-negotiation,
