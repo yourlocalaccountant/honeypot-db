@@ -156096,3 +156096,7 @@ time_utc,ip,port,kind,client_data
 2026-11-11T19:08:59Z,123.8.28.101,23,telnet-negotiation,
 2026-11-11T19:09:12Z,123.8.28.101,23,telnet-negotiation,
 2026-11-11T19:10:11Z,52.180.147.14,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-11-11T19:12:10Z,118.194.235.62,2222,no-data,
+2026-11-11T19:12:10Z,118.194.235.62,2222,ssh-client,SSH-2.0-Go
+2026-11-11T19:14:26Z,78.128.112.74,23,ssh-client,SSH-2.0-Go
+2026-11-11T19:14:26Z,78.128.112.74,2222,ssh-client,SSH-2.0-Go
