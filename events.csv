@@ -156189,3 +156189,4 @@ time_utc,ip,port,kind,client_data
 2026-11-11T21:15:41Z,195.178.110.78,23,other,telecomadmin
 2026-11-11T21:15:42Z,195.178.110.78,23,other,telecomadmin
 2026-11-11T21:15:43Z,195.178.110.78,23,other,telecomadmin
+2026-11-11T21:23:13Z,95.158.9.153,23,telnet-negotiation,
