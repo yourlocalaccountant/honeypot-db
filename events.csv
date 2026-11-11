@@ -155987,3 +155987,22 @@ time_utc,ip,port,kind,client_data
 2026-11-11T16:42:14Z,195.178.110.78,23,other,telnetadmin
 2026-11-11T16:42:15Z,195.178.110.78,23,other,telecomadmin
 2026-11-11T16:42:16Z,195.178.110.78,23,other,admin
+2026-11-11T16:50:14Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:50:27Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:50:40Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:50:53Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:51:06Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:51:19Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:51:32Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:51:45Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:51:58Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:52:10Z,71.6.134.204,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-11T16:52:11Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:52:24Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:52:37Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:52:50Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:53:03Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:53:16Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:53:29Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:53:42Z,103.162.41.132,23,telnet-negotiation,
+2026-11-11T16:53:55Z,103.162.41.132,23,telnet-negotiation,
