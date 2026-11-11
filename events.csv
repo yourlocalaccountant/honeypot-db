@@ -155649,3 +155649,19 @@ time_utc,ip,port,kind,client_data
 2026-11-11T13:31:50Z,149.28.15.226,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-11T13:31:52Z,91.231.89.18,2323,tls-handshake,"T !a X IS; =   s` * 6 I1 ^ =2 O > , 0 + / $ ( k # ' g 9"
 2026-11-11T13:31:52Z,91.231.89.22,2323,tls-handshake,"; +3# : X q G]1 NM % /  , :N 9 w 9~ Dp c#O > , 0 + / $ ( k # ' g 9"
+2026-11-11T13:34:48Z,149.28.15.226,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-11T13:36:25Z,149.28.15.226,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-11T13:38:38Z,149.28.15.226,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-11T13:40:36Z,149.28.15.226,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-11T13:42:14Z,149.28.15.226,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-11T13:44:08Z,149.28.15.226,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-11T13:44:30Z,14.47.200.242,23,other,admin
+2026-11-11T13:44:31Z,14.47.200.242,23,other,
+2026-11-11T13:44:32Z,14.47.200.242,23,other,4561%<$
+2026-11-11T13:44:32Z,14.47.200.242,23,other,root
+2026-11-11T13:44:33Z,14.47.200.242,23,other,
+2026-11-11T13:44:34Z,14.47.200.242,23,other,support
+2026-11-11T13:44:35Z,14.47.200.242,23,other,"""??$"
+2026-11-11T13:44:36Z,14.47.200.242,23,other,"""??$"
+2026-11-11T13:44:37Z,14.47.200.242,23,other,"""??$"
+2026-11-11T13:44:37Z,14.47.200.242,23,other,root
