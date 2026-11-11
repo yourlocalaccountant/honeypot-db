@@ -155444,3 +155444,11 @@ time_utc,ip,port,kind,client_data
 2026-11-11T09:31:10Z,149.28.15.226,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-11T09:32:04Z,24.23.65.1,23,no-data,
 2026-11-11T09:32:38Z,149.28.15.226,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-11T09:34:08Z,49.142.138.83,23,telnet-negotiation,
+2026-11-11T09:34:10Z,149.28.15.226,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-11T09:34:19Z,49.84.226.110,2222,no-data,
+2026-11-11T09:34:20Z,49.84.226.110,2222,ssh-client,SSH-2.0-Go
+2026-11-11T09:35:56Z,149.28.15.226,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-11T09:38:52Z,149.28.15.226,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-11T09:40:39Z,149.28.15.226,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-11T09:41:33Z,149.28.15.226,3389,rdp-request,'+& Cookie: mstshash=probe
