@@ -154744,3 +154744,14 @@ time_utc,ip,port,kind,client_data
 2026-11-11T00:24:35Z,91.231.89.61,2222,ssh-client,SSH-2.0-perlssh
 2026-11-11T00:26:50Z,91.231.89.245,2222,ssh-client,SSH-2.0-perlssh
 2026-11-11T00:29:43Z,91.196.152.71,2222,ssh-client,SSH-2.0-perlssh
+2026-11-11T00:31:41Z,187.115.144.103,2222,no-data,
+2026-11-11T00:32:39Z,91.231.89.1,2222,ssh-client,SSH-2.0-perlssh
+2026-11-11T00:33:44Z,195.96.139.43,2323,no-data,
+2026-11-11T00:34:38Z,91.231.89.80,2222,ssh-client,SSH-2.0-perlssh
+2026-11-11T00:35:34Z,20.163.12.0,23,telnet-negotiation,
+2026-11-11T00:36:42Z,91.231.89.125,2222,no-data,
+2026-11-11T00:38:06Z,58.250.117.205,2222,no-data,
+2026-11-11T00:39:16Z,3.82.217.164,3389,tls-handshake,"4 \n tj #$ T R`V$ yM c gd / P '@G#5 h v:Z c (P 6 & / 0 + , / 5 {"
+2026-11-11T00:39:35Z,91.196.152.219,2222,ssh-client,SSH-2.0-perlssh
+2026-11-11T00:40:15Z,203.129.217.70,2222,ssh-client,SSH-2.0-OpenSSH_7.4
+2026-11-11T00:40:19Z,178.178.222.50,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 u p> \Aw Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
