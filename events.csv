@@ -159370,3 +159370,6 @@ time_utc,ip,port,kind,client_data
 2026-11-12T20:00:29Z,181.56.174.63,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 yK r$ T Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
 2026-11-12T20:00:36Z,118.69.65.12,2222,ssh-client,SSH-2.0-OpenSSH_7.4
 2026-11-12T20:04:02Z,180.113.53.85,2222,no-data,
+2026-11-12T20:08:38Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-12T20:10:39Z,136.158.64.35,23,no-data,
+2026-11-12T20:13:01Z,180.106.83.59,2222,ssh-client,SSH-2.0-libssh_0.11.1
