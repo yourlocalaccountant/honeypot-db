@@ -158151,3 +158151,13 @@ time_utc,ip,port,kind,client_data
 2026-11-12T11:07:21Z,80.66.83.43,3389,rdp-request,/* Cookie: mstshash=Administr
 2026-11-12T11:08:21Z,138.226.239.233,2222,ssh-client,SSH-2.0-libssh_0.10.5
 2026-11-12T11:08:35Z,207.148.1.83,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T11:09:28Z,94.231.206.3,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T11:11:26Z,207.148.1.83,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T11:12:26Z,94.231.206.1,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T11:13:08Z,207.148.1.83,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T11:14:51Z,207.148.1.83,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T11:15:11Z,170.233.199.141,23,telnet-negotiation,
+2026-11-12T11:15:28Z,94.231.206.9,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T11:16:45Z,145.190.54.30,3389,rdp-request,
+2026-11-12T11:16:53Z,207.148.1.83,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T11:18:26Z,94.231.206.37,2222,ssh-client,SSH-2.0-perlssh
