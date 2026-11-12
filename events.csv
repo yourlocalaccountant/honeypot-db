@@ -157937,3 +157937,23 @@ time_utc,ip,port,kind,client_data
 2026-11-12T09:56:30Z,153.117.26.141,23,telnet-negotiation,
 2026-11-12T09:56:43Z,153.117.26.141,23,telnet-negotiation,
 2026-11-12T09:56:56Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:57:09Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:57:22Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:57:35Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:57:48Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:58:01Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:58:13Z,18.218.118.203,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-11-12T09:58:14Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:58:27Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:58:40Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:58:53Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:58:59Z,18.218.118.203,3389,tls-handshake,"8< O 8 -WKN#] = M t   O | w / ' R \ R- # \ & / 0 + , / 5 {"
+2026-11-12T09:59:06Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:59:19Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:59:27Z,94.231.206.13,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T09:59:32Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:59:45Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:59:58Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T10:01:17Z,80.94.95.116,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-12T10:02:25Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T10:05:26Z,94.231.206.108,2222,ssh-client,SSH-2.0-perlssh
