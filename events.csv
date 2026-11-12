@@ -159595,3 +159595,8 @@ time_utc,ip,port,kind,client_data
 2026-11-12T21:53:01Z,5.199.233.19,23,no-data,
 2026-11-12T21:56:21Z,79.124.59.82,2222,http,GET / HTTP/1.1 Host: [redacted] Accept: */* Accept-Encoding: gzip User-Agent: Mo
 2026-11-12T21:56:34Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-12T22:03:04Z,154.116.254.157,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-12T22:03:05Z,154.116.254.157,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-12T22:03:28Z,96.126.106.150,23,no-data,
+2026-11-12T22:03:30Z,80.94.95.116,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-12T22:05:20Z,96.126.106.150,23,telnet-negotiation,%   NTLMSSP
