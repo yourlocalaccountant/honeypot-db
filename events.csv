@@ -158232,3 +158232,14 @@ time_utc,ip,port,kind,client_data
 2026-11-12T11:28:32Z,195.178.110.78,23,other,root
 2026-11-12T11:28:33Z,195.178.110.78,23,other,root
 2026-11-12T11:28:34Z,195.178.110.78,23,other,root
+2026-11-12T11:29:16Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-12T11:29:44Z,207.148.1.83,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T11:31:26Z,94.231.206.3,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T11:31:46Z,207.148.1.83,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T11:32:22Z,145.190.54.30,3389,rdp-request,
+2026-11-12T11:33:51Z,207.148.1.83,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T11:34:28Z,94.231.206.105,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T11:35:21Z,207.148.1.83,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T11:37:20Z,207.148.1.83,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T11:37:26Z,94.231.206.110,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T11:38:43Z,207.148.1.83,3389,rdp-request,'+& Cookie: mstshash=probe
