@@ -158004,3 +158004,10 @@ time_utc,ip,port,kind,client_data
 2026-11-12T10:16:07Z,5.150.243.142,23,telnet-negotiation,
 2026-11-12T10:16:08Z,5.150.243.142,23,telnet-negotiation,
 2026-11-12T10:16:26Z,94.231.206.10,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T10:19:00Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-12T10:19:26Z,94.231.206.108,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T10:21:55Z,5.77.134.32,23,no-data,
+2026-11-12T10:22:25Z,94.231.206.108,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T10:25:28Z,195.178.110.204,23,telnet-negotiation,
+2026-11-12T10:26:27Z,94.231.206.5,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T10:26:31Z,20.163.57.236,3389,ssh-client,SSH-2.0-Go
