@@ -157309,3 +157309,15 @@ time_utc,ip,port,kind,client_data
 2026-11-12T06:02:13Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
 2026-11-12T06:03:26Z,45.32.236.237,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-12T06:03:58Z,120.87.99.202,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-12T06:04:04Z,15.204.101.211,3389,other,"f ; fl Mv u VWe F') B Or x@ _S d .e = \ D?1 -i! c 6 E * *u]ne )H O/,w Y"
+2026-11-12T06:04:25Z,94.231.206.34,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T06:05:08Z,45.32.236.237,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T06:06:42Z,45.32.236.237,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T06:07:19Z,115.191.40.54,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-12T06:07:30Z,94.231.206.0,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T06:09:26Z,94.231.206.110,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T06:09:27Z,45.32.236.237,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T06:11:28Z,45.32.236.237,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T06:12:26Z,94.231.206.32,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T06:13:41Z,45.32.236.237,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T06:14:00Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
