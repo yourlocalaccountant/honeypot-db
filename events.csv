@@ -157609,3 +157609,93 @@ time_utc,ip,port,kind,client_data
 2026-11-12T08:14:50Z,35.210.206.188,2222,other,T user postgres database postgres application_name psql client_encoding UTF8
 2026-11-12T08:14:51Z,45.32.236.237,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-12T08:15:25Z,94.231.206.32,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T08:15:58Z,45.32.236.237,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T08:16:26Z,96.126.106.7,3389,no-data,
+2026-11-12T08:16:48Z,96.126.106.7,3389,no-data,
+2026-11-12T08:16:48Z,96.126.106.7,3389,rdp-request,*% Cookie: mstshash=nmap
+2026-11-12T08:16:48Z,96.126.106.7,3389,tls-handshake,"i e U random1random2random3random4 / 9 0 , *"
+2026-11-12T08:16:49Z,96.126.106.7,3389,other,
+2026-11-12T08:16:49Z,96.126.106.7,3389,rdp-request,
+2026-11-12T08:16:50Z,96.126.106.7,3389,http,GET / HTTP/1.0
+2026-11-12T08:16:50Z,96.126.106.7,3389,http,OPTIONS / HTTP/1.0
+2026-11-12T08:16:50Z,96.126.106.7,3389,http,OPTIONS / RTSP/1.0
+2026-11-12T08:16:51Z,96.126.106.7,3389,other,(r |
+2026-11-12T08:16:51Z,96.126.106.7,3389,other,version bind
+2026-11-12T08:16:52Z,96.126.106.7,3389,other,
+2026-11-12T08:16:52Z,96.126.106.7,3389,other,HELP
+2026-11-12T08:16:52Z,96.126.106.7,3389,tls-handshake,"S O ?G , `~ { w <= o n ( f e d c b a `"
+2026-11-12T08:16:53Z,96.126.106.7,3389,other,SMBr @ @ PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 L
+2026-11-12T08:16:53Z,96.126.106.7,3389,other,l
+2026-11-12T08:16:53Z,96.126.106.7,3389,other,qj n0 k ^0\ P NM 0 0 krbtgt NM 19700101000000Z 0
+2026-11-12T08:16:54Z,96.126.106.7,3389,http,GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0
+2026-11-12T08:16:54Z,96.126.106.7,3389,other,default
+2026-11-12T08:16:55Z,96.126.106.7,3389,http,OPTIONS sip:nm SIP/2.0 Via: SIP/2.0/TCP nm;branch=foo From: <sip:nm@nm>;tag=root
+2026-11-12T08:16:55Z,96.126.106.7,3389,other,0 - c $ d objectClass0
+2026-11-12T08:16:55Z,96.126.106.7,3389,other,0 `
+2026-11-12T08:16:56Z,96.126.106.7,3389,other,: / @ = / @
+2026-11-12T08:16:56Z,96.126.106.7,3389,other,DmdT
+2026-11-12T08:16:56Z,96.126.106.7,3389,other,TNMP TNME
+2026-11-12T08:16:57Z,96.126.106.7,3389,other,JRMI K
+2026-11-12T08:16:57Z,96.126.106.7,3389,other,MMS N S P l a y e r / 9 . 0 . 0 . 2 9 8 0 ;   { 0 0 0 0 A A 0 0 - 0 A 0 0
+2026-11-12T08:16:58Z,96.126.106.7,3389,other,
+2026-11-12T08:16:58Z,96.126.106.7,3389,other,4 ( U MSSQLServer H
+2026-11-12T08:16:58Z,96.126.106.7,3389,other,"Z 6 ,   : 4 (CONNECT_DATA=(COMMAND=version))"
+2026-11-12T08:16:59Z,96.126.106.7,3389,http,GET /devicedesc.xml HTTP/1.1
+2026-11-12T08:16:59Z,96.126.106.7,3389,other,AMQP
+2026-11-12T08:16:59Z,96.126.106.7,3389,other,GIOP $ abcdef get
+2026-11-12T08:17:00Z,96.126.106.7,3389,other,
+2026-11-12T08:17:00Z,96.126.106.7,3389,other,CONNECT accept-version:1.2
+2026-11-12T08:17:01Z,96.126.106.7,3389,other,
+2026-11-12T08:17:01Z,96.126.106.7,3389,other,4 @ M ! Uf c
+2026-11-12T08:17:01Z,96.126.106.7,3389,other,JDWP-Handshake
+2026-11-12T08:17:01Z,96.126.106.7,3389,other,c
+2026-11-12T08:17:02Z,96.126.106.7,3389,tls-handshake,"EH _ a | lS c[7(n   t t\@ $ <V d M ^ O K} 3 9 5 / , 0 ] a W"
+2026-11-12T08:17:02Z,96.126.106.7,3389,tls-handshake,` \ j v* 9 p I } )9bK h g / 9 )
+2026-11-12T08:17:02Z,96.126.106.7,3389,tls-handshake,"f b j v* 6 ? E9! q xP ) ,_ 3 3 +"
+2026-11-12T08:17:02Z,96.126.106.7,3389,tls-handshake,j f j v* z D #% | ^^hVXT; / 7 3 +
+2026-11-12T08:17:02Z,96.126.106.7,3389,tls-handshake,j v* ' / v 36 y bw n R D R E S E | } 0 > 6 h > X ? Y B
+2026-11-12T08:17:02Z,96.126.106.7,3389,tls-handshake,j v* x 1xp _0u wf j ^ & @ c e r s 2 @ t 8 j B V C W D f
+2026-11-12T08:17:02Z,96.126.106.7,3389,tls-handshake,"j v*C 8 KB Lg "" Ao & 0 j c e r s 2 @ t 8 j B V C W D f"
+2026-11-12T08:17:02Z,96.126.106.7,3389,tls-handshake,j v*U P T R M 0ksp w D R E S E | } 0 > 6 h > X ? Y B
+2026-11-12T08:17:02Z,96.126.106.7,3389,tls-handshake,"j v*W p (L a R !q *, R c e r s 2 @ t 8 j B V C W D f"
+2026-11-12T08:17:02Z,96.126.106.7,3389,tls-handshake,j v*]! b w c ? U [Di { #@\3 E + )
+2026-11-12T08:17:02Z,96.126.106.7,3389,tls-handshake,j v*g xX : pG   ! @ D R E S E | } 0 > 6 h > X ? Y B
+2026-11-12T08:17:02Z,96.126.106.7,3389,tls-handshake,j v*rt5 WN W } hBs8 $ c e r s 2 @ t 8 j B V C W D f
+2026-11-12T08:17:02Z,96.126.106.7,3389,tls-handshake,j v*y :/ N I 5 8LY ] k D R E S E | } 0 > 6 h > X ? Y B
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,W S j v+ : h * o Dn qO L ~ / 9
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,"f b j v+ Z EOR#""J l x 'D F <h 3 3 +"
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,f b j v+J 3= ( k& N $ f 6 s 3 3 +
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,"j v+ "" z: Q ` >n5 zI E ( 0 L ` M a v w J K % - L & . J ^ K _ t u I G"
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,"j v+ A% >Q ' n m F Z G [ F # + $ , H \ I ] r s"
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,"j v+ e _ P h gW( s m F Z G [ F # + $ , H \ I ] r s"
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,"j v+ e]VEP %d q y 0 x m F Z G [ F # + $ , H \ I ] r s"
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,j v+ x > ky1 KO%H2 6N 5 v ( 0 L ` M a v w J K % - L & . J ^ K _ t u I G
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,"j v+N q =m y""6 / ]m5 ) d ( 0 L ` M a v w J K % - L & . J ^ K _ t u I G"
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,j v+vr/ Z & ' }B } 4]wo ( 0 L ` M a v w J K % - L & . J ^ K _ t u I G
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,"j v+{ r L7 H %|:J L X;~ m F Z G [ F # + $ , H \ I ] r s"
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,"j v, ! 7^< =x [ Y / HH! Y X O R Q P S V U T ) & * ' + ( # "" % ! $"
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,"j v, >_ ] Q1 t Tp{ Aj & Y X O R Q P S V U T ) & * ' + ( # "" % ! $"
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,"j v, Z Za T &G$ *| Y|Q d Y X O R Q P S V U T ) & * ' + ( # "" % ! $"
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,"j v,e J J ? N= 7 8C > i Y X O R Q P S V U T ) & * ' + ( # "" % ! $"
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,"oJ#9 B } ^ : @P   O A ^ a F K 8 k ^- s : tjR 3 9 5 / , 0 ] a W"
+2026-11-12T08:17:03Z,96.126.106.7,3389,tls-handshake,"p l j v,C YT $ {hb/ @ 2+ s2 =`,Q n = 3 +"
+2026-11-12T08:17:04Z,96.126.106.7,3389,tls-handshake,"3 / j v,- 9;L gwi >z$\g K#r !"
+2026-11-12T08:17:04Z,96.126.106.7,3389,tls-handshake,"K G j v, _ B z *&hX Q ~ U N !"
+2026-11-12T08:17:04Z,96.126.106.7,3389,tls-handshake,"K G j v,u Wd K) ]& v (2g !"
+2026-11-12T08:17:04Z,96.126.106.7,3389,tls-handshake,"j v, 1 _ l } TEv}W ^ b a ` d h n i o . | } / < ~ 5"
+2026-11-12T08:17:04Z,96.126.106.7,3389,tls-handshake,"j v, N P L 2 | q)0 b a ` d h n i o . | } / < ~ 5"
+2026-11-12T08:17:04Z,96.126.106.7,3389,tls-handshake,"j v, ] & r=R ) b a ` d h n i o . | } / < ~ 5"
+2026-11-12T08:17:04Z,96.126.106.7,3389,tls-handshake,"j v, v v U 3 o2 G b a ` d h n i o . | } / < ~ 5"
+2026-11-12T08:17:04Z,96.126.106.7,3389,tls-handshake,"k g j v, Y , ]. . { !   6"
+2026-11-12T08:17:04Z,96.126.106.7,3389,tls-handshake,"p l j v,S \ -'9 6 zy C 8 = 3 +"
+2026-11-12T08:17:49Z,45.32.236.237,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T08:18:28Z,94.231.206.15,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T08:20:28Z,45.32.236.237,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T08:21:23Z,45.32.236.237,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T08:21:27Z,94.231.206.14,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T08:21:49Z,143.105.137.57,23,telnet-negotiation,
+2026-11-12T08:21:50Z,186.158.26.95,23,telnet-negotiation,
+2026-11-12T08:23:29Z,45.32.236.237,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-12T08:24:26Z,94.231.206.33,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T08:24:58Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-12T08:25:15Z,45.32.236.237,3389,rdp-request,'+& Cookie: mstshash=probe
