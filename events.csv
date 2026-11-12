@@ -159633,3 +159633,12 @@ time_utc,ip,port,kind,client_data
 2026-11-12T23:26:23Z,80.94.95.116,2222,ssh-client,SSH-2.0-libssh_0.10.5
 2026-11-12T23:26:55Z,112.26.101.76,2222,no-data,
 2026-11-12T23:26:56Z,70.92.8.125,23,no-data,
+2026-11-12T23:30:06Z,46.50.240.92,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 a R D ih Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
+2026-11-12T23:30:08Z,61.37.150.6,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 _ s w e [ Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
+2026-11-12T23:33:18Z,118.145.239.129,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-12T23:33:56Z,162.216.150.150,2222,ssh-client,SSH-2.0-ZGrab ZGrab SSH Survey
+2026-11-12T23:35:15Z,118.145.239.129,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-12T23:36:40Z,80.94.95.116,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-12T23:36:48Z,181.225.206.145,23,no-data,
+2026-11-12T23:37:10Z,181.225.206.145,23,no-data,
+2026-11-12T23:38:03Z,8.215.96.1,3389,no-data,
