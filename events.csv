@@ -159518,3 +159518,7 @@ time_utc,ip,port,kind,client_data
 2026-11-12T21:23:33Z,195.178.110.78,23,other,root
 2026-11-12T21:23:33Z,195.178.110.78,23,other,root
 2026-11-12T21:24:01Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-12T21:29:32Z,5.199.232.170,23,telnet-negotiation,
+2026-11-12T21:35:17Z,2.55.69.224,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 .F | e Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sh"
+2026-11-12T21:35:19Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-12T21:35:22Z,102.110.11.48,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 ( , \ X | fw q Kdiffie-hellman-group1-sha1,diffie-hellman-gr"
