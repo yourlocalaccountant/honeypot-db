@@ -159600,3 +159600,5 @@ time_utc,ip,port,kind,client_data
 2026-11-12T22:03:28Z,96.126.106.150,23,no-data,
 2026-11-12T22:03:30Z,80.94.95.116,2222,ssh-client,SSH-2.0-libssh_0.10.5
 2026-11-12T22:05:20Z,96.126.106.150,23,telnet-negotiation,%   NTLMSSP
+2026-11-12T22:12:57Z,198.105.126.12,3389,rdp-request,/* Cookie: mstshash=anonymous
+2026-11-12T22:13:36Z,138.226.239.233,2222,ssh-client,SSH-2.0-libssh_0.10.5
