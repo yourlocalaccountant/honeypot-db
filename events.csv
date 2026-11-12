@@ -159431,3 +159431,6 @@ time_utc,ip,port,kind,client_data
 2026-11-12T20:18:49Z,195.178.110.78,23,other,root
 2026-11-12T20:19:08Z,94.26.88.52,3389,rdp-request,/* Cookie: mstshash=anonymous
 2026-11-12T20:20:17Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-12T20:27:38Z,187.8.64.94,2222,ssh-client,"SSH-2.0-OpenSSH_7.4  5f( Q g o DH Kdiffie-hellman-group1-sha1,diffie-hellman-gro"
+2026-11-12T20:27:46Z,197.219.228.246,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 &l r z v Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
+2026-11-12T20:30:32Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
