@@ -157889,3 +157889,51 @@ time_utc,ip,port,kind,client_data
 2026-11-12T09:41:08Z,31.57.37.64,3389,rdp-request,
 2026-11-12T09:41:27Z,94.231.206.8,2222,ssh-client,SSH-2.0-perlssh
 2026-11-12T09:44:29Z,94.231.206.1,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T09:47:27Z,94.231.206.6,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T09:49:31Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-12T09:50:23Z,94.231.206.110,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T09:52:14Z,35.206.147.18,3389,rdp-request,
+2026-11-12T09:52:14Z,35.206.147.18,3389,tls-handshake,"~ ! o -8 \ X c "" MF   O $ A [ o v/G 2 + / , 0 / 5 # ' <"
+2026-11-12T09:52:15Z,35.206.147.18,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-12T09:52:15Z,35.206.147.18,3389,other,; admin.$cmd hello ?
+2026-11-12T09:52:16Z,35.206.147.18,3389,other,^ e'( }M 1 $ z 27 w e IMMA s & u0 M F:C2 $ @
+2026-11-12T09:52:21Z,35.206.147.18,3389,no-data,
+2026-11-12T09:52:26Z,35.206.147.18,3389,no-data,
+2026-11-12T09:52:31Z,35.206.147.18,3389,no-data,
+2026-11-12T09:52:35Z,35.206.147.18,3389,no-data,
+2026-11-12T09:52:36Z,35.206.147.18,3389,other,version bind
+2026-11-12T09:52:41Z,35.206.147.18,3389,no-data,
+2026-11-12T09:52:41Z,35.206.147.18,3389,rdp-request,
+2026-11-12T09:52:46Z,35.206.147.18,3389,no-data,
+2026-11-12T09:52:51Z,35.206.147.18,3389,no-data,
+2026-11-12T09:52:51Z,35.206.147.18,3389,other,"X % & ' + , $ \ k < K { \2!$ 7 b9JF,"
+2026-11-12T09:52:52Z,35.206.147.18,3389,other,0: 1 `2 cn=kczvzukcqlaqrkszrvci kczvzukcqlaqrkszrvci
+2026-11-12T09:52:57Z,35.206.147.18,3389,no-data,
+2026-11-12T09:52:57Z,35.206.147.18,3389,other,C 3 consumer-Offset Explorer 2.2-18 apache-kafka-java 2.4.0
+2026-11-12T09:52:58Z,35.206.147.18,3389,other,# 3 adminclient-5 n1eDrQ
+2026-11-12T09:53:03Z,35.206.147.18,3389,no-data,
+2026-11-12T09:53:03Z,35.206.147.18,3389,other,(r |
+2026-11-12T09:53:04Z,35.206.147.18,3389,other,<
+2026-11-12T09:53:04Z,35.206.147.18,3389,other,f SMB@ $ 333333333333337
+2026-11-12T09:53:05Z,35.206.147.18,3389,other,*1 $4 PING
+2026-11-12T09:53:05Z,35.206.147.18,3389,other,MQTT < AAAAA
+2026-11-12T09:53:06Z,35.206.147.18,3389,other,JDWP-Handshake
+2026-11-12T09:53:06Z,35.206.147.18,3389,other,JRMI K
+2026-11-12T09:53:07Z,35.206.147.18,3389,other,'@RSYTCD: 29
+2026-11-12T09:53:07Z,35.206.147.18,3389,other,MQTT < AAAAA
+2026-11-12T09:53:08Z,35.206.147.18,3389,other,"< , : (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-"
+2026-11-12T09:53:09Z,35.206.147.18,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 2251
+2026-11-12T09:53:09Z,35.206.147.18,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
+2026-11-12T09:53:25Z,94.231.206.35,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T09:55:25Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:55:38Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:55:51Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:56:04Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:56:16Z,18.218.118.203,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: visionheight.com/scan Mozilla/5.0 (M
+2026-11-12T09:56:16Z,18.218.118.203,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: visionheight.com/scan Mozilla/5.0 (M
+2026-11-12T09:56:17Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:56:25Z,18.218.118.203,3389,tls-handshake,"E k + P$ a 6   [*4c 6 n"" - i R X & / 0 + , / 5"
+2026-11-12T09:56:29Z,94.231.206.10,2222,ssh-client,SSH-2.0-perlssh
+2026-11-12T09:56:30Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:56:43Z,153.117.26.141,23,telnet-negotiation,
+2026-11-12T09:56:56Z,153.117.26.141,23,telnet-negotiation,
