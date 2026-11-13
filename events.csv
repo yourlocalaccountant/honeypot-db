@@ -161402,3 +161402,11 @@ time_utc,ip,port,kind,client_data
 2026-11-13T15:13:27Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-13T15:13:56Z,59.11.144.181,23,telnet-negotiation,
 2026-11-13T15:14:58Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T15:15:37Z,18.97.19.254,2222,ssh-client,SSH-2.0-paramiko_2.9.2
+2026-11-13T15:15:38Z,18.97.19.254,2222,no-data,
+2026-11-13T15:17:49Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T15:19:50Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T15:21:13Z,139.135.76.147,23,no-data,
+2026-11-13T15:21:29Z,139.135.76.147,23,no-data,
+2026-11-13T15:23:17Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T15:24:44Z,91.229.163.23,23,telnet-negotiation,
