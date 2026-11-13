@@ -160421,3 +160421,10 @@ time_utc,ip,port,kind,client_data
 2026-11-13T06:01:19Z,77.67.26.161,2222,ssh-client,SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.8
 2026-11-13T06:01:19Z,86.38.187.238,2222,other,c
 2026-11-13T06:02:11Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T06:06:54Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T06:08:46Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T06:12:39Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T06:15:07Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T06:15:16Z,172.191.74.151,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 E Sm Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sha1"
+2026-11-13T06:15:49Z,13.90.206.6,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-13T06:15:49Z,13.90.206.6,2222,ssh-client,SSH-2.0-libssh_0.9.6
