@@ -159787,3 +159787,7 @@ time_utc,ip,port,kind,client_data
 2026-11-13T00:54:10Z,87.227.164.184,23,no-data,
 2026-11-13T00:58:26Z,82.147.85.101,3389,rdp-request,
 2026-11-13T01:00:12Z,82.147.85.101,3389,other,"/   ! "" &"
+2026-11-13T01:03:22Z,89.215.84.227,23,telnet-negotiation,
+2026-11-13T01:06:46Z,98.174.37.182,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 F&* Y:gA0 ! Kdiffie-hellman-group1-sha1,diffie-hellman-group"
+2026-11-13T01:06:53Z,103.109.13.50,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 :w8[ ! 6O b Kdiffie-hellman-group1-sha1,diffie-hellman-group"
+2026-11-13T01:07:36Z,80.94.95.116,2222,ssh-client,SSH-2.0-libssh_0.10.5
