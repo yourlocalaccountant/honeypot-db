@@ -159893,3 +159893,12 @@ time_utc,ip,port,kind,client_data
 2026-11-13T02:11:24Z,35.210.23.177,3389,other,T user postgres database postgres application_name psql client_encoding UTF8
 2026-11-13T02:11:25Z,35.210.23.177,3389,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 2214
 2026-11-13T02:11:51Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T02:12:50Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-13T02:16:19Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T02:17:37Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T02:17:58Z,78.128.112.74,23,ssh-client,SSH-2.0-Go
+2026-11-13T02:17:58Z,78.128.112.74,2222,ssh-client,SSH-2.0-Go
+2026-11-13T02:18:56Z,218.155.196.217,23,telnet-negotiation,
+2026-11-13T02:19:20Z,64.62.197.167,3389,ssh-client,SSH-2.0-Go
+2026-11-13T02:20:02Z,31.44.240.118,23,no-data,
+2026-11-13T02:20:29Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
