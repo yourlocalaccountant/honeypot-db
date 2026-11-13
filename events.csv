@@ -161757,3 +161757,9 @@ time_utc,ip,port,kind,client_data
 2026-11-13T19:36:45Z,49.124.151.51,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 }7Oe / Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sh"
 2026-11-13T19:36:52Z,36.35.174.126,23,telnet-negotiation,
 2026-11-13T19:37:18Z,148.252.145.157,23,no-data,
+2026-11-13T19:38:23Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T19:41:25Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T19:41:55Z,80.94.95.83,3389,rdp-request,/* Cookie: mstshash=Administr
+2026-11-13T19:41:55Z,93.152.221.51,3389,http,CONNECT x.x.x.x:80 HTTP/1.0
+2026-11-13T19:43:45Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T19:45:51Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
