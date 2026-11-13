@@ -160897,3 +160897,37 @@ time_utc,ip,port,kind,client_data
 2026-11-13T10:12:33Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-13T10:14:58Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-13T10:19:36Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T10:20:41Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T10:24:58Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T10:26:37Z,103.26.82.7,23,telnet-negotiation,
+2026-11-13T10:26:52Z,103.26.82.7,23,telnet-negotiation,
+2026-11-13T10:27:03Z,103.26.82.7,23,telnet-negotiation,
+2026-11-13T10:27:12Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T10:27:16Z,103.26.82.7,23,telnet-negotiation,
+2026-11-13T10:27:29Z,103.26.82.7,23,telnet-negotiation,
+2026-11-13T10:27:42Z,103.26.82.7,23,telnet-negotiation,
+2026-11-13T10:27:55Z,103.26.82.7,23,telnet-negotiation,
+2026-11-13T10:28:08Z,103.26.82.7,23,telnet-negotiation,
+2026-11-13T10:28:21Z,103.26.82.7,23,telnet-negotiation,
+2026-11-13T10:28:34Z,103.26.82.7,23,telnet-negotiation,
+2026-11-13T10:28:47Z,103.26.82.7,23,telnet-negotiation,
+2026-11-13T10:28:50Z,182.190.219.138,23,telnet-negotiation,
+2026-11-13T10:29:00Z,103.26.82.7,23,telnet-negotiation,
+2026-11-13T10:29:03Z,182.190.219.138,23,telnet-negotiation,
+2026-11-13T10:29:13Z,103.26.82.7,23,telnet-negotiation,
+2026-11-13T10:29:16Z,182.190.219.138,23,telnet-negotiation,
+2026-11-13T10:29:26Z,103.26.82.7,23,telnet-negotiation,
+2026-11-13T10:29:29Z,182.190.219.138,23,telnet-negotiation,
+2026-11-13T10:29:39Z,103.26.82.7,23,telnet-negotiation,
+2026-11-13T10:29:42Z,182.190.219.138,23,telnet-negotiation,
+2026-11-13T10:29:52Z,103.26.82.7,23,telnet-negotiation,
+2026-11-13T10:29:54Z,195.178.110.78,23,other,root
+2026-11-13T10:29:55Z,182.190.219.138,23,telnet-negotiation,
+2026-11-13T10:29:55Z,195.178.110.78,23,other,admin
+2026-11-13T10:29:56Z,195.178.110.78,23,other,admin
+2026-11-13T10:29:56Z,195.178.110.78,23,other,root
+2026-11-13T10:29:57Z,195.178.110.78,23,other,admin
+2026-11-13T10:29:58Z,195.178.110.78,23,other,root
+2026-11-13T10:29:59Z,195.178.110.78,23,other,admin
+2026-11-13T10:29:59Z,195.178.110.78,23,other,root
+2026-11-13T10:30:00Z,195.178.110.78,23,other,telnetadmin
