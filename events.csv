@@ -161478,3 +161478,11 @@ time_utc,ip,port,kind,client_data
 2026-11-13T15:40:54Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-13T15:43:07Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-13T15:43:54Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T15:46:44Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T15:48:46Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T15:50:12Z,102.220.45.186,2222,ssh-client,SSH-2.0-OpenSSH_7.4
+2026-11-13T15:50:14Z,24.234.212.73,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 E V N   :J Kdiffie-hellman-group1-sha1,diffie-hellman-group1"
+2026-11-13T15:50:58Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T15:52:59Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T15:53:41Z,44.220.188.85,2222,no-data,
+2026-11-13T15:53:41Z,44.220.188.85,2222,ssh-client,SSH-2.0-paramiko_2.9.2
