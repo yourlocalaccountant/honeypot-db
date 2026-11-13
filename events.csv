@@ -161279,3 +161279,8 @@ time_utc,ip,port,kind,client_data
 2026-11-13T14:00:22Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-13T14:02:20Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-13T14:03:13Z,183.56.197.63,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-13T14:04:39Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T14:06:57Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T14:08:34Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T14:11:18Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T14:13:36Z,59.11.144.181,23,telnet-negotiation,
