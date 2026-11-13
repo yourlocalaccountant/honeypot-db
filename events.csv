@@ -160659,3 +160659,7 @@ time_utc,ip,port,kind,client_data
 2026-11-13T07:15:09Z,35.210.1.5,2222,other,T user postgres database postgres application_name psql client_encoding UTF8
 2026-11-13T07:15:10Z,35.210.1.5,2222,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 2851
 2026-11-13T07:16:07Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T07:19:54Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T07:23:56Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T07:24:57Z,65.49.1.38,23,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-13T07:25:21Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
