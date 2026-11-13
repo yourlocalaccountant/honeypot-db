@@ -162227,3 +162227,13 @@ time_utc,ip,port,kind,client_data
 2026-11-13T23:40:19Z,195.184.76.48,2222,tls-handshake,"c _ z""! C= T ! c +   ?1 O1 ? K ): J :| 3 g 9 k E #"
 2026-11-13T23:40:25Z,195.184.76.50,2222,no-data,
 2026-11-13T23:41:20Z,64.177.89.155,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T23:42:10Z,90.188.242.84,23,telnet-negotiation,
+2026-11-13T23:42:39Z,91.230.168.243,2222,ssh-client,SSH-2.0-perlssh
+2026-11-13T23:43:36Z,64.177.89.155,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T23:45:34Z,64.177.89.155,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T23:46:40Z,91.230.168.159,2222,ssh-client,SSH-2.0-perlssh
+2026-11-13T23:47:43Z,64.177.89.155,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T23:47:49Z,160.119.66.206,23,other,root
+2026-11-13T23:49:40Z,91.230.168.247,2222,ssh-client,SSH-2.0-perlssh
+2026-11-13T23:50:27Z,64.177.89.155,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T23:51:02Z,175.202.194.168,23,telnet-negotiation,
