@@ -159704,3 +159704,4 @@ time_utc,ip,port,kind,client_data
 2026-11-12T23:46:21Z,191.241.142.217,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 B Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sha1,di"
 2026-11-12T23:46:23Z,70.183.226.43,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 "" V 6H -f# Kdiffie-hellman-group1-sha1,diffie-hellman-group1"
 2026-11-12T23:47:25Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-12T23:59:13Z,80.94.95.116,2222,ssh-client,SSH-2.0-libssh_0.10.5
