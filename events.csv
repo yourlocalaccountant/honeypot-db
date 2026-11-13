@@ -160877,3 +160877,10 @@ time_utc,ip,port,kind,client_data
 2026-11-13T09:48:04Z,101.13.4.119,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 N8q _ _q Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
 2026-11-13T09:48:17Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-13T09:49:18Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T09:52:35Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T09:52:50Z,3.129.187.38,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: visionheight.com/scan Mozilla/5.0 (M
+2026-11-13T09:54:17Z,3.129.187.38,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: visionheight.com/scan Mozilla/5.0 (M
+2026-11-13T09:54:46Z,3.129.187.38,3389,tls-handshake,"QW A e ) 7\ ^ s k  T9 = g s:U E ~ b 1R R >< & / 0 + , / 5"
+2026-11-13T09:56:10Z,3.129.187.38,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-11-13T09:56:45Z,3.129.187.38,3389,tls-handshake,"^p + 3 l 1 \h L E' z =g   j! g3 )h>E ~ @ v & / 0 + , / 5 {"
+2026-11-13T09:56:51Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
