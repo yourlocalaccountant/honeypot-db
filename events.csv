@@ -160208,3 +160208,11 @@ time_utc,ip,port,kind,client_data
 2026-11-13T04:20:20Z,77.239.124.130,2222,ssh-client,SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3
 2026-11-13T04:22:13Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-13T04:23:51Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T04:26:26Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T04:27:41Z,172.236.127.133,23,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS
+2026-11-13T04:27:42Z,172.236.127.133,23,tls-handshake,{ w 1 M > e C ` 1mg 8O / + / 5 4
+2026-11-13T04:28:33Z,205.210.31.97,3389,rdp-request,"'"" Cookie: mstshash=DapAQhxNg"
+2026-11-13T04:28:34Z,205.210.31.97,3389,no-data,
+2026-11-13T04:28:34Z,205.210.31.97,3389,rdp-request,",' Cookie: mstshash=LLnzgz"
+2026-11-13T04:28:34Z,205.210.31.97,3389,rdp-request,",' Cookie: mstshash=ZkxzqX"
+2026-11-13T04:31:17Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
