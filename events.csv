@@ -160663,3 +160663,15 @@ time_utc,ip,port,kind,client_data
 2026-11-13T07:23:56Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-13T07:24:57Z,65.49.1.38,23,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
 2026-11-13T07:25:21Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T07:28:00Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T07:28:53Z,103.176.78.100,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-13T07:28:53Z,103.176.78.100,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-13T07:30:09Z,79.124.59.82,2323,http,GET / HTTP/1.1 Host: [redacted] Accept: */* Accept-Encoding: gzip User-Agent: Mo
+2026-11-13T07:31:11Z,191.23.101.112,23,telnet-negotiation,
+2026-11-13T07:32:17Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T07:33:02Z,80.66.83.80,3389,rdp-request,/* Cookie: mstshash=Administr
+2026-11-13T07:34:42Z,193.3.53.2,3389,no-data,
+2026-11-13T07:34:42Z,193.3.53.2,3389,tls-handshake,"i e U random1random2random3random4 / 9 0 , *"
+2026-11-13T07:34:43Z,193.3.53.2,3389,rdp-request,
+2026-11-13T07:34:43Z,193.3.53.2,3389,rdp-request,*% Cookie: mstshash=nmap
+2026-11-13T07:36:34Z,158.247.212.65,3389,rdp-request,'+& Cookie: mstshash=probe
