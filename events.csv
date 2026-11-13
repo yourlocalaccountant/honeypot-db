@@ -161961,3 +161961,8 @@ time_utc,ip,port,kind,client_data
 2026-11-13T21:37:06Z,36.35.174.126,23,telnet-negotiation,
 2026-11-13T21:37:33Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-13T21:38:55Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T21:44:01Z,211.200.98.61,3389,tls-handshake,"j & f CV %*@? 7 u 4 ( ' 9 3 = < 5 / , + $ # j @ 8 2 5"
+2026-11-13T21:46:17Z,64.177.89.155,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T21:48:50Z,64.177.89.155,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T21:49:15Z,193.124.20.228,2323,no-data,
+2026-11-13T21:49:22Z,64.177.89.155,3389,rdp-request,'+& Cookie: mstshash=probe
