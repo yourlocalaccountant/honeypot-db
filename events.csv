@@ -161271,3 +161271,11 @@ time_utc,ip,port,kind,client_data
 2026-11-13T13:51:40Z,103.179.240.149,23,telnet-negotiation,
 2026-11-13T13:51:42Z,221.157.244.54,23,telnet-negotiation,
 2026-11-13T13:51:53Z,103.179.240.149,23,telnet-negotiation,
+2026-11-13T13:54:12Z,49.124.132.6,2222,no-data,
+2026-11-13T13:54:25Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T13:55:04Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T13:57:29Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T13:58:32Z,59.11.144.181,23,telnet-negotiation,
+2026-11-13T14:00:22Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T14:02:20Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T14:03:13Z,183.56.197.63,2222,ssh-client,SSH-2.0-libssh_0.9.6
