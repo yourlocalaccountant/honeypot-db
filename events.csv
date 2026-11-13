@@ -161519,3 +161519,9 @@ time_utc,ip,port,kind,client_data
 2026-11-13T16:35:23Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-13T16:35:46Z,216.254.254.253,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 s = g~ c Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
 2026-11-13T16:35:48Z,78.136.223.227,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 0! y <C Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
+2026-11-13T16:36:42Z,120.48.111.71,2222,ssh-client,SSH-2.0-libssh_0.12.0
+2026-11-13T16:38:10Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T16:39:00Z,195.96.139.40,2323,no-data,
+2026-11-13T16:41:03Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T16:42:13Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T16:44:56Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
