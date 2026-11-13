@@ -161231,3 +161231,10 @@ time_utc,ip,port,kind,client_data
 2026-11-13T13:29:38Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-13T13:32:06Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-13T13:32:57Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T13:35:53Z,85.175.226.94,2222,ssh-client,SSH-2.0-OpenSSH_7.4
+2026-11-13T13:36:00Z,59.12.63.70,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 K Yzm 0?  7 Kdiffie-hellman-group1-sha1,diffie-hellman-group"
+2026-11-13T13:36:09Z,42.119.86.139,23,no-data,
+2026-11-13T13:36:27Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T13:36:44Z,42.119.86.139,23,no-data,
+2026-11-13T13:38:07Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T13:41:03Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
