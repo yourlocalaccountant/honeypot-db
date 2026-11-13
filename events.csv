@@ -161155,3 +161155,11 @@ time_utc,ip,port,kind,client_data
 2026-11-13T12:28:22Z,195.216.211.217,23,telnet-negotiation,
 2026-11-13T12:28:43Z,150.95.25.34,23,no-data,
 2026-11-13T12:28:45Z,59.11.144.181,23,telnet-negotiation,
+2026-11-13T12:43:49Z,59.11.144.181,23,telnet-negotiation,
+2026-11-13T12:44:48Z,49.206.194.29,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 <A{ Z 7- pl_ Kdiffie-hellman-group1-sha1,diffie-hellman-grou"
+2026-11-13T12:44:50Z,220.126.237.110,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 [ <\M ) Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
+2026-11-13T12:46:21Z,82.147.85.101,3389,rdp-request,
+2026-11-13T12:46:25Z,185.109.54.173,23,telnet-negotiation,
+2026-11-13T12:47:40Z,221.120.6.242,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 u k j ]4j Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
+2026-11-13T12:47:45Z,82.147.85.101,3389,other,"/   ! "" &"
+2026-11-13T12:47:47Z,182.75.234.236,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 ], 9 ? a Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
