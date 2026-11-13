@@ -161946,3 +161946,11 @@ time_utc,ip,port,kind,client_data
 2026-11-13T21:17:41Z,182.118.64.225,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-11-13T21:17:56Z,37.55.87.203,23,telnet-negotiation,
 2026-11-13T21:19:01Z,175.202.119.34,23,telnet-negotiation,
+2026-11-13T21:19:22Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T21:22:27Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T21:23:53Z,211.63.225.145,23,telnet-negotiation,
+2026-11-13T21:24:06Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T21:25:54Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T21:28:07Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-13T21:28:49Z,217.208.90.253,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 .! h^ Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sha"
+2026-11-13T21:28:52Z,222.99.237.249,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 c vV = /$ Y2 Kdiffie-hellman-group1-sha1,diffie-hellman-grou"
