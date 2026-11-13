@@ -161163,3 +161163,4 @@ time_utc,ip,port,kind,client_data
 2026-11-13T12:47:40Z,221.120.6.242,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 u k j ]4j Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
 2026-11-13T12:47:45Z,82.147.85.101,3389,other,"/   ! "" &"
 2026-11-13T12:47:47Z,182.75.234.236,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 ], 9 ? a Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
+2026-11-13T12:58:42Z,59.11.144.181,23,telnet-negotiation,
