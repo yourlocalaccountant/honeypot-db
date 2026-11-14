@@ -165058,3 +165058,38 @@ time_utc,ip,port,kind,client_data
 2026-11-14T12:28:10Z,114.67.150.212,2222,ssh-client,SSH-2.0-libssh_0.7.4
 2026-11-14T12:29:31Z,195.184.76.143,2222,ssh-client,SSH-2.0-perlssh
 2026-11-14T12:30:12Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T12:32:12Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T12:32:37Z,91.230.168.247,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T12:34:32Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T12:34:48Z,71.6.134.236,2323,tls-handshake,"\ E ' {u. v 0 AQ]56 u< % T $ ~ - ) g R   + / , 0 / 5"
+2026-11-14T12:35:34Z,91.230.168.172,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T12:36:46Z,70.168.196.87,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 gk6 N O U 5 Kdiffie-hellman-group1-sha1,diffie-hellman-group"
+2026-11-14T12:36:47Z,162.216.149.109,3389,rdp-request,"'"" Cookie: mstshash=yhDxyQONx"
+2026-11-14T12:36:48Z,46.77.69.201,2222,ssh-client,SSH-2.0-OpenSSH_7.4
+2026-11-14T12:37:30Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T12:37:42Z,162.216.149.109,3389,rdp-request,"'"" Cookie: mstshash=yhDxyQONx"
+2026-11-14T12:37:43Z,162.216.149.109,3389,rdp-request,*% Cookie: mstshash=nmap
+2026-11-14T12:37:44Z,162.216.149.109,3389,rdp-request,*% Cookie: mstshash=naap
+2026-11-14T12:37:45Z,162.216.149.109,3389,rdp-request,
+2026-11-14T12:37:45Z,162.216.149.109,3389,tls-handshake,"i e U random1random2random3random4 / 9 0 , *"
+2026-11-14T12:37:46Z,162.216.149.109,3389,tls-handshake,"i e U random1random2random3random4 / 9 0 , *"
+2026-11-14T12:37:47Z,162.216.149.109,3389,tls-handshake,"L J u* @MP%a ( v  ]g 1""N4u/6 CG F G U\I & + / , 0 / 5"
+2026-11-14T12:37:54Z,162.216.149.109,3389,other,u   f e d c b : 9 8 5 4 3 2 / @
+2026-11-14T12:37:55Z,162.216.149.109,3389,tls-handshake,"S O ?G , `~ { w <= o n ( f e d c b a `"
+2026-11-14T12:38:00Z,162.216.149.109,3389,no-data,
+2026-11-14T12:38:04Z,162.216.149.109,3389,other,
+2026-11-14T12:38:05Z,162.216.149.109,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: curl/7.68.0 Accept: */*
+2026-11-14T12:38:05Z,162.216.149.109,3389,http,OPTIONS / HTTP/1.0
+2026-11-14T12:38:06Z,162.216.149.109,3389,http,OPTIONS * RTSP/1.0 CSEQ: 1
+2026-11-14T12:38:06Z,162.216.149.109,3389,other,(r |
+2026-11-14T12:38:07Z,162.216.149.109,3389,other,
+2026-11-14T12:38:07Z,162.216.149.109,3389,other,version bind
+2026-11-14T12:38:08Z,162.216.149.109,3389,other,EHLO
+2026-11-14T12:38:08Z,162.216.149.109,3389,other,HELP
+2026-11-14T12:38:09Z,162.216.149.109,3389,other,qj n0 k ^0\ P NM 0 0 krbtgt NM 19700101000000Z 0
+2026-11-14T12:38:38Z,195.184.76.0,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T12:39:03Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T12:39:58Z,172.71.43.39,3389,no-data,
+2026-11-14T12:40:25Z,121.152.123.106,23,telnet-negotiation,
+2026-11-14T12:40:39Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T12:40:45Z,199.165.159.161,3389,rdp-request,'+& Cookie: mstshash=zgrab
