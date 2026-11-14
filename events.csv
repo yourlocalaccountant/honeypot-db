@@ -165369,3 +165369,14 @@ time_utc,ip,port,kind,client_data
 2026-11-14T15:09:30Z,91.230.168.57,2222,ssh-client,SSH-2.0-perlssh
 2026-11-14T15:10:17Z,186.54.79.224,23,telnet-negotiation,
 2026-11-14T15:11:36Z,91.230.168.195,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T15:13:42Z,139.216.6.17,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 u5# $m bW Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
+2026-11-14T15:13:44Z,14.51.12.142,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 uEZy 3 u- x Kdiffie-hellman-group1-sha1,diffie-hellman-group"
+2026-11-14T15:14:35Z,195.184.76.0,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T15:14:46Z,151.158.44.120,3389,rdp-request,
+2026-11-14T15:14:57Z,49.124.153.4,2222,no-data,
+2026-11-14T15:14:58Z,124.246.85.177,2222,ssh-client,SSH-2.0-OpenSSH_7.4
+2026-11-14T15:17:30Z,91.230.168.20,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T15:17:32Z,221.156.173.44,23,telnet-negotiation,
+2026-11-14T15:19:39Z,189.253.237.174,23,no-data,
+2026-11-14T15:20:03Z,189.253.237.174,23,no-data,
+2026-11-14T15:20:28Z,195.184.76.54,2222,ssh-client,SSH-2.0-perlssh
