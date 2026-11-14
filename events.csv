@@ -163063,3 +163063,33 @@ time_utc,ip,port,kind,client_data
 2026-11-14T03:54:46Z,131.108.162.24,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 (O+xX -{ M`p.9 Kdiffie-hellman-group1-sha1,diffie-hellman-gr"
 2026-11-14T03:54:48Z,201.15.149.254,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 } $ I ` Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
 2026-11-14T03:54:50Z,190.160.6.65,23,no-data,
+2026-11-14T03:55:19Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T03:55:41Z,64.62.197.212,2323,no-data,
+2026-11-14T03:55:44Z,195.184.76.238,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T03:56:53Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T03:57:31Z,190.160.6.65,23,no-data,
+2026-11-14T03:58:35Z,91.230.168.95,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T03:58:50Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T03:59:20Z,159.223.98.51,23,telnet-negotiation,
+2026-11-14T03:59:21Z,159.223.98.51,23,telnet-negotiation,
+2026-11-14T03:59:21Z,159.223.98.51,23,telnet-negotiation,
+2026-11-14T03:59:22Z,159.223.98.51,23,telnet-negotiation,
+2026-11-14T03:59:23Z,159.223.98.51,23,telnet-negotiation,
+2026-11-14T03:59:23Z,159.223.98.51,23,telnet-negotiation,
+2026-11-14T03:59:24Z,159.223.98.51,23,telnet-negotiation,
+2026-11-14T03:59:24Z,159.223.98.51,23,telnet-negotiation,
+2026-11-14T03:59:25Z,159.223.98.51,23,telnet-negotiation,
+2026-11-14T03:59:26Z,159.223.98.51,23,telnet-negotiation,
+2026-11-14T04:01:12Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T04:01:39Z,195.184.76.104,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T04:02:10Z,35.206.140.186,23,no-data,
+2026-11-14T04:03:13Z,93.44.228.10,23,telnet-negotiation,
+2026-11-14T04:04:05Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T04:04:30Z,35.206.173.187,23,no-data,
+2026-11-14T04:04:46Z,195.184.76.127,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T04:04:47Z,35.210.24.13,3389,rdp-request,
+2026-11-14T04:04:48Z,35.210.24.13,3389,other,; admin.$cmd hello ?
+2026-11-14T04:04:48Z,35.210.24.13,3389,tls-handshake,"lL ? 3 z= Iz CZ4 vm U Hf z 54m \ e&XM d ? 2 + / , 0 / 5 # ' <"
+2026-11-14T04:04:49Z,35.210.24.13,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-14T04:04:49Z,35.210.24.13,3389,other,(9 r T{ 7 n ]/ sM F yG < M `& > g& fp l ~ # s
+2026-11-14T04:04:55Z,35.210.24.13,3389,no-data,
