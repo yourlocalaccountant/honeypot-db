@@ -165242,3 +165242,7 @@ time_utc,ip,port,kind,client_data
 2026-11-14T13:40:40Z,195.178.110.78,23,other,usr
 2026-11-14T13:41:01Z,36.64.33.82,2222,ssh-client,SSH-2.0-OpenSSH_7.4
 2026-11-14T13:41:03Z,163.227.22.98,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 k` ?cV|K E; | / Kdiffie-hellman-group1-sha1,diffie-hellman-g"
+2026-11-14T13:43:34Z,91.230.168.196,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T13:46:39Z,195.184.76.97,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T13:49:35Z,91.230.168.111,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T13:52:31Z,91.230.168.166,2222,ssh-client,SSH-2.0-perlssh
