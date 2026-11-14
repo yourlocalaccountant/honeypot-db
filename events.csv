@@ -165093,3 +165093,14 @@ time_utc,ip,port,kind,client_data
 2026-11-14T12:40:25Z,121.152.123.106,23,telnet-negotiation,
 2026-11-14T12:40:39Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-14T12:40:45Z,199.165.159.161,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-11-14T12:41:39Z,91.230.168.233,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T12:43:47Z,20.84.147.59,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 zgrab/0.x Accept: */* Ac
+2026-11-14T12:44:29Z,195.184.76.63,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T12:44:37Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T12:46:30Z,195.184.76.151,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T12:47:05Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T12:48:57Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T12:49:33Z,91.230.168.76,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T12:50:19Z,71.6.134.236,2323,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-14T12:50:40Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T12:51:02Z,92.124.160.139,23,telnet-negotiation,
