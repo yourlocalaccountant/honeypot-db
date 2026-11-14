@@ -164347,3 +164347,21 @@ time_utc,ip,port,kind,client_data
 2026-11-14T09:04:41Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-14T09:06:40Z,91.230.168.240,2222,ssh-client,SSH-2.0-perlssh
 2026-11-14T09:07:23Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T09:09:05Z,76.171.9.18,2222,ssh-client,SSH-2.0-OpenSSH_7.4
+2026-11-14T09:09:07Z,110.25.109.54,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 M HG 45 Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
+2026-11-14T09:09:29Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T09:09:40Z,91.230.168.142,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T09:10:58Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T09:11:30Z,35.203.210.150,2323,telnet-negotiation,IBM-3279-4-E
+2026-11-14T09:11:44Z,35.203.210.150,2323,no-data,
+2026-11-14T09:12:31Z,91.230.168.20,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T09:12:35Z,35.203.210.150,2323,telnet-negotiation,IBM-3279-4-E
+2026-11-14T09:12:54Z,77.239.124.130,2222,ssh-client,SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3
+2026-11-14T09:13:02Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T09:14:41Z,195.184.76.229,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T09:15:49Z,94.26.68.60,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-11-14T09:16:01Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T09:16:13Z,49.158.41.142,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 3(Z ; Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sha"
+2026-11-14T09:16:16Z,102.210.148.41,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 w % cf 7 Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
+2026-11-14T09:17:21Z,35.203.210.150,2323,no-data,
+2026-11-14T09:17:30Z,195.184.76.180,2222,ssh-client,SSH-2.0-perlssh
