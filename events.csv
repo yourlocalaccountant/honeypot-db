@@ -162945,3 +162945,36 @@ time_utc,ip,port,kind,client_data
 2026-11-14T03:23:21Z,14.49.180.118,23,telnet-negotiation,
 2026-11-14T03:23:39Z,195.184.76.9,2222,ssh-client,SSH-2.0-perlssh
 2026-11-14T03:23:50Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T03:26:16Z,35.206.145.105,3389,rdp-request,
+2026-11-14T03:26:17Z,35.206.145.105,3389,tls-handshake,"U v Z K P > $ '| =S ` k| @ w ""/ ^ = 9 2 + / , 0 / 5 # ' <"
+2026-11-14T03:26:18Z,35.206.145.105,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-14T03:26:18Z,35.206.145.105,3389,other,; admin.$cmd hello ?
+2026-11-14T03:26:19Z,35.206.145.105,3389,other,"X`J xtZkhX , ^ n o X Q VT %# # u V E O"
+2026-11-14T03:26:24Z,35.206.145.105,3389,no-data,
+2026-11-14T03:26:28Z,35.206.145.105,3389,no-data,
+2026-11-14T03:26:33Z,35.206.145.105,3389,no-data,
+2026-11-14T03:26:38Z,35.206.145.105,3389,no-data,
+2026-11-14T03:26:46Z,195.184.76.156,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T03:27:18Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T03:29:43Z,195.184.76.104,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T03:30:02Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T03:30:49Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:31:01Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:31:14Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:31:27Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:31:40Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:31:53Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:31:59Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T03:32:06Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:32:19Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:32:32Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:32:40Z,195.184.76.230,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T03:32:45Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:32:58Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:33:11Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:33:24Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:33:37Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:33:50Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:34:03Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:34:16Z,103.18.14.116,23,telnet-negotiation,
+2026-11-14T03:34:19Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
