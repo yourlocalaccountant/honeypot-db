@@ -164897,3 +164897,15 @@ time_utc,ip,port,kind,client_data
 2026-11-14T11:39:57Z,77.239.124.252,23,other,root
 2026-11-14T11:39:58Z,77.239.124.252,23,other,root
 2026-11-14T11:39:59Z,77.239.124.252,23,other,usr
+2026-11-14T11:41:34Z,91.230.168.89,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T11:41:47Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T11:43:13Z,64.205.72.172,2222,ssh-client,SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.8
+2026-11-14T11:43:13Z,86.38.187.225,2222,other,c
+2026-11-14T11:43:34Z,91.230.168.30,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T11:43:37Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T11:45:31Z,91.230.168.41,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T11:45:33Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T11:47:34Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T11:48:34Z,91.230.168.107,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T11:49:38Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T11:50:34Z,91.230.168.237,2222,ssh-client,SSH-2.0-perlssh
