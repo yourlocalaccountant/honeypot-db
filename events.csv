@@ -163974,3 +163974,21 @@ time_utc,ip,port,kind,client_data
 2026-11-14T07:14:41Z,203.101.186.213,23,telnet-negotiation,
 2026-11-14T07:15:54Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-14T07:16:40Z,195.184.76.225,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T07:18:18Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T07:18:40Z,103.94.131.58,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-14T07:18:41Z,103.94.131.58,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-14T07:19:01Z,196.189.236.67,23,telnet-negotiation,admin
+2026-11-14T07:19:43Z,195.184.76.239,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T07:20:21Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T07:22:36Z,91.230.168.1,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T07:23:00Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T07:24:03Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T07:24:40Z,91.230.168.186,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T07:26:10Z,195.96.139.80,3389,rdp-request,",' Cookie: mstshash=eltons"
+2026-11-14T07:26:27Z,195.96.139.83,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (compatible; InternetMea
+2026-11-14T07:26:32Z,195.184.76.51,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T07:26:37Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T07:26:42Z,87.236.176.79,3389,other,H ] + ] + H`
+2026-11-14T07:26:58Z,195.96.139.82,3389,other,
+2026-11-14T07:26:58Z,195.96.139.82,3389,other,yh ` R
+2026-11-14T07:27:14Z,185.247.137.97,3389,other,(m &
