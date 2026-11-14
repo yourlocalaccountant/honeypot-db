@@ -162470,3 +162470,12 @@ time_utc,ip,port,kind,client_data
 2026-11-14T00:41:38Z,91.230.168.188,2222,ssh-client,SSH-2.0-perlssh
 2026-11-14T00:42:00Z,64.177.89.155,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-14T00:42:07Z,194.187.178.28,23,telnet-negotiation,
+2026-11-14T00:44:34Z,195.184.76.153,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T00:45:22Z,64.177.89.155,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T00:45:47Z,18.218.118.203,23,other,
+2026-11-14T00:46:00Z,18.218.118.203,23,telnet-negotiation,
+2026-11-14T00:47:34Z,91.230.168.70,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T00:48:16Z,134.33.65.66,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 zgrab/0.x Accept: */* Ac
+2026-11-14T00:48:25Z,64.177.89.155,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T00:49:07Z,64.177.89.155,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T00:50:30Z,91.230.168.48,2222,ssh-client,SSH-2.0-perlssh
