@@ -162906,3 +162906,23 @@ time_utc,ip,port,kind,client_data
 2026-11-14T03:02:18Z,186.32.187.189,23,telnet-negotiation,
 2026-11-14T03:02:19Z,186.32.187.189,23,telnet-negotiation,
 2026-11-14T03:03:40Z,91.230.168.32,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T03:04:39Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T03:06:36Z,91.230.168.30,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T03:07:17Z,49.124.154.164,2222,ssh-client,SSH-2.0-OpenSSH_7.4
+2026-11-14T03:07:20Z,72.215.46.19,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 < P Q # Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
+2026-11-14T03:08:11Z,14.49.180.118,23,telnet-negotiation,
+2026-11-14T03:08:27Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T03:09:38Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T03:09:54Z,195.184.76.2,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T03:12:00Z,149.28.160.84,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-14T03:12:15Z,112.239.96.71,23,telnet-negotiation,
+2026-11-14T03:12:28Z,112.239.96.71,23,telnet-negotiation,
+2026-11-14T03:12:33Z,195.184.76.214,2222,ssh-client,SSH-2.0-perlssh
+2026-11-14T03:12:41Z,112.239.96.71,23,telnet-negotiation,
+2026-11-14T03:12:54Z,112.239.96.71,23,telnet-negotiation,
+2026-11-14T03:13:07Z,112.239.96.71,23,telnet-negotiation,
+2026-11-14T03:13:20Z,112.239.96.71,23,telnet-negotiation,
+2026-11-14T03:13:33Z,112.239.96.71,23,telnet-negotiation,
+2026-11-14T03:13:47Z,112.239.96.71,23,telnet-negotiation,
+2026-11-14T03:14:00Z,112.239.96.71,23,telnet-negotiation,
+2026-11-14T03:14:13Z,112.239.96.71,23,telnet-negotiation,
