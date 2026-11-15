@@ -175152,3 +175152,9 @@ time_utc,ip,port,kind,client_data
 2026-11-15T14:19:07Z,203.212.9.248,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-11-15T14:20:16Z,58.182.58.128,23,telnet-negotiation,admin
 2026-11-15T14:21:30Z,62.108.201.221,23,telnet-negotiation,
+2026-11-15T14:24:08Z,172.236.228.229,2323,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS
+2026-11-15T14:24:09Z,172.236.228.229,2323,tls-handshake,{ w x:wF %-T R_!3 $ | z+ G _ / + / 5 4
+2026-11-15T14:26:10Z,181.46.66.142,23,telnet-negotiation,
+2026-11-15T14:27:32Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-15T14:28:02Z,80.94.95.83,3389,rdp-request,/* Cookie: mstshash=Administr
+2026-11-15T14:28:07Z,160.119.66.206,23,other,root
