@@ -174405,3 +174405,29 @@ time_utc,ip,port,kind,client_data
 2026-11-15T09:48:32Z,185.247.137.180,3389,other,2 MQIsdp < $0fbf7003-6b92-48bd-8644-5415c263dbb1
 2026-11-15T09:48:32Z,185.247.137.180,3389,other,MQTT <
 2026-11-15T09:48:48Z,195.96.139.154,3389,other,
+2026-11-15T09:49:03Z,185.247.137.168,3389,other,U
+2026-11-15T09:49:19Z,195.96.139.160,3389,other,7 @ admin.$cmd hello
+2026-11-15T09:49:34Z,195.96.139.167,3389,other,
+2026-11-15T09:49:50Z,87.236.176.156,3389,other,0 `
+2026-11-15T09:49:51Z,87.236.176.156,3389,other,0 w x.x.x.x.4.1.1466.20037
+2026-11-15T09:50:06Z,185.247.137.180,3389,other,<?xml version='1.0'?><stream:stream version='1.0' xml:lang='en' xmlns:stream='ht
+2026-11-15T09:50:22Z,87.236.176.154,3389,other,w +
+2026-11-15T09:50:37Z,185.247.137.163,3389,other,"x @ ,   . J     (DESCRIPTION=(CONNECT_DATA=(COMMAND=version)))"
+2026-11-15T09:50:53Z,185.247.137.180,3389,other,/multistream/1.0.0
+2026-11-15T09:51:09Z,185.247.137.175,3389,other,fox a 1 -1 fox hello { fox.version=s:1.0 id=i:1 };;
+2026-11-15T09:51:24Z,87.236.176.175,3389,other,!
+2026-11-15T09:51:40Z,195.96.139.164,3389,other,C = HeaderDigest=None DataDigest=None SessionType=Discovery MaxRecvDataSegme
+2026-11-15T09:51:56Z,87.236.176.156,3389,other,"2 , A ^ m Z $ $ @ t G"
+2026-11-15T09:52:12Z,195.96.139.172,3389,other,ANY-SCP         ECHOSCU          1.2.840.10008.x.x.x.x  . 0 x.x.x.x
+2026-11-15T09:52:28Z,87.236.176.166,3389,other,"CONNECT accept-version:1.0,1.1,2.0"
+2026-11-15T09:52:43Z,185.247.137.155,3389,other,stats
+2026-11-15T09:52:59Z,195.96.139.171,3389,other,l
+2026-11-15T09:53:14Z,87.236.176.151,3389,other,puDF - A K 8Z c e6 Y 2 S w'ru W isa_%: r QveB}P s ^? \C e &3   'X +< D L
+2026-11-15T09:53:15Z,87.236.176.151,3389,other,version V 6 j
+2026-11-15T09:53:31Z,87.236.176.173,3389,other,HELFD $ opc.tcp://localHost: [redacted]
+2026-11-15T09:53:46Z,195.96.139.151,3389,other,'@ Q 8 <
+2026-11-15T09:54:02Z,195.96.139.151,3389,other,
+2026-11-15T09:54:17Z,185.247.137.180,3389,other,'- e /00IDED
+2026-11-15T09:54:31Z,87.236.176.161,3389,tls-handshake,"\w W:5 $ hj T0 ,K y A   e sv c 9 @ Q S 5 < + / , 0 / 5 $ ( # '"
+2026-11-15T09:54:33Z,46.150.85.166,23,telnet-negotiation,
+2026-11-15T09:57:42Z,138.226.239.233,2222,ssh-client,SSH-2.0-libssh_0.10.5
