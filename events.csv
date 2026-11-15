@@ -175976,3 +175976,12 @@ time_utc,ip,port,kind,client_data
 2026-11-15T19:25:25Z,195.178.110.78,23,other,root
 2026-11-15T19:25:26Z,195.178.110.78,23,other,usr
 2026-11-15T19:26:10Z,61.218.153.56,23,telnet-negotiation,
+2026-11-15T19:29:33Z,196.189.59.226,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 ~ ( Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sha1,"
+2026-11-15T19:29:36Z,196.189.59.226,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 x ;if GY V J` Kdiffie-hellman-group1-sha1,diffie-hellman-gro"
+2026-11-15T19:29:51Z,138.226.239.233,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-15T19:31:23Z,66.132.195.115,2222,ssh-client,SSH-2.0-Go
+2026-11-15T19:34:27Z,91.214.138.221,23,no-data,
+2026-11-15T19:34:30Z,91.214.138.221,23,no-data,
+2026-11-15T19:35:28Z,45.156.128.152,2323,no-data,
+2026-11-15T19:35:45Z,45.156.128.154,2323,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 AppleWebKit/537.36 (KHTM
+2026-11-15T19:36:15Z,45.156.128.152,2323,no-data,
