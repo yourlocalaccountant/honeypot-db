@@ -175482,3 +175482,5 @@ time_utc,ip,port,kind,client_data
 2026-11-15T16:07:41Z,120.26.86.156,2222,ssh-client,SSH-2.0-Go
 2026-11-15T16:09:07Z,188.239.81.137,23,telnet-negotiation,
 2026-11-15T16:14:30Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-15T16:16:30Z,164.30.7.153,3389,rdp-request,
+2026-11-15T16:24:09Z,188.239.81.137,23,telnet-negotiation,
