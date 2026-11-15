@@ -175484,3 +175484,23 @@ time_utc,ip,port,kind,client_data
 2026-11-15T16:14:30Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
 2026-11-15T16:16:30Z,164.30.7.153,3389,rdp-request,
 2026-11-15T16:24:09Z,188.239.81.137,23,telnet-negotiation,
+2026-11-15T16:25:19Z,164.30.7.153,3389,rdp-request,
+2026-11-15T16:26:13Z,138.226.239.233,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-15T16:27:41Z,147.185.133.214,3389,rdp-request,"'"" Cookie: mstshash=NaMvYgflJ"
+2026-11-15T16:27:41Z,147.185.133.214,3389,rdp-request,",' Cookie: mstshash=oDWYRx"
+2026-11-15T16:27:42Z,147.185.133.214,3389,no-data,
+2026-11-15T16:27:42Z,147.185.133.214,3389,rdp-request,",' Cookie: mstshash=migykG"
+2026-11-15T16:28:17Z,34.1.236.21,3389,rdp-request,
+2026-11-15T16:28:18Z,34.1.236.21,3389,tls-handshake,"h < Z 4 = | RB o N  . _K> $j g S x0 LJ / 2 + / , 0 / 5 # ' <"
+2026-11-15T16:28:19Z,34.1.236.21,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-15T16:28:19Z,34.1.236.21,3389,other,; admin.$cmd hello ?
+2026-11-15T16:28:20Z,34.1.236.21,3389,other,F~ + WZ $O mzh B Sn @ e @ 7 > 2- R 2l V R
+2026-11-15T16:28:25Z,34.1.236.21,3389,no-data,
+2026-11-15T16:28:31Z,34.1.236.21,3389,no-data,
+2026-11-15T16:28:36Z,34.1.236.21,3389,no-data,
+2026-11-15T16:28:42Z,34.1.236.21,3389,no-data,
+2026-11-15T16:29:21Z,218.158.190.6,23,telnet-negotiation,
+2026-11-15T16:33:28Z,189.56.0.19,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 {w ~p4 S LD Kdiffie-hellman-group1-sha1,diffie-hellman-group"
+2026-11-15T16:33:35Z,61.177.36.109,2222,no-data,
+2026-11-15T16:34:11Z,164.30.7.153,3389,rdp-request,
+2026-11-15T16:34:40Z,190.103.150.18,23,telnet-negotiation,
