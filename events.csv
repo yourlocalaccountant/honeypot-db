@@ -174824,3 +174824,13 @@ time_utc,ip,port,kind,client_data
 2026-11-15T12:10:38Z,77.239.124.252,23,other,root
 2026-11-15T12:10:39Z,77.239.124.252,23,other,usr
 2026-11-15T12:10:53Z,138.226.239.233,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-15T12:11:28Z,72.215.44.72,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 Yf1 Nj n w%1 Kdiffie-hellman-group1-sha1,diffie-hellman-grou"
+2026-11-15T12:11:30Z,110.25.110.134,2222,ssh-client,SSH-2.0-OpenSSH_7.4
+2026-11-15T12:14:31Z,80.66.83.43,3389,rdp-request,/* Cookie: mstshash=Administr
+2026-11-15T12:16:53Z,83.167.19.121,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 A0  X N T ># Kdiffie-hellman-group1-sha1,diffie-hellman-grou"
+2026-11-15T12:16:56Z,122.170.99.195,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 W 1x `C ,! Kdiffie-hellman-group1-sha1,diffie-hellman-group1"
+2026-11-15T12:18:17Z,35.210.94.98,23,no-data,
+2026-11-15T12:19:16Z,211.185.81.26,23,telnet-negotiation,
+2026-11-15T12:20:13Z,35.206.155.153,23,no-data,
+2026-11-15T12:20:57Z,35.206.155.153,23,telnet-negotiation,& &
+2026-11-15T12:20:58Z,35.206.155.153,23,telnet-negotiation,%   NTLMSSP
