@@ -176056,3 +176056,41 @@ time_utc,ip,port,kind,client_data
 2026-11-15T20:09:30Z,80.94.95.116,2222,ssh-client,SSH-2.0-libssh_0.10.5
 2026-11-15T20:10:45Z,61.218.153.56,23,telnet-negotiation,
 2026-11-15T20:12:42Z,212.66.38.73,23,no-data,
+2026-11-15T20:17:07Z,212.66.38.73,23,no-data,
+2026-11-15T20:20:26Z,138.226.239.233,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-15T20:20:50Z,191.241.142.217,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 k e. OI Fh Kdiffie-hellman-group1-sha1,diffie-hellman-group1"
+2026-11-15T20:20:57Z,210.5.117.238,2222,ssh-client,SSH-2.0-OpenSSH_7.4
+2026-11-15T20:24:29Z,149.54.62.162,2222,ssh-client,SSH-2.0-OpenSSH_7.4
+2026-11-15T20:24:31Z,85.62.28.108,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 p W |, Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sh"
+2026-11-15T20:25:48Z,61.218.153.56,23,telnet-negotiation,
+2026-11-15T20:26:03Z,35.214.199.138,2222,ssh-client,SSH-2.0-Fingerprintx-SSH2
+2026-11-15T20:26:03Z,35.214.199.138,2222,tls-handshake,"4 . Q8 UA k gu :S.P* [  p sy d ]L8 *!o @ 2 2 + / , 0 / 5 # ' <"
+2026-11-15T20:26:04Z,35.214.199.138,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-15T20:26:04Z,35.214.199.138,2222,other,; admin.$cmd hello ?
+2026-11-15T20:26:05Z,35.214.199.138,2222,other,T Y]b 1 F b b A F h? Ef 1! 7 j { R
+2026-11-15T20:26:06Z,35.214.199.138,2222,no-data,
+2026-11-15T20:26:06Z,35.214.199.138,2222,no-data,
+2026-11-15T20:26:07Z,35.214.199.138,2222,no-data,
+2026-11-15T20:26:07Z,35.214.199.138,2222,other,G version bind
+2026-11-15T20:26:08Z,35.214.199.138,2222,no-data,
+2026-11-15T20:26:08Z,35.214.199.138,2222,rdp-request,
+2026-11-15T20:26:09Z,35.214.199.138,2222,other,Not a command
+2026-11-15T20:26:10Z,35.214.199.138,2222,no-data,
+2026-11-15T20:26:10Z,35.214.199.138,2222,other,"X % & ' + , $ \ k < K { \2!$ 7 b9JF,"
+2026-11-15T20:26:11Z,35.214.199.138,2222,no-data,
+2026-11-15T20:26:11Z,35.214.199.138,2222,other,0: S `2 cn=xzurrfaurpjncggwygmx xzurrfaurpjncggwygmx
+2026-11-15T20:26:12Z,35.214.199.138,2222,other,# 3 adminclient-5 aTyLfQ
+2026-11-15T20:26:12Z,35.214.199.138,2222,other,C 3 consumer-Offset Explorer 2.2-18 apache-kafka-java 2.4.0
+2026-11-15T20:26:13Z,35.214.199.138,2222,no-data,
+2026-11-15T20:26:13Z,35.214.199.138,2222,other,(r |
+2026-11-15T20:26:14Z,35.214.199.138,2222,other,(
+2026-11-15T20:26:14Z,35.214.199.138,2222,other,f SMB@ $ 333333333333337
+2026-11-15T20:26:15Z,35.214.199.138,2222,other,*1 $4 PING
+2026-11-15T20:26:16Z,35.214.199.138,2222,other,JDWP-Handshake
+2026-11-15T20:26:16Z,35.214.199.138,2222,other,MQTT < AAAAA
+2026-11-15T20:26:17Z,35.214.199.138,2222,other,JRMI K
+2026-11-15T20:26:17Z,35.214.199.138,2222,other,MQTT < AAAAA
+2026-11-15T20:26:18Z,35.214.199.138,2222,other,"< , : (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-"
+2026-11-15T20:26:18Z,35.214.199.138,2222,other,'@RSYTCD: 29
+2026-11-15T20:26:19Z,35.214.199.138,2222,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 3137
+2026-11-15T20:26:19Z,35.214.199.138,2222,other,T user postgres database postgres application_name psql client_encoding UTF8
