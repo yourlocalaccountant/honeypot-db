@@ -175301,3 +175301,10 @@ time_utc,ip,port,kind,client_data
 2026-11-15T15:08:11Z,142.249.122.61,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 n H m =9 Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
 2026-11-15T15:09:03Z,188.239.81.137,23,telnet-negotiation,
 2026-11-15T15:11:58Z,164.30.7.153,3389,rdp-request,
+2026-11-15T15:14:59Z,47.254.192.213,3389,rdp-request,
+2026-11-15T15:15:09Z,47.254.192.213,3389,tls-handshake,"I i Y e- Ud] b8 g 9dZ8f g i N g|p <Z T 8'O; & + / , 0 / 5 {"
+2026-11-15T15:15:20Z,47.254.192.213,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: curl/7.64.1 Accept: */*
+2026-11-15T15:15:30Z,47.254.192.213,3389,other,'@ B sapdp00 4103 sapnw-pasapdp00
+2026-11-15T15:15:40Z,47.254.192.213,3389,other,'@ @
+2026-11-15T15:15:51Z,47.254.192.213,3389,other,'@ w startrfc 1100 default_startrfc.*
+2026-11-15T15:17:24Z,80.94.95.116,2222,ssh-client,SSH-2.0-libssh_0.10.5
