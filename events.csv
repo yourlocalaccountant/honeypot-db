@@ -176259,3 +176259,30 @@ time_utc,ip,port,kind,client_data
 2026-11-15T21:16:46Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
 2026-11-15T21:17:42Z,68.225.58.246,2222,ssh-client,SSH-2.0-OpenSSH_7.4
 2026-11-15T21:17:45Z,63.42.190.239,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 _  - ; Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sh"
+2026-11-15T21:19:28Z,193.194.107.42,23,telnet-negotiation,
+2026-11-15T21:21:16Z,156.225.1.104,3389,telnet-negotiation,NULL
+2026-11-15T21:21:17Z,156.225.1.104,3389,telnet-negotiation,NULL
+2026-11-15T21:21:20Z,156.225.1.104,3389,telnet-negotiation,NULL
+2026-11-15T21:21:25Z,156.225.1.104,3389,no-data,
+2026-11-15T21:21:26Z,156.225.1.104,3389,rdp-request,
+2026-11-15T21:21:26Z,156.225.1.104,3389,tls-handshake,"O Q} #z 9 :~ M  l w ; w F # G L%-]Z | + / , 0"
+2026-11-15T21:21:27Z,156.225.1.104,3389,http,GET / HTTP/1.1 Host: [redacted] Accept: */*
+2026-11-15T21:21:32Z,156.225.1.104,3389,no-data,
+2026-11-15T21:21:33Z,156.225.1.104,3389,other,USER anonymous
+2026-11-15T21:24:33Z,5.239.240.2,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 EN hE) 2 /V Kdiffie-hellman-group1-sha1,diffie-hellman-group"
+2026-11-15T21:24:36Z,125.212.222.96,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 o  'b ` Kdiffie-hellman-group1-sha1,diffie-hellman-group14-s"
+2026-11-15T21:25:50Z,170.64.215.19,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-15T21:25:50Z,170.64.215.19,3389,other,
+2026-11-15T21:25:50Z,170.64.215.19,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-11-15T21:25:50Z,170.64.215.19,3389,tls-handshake,"' x# q K | 2mb = L tA >p  )& R \  + S l & / 0 + , / 5 Y"
+2026-11-15T21:25:50Z,170.64.215.19,3389,tls-handshake,"D ) S@k 4 % ! / ""J] C   _ L ` < m @ i @ V( a/ & / 0 + , / 5 G"
+2026-11-15T21:25:50Z,170.64.215.19,3389,tls-handshake,"w Z /J + gs R  1 , | Q j +zv} d & / 0 + , / 5 G"
+2026-11-15T21:25:50Z,61.218.153.56,23,telnet-negotiation,
+2026-11-15T21:25:51Z,170.64.215.19,3389,other,*1 $4 PING
+2026-11-15T21:25:51Z,170.64.215.19,3389,other,4 hello $db admin
+2026-11-15T21:25:51Z,170.64.215.19,3389,other,: admin.$cmd isMaster
+2026-11-15T21:25:51Z,170.64.215.19,3389,other,fox a 1 -1 fox hello { fox.version=s:1.0 id=i:1 hostName=s:xpvm-0omdc01xmy hostA
+2026-11-15T21:25:51Z,170.64.215.19,3389,tls-handshake,"D-   w b< > 94z 9 t G } 8}  u i b 6 g+ I pZj_O \ & / 0 + , / 5 G"
+2026-11-15T21:25:51Z,170.64.215.19,3389,tls-handshake,"K 1 +T} ,+)U92 ' \n  7G@ ^j'y ? G }WW & & / 0 + , / 5 G"
+2026-11-15T21:25:51Z,170.64.215.19,3389,tls-handshake,"{ 6 5 ] _ g F  - [ +m$B uo ( # ,X3 l & / 0 + , / 5 G"
+2026-11-15T21:27:11Z,101.96.196.243,2222,ssh-client,SSH-2.0-libssh_0.9.6
