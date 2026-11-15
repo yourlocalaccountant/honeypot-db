@@ -175091,3 +175091,14 @@ time_utc,ip,port,kind,client_data
 2026-11-15T13:49:58Z,77.239.124.252,23,other,root
 2026-11-15T13:49:59Z,77.239.124.252,23,other,root
 2026-11-15T13:50:00Z,77.239.124.252,23,other,usr
+2026-11-15T13:54:08Z,24.234.131.229,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 p~ Vx 5 Y d q Kdiffie-hellman-group1-sha1,diffie-hellman-gro"
+2026-11-15T13:54:10Z,12.5.181.107,2222,ssh-client,SSH-2.0-OpenSSH_7.4
+2026-11-15T13:54:14Z,118.139.164.171,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-15T13:54:15Z,118.139.164.171,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-15T13:55:14Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-15T14:00:09Z,34.1.224.78,23,no-data,
+2026-11-15T14:01:32Z,35.214.216.251,23,no-data,
+2026-11-15T14:01:46Z,103.88.76.27,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-15T14:01:47Z,103.88.76.27,2222,ssh-client,SSH-2.0-libssh_0.9.6
+2026-11-15T14:02:13Z,35.214.216.251,23,telnet-negotiation,& &
+2026-11-15T14:02:14Z,35.214.216.251,23,telnet-negotiation,%   NTLMSSP
