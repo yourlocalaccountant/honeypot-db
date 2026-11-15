@@ -174431,3 +174431,7 @@ time_utc,ip,port,kind,client_data
 2026-11-15T09:54:31Z,87.236.176.161,3389,tls-handshake,"\w W:5 $ hj T0 ,K y A   e sv c 9 @ Q S 5 < + / , 0 / 5 $ ( # '"
 2026-11-15T09:54:33Z,46.150.85.166,23,telnet-negotiation,
 2026-11-15T09:57:42Z,138.226.239.233,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-15T10:01:36Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-15T10:01:49Z,71.6.134.204,2222,ssh-client,SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u7
+2026-11-15T10:02:56Z,85.12.242.146,2222,ssh-client,SSH-2.0-OpenSSH_7.4
+2026-11-15T10:03:02Z,182.156.35.238,2222,ssh-client,SSH-2.0-OpenSSH_7.4
