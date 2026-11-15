@@ -175102,3 +175102,5 @@ time_utc,ip,port,kind,client_data
 2026-11-15T14:01:47Z,103.88.76.27,2222,ssh-client,SSH-2.0-libssh_0.9.6
 2026-11-15T14:02:13Z,35.214.216.251,23,telnet-negotiation,& &
 2026-11-15T14:02:14Z,35.214.216.251,23,telnet-negotiation,%   NTLMSSP
+2026-11-15T14:04:27Z,80.94.95.116,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-15T14:06:26Z,201.34.174.181,23,telnet-negotiation,Admin
