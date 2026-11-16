@@ -176637,3 +176637,12 @@ time_utc,ip,port,kind,client_data
 2026-11-16T00:28:59Z,64.227.42.141,2222,http,"GET / HTTP/1.1 Host: [redacted] Connection: keep-alive sec-ch-ua: ""Chromium"";v="""
 2026-11-16T00:29:00Z,64.227.42.141,2222,http,"GET /favicon.ico HTTP/1.1 Host: [redacted] Connection: keep-alive sec-ch-ua: ""Ch"
 2026-11-16T00:32:31Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-16T00:41:35Z,62.108.202.22,23,telnet-negotiation,
+2026-11-16T00:42:13Z,3.129.187.38,23,other,
+2026-11-16T00:44:27Z,138.226.239.233,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-16T00:45:19Z,199.247.10.27,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-16T00:46:01Z,91.247.97.95,23,no-data,
+2026-11-16T00:46:53Z,91.247.97.95,23,no-data,
+2026-11-16T00:48:41Z,199.247.10.27,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-16T00:49:10Z,40.124.186.173,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-11-16T00:50:06Z,199.247.10.27,3389,rdp-request,'+& Cookie: mstshash=probe
