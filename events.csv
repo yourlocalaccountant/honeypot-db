@@ -179865,3 +179865,7 @@ time_utc,ip,port,kind,client_data
 2026-11-16T21:06:23Z,77.239.124.252,23,other,user
 2026-11-16T21:06:24Z,77.239.124.252,23,other,guest
 2026-11-16T21:07:47Z,112.166.31.254,3389,rdp-request,/* Cookie: mstshash=anonymous
+2026-11-16T21:12:22Z,172.81.134.161,3389,rdp-request,/* Cookie: mstshash=anonymous
+2026-11-16T21:18:12Z,43.106.17.250,2323,no-data,
+2026-11-16T21:20:06Z,191.44.112.76,23,telnet-negotiation,'
+2026-11-16T21:21:38Z,198.105.126.12,3389,rdp-request,/* Cookie: mstshash=anonymous
