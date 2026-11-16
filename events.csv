@@ -179198,3 +179198,8 @@ time_utc,ip,port,kind,client_data
 2026-11-16T16:49:21Z,65.20.104.251,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-16T16:49:26Z,222.104.76.94,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 :< R|pctPD Kdiffie-hellman-group1-sha1,diffie-hellman-group1"
 2026-11-16T16:49:30Z,49.124.149.20,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 & 7 j { d Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
+2026-11-16T16:51:44Z,65.20.104.251,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-16T16:55:25Z,65.20.104.251,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-16T16:56:16Z,91.235.145.98,23,telnet-negotiation,
+2026-11-16T16:57:58Z,65.20.104.251,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-16T17:00:18Z,65.20.104.251,3389,rdp-request,'+& Cookie: mstshash=probe
