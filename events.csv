@@ -177735,3 +177735,15 @@ time_utc,ip,port,kind,client_data
 2026-11-16T07:09:03Z,78.128.112.74,2222,ssh-client,SSH-2.0-Go
 2026-11-16T07:09:17Z,199.247.10.27,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-16T07:12:05Z,199.247.10.27,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-16T07:14:45Z,199.247.10.27,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-16T07:16:02Z,199.247.10.27,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-16T07:19:18Z,199.247.10.27,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-16T07:21:26Z,199.247.10.27,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-16T07:21:35Z,165.154.164.57,2323,tls-handshake,"_. ZU l % ~ / # m$ BYt ^v  s wd W 0 E? \ 4 / 0 + , 3 = 9 /"
+2026-11-16T07:21:41Z,165.154.164.57,2323,no-data,
+2026-11-16T07:21:41Z,165.154.164.57,2323,telnet-negotiation,IBM-3279-4-E
+2026-11-16T07:21:42Z,165.154.164.57,2323,http,"GET / HTTP/1.1 Host: [redacted] Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q"
+2026-11-16T07:21:43Z,165.154.164.57,2323,other,
+2026-11-16T07:21:43Z,165.154.164.57,2323,other,github.com PGET / HTTP/1.0
+2026-11-16T07:21:44Z,165.154.164.57,2323,rdp-request,
+2026-11-16T07:21:44Z,165.154.164.57,2323,rdp-request,3. Cookie: mstshash=Administrator
