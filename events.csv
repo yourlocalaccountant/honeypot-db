@@ -179920,3 +179920,13 @@ time_utc,ip,port,kind,client_data
 2026-11-16T21:41:53Z,195.178.110.78,23,other,user
 2026-11-16T21:41:54Z,195.178.110.78,23,other,guest
 2026-11-16T21:42:24Z,160.119.66.206,23,other,root
+2026-11-16T21:44:43Z,69.5.169.70,2323,no-data,
+2026-11-16T21:46:47Z,20.29.52.191,2222,ssh-client,SSH-2.0-Go
+2026-11-16T21:47:44Z,201.28.171.203,2222,ssh-client,SSH-2.0-OpenSSH_7.4
+2026-11-16T21:47:45Z,80.223.198.246,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 j ?mF6 Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sh"
+2026-11-16T21:47:47Z,179.184.218.49,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 # p jj N Kdiffie-hellman-group1-sha1,diffie-hellman-group14-"
+2026-11-16T21:47:48Z,115.245.122.146,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 Fx aF"" "" L p Kdiffie-hellman-group1-sha1,diffie-hellman-grou"
+2026-11-16T21:48:17Z,82.147.85.101,3389,rdp-request,
+2026-11-16T21:49:08Z,82.147.85.101,3389,other,"/   ! "" &"
+2026-11-16T21:50:06Z,178.165.32.187,23,telnet-negotiation,
+2026-11-16T21:52:55Z,81.127.149.116,23,no-data,
