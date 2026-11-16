@@ -179998,3 +179998,15 @@ time_utc,ip,port,kind,client_data
 2026-11-16T22:02:58Z,77.239.124.252,23,other,admin
 2026-11-16T22:02:59Z,77.239.124.252,23,other,admin
 2026-11-16T22:03:00Z,77.239.124.252,23,other,admin
+2026-11-16T22:03:02Z,77.239.124.252,23,other,root
+2026-11-16T22:03:07Z,77.239.124.252,23,no-data,
+2026-11-16T22:03:57Z,184.82.144.51,23,no-data,
+2026-11-16T22:04:33Z,94.26.106.220,23,telnet-negotiation,root
+2026-11-16T22:05:56Z,94.26.106.220,23,telnet-negotiation,root
+2026-11-16T22:06:58Z,94.26.106.220,23,telnet-negotiation,admin
+2026-11-16T22:07:42Z,94.26.106.220,23,telnet-negotiation,admin
+2026-11-16T22:08:13Z,94.26.106.220,23,telnet-negotiation,user
+2026-11-16T22:08:42Z,94.26.106.220,23,telnet-negotiation,admin
+2026-11-16T22:09:06Z,94.26.106.220,23,telnet-negotiation,user
+2026-11-16T22:09:25Z,94.26.106.220,23,telnet-negotiation,admin
+2026-11-16T22:09:46Z,94.26.106.220,23,no-data,
