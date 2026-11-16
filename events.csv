@@ -176792,3 +176792,15 @@ time_utc,ip,port,kind,client_data
 2026-11-16T01:56:28Z,199.247.10.27,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-16T01:58:09Z,199.247.10.27,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-16T01:59:24Z,199.247.10.27,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-16T02:02:26Z,93.158.90.163,3389,no-data,
+2026-11-16T02:02:26Z,93.158.90.163,3389,tls-handshake,"h ! X , U d} R r T 0  g ) ] Rd 8. N *vVu { + / , 0"
+2026-11-16T02:02:27Z,93.158.90.168,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-16T02:02:43Z,199.247.10.27,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-16T02:03:05Z,40.124.123.61,3389,tls-handshake,"b * 4 l! G  z  o 7 3CE O 7 !: W $ & / 0 + , / 5 {"
+2026-11-16T02:04:02Z,199.247.10.27,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-16T02:05:08Z,58.57.154.146,2222,no-data,
+2026-11-16T02:05:10Z,103.191.204.229,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 V ($K *) hs@ Kdiffie-hellman-group1-sha1,diffie-hellman-grou"
+2026-11-16T02:06:04Z,199.247.10.27,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-16T02:06:36Z,80.94.95.116,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-16T02:09:17Z,199.247.10.27,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-16T02:10:37Z,184.105.247.196,23,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 6.1; ) Apple
