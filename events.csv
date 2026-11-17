@@ -182191,3 +182191,13 @@ time_utc,ip,port,kind,client_data
 2026-11-17T10:19:13Z,35.210.156.19,2222,other,'@RSYTCD: 29
 2026-11-17T10:19:14Z,35.210.156.19,2222,other,T user postgres database postgres application_name psql client_encoding UTF8
 2026-11-17T10:19:15Z,35.210.156.19,2222,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 9234
+2026-11-17T10:21:34Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T10:22:08Z,172.104.215.178,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS
+2026-11-17T10:22:08Z,172.104.215.178,2222,tls-handshake,{ w ] g > b)< F 3 ay ` 5M / + / 5 4
+2026-11-17T10:25:14Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T10:26:12Z,98.80.4.66,23,telnet-negotiation,
+2026-11-17T10:27:41Z,67.207.95.46,2222,http,"GET / HTTP/1.1 Host: [redacted] Connection: keep-alive sec-ch-ua: ""Google Chrome"
+2026-11-17T10:27:41Z,67.207.95.46,2222,http,"GET /favicon.ico HTTP/1.1 Host: [redacted] Connection: keep-alive sec-ch-ua: ""Go"
+2026-11-17T10:28:52Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T10:30:30Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T10:30:39Z,162.216.149.155,2222,ssh-client,SSH-2.0-ZGrab ZGrab SSH Survey
