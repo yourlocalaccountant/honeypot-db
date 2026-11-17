@@ -180462,3 +180462,7 @@ time_utc,ip,port,kind,client_data
 2026-11-17T01:28:02Z,37.79.241.252,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 0K&4t, V 6 w Kdiffie-hellman-group1-sha1,diffie-hellman-grou"
 2026-11-17T01:28:56Z,98.122.215.23,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 [s ! Q6! . Kdiffie-hellman-group1-sha1,diffie-hellman-group1"
 2026-11-17T01:32:28Z,176.67.17.39,23,no-data,
+2026-11-17T01:40:50Z,116.59.10.150,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 6 7P1 z< 1 Kdiffie-hellman-group1-sha1,diffie-hellman-group1"
+2026-11-17T01:40:57Z,183.104.242.82,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 U Se HZ e O Kdiffie-hellman-group1-sha1,diffie-hellman-group"
+2026-11-17T01:40:58Z,74.244.184.251,2222,no-data,
+2026-11-17T01:42:20Z,31.184.195.248,3389,tls-handshake,"o k RH # :N / T y h =""   , n Y bhl (=': o ( 9 k 5 = # ' 3 g 2 / <"
