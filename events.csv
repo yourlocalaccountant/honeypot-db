@@ -182933,3 +182933,59 @@ time_utc,ip,port,kind,client_data
 2026-11-17T15:08:12Z,95.32.198.154,23,telnet-negotiation,
 2026-11-17T15:13:02Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-17T15:15:16Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T15:17:39Z,138.68.29.31,3389,rdp-request,
+2026-11-17T15:17:39Z,138.68.29.31,3389,rdp-request,
+2026-11-17T15:17:39Z,138.68.29.31,3389,rdp-request,
+2026-11-17T15:17:41Z,68.183.20.26,3389,tls-handshake,"*gy ,; W : ,eB`) m <   } t u$FS 7] R* 5r A = 5 < /"
+2026-11-17T15:17:41Z,68.183.20.26,3389,tls-handshake,"7/ / R + Th ,{ 5{ Z My X 5 b a>h - ^p { 3 g 9 k E #"
+2026-11-17T15:17:42Z,68.183.20.26,3389,tls-handshake,J F ' K 3T > A<{ I@ y~ w   O J i* T u o ` D ' / ( 0 ` a v w / <
+2026-11-17T15:17:42Z,68.183.20.26,3389,tls-handshake,"X T ] \P ie i M ^> | 9  {F t 2> E N ^k T ~I$ F s r , $ + #"
+2026-11-17T15:17:42Z,68.183.20.26,3389,tls-handshake,b* 3 - pk!6 s! !)(   E 5C `. Sc? r 0) ' / ( 0 ` a v w / <
+2026-11-17T15:17:43Z,68.183.20.26,3389,tls-handshake,ky yZ \ d o=~ o 2S   ! Io/g k s 8 ? ]H0A 3 g 9 k E #
+2026-11-17T15:17:43Z,68.183.20.26,3389,tls-handshake,{ 'v ! ;$ > ' Io t  W y Y R q @ ;M/ f i< v 3 g 9 k E #
+2026-11-17T15:17:44Z,68.183.20.26,3389,tls-handshake,1 6 dV X }E `!lr R U   m N7 c z oS 9 ; no A = 5 < /
+2026-11-17T15:17:44Z,68.183.20.26,3389,tls-handshake,Uo l$slkV} ?/ d ;k/`   s |gz C G F A y E Y 3 g 9 k E #
+2026-11-17T15:17:44Z,68.183.20.26,3389,tls-handshake,"h' \ -AgU / q\ ik ~: _"" \ U 7E 6twY I ?'8 ' / ( 0 ` a v w / <"
+2026-11-17T15:18:37Z,165.22.11.164,3389,tls-handshake,"} s w4,i ta R` J I0 6 $  _v % ,$&3 3 (2 ?G 2 # + , ' / 0 / < 5"
+2026-11-17T15:18:40Z,142.93.243.36,3389,no-data,
+2026-11-17T15:18:40Z,142.93.243.36,3389,rdp-request,*% Cookie: mstshash=beio
+2026-11-17T15:18:40Z,142.93.243.36,3389,tls-handshake,"i e U random1random2random3random4 / 9 0 , *"
+2026-11-17T15:18:41Z,142.93.243.36,3389,other,
+2026-11-17T15:18:41Z,142.93.243.36,3389,rdp-request,
+2026-11-17T15:18:41Z,142.93.243.36,3389,rdp-request,",' Cookie: mstshash=Administrator"
+2026-11-17T15:18:42Z,142.93.243.36,3389,http,GET / HTTP/1.0
+2026-11-17T15:18:42Z,142.93.243.36,3389,http,OPTIONS / HTTP/1.0
+2026-11-17T15:18:43Z,142.93.243.36,3389,http,OPTIONS / RTSP/1.0
+2026-11-17T15:18:43Z,142.93.243.36,3389,other,(r |
+2026-11-17T15:18:43Z,142.93.243.36,3389,other,version bind
+2026-11-17T15:18:44Z,142.93.243.36,3389,other,
+2026-11-17T15:18:44Z,142.93.243.36,3389,other,HELP
+2026-11-17T15:18:45Z,142.93.243.36,3389,other,qj n0 k ^0\ P NM 0 0 krbtgt NM 19700101000000Z 0
+2026-11-17T15:18:45Z,142.93.243.36,3389,tls-handshake,"S O ?G , `~ { w <= o n ( f e d c b a `"
+2026-11-17T15:18:46Z,142.93.243.36,3389,http,GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0
+2026-11-17T15:18:46Z,142.93.243.36,3389,other,SMBr @ @ PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 L
+2026-11-17T15:18:46Z,142.93.243.36,3389,other,l
+2026-11-17T15:18:47Z,142.93.243.36,3389,other,0 - c $ d objectClass0
+2026-11-17T15:18:47Z,142.93.243.36,3389,other,default
+2026-11-17T15:18:48Z,142.93.243.36,3389,http,OPTIONS sip:nm SIP/2.0 Via: SIP/2.0/TCP nm;branch=foo From: <sip:nm@nm>;tag=root
+2026-11-17T15:18:48Z,142.93.243.36,3389,other,0 `
+2026-11-17T15:18:48Z,142.93.243.36,3389,other,TNMP TNME
+2026-11-17T15:18:49Z,142.93.243.36,3389,other,: / @ = / @
+2026-11-17T15:18:49Z,142.93.243.36,3389,other,DmdT
+2026-11-17T15:18:50Z,142.93.243.36,3389,other,JRMI K
+2026-11-17T15:18:50Z,142.93.243.36,3389,other,MMS N S P l a y e r / 9 . . . 9 8 ;   { A A - A - a - A A
+2026-11-17T15:18:50Z,142.93.243.36,3389,other,"Z 6 ,   : (CONNECT_DATA=(COMMAND=version))"
+2026-11-17T15:18:51Z,142.93.243.36,3389,other,
+2026-11-17T15:18:51Z,142.93.243.36,3389,other,4 ( U MSSQLServer H
+2026-11-17T15:18:52Z,142.93.243.36,3389,other,87 &
+2026-11-17T15:18:52Z,142.93.243.36,3389,other,GIOP $ abcdef get
+2026-11-17T15:18:52Z,142.93.243.36,3389,other,LIORL c d   ` h t t p : / / 1 9 2 . 1 6 8 . 1 0 . 1 0 0 / m s m q /
+2026-11-17T15:18:53Z,142.93.243.36,3389,other,
+2026-11-17T15:18:53Z,142.93.243.36,3389,other,'+<M none beio
+2026-11-17T15:18:53Z,142.93.243.36,3389,other,_@ 7 InitiatorName=iqn.1991-05.com.microsoft:beio-iscsi-probe SessionType=Dis
+2026-11-17T15:18:54Z,142.93.243.36,3389,other,
+2026-11-17T15:18:54Z,142.93.243.36,3389,other,ANY-SCP FINDSCU 1.2.840.10008.x.x.x.x  . 0 x.x.x.x
+2026-11-17T15:18:55Z,142.93.243.36,3389,other,I20100
+2026-11-17T15:19:01Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T15:20:58Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T15:23:57Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
