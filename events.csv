@@ -180288,3 +180288,5 @@ time_utc,ip,port,kind,client_data
 2026-11-16T23:56:11Z,195.178.110.78,23,other,user
 2026-11-16T23:56:12Z,195.178.110.78,23,other,guest
 2026-11-16T23:56:12Z,195.178.110.78,23,other,user
+2026-11-17T00:12:50Z,125.130.102.172,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 g )i Y @] Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
+2026-11-17T00:12:52Z,69.124.251.147,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 JY xH N4_ @ Kdiffie-hellman-group1-sha1,diffie-hellman-group"
