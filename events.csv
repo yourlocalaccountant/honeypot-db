@@ -181399,3 +181399,15 @@ time_utc,ip,port,kind,client_data
 2026-11-17T06:45:17Z,180.184.26.51,2222,no-data,
 2026-11-17T06:45:17Z,180.184.26.51,2222,ssh-client,SSH-2.0-Go
 2026-11-17T06:46:00Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T06:49:49Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T06:50:03Z,206.189.223.203,23,telnet-negotiation,
+2026-11-17T06:50:46Z,64.62.197.212,3389,no-data,
+2026-11-17T06:52:19Z,87.251.64.50,3389,rdp-request,/* Cookie: mstshash=Administr
+2026-11-17T06:53:16Z,66.132.195.55,3389,rdp-request,&! Cookie: mstshash=
+2026-11-17T06:53:29Z,66.132.195.55,3389,tls-handshake,"( yO S+ C R  b {n` E  v|Co K4 4 lW V } v & / 0 + , / 5 G"
+2026-11-17T06:53:30Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T06:53:33Z,66.132.195.55,3389,http,GET / HTTP/1.1 Host: [redacted]
+2026-11-17T06:53:34Z,66.132.195.55,3389,http,GET / HTTP/1.1 Host: [redacted] Connection: Upgrade Sec-WebSocket-Key: r7WCZeKOp
+2026-11-17T06:53:41Z,66.132.195.55,3389,other,(
+2026-11-17T06:54:35Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T06:58:12Z,50.116.10.167,23,no-data,
