@@ -181618,3 +181618,31 @@ time_utc,ip,port,kind,client_data
 2026-11-17T07:58:39Z,195.178.110.78,23,other,user
 2026-11-17T07:58:40Z,195.178.110.78,23,other,guest
 2026-11-17T07:58:40Z,195.178.110.78,23,other,user
+2026-11-17T07:59:30Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T08:03:37Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:03:49Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:04:02Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:04:15Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:04:28Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:04:41Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:04:48Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T08:04:54Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:05:07Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:05:20Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:05:33Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:05:46Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:05:59Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:06:12Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:06:14Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T08:06:25Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:06:38Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:06:51Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:07:04Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:07:17Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:07:30Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:07:43Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:07:56Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:08:09Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:08:22Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:08:35Z,139.135.59.84,23,telnet-negotiation,
+2026-11-17T08:08:48Z,139.135.59.84,23,telnet-negotiation,
