@@ -182201,3 +182201,37 @@ time_utc,ip,port,kind,client_data
 2026-11-17T10:28:52Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-17T10:30:30Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-17T10:30:39Z,162.216.149.155,2222,ssh-client,SSH-2.0-ZGrab ZGrab SSH Survey
+2026-11-17T10:33:28Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T10:38:19Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T10:40:39Z,35.210.139.246,2222,ssh-client,SSH-2.0-Fingerprintx-SSH2
+2026-11-17T10:40:39Z,35.210.139.246,2222,tls-handshake,"oL @r i `$X % G _   d N 4 2 | }C TP 3 2 + / , 0 / 5 # ' <"
+2026-11-17T10:40:40Z,35.210.139.246,2222,other,; admin.$cmd hello ?
+2026-11-17T10:40:41Z,35.210.139.246,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-17T10:40:41Z,35.210.139.246,2222,other,"1Q? ^ q hRsrZYC ! Ib X} [, n (#Y E, . q"
+2026-11-17T10:40:42Z,35.210.139.246,2222,no-data,
+2026-11-17T10:40:43Z,35.210.139.246,2222,no-data,
+2026-11-17T10:40:43Z,35.210.139.246,2222,no-data,
+2026-11-17T10:40:44Z,35.210.139.246,2222,other,c version bind
+2026-11-17T10:40:45Z,35.210.139.246,2222,no-data,
+2026-11-17T10:40:45Z,35.210.139.246,2222,rdp-request,
+2026-11-17T10:40:46Z,35.210.139.246,2222,other,Not a command
+2026-11-17T10:40:47Z,35.210.139.246,2222,no-data,
+2026-11-17T10:40:47Z,35.210.139.246,2222,other,"X % & ' + , $ \ k < K { \2!$ 7 b9JF,"
+2026-11-17T10:40:48Z,35.210.139.246,2222,other,0: . `2 cn=hwwvzeljcxavvvhlnkdx hwwvzeljcxavvvhlnkdx
+2026-11-17T10:40:49Z,35.210.139.246,2222,no-data,
+2026-11-17T10:40:49Z,35.210.139.246,2222,other,C 3 consumer-Offset Explorer 2.2-18 apache-kafka-java 2.4.0
+2026-11-17T10:40:50Z,35.210.139.246,2222,other,# 3 adminclient-5 nWZccY
+2026-11-17T10:40:51Z,35.210.139.246,2222,no-data,
+2026-11-17T10:40:51Z,35.210.139.246,2222,other,(r |
+2026-11-17T10:40:52Z,35.210.139.246,2222,other,'+
+2026-11-17T10:40:52Z,35.210.139.246,2222,other,f SMB@ $ 333333333333337
+2026-11-17T10:40:53Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T10:40:53Z,35.210.139.246,2222,other,*1 $4 PING
+2026-11-17T10:40:53Z,35.210.139.246,2222,other,MQTT < AAAAA
+2026-11-17T10:40:54Z,35.210.139.246,2222,other,JDWP-Handshake
+2026-11-17T10:40:55Z,35.210.139.246,2222,other,JRMI K
+2026-11-17T10:40:55Z,35.210.139.246,2222,other,MQTT < AAAAA
+2026-11-17T10:40:56Z,35.210.139.246,2222,other,'@RSYTCD: 29
+2026-11-17T10:40:57Z,35.210.139.246,2222,other,"< , : (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-"
+2026-11-17T10:40:57Z,35.210.139.246,2222,other,T user postgres database postgres application_name psql client_encoding UTF8
+2026-11-17T10:40:58Z,35.210.139.246,2222,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 9588
