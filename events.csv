@@ -182926,3 +182926,10 @@ time_utc,ip,port,kind,client_data
 2026-11-17T14:57:28Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-17T15:00:54Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-17T15:04:09Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T15:06:38Z,77.90.185.14,2222,no-data,
+2026-11-17T15:07:46Z,183.131.107.183,2222,no-data,
+2026-11-17T15:07:47Z,183.131.107.183,2222,ssh-client,SSH-2.0-Go
+2026-11-17T15:07:59Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T15:08:12Z,95.32.198.154,23,telnet-negotiation,
+2026-11-17T15:13:02Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T15:15:16Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
