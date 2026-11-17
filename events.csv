@@ -182060,3 +182060,10 @@ time_utc,ip,port,kind,client_data
 2026-11-17T09:36:44Z,60.172.23.9,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 8 & 8 _ V5 Kdiffie-hellman-group1-sha1,diffie-hellman-group1"
 2026-11-17T09:38:36Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-17T09:39:06Z,66.228.62.150,2222,http,GET / HTTP/1.1 Host: [redacted] Accept: */* Accept-Encoding: gzip User-Agent: Mo
+2026-11-17T09:42:47Z,77.222.106.165,3389,no-data,
+2026-11-17T09:42:47Z,77.222.106.165,3389,rdp-request,&! Cookie: mstshash=
+2026-11-17T09:43:04Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T09:47:18Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-17T09:48:18Z,85.11.167.38,23,ssh-client,SSH-2.0-libssh_0.12.0
+2026-11-17T09:48:24Z,85.11.167.38,2222,ssh-client,SSH-2.0-libssh_0.12.0
+2026-11-17T09:50:16Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
