@@ -180627,3 +180627,9 @@ time_utc,ip,port,kind,client_data
 2026-11-17T02:25:40Z,187.50.194.182,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 i ' yE ( W Kdiffie-hellman-group1-sha1,diffie-hellman-group1"
 2026-11-17T02:26:41Z,49.124.151.64,2222,no-data,
 2026-11-17T02:34:47Z,20.168.123.59,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 zgrab/0.x Accept: */* Ac
+2026-11-17T02:41:12Z,153.0.250.13,2222,no-data,
+2026-11-17T02:41:21Z,122.96.28.154,2222,ssh-client,SSH-2.0-Go
+2026-11-17T02:41:23Z,220.202.112.15,2222,ssh-client,SSH-2.0-Go
+2026-11-17T02:41:25Z,220.202.112.130,2222,no-data,
+2026-11-17T02:41:26Z,111.113.88.53,2222,ssh-client,SSH-2.0-Go
+2026-11-17T02:45:12Z,20.12.243.124,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 zgrab/0.x Accept: */* Ac
