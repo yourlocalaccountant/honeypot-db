@@ -185625,3 +185625,12 @@ time_utc,ip,port,kind,client_data
 2026-11-18T03:05:41Z,35.210.86.84,2222,other,'@RSYTCD: 29
 2026-11-18T03:05:42Z,35.210.86.84,2222,other,T user postgres database postgres application_name psql client_encoding UTF8
 2026-11-18T03:05:43Z,35.210.86.84,2222,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 7239
+2026-11-18T03:06:21Z,109.123.227.33,3389,rdp-request,
+2026-11-18T03:08:41Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-18T03:08:44Z,91.231.89.82,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T03:08:56Z,109.123.227.33,3389,rdp-request,
+2026-11-18T03:11:31Z,109.123.227.33,3389,rdp-request,
+2026-11-18T03:11:49Z,91.231.89.15,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T03:12:15Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-18T03:14:04Z,109.123.227.33,3389,rdp-request,
+2026-11-18T03:14:38Z,91.196.152.212,2222,ssh-client,SSH-2.0-perlssh
