@@ -187195,3 +187195,10 @@ time_utc,ip,port,kind,client_data
 2026-11-18T19:56:35Z,91.231.89.139,2222,ssh-client,SSH-2.0-perlssh
 2026-11-18T19:58:36Z,91.231.89.124,2222,ssh-client,SSH-2.0-perlssh
 2026-11-18T20:00:40Z,91.231.89.238,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T20:03:35Z,91.231.89.180,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T20:06:34Z,91.231.89.54,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T20:09:22Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-18T20:09:38Z,91.196.152.182,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T20:10:00Z,70.61.94.82,23,telnet-negotiation,
+2026-11-18T20:10:41Z,221.152.136.35,23,telnet-negotiation,
+2026-11-18T20:11:39Z,91.231.89.144,2222,ssh-client,SSH-2.0-perlssh
