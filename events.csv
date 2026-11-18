@@ -187224,3 +187224,10 @@ time_utc,ip,port,kind,client_data
 2026-11-18T20:42:44Z,91.196.152.139,2222,ssh-client,SSH-2.0-perlssh
 2026-11-18T20:44:31Z,91.231.89.48,2222,ssh-client,SSH-2.0-perlssh
 2026-11-18T20:44:44Z,82.147.85.101,3389,rdp-request,
+2026-11-18T20:45:05Z,82.147.85.101,3389,other,"/   ! "" &"
+2026-11-18T20:47:30Z,91.196.152.13,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T20:50:31Z,91.196.152.21,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T20:52:33Z,149.28.204.16,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-18T20:52:33Z,91.196.152.238,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T20:53:43Z,80.94.95.116,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-18T20:54:41Z,91.196.152.137,2222,ssh-client,SSH-2.0-perlssh
