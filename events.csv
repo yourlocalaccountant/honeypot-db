@@ -187178,3 +187178,20 @@ time_utc,ip,port,kind,client_data
 2026-11-18T19:52:03Z,195.96.139.119,3389,other,fox a 1 -1 fox hello { fox.version=s:1.0 id=i:1 };;
 2026-11-18T19:52:19Z,195.96.139.139,3389,other,!
 2026-11-18T19:52:34Z,195.96.139.130,3389,other,C = SessionType=Discovery MaxRecvDataSegmentLength=32768 HeaderDigest=None D
+2026-11-18T19:52:50Z,195.96.139.135,3389,other,"2 , A ^ m Z $ $ @ t G"
+2026-11-18T19:53:05Z,195.96.139.130,3389,other,ANY-SCP         ECHOSCU          1.2.840.10008.x.x.x.x  . 0 x.x.x.x
+2026-11-18T19:53:21Z,87.236.176.129,3389,other,"CONNECT accept-version:1.0,1.1,2.0"
+2026-11-18T19:53:35Z,91.196.152.216,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T19:53:36Z,195.96.139.128,3389,other,stats
+2026-11-18T19:53:52Z,195.96.139.136,3389,other,l
+2026-11-18T19:54:07Z,87.236.176.126,3389,other,"J I :{ tg. Sj Zd ""$WP7 i ) / & )6) yr+ ZE- FF g , pp $yC Zf D?K N G q Sv* 38A."
+2026-11-18T19:54:08Z,70.61.94.82,23,telnet-negotiation,
+2026-11-18T19:54:08Z,87.236.176.126,3389,other,version V * j
+2026-11-18T19:54:23Z,87.236.176.110,3389,other,HELFD $ opc.tcp://localHost: [redacted]
+2026-11-18T19:54:39Z,87.236.176.116,3389,other,'@ Q 8 <
+2026-11-18T19:54:54Z,195.96.139.139,3389,other,
+2026-11-18T19:55:10Z,195.96.139.121,3389,other,f e /00IDED
+2026-11-18T19:55:23Z,87.236.176.117,3389,tls-handshake,"} M %w K 4 ;u E  9L `  nS 0 a ] 2 A @!d } < + / , 0 / 5 $ ( # '"
+2026-11-18T19:56:35Z,91.231.89.139,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T19:58:36Z,91.231.89.124,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T20:00:40Z,91.231.89.238,2222,ssh-client,SSH-2.0-perlssh
