@@ -185835,3 +185835,25 @@ time_utc,ip,port,kind,client_data
 2026-11-18T05:08:55Z,112.170.199.133,23,telnet-negotiation,
 2026-11-18T05:09:14Z,109.123.227.33,3389,rdp-request,
 2026-11-18T05:09:44Z,91.196.152.139,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T05:10:37Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-18T05:11:46Z,109.123.227.33,3389,rdp-request,
+2026-11-18T05:12:45Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-18T05:12:47Z,91.231.89.38,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T05:14:18Z,109.123.227.33,3389,rdp-request,
+2026-11-18T05:15:30Z,91.231.89.188,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T05:15:58Z,149.6.24.245,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 mw w!<+ U Kdiffie-hellman-group1-sha1,diffie-hellman-group14"
+2026-11-18T05:16:00Z,70.183.226.52,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 H 3S Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sha1"
+2026-11-18T05:16:50Z,109.123.227.33,3389,rdp-request,
+2026-11-18T05:17:25Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-18T05:17:52Z,35.210.226.150,3389,rdp-request,
+2026-11-18T05:17:53Z,35.210.226.150,3389,other,; admin.$cmd hello ?
+2026-11-18T05:17:53Z,35.210.226.150,3389,tls-handshake,". t l { , l]9:I   .F s M <' $ag.D [c k$ t 2 + / , 0 / 5 # ' <"
+2026-11-18T05:17:54Z,35.210.226.150,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-18T05:17:55Z,35.210.226.150,3389,other,"% "" c O J2 IT {/ xu =I>3a 8 ^ Q Y +f N $M0"
+2026-11-18T05:18:00Z,35.210.226.150,3389,no-data,
+2026-11-18T05:18:04Z,35.210.226.150,3389,no-data,
+2026-11-18T05:18:09Z,35.210.226.150,3389,no-data,
+2026-11-18T05:18:14Z,35.210.226.150,3389,no-data,
+2026-11-18T05:18:32Z,91.231.89.152,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T05:19:22Z,109.123.227.33,3389,rdp-request,
+2026-11-18T05:19:30Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
