@@ -187029,3 +187029,20 @@ time_utc,ip,port,kind,client_data
 2026-11-18T18:12:33Z,91.231.89.112,2222,ssh-client,SSH-2.0-perlssh
 2026-11-18T18:14:31Z,91.196.152.122,2222,ssh-client,SSH-2.0-perlssh
 2026-11-18T18:17:40Z,91.231.89.37,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T18:20:04Z,80.66.83.80,3389,rdp-request,/* Cookie: mstshash=Administr
+2026-11-18T18:20:49Z,91.196.152.164,2222,no-data,
+2026-11-18T18:22:39Z,91.196.152.228,2222,no-data,
+2026-11-18T18:22:47Z,66.228.53.78,2323,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS
+2026-11-18T18:22:47Z,66.228.53.78,2323,tls-handshake,"{ w $ w i u |% "" = Y . a / + / 5 4"
+2026-11-18T18:23:21Z,165.227.30.127,23,other,root
+2026-11-18T18:23:23Z,165.227.30.127,23,other,admin
+2026-11-18T18:23:23Z,165.227.30.127,23,other,root
+2026-11-18T18:23:24Z,165.227.30.127,23,other,root
+2026-11-18T18:23:24Z,165.227.30.127,23,other,root
+2026-11-18T18:23:25Z,165.227.30.127,23,other,root
+2026-11-18T18:23:25Z,165.227.30.127,23,other,root
+2026-11-18T18:23:26Z,165.227.30.127,23,other,root
+2026-11-18T18:24:36Z,91.231.89.103,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T18:26:07Z,46.151.178.14,3389,rdp-request,"0, Cookie: mstshash=heinsenbug"
+2026-11-18T18:26:35Z,91.231.89.0,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T18:28:02Z,186.189.112.224,23,no-data,
