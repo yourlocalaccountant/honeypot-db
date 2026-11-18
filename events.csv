@@ -187125,3 +187125,13 @@ time_utc,ip,port,kind,client_data
 2026-11-18T19:16:50Z,169.212.149.252,23,telnet-negotiation,
 2026-11-18T19:17:32Z,91.196.152.32,2222,ssh-client,SSH-2.0-perlssh
 2026-11-18T19:20:44Z,91.196.152.151,2222,no-data,
+2026-11-18T19:21:10Z,24.245.133.212,23,telnet-negotiation,
+2026-11-18T19:22:33Z,91.196.152.240,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T19:22:53Z,118.244.227.181,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-11-18T19:24:36Z,179.38.149.132,23,no-data,
+2026-11-18T19:24:36Z,91.231.89.20,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T19:24:44Z,70.61.94.82,23,telnet-negotiation,
+2026-11-18T19:25:03Z,179.38.149.132,23,no-data,
+2026-11-18T19:26:43Z,91.196.152.154,2222,no-data,
+2026-11-18T19:28:40Z,91.231.89.137,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T19:30:37Z,91.196.152.70,2222,ssh-client,SSH-2.0-perlssh
