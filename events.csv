@@ -186231,3 +186231,19 @@ time_utc,ip,port,kind,client_data
 2026-11-18T09:09:32Z,103.131.61.163,23,telnet-negotiation,
 2026-11-18T09:09:36Z,91.231.89.112,2222,ssh-client,SSH-2.0-perlssh
 2026-11-18T09:11:00Z,109.123.227.33,3389,rdp-request,
+2026-11-18T09:12:38Z,91.231.89.17,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T09:12:45Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-18T09:13:09Z,109.123.227.33,3389,rdp-request,
+2026-11-18T09:15:13Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-18T09:15:18Z,109.123.227.33,3389,rdp-request,
+2026-11-18T09:15:44Z,91.196.152.69,2222,no-data,
+2026-11-18T09:17:27Z,109.123.227.33,3389,rdp-request,
+2026-11-18T09:18:39Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-18T09:18:41Z,91.231.89.134,2222,ssh-client,SSH-2.0-perlssh
+2026-11-18T09:19:36Z,109.123.227.33,3389,rdp-request,
+2026-11-18T09:19:41Z,73.13.201.160,23,no-data,
+2026-11-18T09:21:02Z,207.246.66.78,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-18T09:21:44Z,109.123.227.33,3389,rdp-request,
+2026-11-18T09:21:45Z,91.196.152.64,2222,no-data,
+2026-11-18T09:21:59Z,177.138.22.95,23,telnet-negotiation,
+2026-11-18T09:22:01Z,72.167.54.139,3389,rdp-request,'+& Cookie: mstshash=Almaz
