@@ -192696,3 +192696,21 @@ time_utc,ip,port,kind,client_data
 2026-11-19T21:00:24Z,94.231.206.36,2222,ssh-client,SSH-2.0-perlssh
 2026-11-19T21:00:31Z,91.231.89.208,2222,ssh-client,SSH-2.0-perlssh
 2026-11-19T21:02:39Z,91.196.152.173,2222,no-data,
+2026-11-19T21:03:25Z,94.231.206.104,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T21:05:31Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-19T21:05:41Z,91.196.152.53,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T21:06:28Z,94.231.206.6,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T21:07:20Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-19T21:08:09Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-19T21:08:38Z,91.196.152.14,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T21:09:10Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-19T21:09:25Z,94.231.206.34,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T21:09:45Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-19T21:10:11Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-19T21:11:12Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-19T21:11:20Z,35.203.211.76,2222,ssh-client,SSH-2.0-ZGrab ZGrab SSH Survey
+2026-11-19T21:11:38Z,91.196.152.16,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T21:12:22Z,188.251.232.108,23,no-data,
+2026-11-19T21:12:27Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-19T21:12:28Z,94.231.206.4,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T21:12:30Z,188.251.232.108,23,no-data,
