@@ -191128,3 +191128,16 @@ time_utc,ip,port,kind,client_data
 2026-11-19T12:58:43Z,91.231.89.39,2222,ssh-client,SSH-2.0-perlssh
 2026-11-19T12:59:31Z,94.231.206.9,2222,ssh-client,SSH-2.0-perlssh
 2026-11-19T12:59:35Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-19T13:01:29Z,94.231.206.14,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T13:01:39Z,91.196.152.3,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T13:02:57Z,66.132.172.178,2222,tls-handshake,"f\bc6 w s | . V  > * U /*% V ]X "" h Z & / 0 + , / 5 G"
+2026-11-19T13:03:06Z,66.132.172.178,2222,ssh-client,SSH-2.0-Go
+2026-11-19T13:03:30Z,91.196.152.216,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T13:04:26Z,94.231.206.111,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T13:04:35Z,31.135.45.223,23,telnet-negotiation,
+2026-11-19T13:05:37Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-19T13:06:20Z,31.57.37.64,3389,rdp-request,
+2026-11-19T13:06:27Z,94.231.206.8,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T13:06:46Z,91.196.152.222,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T13:09:24Z,94.231.206.104,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T13:09:43Z,91.231.89.16,2222,no-data,
