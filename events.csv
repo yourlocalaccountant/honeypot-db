@@ -191705,3 +191705,10 @@ time_utc,ip,port,kind,client_data
 2026-11-19T16:15:32Z,91.231.89.29,2222,ssh-client,SSH-2.0-perlssh
 2026-11-19T16:17:28Z,94.231.206.1,2222,ssh-client,SSH-2.0-perlssh
 2026-11-19T16:18:33Z,91.231.89.196,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T16:20:28Z,94.231.206.0,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T16:21:36Z,91.231.89.249,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T16:22:29Z,94.231.206.5,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T16:24:39Z,91.231.89.223,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T16:26:30Z,94.231.206.6,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T16:27:34Z,91.196.152.12,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T16:29:27Z,94.231.206.3,2222,ssh-client,SSH-2.0-perlssh
