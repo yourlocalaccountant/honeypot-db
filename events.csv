@@ -189442,3 +189442,14 @@ time_utc,ip,port,kind,client_data
 2026-11-19T05:16:56Z,64.205.72.158,3389,tls-handshake,"^ }I. v = )e R . ~J|2X  F p <b ~Zqo2 2^} M "" F + / , 0 / 5 ' #"
 2026-11-19T05:17:27Z,94.231.206.37,2222,ssh-client,SSH-2.0-perlssh
 2026-11-19T05:17:41Z,91.196.152.182,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T05:18:07Z,18.218.118.203,2222,ssh-client,SSH-2.0-Go
+2026-11-19T05:19:35Z,91.196.152.57,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T05:20:25Z,94.231.206.110,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T05:21:40Z,91.196.152.136,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T05:23:09Z,138.99.196.73,23,telnet-negotiation,
+2026-11-19T05:23:27Z,94.231.206.5,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T05:24:10Z,138.226.239.233,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-19T05:24:34Z,91.231.89.70,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T05:27:26Z,94.231.206.108,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T05:27:32Z,91.196.152.118,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T05:28:22Z,157.230.236.254,3389,tls-handshake,"; ! i U 9 .y U  :w h_ V ^/ X V < , 0 + / $ ( k # ' g 9"
