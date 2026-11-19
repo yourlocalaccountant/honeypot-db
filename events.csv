@@ -188545,3 +188545,59 @@ time_utc,ip,port,kind,client_data
 2026-11-19T02:18:59Z,149.28.204.16,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-19T02:20:18Z,149.28.204.16,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-19T02:20:30Z,94.231.206.5,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T02:21:35Z,91.231.89.169,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T02:22:07Z,149.28.204.16,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-19T02:22:24Z,94.231.206.39,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T02:23:22Z,149.28.204.16,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-19T02:24:07Z,149.28.204.16,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-19T02:24:35Z,91.231.89.11,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T02:25:02Z,70.61.94.82,23,telnet-negotiation,
+2026-11-19T02:26:07Z,149.28.204.16,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-19T02:26:20Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-19T02:26:28Z,94.231.206.13,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T02:26:51Z,35.210.205.135,3389,rdp-request,
+2026-11-19T02:26:52Z,35.210.205.135,3389,tls-handshake,"UU o` W H ~ ; lU   ' # m j [M 4 P P \ 2 + / , 0 / 5 # ' <"
+2026-11-19T02:26:52Z,91.231.89.138,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T02:26:53Z,35.210.205.135,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-19T02:26:53Z,35.210.205.135,3389,other,; admin.$cmd hello ?
+2026-11-19T02:26:54Z,35.210.205.135,3389,other,""" 7 TU \ I K > !U8K yDmK 33~]bpB8ZK ,Y <)"
+2026-11-19T02:26:59Z,35.210.205.135,3389,no-data,
+2026-11-19T02:27:03Z,149.28.204.16,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-19T02:27:05Z,35.210.205.135,3389,no-data,
+2026-11-19T02:27:10Z,35.210.205.135,3389,no-data,
+2026-11-19T02:27:16Z,35.210.205.135,3389,no-data,
+2026-11-19T02:27:42Z,35.210.38.21,2222,ssh-client,SSH-2.0-Fingerprintx-SSH2
+2026-11-19T02:27:42Z,35.210.38.21,2222,tls-handshake,"v Iv u DW f} / 1 d  fy rl W 3 n N [ W P 7 J 2 + / , 0 / 5 # ' <"
+2026-11-19T02:27:43Z,35.210.38.21,2222,other,; admin.$cmd hello ?
+2026-11-19T02:27:44Z,35.210.38.21,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-19T02:27:44Z,35.210.38.21,2222,other,) ^ | Z >m O ML 1 n]E4 [ > ) oe Y - e ?
+2026-11-19T02:27:45Z,35.210.38.21,2222,no-data,
+2026-11-19T02:27:46Z,35.210.38.21,2222,no-data,
+2026-11-19T02:27:46Z,35.210.38.21,2222,no-data,
+2026-11-19T02:27:46Z,35.210.38.21,2222,other,version bind
+2026-11-19T02:27:47Z,35.210.38.21,2222,no-data,
+2026-11-19T02:27:48Z,35.210.38.21,2222,rdp-request,
+2026-11-19T02:27:49Z,35.210.38.21,2222,no-data,
+2026-11-19T02:27:49Z,35.210.38.21,2222,other,Not a command
+2026-11-19T02:27:50Z,35.210.38.21,2222,other,0: L ]`2 cn=tqolnbztowqnrvjucfvn tqolnbztowqnrvjucfvn
+2026-11-19T02:27:50Z,35.210.38.21,2222,other,"X % & ' + , $ \ k < K { \2!$ 7 b9JF,"
+2026-11-19T02:27:51Z,35.210.38.21,2222,no-data,
+2026-11-19T02:27:51Z,35.210.38.21,2222,other,C 3 consumer-Offset Explorer 2.2-18 apache-kafka-java 2.4.0
+2026-11-19T02:27:52Z,35.210.38.21,2222,other,# 3 adminclient-5 ajiRZR
+2026-11-19T02:27:53Z,35.210.38.21,2222,no-data,
+2026-11-19T02:27:53Z,35.210.38.21,2222,other,(r |
+2026-11-19T02:27:54Z,35.210.38.21,2222,other,W
+2026-11-19T02:27:54Z,35.210.38.21,2222,other,f SMB@ $ 333333333333337
+2026-11-19T02:27:55Z,35.210.38.21,2222,other,*1 $4 PING
+2026-11-19T02:27:56Z,35.210.38.21,2222,other,JDWP-Handshake
+2026-11-19T02:27:56Z,35.210.38.21,2222,other,MQTT < AAAAA
+2026-11-19T02:27:57Z,35.210.38.21,2222,other,JRMI K
+2026-11-19T02:27:57Z,35.210.38.21,2222,other,MQTT < AAAAA
+2026-11-19T02:27:58Z,35.210.38.21,2222,other,'@RSYTCD: 29
+2026-11-19T02:27:59Z,35.210.38.21,2222,other,"< , : (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-"
+2026-11-19T02:27:59Z,35.210.38.21,2222,other,T user postgres database postgres application_name psql client_encoding UTF8
+2026-11-19T02:28:00Z,35.210.38.21,2222,http,OPTIONS rtsp://example.com RTSP/1.0 Cseq: 7645
+2026-11-19T02:28:48Z,149.28.204.16,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-19T02:29:33Z,91.231.89.152,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T02:29:33Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T02:30:08Z,149.28.204.16,3389,rdp-request,'+& Cookie: mstshash=probe
