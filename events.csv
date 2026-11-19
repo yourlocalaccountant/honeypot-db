@@ -190130,3 +190130,14 @@ time_utc,ip,port,kind,client_data
 2026-11-19T08:04:56Z,103.191.118.186,23,telnet-negotiation,
 2026-11-19T08:05:04Z,109.157.160.195,23,telnet-negotiation,
 2026-11-19T08:05:26Z,94.231.206.10,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T08:07:27Z,94.231.206.106,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T08:07:31Z,91.196.152.12,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T08:08:34Z,181.174.142.162,23,telnet-negotiation,
+2026-11-19T08:10:24Z,94.231.206.32,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T08:10:33Z,91.196.152.13,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T08:12:04Z,112.119.242.61,23,telnet-negotiation,
+2026-11-19T08:12:16Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-19T08:12:37Z,118.47.255.44,23,telnet-negotiation,
+2026-11-19T08:13:24Z,94.231.206.34,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T08:13:31Z,91.231.89.45,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T08:15:36Z,91.231.89.12,2222,ssh-client,SSH-2.0-perlssh
