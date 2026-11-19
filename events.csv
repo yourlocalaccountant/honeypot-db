@@ -191873,3 +191873,14 @@ time_utc,ip,port,kind,client_data
 2026-11-19T17:31:39Z,91.231.89.145,2222,ssh-client,SSH-2.0-perlssh
 2026-11-19T17:32:15Z,45.55.90.252,23,other,yhtcAdmin
 2026-11-19T17:32:16Z,45.55.90.252,23,other,yhtcAdmin
+2026-11-19T17:34:27Z,94.231.206.1,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T17:34:40Z,91.231.89.242,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T17:37:30Z,94.231.206.3,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T17:37:38Z,91.196.152.59,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T17:39:41Z,91.196.152.51,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T17:40:28Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T17:40:59Z,211.227.11.6,23,telnet-negotiation,
+2026-11-19T17:42:27Z,45.55.90.252,23,other,root
+2026-11-19T17:42:28Z,45.55.90.252,23,other,admin
+2026-11-19T17:42:29Z,45.55.90.252,23,other,root
+2026-11-19T17:42:35Z,91.196.152.74,2222,ssh-client,SSH-2.0-perlssh
