@@ -189453,3 +189453,23 @@ time_utc,ip,port,kind,client_data
 2026-11-19T05:27:26Z,94.231.206.108,2222,ssh-client,SSH-2.0-perlssh
 2026-11-19T05:27:32Z,91.196.152.118,2222,ssh-client,SSH-2.0-perlssh
 2026-11-19T05:28:22Z,157.230.236.254,3389,tls-handshake,"; ! i U 9 .y U  :w h_ V ^/ X V < , 0 + / $ ( k # ' g 9"
+2026-11-19T05:28:44Z,199.165.159.209,3389,rdp-request,'+& Cookie: mstshash=zgrab
+2026-11-19T05:29:41Z,91.231.89.142,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T05:30:25Z,94.231.206.36,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T05:32:31Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-19T05:32:34Z,191.44.112.76,23,telnet-negotiation,'
+2026-11-19T05:32:39Z,91.196.152.71,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T05:34:31Z,94.231.206.9,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T05:34:33Z,91.196.152.204,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T05:37:24Z,94.231.206.34,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T05:37:30Z,91.231.89.42,2222,ssh-client,SSH-2.0-perlssh
+2026-11-19T05:37:39Z,162.216.149.133,23,no-data,
+2026-11-19T05:37:51Z,34.1.246.89,3389,rdp-request,
+2026-11-19T05:37:52Z,34.1.246.89,3389,other,; admin.$cmd hello ?
+2026-11-19T05:37:52Z,34.1.246.89,3389,tls-handshake,"] 1 Y =ty tkcW p  # L z f ~ * ^ u ( 2 + / , 0 / 5 # ' <"
+2026-11-19T05:37:53Z,34.1.246.89,3389,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+2026-11-19T05:37:53Z,34.1.246.89,3389,other,". B . oo"" o}| B Xe t u } hLT}w E hZ HL M $"
+2026-11-19T05:37:59Z,34.1.246.89,3389,no-data,
+2026-11-19T05:38:03Z,34.1.246.89,3389,no-data,
+2026-11-19T05:38:08Z,34.1.246.89,3389,no-data,
+2026-11-19T05:38:13Z,34.1.246.89,3389,no-data,
