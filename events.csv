@@ -198874,3 +198874,9 @@ time_utc,ip,port,kind,client_data
 2026-11-20T22:05:52Z,147.185.133.63,3389,rdp-request,",' Cookie: mstshash=qtchzH"
 2026-11-20T22:05:53Z,147.185.133.63,3389,no-data,
 2026-11-20T22:08:30Z,94.231.206.2,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T22:10:08Z,115.237.147.142,23,telnet-negotiation,
+2026-11-20T22:11:24Z,94.231.206.35,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T22:13:25Z,94.231.206.111,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T22:14:42Z,189.164.152.169,23,telnet-negotiation,
+2026-11-20T22:15:26Z,77.239.124.132,23,no-data,
+2026-11-20T22:17:24Z,94.231.206.37,2222,ssh-client,SSH-2.0-perlssh
