@@ -198193,3 +198193,11 @@ time_utc,ip,port,kind,client_data
 2026-11-20T18:36:27Z,145.190.54.30,3389,rdp-request,
 2026-11-20T18:36:53Z,138.226.239.233,2222,ssh-client,SSH-2.0-libssh_0.10.5
 2026-11-20T18:38:25Z,94.231.206.33,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T18:40:05Z,115.237.147.142,23,telnet-negotiation,
+2026-11-20T18:40:55Z,31.57.37.64,3389,rdp-request,
+2026-11-20T18:41:30Z,94.231.206.7,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T18:42:51Z,211.185.81.26,23,telnet-negotiation,
+2026-11-20T18:44:26Z,94.231.206.12,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T18:46:43Z,145.190.54.30,3389,rdp-request,
+2026-11-20T18:47:28Z,94.231.206.9,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T18:47:42Z,138.226.239.233,2222,ssh-client,SSH-2.0-libssh_0.10.5
