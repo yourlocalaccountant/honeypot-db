@@ -196404,3 +196404,12 @@ time_utc,ip,port,kind,client_data
 2026-11-20T10:12:26Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
 2026-11-20T10:13:33Z,169.211.212.42,23,telnet-negotiation,
 2026-11-20T10:15:27Z,94.231.206.7,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T10:17:10Z,121.146.233.245,23,telnet-negotiation,
+2026-11-20T10:18:25Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T10:18:50Z,162.216.150.133,2222,tls-handshake,"'= e e Jk l '  sh )$ [D s; [>[ a * 7 + / , 0 _"
+2026-11-20T10:18:51Z,162.216.150.133,2222,tls-handshake,"v oP % )L | hsg { h / + 0 , ' # ( $ g k 3 9 < = / 5"
+2026-11-20T10:19:37Z,77.239.124.132,23,no-data,
+2026-11-20T10:22:23Z,138.226.239.233,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-20T10:22:25Z,94.231.206.36,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T10:24:53Z,71.6.167.142,23,telnet-negotiation,
+2026-11-20T10:25:25Z,94.231.206.7,2222,ssh-client,SSH-2.0-perlssh
