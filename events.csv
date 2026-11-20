@@ -196093,3 +196093,8 @@ time_utc,ip,port,kind,client_data
 2026-11-20T08:28:35Z,91.231.89.228,2222,ssh-client,SSH-2.0-perlssh
 2026-11-20T08:28:52Z,169.211.212.42,23,telnet-negotiation,
 2026-11-20T08:29:25Z,94.231.206.35,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T08:31:34Z,94.231.206.0,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T08:33:38Z,24.218.180.33,23,telnet-negotiation,admin
+2026-11-20T08:34:43Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-20T08:35:11Z,185.149.24.154,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-11-20T08:36:01Z,175.206.87.22,23,telnet-negotiation,
