@@ -196084,3 +196084,12 @@ time_utc,ip,port,kind,client_data
 2026-11-20T08:18:40Z,91.231.89.38,2222,ssh-client,SSH-2.0-perlssh
 2026-11-20T08:18:46Z,185.149.24.154,3389,rdp-request,'+& Cookie: mstshash=hello
 2026-11-20T08:20:51Z,91.196.152.153,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T08:22:32Z,94.231.206.5,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T08:23:34Z,91.231.89.43,2222,ssh-client,"SSH-2.0-perlssh fF#-8#xPJjVyZ6ty ~diffie-hellman-group-exchange-sha256,diffie-he"
+2026-11-20T08:24:26Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-20T08:25:29Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T08:26:32Z,91.231.89.53,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T08:26:58Z,185.149.24.154,3389,rdp-request,'+& Cookie: mstshash=hello
+2026-11-20T08:28:35Z,91.231.89.228,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T08:28:52Z,169.211.212.42,23,telnet-negotiation,
+2026-11-20T08:29:25Z,94.231.206.35,2222,ssh-client,SSH-2.0-perlssh
