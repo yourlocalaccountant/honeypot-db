@@ -198830,3 +198830,9 @@ time_utc,ip,port,kind,client_data
 2026-11-20T21:30:52Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
 2026-11-20T21:33:39Z,94.231.206.4,2222,ssh-client,SSH-2.0-perlssh
 2026-11-20T21:36:31Z,94.231.206.12,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T21:37:05Z,94.183.91.160,23,telnet-negotiation,root
+2026-11-20T21:39:19Z,154.16.44.26,2323,no-data,
+2026-11-20T21:39:27Z,94.231.206.36,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T21:40:04Z,115.237.147.142,23,telnet-negotiation,
+2026-11-20T21:42:27Z,94.231.206.110,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T21:45:25Z,94.231.206.104,2222,ssh-client,SSH-2.0-perlssh
