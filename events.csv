@@ -196644,3 +196644,10 @@ time_utc,ip,port,kind,client_data
 2026-11-20T11:26:42Z,80.94.95.116,2222,ssh-client,SSH-2.0-libssh_0.10.5
 2026-11-20T11:26:48Z,218.158.190.6,23,telnet-negotiation,
 2026-11-20T11:27:26Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T11:30:25Z,94.231.206.33,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T11:30:59Z,46.151.178.14,3389,rdp-request,"0, Cookie: mstshash=heinsenbug"
+2026-11-20T11:33:31Z,94.231.206.4,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T11:36:25Z,94.231.206.36,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T11:37:06Z,80.94.95.116,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-20T11:37:33Z,111.173.158.252,23,telnet-negotiation,
+2026-11-20T11:39:27Z,94.231.206.105,2222,ssh-client,SSH-2.0-perlssh
