@@ -193811,3 +193811,46 @@ time_utc,ip,port,kind,client_data
 2026-11-20T00:41:37Z,91.196.152.213,2222,ssh-client,SSH-2.0-perlssh
 2026-11-20T00:41:47Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
 2026-11-20T00:41:50Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:42:13Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:42:35Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:42:57Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:42:58Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-20T00:43:17Z,18.116.101.220,23,telnet-negotiation,
+2026-11-20T00:43:20Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:43:27Z,94.231.206.15,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T00:43:43Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:43:48Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-20T00:44:07Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:44:30Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:44:36Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-20T00:44:45Z,91.196.152.171,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T00:44:54Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:45:18Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:45:36Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-20T00:45:41Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:46:03Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-20T00:46:05Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:46:28Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:46:33Z,94.231.206.13,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T00:46:39Z,54.227.220.78,3389,tls-handshake,"Tnpv R CE f/1 v d 2 U  KP  )M 9% ` Ft { hL d 9282A & / 0 + , / 5 {"
+2026-11-20T00:46:51Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:47:00Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-20T00:47:14Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:47:37Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:47:38Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-20T00:47:45Z,91.196.152.181,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T00:48:00Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:48:23Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:48:38Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-20T00:48:46Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:49:09Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:49:24Z,94.231.206.110,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T00:49:32Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:49:56Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:50:04Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-20T00:50:19Z,134.209.58.56,2222,ssh-client,SSH-2.0-Go
+2026-11-20T00:50:41Z,104.238.222.231,3389,rdp-request,/* Cookie: mstshash=anonymous
+2026-11-20T00:50:42Z,91.231.89.84,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T00:50:56Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-20T00:52:06Z,216.238.67.175,3389,rdp-request,'+& Cookie: mstshash=probe
+2026-11-20T00:52:24Z,94.231.206.34,2222,ssh-client,SSH-2.0-perlssh
