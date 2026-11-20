@@ -196397,3 +196397,10 @@ time_utc,ip,port,kind,client_data
 2026-11-20T10:03:49Z,77.239.124.252,23,other,router
 2026-11-20T10:03:50Z,77.239.124.252,23,other,vstarcam2015
 2026-11-20T10:03:52Z,77.239.124.252,23,other,ftp
+2026-11-20T10:05:41Z,20.65.146.48,3389,tls-handshake,"#K 9 Z~ Dzk 2I Vc Y?A ""F (  x\ e ` * I ""e ! 5 #~ + Y & / 0 + , / 5 {"
+2026-11-20T10:06:27Z,94.231.206.12,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T10:09:26Z,94.231.206.35,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T10:11:28Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-20T10:12:26Z,94.231.206.11,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T10:13:33Z,169.211.212.42,23,telnet-negotiation,
+2026-11-20T10:15:27Z,94.231.206.7,2222,ssh-client,SSH-2.0-perlssh
