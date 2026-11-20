@@ -197182,3 +197182,9 @@ time_utc,ip,port,kind,client_data
 2026-11-20T14:01:25Z,94.231.206.105,2222,ssh-client,SSH-2.0-perlssh
 2026-11-20T14:05:28Z,94.231.206.4,2222,ssh-client,SSH-2.0-perlssh
 2026-11-20T14:06:06Z,77.239.124.132,23,no-data,
+2026-11-20T14:08:24Z,94.231.206.109,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T14:10:51Z,138.226.239.234,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-20T14:11:28Z,94.231.206.12,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T14:14:26Z,94.231.206.38,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T14:15:16Z,31.57.37.64,3389,rdp-request,
+2026-11-20T14:17:31Z,94.231.206.0,2222,ssh-client,SSH-2.0-perlssh
