@@ -196930,3 +196930,24 @@ time_utc,ip,port,kind,client_data
 2026-11-20T13:02:20Z,116.140.208.145,2222,no-data,
 2026-11-20T13:02:20Z,116.140.208.145,2222,ssh-client,SSH-2.0-Go
 2026-11-20T13:03:26Z,94.231.206.110,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T13:05:18Z,94.243.12.158,23,telnet-negotiation,
+2026-11-20T13:05:26Z,94.231.206.36,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T13:05:31Z,94.243.12.158,23,telnet-negotiation,
+2026-11-20T13:05:44Z,94.243.12.158,23,telnet-negotiation,
+2026-11-20T13:05:57Z,94.243.12.158,23,telnet-negotiation,
+2026-11-20T13:06:09Z,94.243.12.158,23,telnet-negotiation,
+2026-11-20T13:06:23Z,94.243.12.158,23,telnet-negotiation,
+2026-11-20T13:06:36Z,94.243.12.158,23,telnet-negotiation,
+2026-11-20T13:06:49Z,94.243.12.158,23,telnet-negotiation,
+2026-11-20T13:07:02Z,94.243.12.158,23,telnet-negotiation,
+2026-11-20T13:07:03Z,198.74.56.66,2222,http,GET / HTTP/1.1 Host: [redacted] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS
+2026-11-20T13:07:04Z,198.74.56.66,2222,tls-handshake,{ w } b Gi 1 H @ / + / 5 4
+2026-11-20T13:07:15Z,94.243.12.158,23,telnet-negotiation,
+2026-11-20T13:07:28Z,94.243.12.158,23,telnet-negotiation,
+2026-11-20T13:07:41Z,94.243.12.158,23,telnet-negotiation,
+2026-11-20T13:07:54Z,94.243.12.158,23,telnet-negotiation,
+2026-11-20T13:08:27Z,94.231.206.13,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T13:10:27Z,94.231.206.10,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T13:10:32Z,80.94.95.115,2222,ssh-client,SSH-2.0-libssh_0.10.5
+2026-11-20T13:13:30Z,94.231.206.2,2222,ssh-client,SSH-2.0-perlssh
+2026-11-20T13:14:35Z,77.239.124.132,23,no-data,
