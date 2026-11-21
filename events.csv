@@ -200372,3 +200372,11 @@ time_utc,ip,port,kind,client_data
 2026-11-21T04:33:33Z,195.184.76.34,2222,ssh-client,SSH-2.0-perlssh
 2026-11-21T04:35:27Z,94.231.206.0,2222,ssh-client,SSH-2.0-perlssh
 2026-11-21T04:36:54Z,195.184.76.24,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T04:38:27Z,94.231.206.14,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T04:39:42Z,195.184.76.10,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T04:39:44Z,45.148.10.61,2222,ssh-client,SSH-2.0-Go
+2026-11-21T04:40:49Z,115.237.147.142,23,telnet-negotiation,
+2026-11-21T04:42:24Z,94.231.206.108,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T04:42:44Z,195.184.76.127,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T04:45:29Z,94.231.206.5,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T04:45:36Z,91.230.168.49,2222,ssh-client,SSH-2.0-perlssh
