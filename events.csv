@@ -203153,3 +203153,20 @@ time_utc,ip,port,kind,client_data
 2026-11-21T10:09:31Z,195.96.139.47,3389,other,ANY-SCP         ECHOSCU          1.2.840.10008.x.x.x.x  . 0 x.x.x.x
 2026-11-21T10:09:39Z,195.184.76.232,2222,ssh-client,SSH-2.0-perlssh
 2026-11-21T10:09:47Z,195.96.139.44,3389,other,"CONNECT accept-version:1.0,1.1,2.0"
+2026-11-21T10:10:02Z,87.236.176.70,3389,other,stats
+2026-11-21T10:10:18Z,185.247.137.69,3389,other,l
+2026-11-21T10:10:33Z,195.96.139.55,3389,other,"x N* q\DB = w l H \Q E D Ly J 6~o *W e M ,F G ' V ! / p ~1 |V \+J l\c ' i"
+2026-11-21T10:10:35Z,195.96.139.55,3389,other,version V p* En k
+2026-11-21T10:10:50Z,185.247.137.69,3389,other,HELFD $ opc.tcp://localHost: [redacted]
+2026-11-21T10:11:06Z,195.96.139.47,3389,other,'@ Q 8 <
+2026-11-21T10:11:12Z,115.237.147.142,23,telnet-negotiation,
+2026-11-21T10:11:21Z,195.96.139.62,3389,other,
+2026-11-21T10:11:35Z,91.230.168.25,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T10:11:37Z,87.236.176.53,3389,other,xe /00IDED
+2026-11-21T10:11:50Z,195.96.139.73,3389,tls-handshake,"DB , [ # V VYo 5 H   & & a x $ ) k @@m 'U < + / , 0 / 5 $ ( # '"
+2026-11-21T10:13:25Z,94.231.206.108,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T10:14:35Z,195.184.76.22,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T10:16:28Z,94.231.206.0,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T10:16:39Z,91.230.168.156,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T10:19:28Z,94.231.206.4,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T10:19:37Z,91.230.168.227,2222,ssh-client,SSH-2.0-perlssh
