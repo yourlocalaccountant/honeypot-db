@@ -203960,3 +203960,12 @@ time_utc,ip,port,kind,client_data
 2026-11-21T13:34:35Z,91.230.168.107,2222,ssh-client,SSH-2.0-perlssh
 2026-11-21T13:35:29Z,94.231.206.1,2222,ssh-client,SSH-2.0-perlssh
 2026-11-21T13:37:32Z,195.184.76.110,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T13:38:25Z,94.231.206.104,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T13:39:35Z,91.230.168.48,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T13:40:26Z,94.231.206.104,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T13:41:41Z,115.237.147.142,23,telnet-negotiation,
+2026-11-21T13:42:31Z,91.230.168.148,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T13:43:28Z,94.231.206.109,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T13:45:33Z,91.230.168.131,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T13:46:27Z,94.231.206.7,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T13:48:31Z,195.184.76.138,2222,ssh-client,SSH-2.0-perlssh
