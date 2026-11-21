@@ -202987,3 +202987,13 @@ time_utc,ip,port,kind,client_data
 2026-11-21T09:48:23Z,94.26.88.52,3389,rdp-request,
 2026-11-21T09:48:24Z,94.231.206.33,2222,ssh-client,SSH-2.0-perlssh
 2026-11-21T09:48:37Z,91.230.168.199,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T09:50:30Z,94.231.206.14,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T09:51:37Z,91.230.168.59,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T09:53:26Z,94.231.206.107,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T09:53:29Z,58.72.124.213,23,telnet-negotiation,
+2026-11-21T09:54:27Z,195.184.76.177,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T09:56:20Z,115.237.147.142,23,telnet-negotiation,
+2026-11-21T09:56:27Z,94.231.206.5,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T09:57:33Z,195.184.76.170,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T09:59:28Z,94.231.206.6,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T09:59:32Z,91.230.168.59,2222,ssh-client,SSH-2.0-perlssh
