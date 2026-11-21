@@ -204074,3 +204074,14 @@ time_utc,ip,port,kind,client_data
 2026-11-21T14:29:19Z,40.119.28.55,3389,other,MGLNDD_121.74.147.217_3389
 2026-11-21T14:29:27Z,94.231.206.104,2222,ssh-client,SSH-2.0-perlssh
 2026-11-21T14:30:33Z,195.184.76.207,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T14:32:12Z,66.132.195.211,2222,ssh-client,"SSH-2.0-Go < 51^ ~ 0 dC curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha"
+2026-11-21T14:32:28Z,94.231.206.4,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T14:32:31Z,91.230.168.246,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T14:34:29Z,94.231.206.3,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T14:35:29Z,91.230.168.8,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T14:37:25Z,94.231.206.36,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T14:38:33Z,91.230.168.236,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T14:39:25Z,94.231.206.109,2222,ssh-client,SSH-2.0-perlssh
+2026-11-21T14:40:53Z,161.139.152.2,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 ? n 0 Kdiffie-hellman-group1-sha1,diffie-hellman-group14-sha"
+2026-11-21T14:40:56Z,103.174.80.40,2222,ssh-client,"SSH-2.0-OpenSSH_7.4 `t Qjp\ 6o Kdiffie-hellman-group1-sha1,diffie-hellman-group1"
+2026-11-21T14:41:36Z,195.184.76.21,2222,ssh-client,SSH-2.0-perlssh
